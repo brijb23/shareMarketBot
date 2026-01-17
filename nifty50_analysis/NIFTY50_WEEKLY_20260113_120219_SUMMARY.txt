@@ -1,0 +1,54 @@
+NIFTY50 WEEKLY TRADING ANALYSIS
+Generated: 2026-01-13 12:02:19
+
+BUY SIGNALS (17):
+  ICICIBANK.NS    | Price: 1436.00 | Entry: 1407.28 | Target: 1538.89 | Risk: LOW       
+  SBIN.NS         | Price: 1024.75 | Entry: 1004.25 | Target: 1093.71 | Risk: LOW       
+  ASIANPAINT.NS   | Price: 2884.00 | Entry: 2826.32 | Target: 3127.11 | Risk: LOW       
+  BAJAJ-AUTO.NS   | Price: 9508.50 | Entry: 9318.33 | Target: 10451.89 | Risk: LOW       
+  COALINDIA.NS    | Price:  430.60 | Entry:  421.99 | Target:  478.14 | Risk: LOW       
+  EICHERMOT.NS    | Price: 7444.50 | Entry: 7295.61 | Target: 8026.64 | Risk: LOW       
+  HCLTECH.NS      | Price: 1669.10 | Entry: 1635.72 | Target: 1824.64 | Risk: LOW       
+  HINDUNILVR.NS   | Price: 2386.00 | Entry: 2338.28 | Target: 2556.04 | Risk: LOW       
+  JSWSTEEL.NS     | Price: 1180.20 | Entry:  1156.6 | Target: 1296.27 | Risk: LOW       
+  NESTLEIND.NS    | Price: 1318.10 | Entry: 1291.74 | Target: 1423.14 | Risk: LOW       
+  NTPC.NS         | Price:  337.80 | Entry:  331.04 | Target:  368.55 | Risk: LOW       
+  SBILIFE.NS      | Price: 2088.60 | Entry: 2046.83 | Target: 2245.64 | Risk: LOW       
+  TITAN.NS        | Price: 4254.00 | Entry: 4168.92 | Target: 4614.32 | Risk: LOW       
+  TATACONSUM.NS   | Price: 1191.20 | Entry: 1167.38 | Target: 1295.84 | Risk: LOW       
+  TATASTEEL.NS    | Price:  182.87 | Entry:  179.21 | Target:  201.85 | Risk: LOW       
+  ULTRACEMCO.NS   | Price: 12176.00 | Entry: 11932.48 | Target: 12970.64 | Risk: LOW       
+  VBL.NS          | Price:  497.55 | Entry:   487.6 | Target:  549.71 | Risk: LOW       
+
+HOLD SIGNALS (18):
+  TCS.NS          | Price: 3252.40 | Trend:   2.07% | Mom:   0.17% | Risk: LOW       
+  MARUTI.NS       | Price: 16458.00 | Trend:   1.38% | Mom:  -1.14% | Risk: LOW       
+  BAJAJFINSV.NS   | Price: 2007.90 | Trend:  -2.07% | Mom:  -0.91% | Risk: LOW       
+  BRITANNIA.NS    | Price: 5948.50 | Trend:  -0.04% | Mom:  -1.07% | Risk: LOW       
+  COLPAL.NS       | Price: 2102.30 | Trend:  -1.48% | Mom:   2.38% | Risk: LOW       
+  DIVISLAB.NS     | Price: 6407.50 | Trend:  -1.00% | Mom:   0.74% | Risk: LOW       
+  GRASIM.NS       | Price: 2783.80 | Trend:   0.01% | Mom:  -2.04% | Risk: LOW       
+  HEROMOTOCO.NS   | Price: 5697.50 | Trend:  -2.57% | Mom:  -0.24% | Risk: LOW       
+  INFY.NS         | Price: 1591.90 | Trend:   0.53% | Mom:  -1.83% | Risk: LOW       
+  KOTAKBANK.NS    | Price: 2140.60 | Trend:   0.26% | Mom:  -0.56% | Risk: LOW       
+  LTIM.NS         | Price: 6082.50 | Trend:   0.72% | Mom:   0.14% | Risk: LOW       
+  M&M.NS          | Price: 3655.10 | Trend:  -0.73% | Mom:  -0.14% | Risk: LOW       
+  ONGC.NS         | Price:  241.06 | Trend:   0.23% | Mom:   2.72% | Risk: LOW       
+  POWERGRID.NS    | Price:  258.65 | Trend:  -3.24% | Mom:  -0.65% | Risk: LOW       
+  SUNPHARMA.NS    | Price: 1721.30 | Trend:  -2.18% | Mom:   0.06% | Risk: LOW       
+  TECHM.NS        | Price: 1608.00 | Trend:   4.38% | Mom:   0.21% | Risk: LOW       
+  WIPRO.NS        | Price:  263.10 | Trend:   2.79% | Mom:  -0.21% | Risk: LOW       
+  ZEEL.NS         | Price:   89.66 | Trend:  -5.75% | Mom:  -0.02% | Risk: LOW       
+
+SELL SIGNALS (11):
+  RELIANCE.NS     | Price: 1465.20 | Target: 1334.16 | Risk: LOW        | Conf: 100%
+  BHARTIARTL.NS   | Price: 2030.70 | Target: 1880.31 | Risk: LOW        | Conf: 100%
+  ITC.NS          | Price:  336.20 | Target:  294.49 | Risk: LOW        | Conf: 100%
+  LT.NS           | Price: 3924.00 | Target: 3587.79 | Risk: LOW        | Conf: 100%
+  ADANIPORTS.NS   | Price: 1434.10 | Target: 1322.85 | Risk: LOW        | Conf: 80%
+  BPCL.NS         | Price:  355.60 | Target:  310.60 | Risk: LOW        | Conf: 100%
+  CIPLA.NS        | Price: 1443.20 | Target: 1332.13 | Risk: LOW        | Conf: 100%
+  DRREDDY.NS      | Price: 1200.00 | Target: 1108.39 | Risk: LOW        | Conf: 100%
+  GAIL.NS         | Price:  166.10 | Target:  152.28 | Risk: LOW        | Conf: 100%
+  HDFCBANK.NS     | Price:  942.50 | Target:  876.50 | Risk: LOW        | Conf: 100%
+  POLICYBZR.NS    | Price: 1648.40 | Target: 1442.19 | Risk: LOW        | Conf: 100%

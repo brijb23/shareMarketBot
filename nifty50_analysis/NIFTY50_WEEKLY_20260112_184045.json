@@ -1,0 +1,931 @@
+{
+  "Metadata": {
+    "Generated_Date": "2026-01-12T18:40:45.627079",
+    "Analysis_Type": "Phase 19.2 + 19.3",
+    "Total_Stocks": 46,
+    "Signal_Summary": {
+      "BUY": 16,
+      "HOLD": 21,
+      "SELL": 9
+    }
+  },
+  "Recommendations": [
+    {
+      "Ticker": "RELIANCE.NS",
+      "Signal": "SELL",
+      "Current_Price": 1483.2,
+      "Trend_Percent": -3.35,
+      "Momentum_Percent": -4.04,
+      "Volatility_Percent": 1.36,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1535.11,
+      "Target": 1353.41,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "TCS.NS",
+      "Signal": "HOLD",
+      "Current_Price": 3239.6,
+      "Trend_Percent": 1.83,
+      "Momentum_Percent": -0.37,
+      "Volatility_Percent": 1.13,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 3164.96,
+      "Target": 3339.11,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (1.83% vs 50-day MA); Mixed momentum (-0.37% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "ICICIBANK.NS",
+      "Signal": "BUY",
+      "Current_Price": 1413.1,
+      "Trend_Percent": 3.15,
+      "Momentum_Percent": 5.2,
+      "Volatility_Percent": 1.05,
+      "Buy_Range_Low": 1384.84,
+      "Buy_Range_High": 1441.36,
+      "Stop_Loss": 1374.24,
+      "Target": 1510.24,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 1384.84,
+          "Range_High": 1407.45
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 1407.45,
+          "Range_High": 1441.36
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "SBIN.NS",
+      "Signal": "BUY",
+      "Current_Price": 1015.15,
+      "Trend_Percent": 4.3,
+      "Momentum_Percent": 5.19,
+      "Volatility_Percent": 0.81,
+      "Buy_Range_Low": 994.85,
+      "Buy_Range_High": 1035.45,
+      "Stop_Loss": 987.93,
+      "Target": 1083.2,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 994.85,
+          "Range_High": 1011.09
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 1011.09,
+          "Range_High": 1035.45
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "BHARTIARTL.NS",
+      "Signal": "SELL",
+      "Current_Price": 2044.0,
+      "Trend_Percent": -2.62,
+      "Momentum_Percent": -1.81,
+      "Volatility_Percent": 1.0,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 2102.9,
+      "Target": 1896.75,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "ITC.NS",
+      "Signal": "SELL",
+      "Current_Price": 338.4,
+      "Trend_Percent": -14.26,
+      "Momentum_Percent": -15.95,
+      "Volatility_Percent": 2.34,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 355.04,
+      "Target": 296.79,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "LT.NS",
+      "Signal": "HOLD",
+      "Current_Price": 4019.0,
+      "Trend_Percent": -0.3,
+      "Momentum_Percent": -0.49,
+      "Volatility_Percent": 0.89,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 3927.18,
+      "Target": 4141.43,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (-0.30% vs 50-day MA); Mixed momentum (-0.49% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "MARUTI.NS",
+      "Signal": "HOLD",
+      "Current_Price": 16582.0,
+      "Trend_Percent": 2.28,
+      "Momentum_Percent": 0.24,
+      "Volatility_Percent": 0.98,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 16174.11,
+      "Target": 17125.86,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (2.28% vs 50-day MA); Mixed momentum (0.24% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "ADANIPORTS.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1443.5,
+      "Trend_Percent": -2.91,
+      "Momentum_Percent": -0.75,
+      "Volatility_Percent": 0.9,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1410.29,
+      "Target": 1487.79,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-2.91% vs 50-day MA); Mixed momentum (-0.75% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "ASIANPAINT.NS",
+      "Signal": "BUY",
+      "Current_Price": 2896.4,
+      "Trend_Percent": 3.26,
+      "Momentum_Percent": 4.36,
+      "Volatility_Percent": 1.07,
+      "Buy_Range_Low": 2838.47,
+      "Buy_Range_High": 2954.33,
+      "Stop_Loss": 2799.11,
+      "Target": 3139.61,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 2838.47,
+          "Range_High": 2884.81
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 2884.81,
+          "Range_High": 2954.33
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "BAJAJ-AUTO.NS",
+      "Signal": "BUY",
+      "Current_Price": 9491.0,
+      "Trend_Percent": 4.43,
+      "Momentum_Percent": 4.45,
+      "Volatility_Percent": 1.27,
+      "Buy_Range_Low": 9301.18,
+      "Buy_Range_High": 9680.82,
+      "Stop_Loss": 9105.93,
+      "Target": 10453.68,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 9301.18,
+          "Range_High": 9453.04
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 9453.04,
+          "Range_High": 9680.82
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "BAJAJFINSV.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1998.9,
+      "Trend_Percent": -2.57,
+      "Momentum_Percent": -0.66,
+      "Volatility_Percent": 0.66,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1951.84,
+      "Target": 2061.64,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-2.57% vs 50-day MA); Mixed momentum (-0.66% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "BPCL.NS",
+      "Signal": "SELL",
+      "Current_Price": 358.75,
+      "Trend_Percent": -1.88,
+      "Momentum_Percent": -3.46,
+      "Volatility_Percent": 1.51,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 376.87,
+      "Target": 313.45,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "BRITANNIA.NS",
+      "Signal": "HOLD",
+      "Current_Price": 5943.5,
+      "Trend_Percent": -0.08,
+      "Momentum_Percent": -1.62,
+      "Volatility_Percent": 1.0,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 5771.8,
+      "Target": 6172.43,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (-0.08% vs 50-day MA); Conflicting momentum (-1.62% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "CIPLA.NS",
+      "Signal": "SELL",
+      "Current_Price": 1465.2,
+      "Trend_Percent": -2.81,
+      "Momentum_Percent": -1.93,
+      "Volatility_Percent": 1.12,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1507.49,
+      "Target": 1359.49,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "COALINDIA.NS",
+      "Signal": "BUY",
+      "Current_Price": 432.3,
+      "Trend_Percent": 10.79,
+      "Momentum_Percent": 7.9,
+      "Volatility_Percent": 1.95,
+      "Buy_Range_Low": 423.65,
+      "Buy_Range_High": 440.95,
+      "Stop_Loss": 412.4,
+      "Target": 482.05,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 423.65,
+          "Range_High": 430.57
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 430.57,
+          "Range_High": 440.95
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "COLPAL.NS",
+      "Signal": "HOLD",
+      "Current_Price": 2096.5,
+      "Trend_Percent": -1.83,
+      "Momentum_Percent": 1.28,
+      "Volatility_Percent": 1.08,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 2050.66,
+      "Target": 2157.61,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-1.83% vs 50-day MA); Conflicting momentum (1.28% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "DIVISLAB.NS",
+      "Signal": "HOLD",
+      "Current_Price": 6485.5,
+      "Trend_Percent": 0.08,
+      "Momentum_Percent": 1.49,
+      "Volatility_Percent": 1.3,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 6279.3,
+      "Target": 6760.43,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (0.08% vs 50-day MA); Conflicting momentum (1.49% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "DRREDDY.NS",
+      "Signal": "SELL",
+      "Current_Price": 1215.5,
+      "Trend_Percent": -2.79,
+      "Momentum_Percent": -4.19,
+      "Volatility_Percent": 0.86,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1253.46,
+      "Target": 1120.61,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "EICHERMOT.NS",
+      "Signal": "BUY",
+      "Current_Price": 7436.0,
+      "Trend_Percent": 3.99,
+      "Momentum_Percent": 2.26,
+      "Volatility_Percent": 0.91,
+      "Buy_Range_Low": 7287.28,
+      "Buy_Range_High": 7584.72,
+      "Stop_Loss": 7203.21,
+      "Target": 8017.96,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 7287.28,
+          "Range_High": 7406.26
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 7406.26,
+          "Range_High": 7584.72
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "GAIL.NS",
+      "Signal": "SELL",
+      "Current_Price": 166.55,
+      "Trend_Percent": -4.66,
+      "Momentum_Percent": -2.27,
+      "Volatility_Percent": 1.21,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 172.09,
+      "Target": 152.7,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "GRASIM.NS",
+      "Signal": "HOLD",
+      "Current_Price": 2806.7,
+      "Trend_Percent": 0.76,
+      "Momentum_Percent": -1.26,
+      "Volatility_Percent": 0.66,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 2744.36,
+      "Target": 2889.81,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (0.76% vs 50-day MA); Conflicting momentum (-1.26% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "HCLTECH.NS",
+      "Signal": "BUY",
+      "Current_Price": 1667.6,
+      "Trend_Percent": 2.36,
+      "Momentum_Percent": 2.26,
+      "Volatility_Percent": 1.1,
+      "Buy_Range_Low": 1634.25,
+      "Buy_Range_High": 1700.95,
+      "Stop_Loss": 1613.49,
+      "Target": 1802.89,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 1634.25,
+          "Range_High": 1660.93
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 1660.93,
+          "Range_High": 1700.95
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "HDFCBANK.NS",
+      "Signal": "SELL",
+      "Current_Price": 936.95,
+      "Trend_Percent": -5.27,
+      "Momentum_Percent": -5.52,
+      "Volatility_Percent": 0.83,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 962.73,
+      "Target": 872.5,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "HEROMOTOCO.NS",
+      "Signal": "HOLD",
+      "Current_Price": 5726.5,
+      "Trend_Percent": -1.94,
+      "Momentum_Percent": 2.88,
+      "Volatility_Percent": 1.29,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 5552.61,
+      "Target": 5958.36,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-1.94% vs 50-day MA); Conflicting momentum (2.88% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "HINDUNILVR.NS",
+      "Signal": "BUY",
+      "Current_Price": 2406.2,
+      "Trend_Percent": 1.48,
+      "Momentum_Percent": 4.92,
+      "Volatility_Percent": 0.82,
+      "Buy_Range_Low": 2358.08,
+      "Buy_Range_High": 2454.32,
+      "Stop_Loss": 2339.74,
+      "Target": 2572.34,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 2358.08,
+          "Range_High": 2396.58
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 2396.58,
+          "Range_High": 2454.32
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "INFY.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1595.9,
+      "Trend_Percent": 0.94,
+      "Momentum_Percent": -2.97,
+      "Volatility_Percent": 1.26,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1558.36,
+      "Target": 1645.96,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (0.94% vs 50-day MA); Conflicting momentum (-2.97% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "JSWSTEEL.NS",
+      "Signal": "BUY",
+      "Current_Price": 1182.7,
+      "Trend_Percent": 3.5,
+      "Momentum_Percent": 8.25,
+      "Volatility_Percent": 1.63,
+      "Buy_Range_Low": 1159.05,
+      "Buy_Range_High": 1206.35,
+      "Stop_Loss": 1136.31,
+      "Target": 1298.66,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 1159.05,
+          "Range_High": 1177.97
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 1177.97,
+          "Range_High": 1206.35
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "KOTAKBANK.NS",
+      "Signal": "HOLD",
+      "Current_Price": 2133.3,
+      "Trend_Percent": -0.04,
+      "Momentum_Percent": -1.17,
+      "Volatility_Percent": 0.8,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 2084.33,
+      "Target": 2198.6,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (-0.04% vs 50-day MA); Conflicting momentum (-1.17% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "LTIM.NS",
+      "Signal": "HOLD",
+      "Current_Price": 6000.5,
+      "Trend_Percent": -0.48,
+      "Momentum_Percent": -0.55,
+      "Volatility_Percent": 0.89,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 5843.91,
+      "Target": 6209.29,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 60,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (-0.48% vs 50-day MA); Mixed momentum (-0.55% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "M&M.NS",
+      "Signal": "HOLD",
+      "Current_Price": 3682.0,
+      "Trend_Percent": 0.04,
+      "Momentum_Percent": 2.5,
+      "Volatility_Percent": 0.84,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 3584.8,
+      "Target": 3811.6,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Indecisive trend (0.04% vs 50-day MA); Conflicting momentum (2.50% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "NESTLEIND.NS",
+      "Signal": "BUY",
+      "Current_Price": 1312.4,
+      "Trend_Percent": 3.74,
+      "Momentum_Percent": 2.53,
+      "Volatility_Percent": 0.88,
+      "Buy_Range_Low": 1286.15,
+      "Buy_Range_High": 1338.65,
+      "Stop_Loss": 1269.91,
+      "Target": 1418.61,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 1286.15,
+          "Range_High": 1307.15
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 1307.15,
+          "Range_High": 1338.65
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "NTPC.NS",
+      "Signal": "BUY",
+      "Current_Price": 337.45,
+      "Trend_Percent": 2.92,
+      "Momentum_Percent": 3.67,
+      "Volatility_Percent": 1.43,
+      "Buy_Range_Low": 330.7,
+      "Buy_Range_High": 344.2,
+      "Stop_Loss": 325.01,
+      "Target": 368.56,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 330.7,
+          "Range_High": 336.1
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 336.1,
+          "Range_High": 344.2
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "ONGC.NS",
+      "Signal": "HOLD",
+      "Current_Price": 235.71,
+      "Trend_Percent": -2.04,
+      "Momentum_Percent": 0.38,
+      "Volatility_Percent": 1.27,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 228.62,
+      "Target": 245.16,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-2.04% vs 50-day MA); Mixed momentum (0.38% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "POLICYBZR.NS",
+      "Signal": "SELL",
+      "Current_Price": 1675.5,
+      "Trend_Percent": -8.3,
+      "Momentum_Percent": -11.93,
+      "Volatility_Percent": 2.02,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1757.31,
+      "Target": 1470.96,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "POWERGRID.NS",
+      "Signal": "HOLD",
+      "Current_Price": 258.55,
+      "Trend_Percent": -3.4,
+      "Momentum_Percent": -0.79,
+      "Volatility_Percent": 1.16,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 251.23,
+      "Target": 268.31,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-3.40% vs 50-day MA); Mixed momentum (-0.79% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "SBILIFE.NS",
+      "Signal": "BUY",
+      "Current_Price": 2098.0,
+      "Trend_Percent": 3.98,
+      "Momentum_Percent": 4.39,
+      "Volatility_Percent": 0.84,
+      "Buy_Range_Low": 2056.04,
+      "Buy_Range_High": 2139.96,
+      "Stop_Loss": 2036.06,
+      "Target": 2252.86,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 2056.04,
+          "Range_High": 2089.61
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 2089.61,
+          "Range_High": 2139.96
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "SUNPHARMA.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1736.0,
+      "Trend_Percent": -1.3,
+      "Momentum_Percent": 1.09,
+      "Volatility_Percent": 1.08,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1698.18,
+      "Target": 1786.43,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-1.30% vs 50-day MA); Conflicting momentum (1.09% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "TECHM.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1586.1,
+      "Trend_Percent": 3.22,
+      "Momentum_Percent": -1.63,
+      "Volatility_Percent": 1.11,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1545.9,
+      "Target": 1639.7,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (3.22% vs 50-day MA); Conflicting momentum (-1.63% in 10 days); moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "TITAN.NS",
+      "Signal": "BUY",
+      "Current_Price": 4231.6,
+      "Trend_Percent": 7.89,
+      "Momentum_Percent": 6.22,
+      "Volatility_Percent": 1.17,
+      "Buy_Range_Low": 4146.97,
+      "Buy_Range_High": 4316.23,
+      "Stop_Loss": 4090.7,
+      "Target": 4583.85,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 4146.97,
+          "Range_High": 4214.67
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 4214.67,
+          "Range_High": 4316.23
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "TATACONSUM.NS",
+      "Signal": "HOLD",
+      "Current_Price": 1192.3,
+      "Trend_Percent": 1.75,
+      "Momentum_Percent": -0.24,
+      "Volatility_Percent": 1.15,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 1160.13,
+      "Target": 1235.2,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (1.75% vs 50-day MA); Mixed momentum (-0.24% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "TATASTEEL.NS",
+      "Signal": "BUY",
+      "Current_Price": 183.24,
+      "Trend_Percent": 5.83,
+      "Momentum_Percent": 6.35,
+      "Volatility_Percent": 1.38,
+      "Buy_Range_Low": 179.58,
+      "Buy_Range_High": 186.9,
+      "Stop_Loss": 175.75,
+      "Target": 201.96,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 179.58,
+          "Range_High": 182.51
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 182.51,
+          "Range_High": 186.9
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "ULTRACEMCO.NS",
+      "Signal": "BUY",
+      "Current_Price": 12098.0,
+      "Trend_Percent": 3.05,
+      "Momentum_Percent": 2.53,
+      "Volatility_Percent": 0.88,
+      "Buy_Range_Low": 11856.04,
+      "Buy_Range_High": 12339.96,
+      "Stop_Loss": 11788.86,
+      "Target": 12870.86,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 11856.04,
+          "Range_High": 12049.61
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 12049.61,
+          "Range_High": 12339.96
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "VBL.NS",
+      "Signal": "BUY",
+      "Current_Price": 493.8,
+      "Trend_Percent": 3.98,
+      "Momentum_Percent": 2.3,
+      "Volatility_Percent": 1.42,
+      "Buy_Range_Low": 483.92,
+      "Buy_Range_High": 503.68,
+      "Stop_Loss": 473.01,
+      "Target": 545.78,
+      "RR_Ratio": 2.5,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 100,
+      "Entry_Quality": {
+        "Optimal_Entry_Zone": {
+          "Range_Low": 483.92,
+          "Range_High": 491.82
+        },
+        "Extended_Entry_Zone": {
+          "Range_Low": 491.82,
+          "Range_High": 503.68
+        }
+      },
+      "Risk_Context": "LOW"
+    },
+    {
+      "Ticker": "WIPRO.NS",
+      "Signal": "HOLD",
+      "Current_Price": 263.1,
+      "Trend_Percent": 2.99,
+      "Momentum_Percent": -0.43,
+      "Volatility_Percent": 1.4,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 256.16,
+      "Target": 272.36,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (2.99% vs 50-day MA); Mixed momentum (-0.43% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    },
+    {
+      "Ticker": "ZEEL.NS",
+      "Signal": "HOLD",
+      "Current_Price": 89.93,
+      "Trend_Percent": -5.71,
+      "Momentum_Percent": -0.89,
+      "Volatility_Percent": 0.92,
+      "Buy_Range_Low": null,
+      "Buy_Range_High": null,
+      "Stop_Loss": 87.28,
+      "Target": 93.47,
+      "RR_Ratio": 1.33,
+      "Analysis_Date": "2026-01-12 18:40:45",
+      "Confidence": 80,
+      "Risk_Context": "LOW",
+      "Hold_Rationale": "HOLD recommended: Weak trend (-5.71% vs 50-day MA); Mixed momentum (-0.89% in 10 days) - no conviction; moderate volatility adds uncertainty. Re-evaluate when trend clarifies (>0.5%) or momentum strengthens (>1%). Avoid forced entry/exit."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+NIFTY50 BACKTEST SUMMARY (WEEKLY)
+============================================================
+
+Initial Capital: 1,000,000 INR
+Period: 2023-01-01 to 2026-01-12
+Total Weeks: 149
+Total Trades: 864
+
+FINAL RESULTS:
+Final Capital: 1,093,273 INR
+Total Profit/Loss: 1,257,910 INR
+Return %: 125.79%
+Positions Open: 21
+
+WEEKLY SUMMARY:
+------------------------------------------------------------
+2023-03-17      | Capital:      507,177 | PnL:       10,860 | Return:    1.09%
+2023-03-24      | Capital:      432,052 | PnL:        7,012 | Return:    0.70%
+2023-03-31      | Capital:      270,536 | PnL:       21,706 | Return:    2.17%
+2023-04-06      | Capital:      261,634 | PnL:       28,132 | Return:    2.81%
+2023-04-13      | Capital:      147,904 | PnL:       37,785 | Return:    3.78%
+2023-04-21      | Capital:      296,239 | PnL:       26,935 | Return:    2.69%
+2023-04-28      | Capital:      253,088 | PnL:       48,453 | Return:    4.85%
+2023-05-05      | Capital:      282,342 | PnL:       56,008 | Return:    5.60%
+2023-05-12      | Capital:      240,583 | PnL:       64,137 | Return:    6.41%
+2023-05-19      | Capital:      356,004 | PnL:       58,238 | Return:    5.82%
+2023-05-26      | Capital:      329,957 | PnL:       74,218 | Return:    7.42%
+2023-06-02      | Capital:      295,251 | PnL:       79,960 | Return:    8.00%
+2023-06-09      | Capital:      321,584 | PnL:       77,795 | Return:    7.78%
+2023-06-16      | Capital:      258,610 | PnL:       99,658 | Return:    9.97%
+2023-06-23      | Capital:      395,682 | PnL:       89,401 | Return:    8.94%
+2023-06-30      | Capital:      232,759 | PnL:      113,116 | Return:   11.31%
+2023-07-07      | Capital:       86,163 | PnL:      129,894 | Return:   12.99%
+2023-07-14      | Capital:      209,567 | PnL:      143,543 | Return:   14.35%
+2023-07-21      | Capital:      256,502 | PnL:      151,907 | Return:   15.19%
+2023-07-28      | Capital:      389,976 | PnL:      170,546 | Return:   17.05%
+2023-08-04      | Capital:      419,557 | PnL:      166,396 | Return:   16.64%
+2023-08-11      | Capital:      473,967 | PnL:      178,344 | Return:   17.83%
+2023-08-18      | Capital:      522,755 | PnL:      178,577 | Return:   17.86%
+2023-08-25      | Capital:      531,785 | PnL:      173,941 | Return:   17.39%
+2023-09-01      | Capital:      404,494 | PnL:      190,974 | Return:   19.10%
+2023-09-08      | Capital:      288,083 | PnL:      219,910 | Return:   21.99%
+2023-09-15      | Capital:      173,914 | PnL:      235,929 | Return:   23.59%
+2023-09-22      | Capital:      474,816 | PnL:      218,051 | Return:   21.81%
+2023-09-29      | Capital:      606,584 | PnL:      219,670 | Return:   21.97%
+2023-10-06      | Capital:      606,927 | PnL:      215,722 | Return:   21.57%
+2023-10-13      | Capital:      513,836 | PnL:      224,763 | Return:   22.48%
+2023-10-20      | Capital:      419,752 | PnL:      228,418 | Return:   22.84%
+2023-10-27      | Capital:      783,798 | PnL:      208,136 | Return:   20.81%
+2023-11-03      | Capital:      712,943 | PnL:      213,823 | Return:   21.38%
+2023-11-10      | Capital:      324,965 | PnL:      232,771 | Return:   23.28%
+2023-11-17      | Capital:      147,686 | PnL:      260,859 | Return:   26.09%
+2023-11-24      | Capital:      226,094 | PnL:      265,321 | Return:   26.53%
+2023-12-01      | Capital:      110,133 | PnL:      305,575 | Return:   30.56%
+2023-12-08      | Capital:       99,659 | PnL:      344,468 | Return:   34.45%
+2023-12-15      | Capital:      227,843 | PnL:      378,556 | Return:   37.86%
+2023-12-22      | Capital:      398,525 | PnL:      385,208 | Return:   38.52%
+2023-12-29      | Capital:      349,092 | PnL:      414,864 | Return:   41.49%
+2024-01-05      | Capital:      451,767 | PnL:      422,800 | Return:   42.28%
+2024-01-12      | Capital:      537,172 | PnL:      429,673 | Return:   42.97%
+2024-01-19      | Capital:      433,394 | PnL:      447,561 | Return:   44.76%
+2024-01-25      | Capital:      513,443 | PnL:      445,811 | Return:   44.58%
+2024-02-02      | Capital:      377,832 | PnL:      498,201 | Return:   49.82%
+2024-02-09      | Capital:      428,143 | PnL:      524,482 | Return:   52.45%
+2024-02-16      | Capital:      507,061 | PnL:      554,774 | Return:   55.48%
+2024-02-23      | Capital:      461,051 | PnL:      568,319 | Return:   56.83%
+2024-03-01      | Capital:      516,230 | PnL:      575,528 | Return:   57.55%
+2024-03-07      | Capital:      530,199 | PnL:      584,481 | Return:   58.45%
+2024-03-15      | Capital:      856,433 | PnL:      555,399 | Return:   55.54%
+2024-03-22      | Capital:      757,998 | PnL:      563,780 | Return:   56.38%
+2024-03-28      | Capital:      282,996 | PnL:      583,105 | Return:   58.31%
+2024-04-05      | Capital:      329,828 | PnL:      600,639 | Return:   60.06%
+2024-04-12      | Capital:      594,391 | PnL:      599,294 | Return:   59.93%
+2024-04-19      | Capital:      795,739 | PnL:      589,285 | Return:   58.93%
+2024-04-26      | Capital:      755,034 | PnL:      608,753 | Return:   60.88%
+2024-05-03      | Capital:      476,717 | PnL:      626,193 | Return:   62.62%
+2024-05-10      | Capital:      737,981 | PnL:      603,957 | Return:   60.40%
+2024-05-17      | Capital:      553,999 | PnL:      630,713 | Return:   63.07%
+2024-05-24      | Capital:      338,254 | PnL:      659,568 | Return:   65.96%
+2024-05-31      | Capital:      757,883 | PnL:      631,959 | Return:   63.20%
+2024-06-07      | Capital:      132,368 | PnL:      681,784 | Return:   68.18%
+2024-06-14      | Capital:      196,873 | PnL:      704,771 | Return:   70.48%
+2024-06-21      | Capital:      421,283 | PnL:      694,382 | Return:   69.44%
+2024-06-28      | Capital:      516,391 | PnL:      717,944 | Return:   71.79%
+2024-07-05      | Capital:      326,527 | PnL:      741,011 | Return:   74.10%
+2024-07-12      | Capital:      371,660 | PnL:      766,619 | Return:   76.66%
+2024-07-19      | Capital:      466,882 | PnL:      766,500 | Return:   76.65%
+2024-07-26      | Capital:      465,618 | PnL:      802,852 | Return:   80.29%
+2024-08-02      | Capital:      544,493 | PnL:      809,546 | Return:   80.95%
+2024-08-09      | Capital:      767,845 | PnL:      797,118 | Return:   79.71%
+2024-08-16      | Capital:      680,826 | PnL:      815,118 | Return:   81.51%
+2024-08-23      | Capital:      447,378 | PnL:      834,676 | Return:   83.47%
+2024-08-30      | Capital:      367,609 | PnL:      875,059 | Return:   87.51%
+2024-09-06      | Capital:      757,789 | PnL:      858,977 | Return:   85.90%
+2024-09-13      | Capital:      558,425 | PnL:      895,866 | Return:   89.59%
+2024-09-20      | Capital:      420,120 | PnL:      913,288 | Return:   91.33%
+2024-09-27      | Capital:      403,256 | PnL:      929,072 | Return:   92.91%
+2024-10-04      | Capital:    1,186,553 | PnL:      877,171 | Return:   87.72%
+2024-10-11      | Capital:    1,321,368 | PnL:      885,504 | Return:   88.55%
+2024-10-18      | Capital:    1,104,029 | PnL:      882,124 | Return:   88.21%
+2024-10-25      | Capital:    1,441,130 | PnL:      867,230 | Return:   86.72%
+2024-11-01      | Capital:    1,460,806 | PnL:      866,106 | Return:   86.61%
+2024-11-08      | Capital:    1,175,357 | PnL:      873,903 | Return:   87.39%
+2024-11-14      | Capital:    1,257,153 | PnL:      861,367 | Return:   86.14%
+2024-11-22      | Capital:      954,663 | PnL:      885,690 | Return:   88.57%
+2024-11-29      | Capital:      734,833 | PnL:      896,172 | Return:   89.62%
+2024-12-06      | Capital:      646,448 | PnL:      946,035 | Return:   94.60%
+2024-12-13      | Capital:      652,866 | PnL:      957,997 | Return:   95.80%
+2024-12-20      | Capital:    1,543,052 | PnL:      894,600 | Return:   89.46%
+2024-12-27      | Capital:    1,314,190 | PnL:      906,599 | Return:   90.66%
+2025-01-03      | Capital:      762,630 | PnL:      932,476 | Return:   93.25%
+2025-01-10      | Capital:      787,817 | PnL:      905,120 | Return:   90.51%
+2025-01-17      | Capital:    1,137,015 | PnL:      880,729 | Return:   88.07%
+2025-01-24      | Capital:    1,012,112 | PnL:      885,023 | Return:   88.50%
+2025-01-31      | Capital:      871,324 | PnL:      897,843 | Return:   89.78%
+2025-02-07      | Capital:      748,564 | PnL:      905,249 | Return:   90.52%
+2025-02-14      | Capital:    1,184,696 | PnL:      868,571 | Return:   86.86%
+2025-02-21      | Capital:    1,221,204 | PnL:      871,582 | Return:   87.16%
+2025-02-28      | Capital:    1,497,294 | PnL:      845,552 | Return:   84.56%
+2025-03-07      | Capital:    1,024,847 | PnL:      868,303 | Return:   86.83%
+2025-03-13      | Capital:      940,307 | PnL:      867,081 | Return:   86.71%
+2025-03-21      | Capital:      214,045 | PnL:      941,768 | Return:   94.18%
+2025-03-28      | Capital:      328,776 | PnL:      958,527 | Return:   95.85%
+2025-04-04      | Capital:      687,210 | PnL:      923,667 | Return:   92.37%
+2025-04-11      | Capital:      647,224 | PnL:      946,625 | Return:   94.66%
+2025-04-17      | Capital:      492,537 | PnL:    1,014,472 | Return:  101.45%
+2025-04-25      | Capital:      390,879 | PnL:    1,013,626 | Return:  101.36%
+2025-05-02      | Capital:      451,443 | PnL:    1,012,838 | Return:  101.28%
+2025-05-09      | Capital:      761,083 | PnL:    1,002,723 | Return:  100.27%
+2025-05-16      | Capital:      176,419 | PnL:    1,081,853 | Return:  108.19%
+2025-05-23      | Capital:      294,858 | PnL:    1,070,174 | Return:  107.02%
+2025-05-30      | Capital:      443,399 | PnL:    1,064,066 | Return:  106.41%
+2025-06-06      | Capital:      501,373 | PnL:    1,079,074 | Return:  107.91%
+2025-06-13      | Capital:      821,397 | PnL:    1,075,017 | Return:  107.50%
+2025-06-20      | Capital:      757,372 | PnL:    1,084,690 | Return:  108.47%
+2025-06-27      | Capital:      532,527 | PnL:    1,111,355 | Return:  111.14%
+2025-07-04      | Capital:      592,583 | PnL:    1,116,147 | Return:  111.61%
+2025-07-11      | Capital:      954,750 | PnL:    1,091,704 | Return:  109.17%
+2025-07-18      | Capital:    1,010,274 | PnL:    1,097,305 | Return:  109.73%
+2025-07-25      | Capital:    1,397,483 | PnL:    1,073,608 | Return:  107.36%
+2025-08-01      | Capital:    1,341,765 | PnL:    1,074,736 | Return:  107.47%
+2025-08-08      | Capital:    1,341,207 | PnL:    1,072,645 | Return:  107.26%
+2025-08-14      | Capital:      879,828 | PnL:    1,092,497 | Return:  109.25%
+2025-08-22      | Capital:      747,490 | PnL:    1,125,090 | Return:  112.51%
+2025-08-29      | Capital:    1,087,416 | PnL:    1,110,388 | Return:  111.04%
+2025-09-05      | Capital:      794,284 | PnL:    1,147,353 | Return:  114.74%
+2025-09-12      | Capital:      639,633 | PnL:    1,158,445 | Return:  115.84%
+2025-09-19      | Capital:      435,235 | PnL:    1,175,025 | Return:  117.50%
+2025-09-26      | Capital:    1,311,845 | PnL:    1,123,964 | Return:  112.40%
+2025-10-03      | Capital:    1,340,263 | PnL:    1,135,170 | Return:  113.52%
+2025-10-10      | Capital:      424,117 | PnL:    1,156,985 | Return:  115.70%
+2025-10-17      | Capital:      246,679 | PnL:    1,191,397 | Return:  119.14%
+2025-10-24      | Capital:      400,052 | PnL:    1,191,298 | Return:  119.13%
+2025-10-31      | Capital:      651,586 | PnL:    1,207,678 | Return:  120.77%
+2025-11-07      | Capital:      877,506 | PnL:    1,192,619 | Return:  119.26%
+2025-11-14      | Capital:    1,012,357 | PnL:    1,213,712 | Return:  121.37%
+2025-11-21      | Capital:      862,151 | PnL:    1,224,558 | Return:  122.46%
+2025-11-28      | Capital:      797,030 | PnL:    1,235,284 | Return:  123.53%
+2025-12-05      | Capital:      672,373 | PnL:    1,255,503 | Return:  125.55%
+2025-12-12      | Capital:      806,716 | PnL:    1,248,223 | Return:  124.82%
+2025-12-19      | Capital:      839,520 | PnL:    1,247,974 | Return:  124.80%
+2025-12-26      | Capital:      859,085 | PnL:    1,252,749 | Return:  125.27%
+2026-01-02      | Capital:      578,308 | PnL:    1,271,968 | Return:  127.20%
+2026-01-09      | Capital:    1,050,374 | PnL:    1,247,478 | Return:  124.75%
+2026-01-12      | Capital:    1,041,608 | PnL:    1,257,910 | Return:  125.79%

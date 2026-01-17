@@ -1,0 +1,38 @@
+# ==============================================================================
+# CUSTOM STOCKS ANALYZER - STOCK LIST CONFIGURATION
+# ==============================================================================
+# 
+# HOW TO USE THIS FILE:
+# ====================
+# 1. Add stock symbols below (one per line)
+# 2. You can use NSE symbols like: TCS.NS, INFY.NS, RELIANCE.NS
+# 3. Or just the stock name like: TCS, INFY, RELIANCE
+# 4. Save the file
+# 5. Run: python custom_stocks_analyzer.py
+# 6. Get your custom analysis report!
+#
+# EXAMPLES:
+# ---------
+# TCS.NS
+# INFY.NS
+# RELIANCE.NS
+# HDFC.NS
+# ICICIBANK.NS
+# 
+# Lines starting with # are ignored (comments)
+# Empty lines are ignored
+#
+# ==============================================================================
+
+# Add your stocks below (one per line):
+
+TCS.NS
+INFY.NS
+RELIANCE.NS
+HDFC.NS
+ICICIBANK.NS
+WIPRO.NS
+HDFCBANK.NS
+ADANIGREEN.NS
+ASIANPAINT.NS
+BAJAJ-AUTO.NS

@@ -1,0 +1,287 @@
+{
+  "creation_timestamp": "2026-01-10T13:11:38.980460",
+  "current_timestamp": "2026-01-10T13:11:38.983678",
+  "system_status": "HALTED",
+  "execution_log": [
+    {
+      "trade_id": "TCS_001",
+      "timestamp": "2026-01-10T13:11:38.980460",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_002",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_003",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_004",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_005",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_006",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_007",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_008",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_009",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_010",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_011",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_012",
+      "timestamp": "2026-01-10T13:11:38.982016",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_013",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_014",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_015",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_016",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_017",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": true,
+          "system_halted": false,
+          "halt_reason": null
+        }
+      },
+      "decision": "ACCEPTED"
+    },
+    {
+      "trade_id": "TCS_018",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": false,
+          "system_halted": true,
+          "halt_reason": "SINGLE_TRADE_LOSS: -2.150% exceeds 2.0% limit"
+        }
+      },
+      "decision": "REJECTED_CAPITAL_VIOLATION"
+    },
+    {
+      "trade_id": "TCS_019",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": false,
+          "system_halted": true,
+          "halt_reason": "SINGLE_TRADE_LOSS: -2.150% exceeds 2.0% limit"
+        }
+      },
+      "decision": "REJECTED_CAPITAL_VIOLATION"
+    },
+    {
+      "trade_id": "TCS_020",
+      "timestamp": "2026-01-10T13:11:38.983678",
+      "checks": {
+        "capital_invariant": {
+          "passed": false,
+          "system_halted": true,
+          "halt_reason": "SINGLE_TRADE_LOSS: -2.150% exceeds 2.0% limit"
+        }
+      },
+      "decision": "REJECTED_CAPITAL_VIOLATION"
+    }
+  ],
+  "modules": {
+    "capital_monitor": {
+      "trades": 18,
+      "status": {
+        "status": "HALTED",
+        "trades_count": 18,
+        "current_capital": 100486.9712949916,
+        "total_return": 0.4869712949915993,
+        "current_drawdown": -0.04300000000000369,
+        "max_drawdown_threshold": -3.0,
+        "halt_reason": "SINGLE_TRADE_LOSS: -2.150% exceeds 2.0% limit"
+      }
+    },
+    "drift_detector": {
+      "trades": 17,
+      "summary": {
+        "total_trades": 17,
+        "drift_events": 0,
+        "current_drift_streak": 0,
+        "status": "NORMAL",
+        "last_analysis": null
+      }
+    },
+    "confidence_auditor": {
+      "trades": 17,
+      "summary": {
+        "status": "NO_AUDITS",
+        "trades": 17
+      }
+    },
+    "regime_sentinel": {
+      "trades": 17,
+      "summary": {
+        "current_regime": "NORMAL",
+        "total_trades": 17,
+        "stress_events": 0,
+        "recent_stress": null
+      }
+    }
+  }
+}

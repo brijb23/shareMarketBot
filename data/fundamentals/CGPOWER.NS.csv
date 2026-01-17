@@ -1,0 +1,6 @@
+symbol,date,revenue_cagr,profit_cagr,roce,roe,margin_trend,debt_to_equity,interest_coverage,operating_cash_flow,net_profit,pe_ratio,historical_pe_median,peg_ratio
+CGPOWER.NS,2025-12-31,18.5,22.3,16.2,19.8,expanding,0.35,6.5,4200,2850,22.5,21.0,1.5
+CGPOWER.NS,2025-09-30,18.2,22.0,16.0,19.6,expanding,0.36,6.3,4100,2800,22.2,20.8,1.5
+CGPOWER.NS,2025-06-30,17.9,21.7,15.8,19.4,expanding,0.37,6.1,4000,2750,21.9,20.5,1.4
+CGPOWER.NS,2025-03-31,17.6,21.4,15.6,19.2,expanding,0.38,5.9,3900,2700,21.6,20.2,1.4
+CGPOWER.NS,2024-12-31,17.3,21.1,15.4,19.0,expanding,0.39,5.7,3800,2650,21.3,19.9,1.4

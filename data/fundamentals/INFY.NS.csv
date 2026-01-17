@@ -1,0 +1,5 @@
+symbol,date,revenue_cagr,profit_cagr,roce,roe,margin_trend,debt_to_equity,interest_coverage,operating_cash_flow,net_profit,pe_ratio,historical_pe_median,peg_ratio
+INFY.NS,2025-03-28,15.7,18.7,15.485,18.485,expanding,0.353,6.97,3170.0,1576.0,22.714955,21.714955,1.47
+INFY.NS,2025-06-28,15.8,18.8,15.49,18.49,expanding,0.352,6.98,3180.0,1584.0,22.694955,21.694955,1.48
+INFY.NS,2025-09-28,15.9,18.9,15.495,18.495,expanding,0.351,6.99,3190.0,1592.0,22.674955,21.674955,1.49
+INFY.NS,2025-12-28,16.0,19.0,15.5,18.5,expanding,0.35,7.0,3200.0,1600.0,22.654955,21.654955,1.5
