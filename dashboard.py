@@ -11,6 +11,7 @@ import json
 import glob
 import subprocess
 import os
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -118,8 +119,7 @@ def generate_todays_recommendations():
         st.info("⏳ Generating today's recommendations... This may take 2-3 minutes.")
         
         result = subprocess.run(
-            f"python {AUTOMATION_SCRIPT}",
-            shell=True,
+            [sys.executable, AUTOMATION_SCRIPT],
             cwd=str(BASE_DIR),
             capture_output=True,
             text=True,
