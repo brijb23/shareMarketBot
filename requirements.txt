@@ -17,3 +17,4 @@ jupyter>=1.0.0
 ipython>=7.0.0
 streamlit
 rich
+altair>=4.2.2
