@@ -16,9 +16,15 @@ import warnings
 warnings.filterwarnings('ignore', category=FutureWarning)
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 
+# Import centralized stock universe
+from universes.stock_universe import get_stock_universe
+
 # CONFIG
 class Config:
-    NIFTY50_STOCKS = [
+    NIFTY50_STOCKS = get_stock_universe()  # Load from centralized configuration
+    
+    # Old hardcoded list (kept for reference, not used):
+    _OLD_STOCKS = [
         'NIFTY 500.NS',
 'IFCI.NS',
 'FORCEMOT.NS',

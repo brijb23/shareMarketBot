@@ -1,0 +1,78 @@
+name: Daily Stock Analysis
+
+on:
+  schedule:
+    # Run daily at 12:00 AM UTC (adjust timezone as needed)
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 hour timeout for all analyses
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run Standard Analysis
+        continue-on-error: true
+        run: |
+          echo "=========================================="
+          echo "Running Standard Analysis"
+          echo "=========================================="
+          python nifty50_weekly_automation.py
+          echo "Standard analysis completed"
+      
+      - name: Run Enhanced Analysis
+        continue-on-error: true
+        run: |
+          echo "=========================================="
+          echo "Running Enhanced Analysis"
+          echo "=========================================="
+          python nifty50_weekly_automation_enhanced.py
+          echo "Enhanced analysis completed"
+      
+      - name: Run Integrated Analysis
+        continue-on-error: true
+        run: |
+          echo "=========================================="
+          echo "Running Integrated Analysis (21 modules)"
+          echo "=========================================="
+          python nifty50_weekly_integrated_analysis.py
+          echo "Integrated analysis completed"
+      
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add nifty50_analysis/*.json nifty50_analysis/*.csv nifty50_analysis/*.txt nifty50_analysis/*.md
+          git diff --staged --quiet || git commit -m "Automated analysis: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Upload analysis artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: analysis-results-${{ github.run_number }}
+          path: |
+            nifty50_analysis/*.json
+            nifty50_analysis/*.csv
+            nifty50_analysis/*.md
+            logs/*.txt
+          retention-days: 30

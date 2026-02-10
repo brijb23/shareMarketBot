@@ -104,14 +104,14 @@ class RefactoredDecisionEngine:
     
     def analyze_stock(
         self,
-        # Stock info
+        # Stock info - REQUIRED
         symbol: str,
         name: str,
         sector: str,
         category: StockCategory,
         analysis_date: datetime,
         
-        # Fundamental data
+        # Fundamental data - REQUIRED
         pe_ratio: float,
         peg_ratio: float,
         roe: float,
@@ -121,10 +121,8 @@ class RefactoredDecisionEngine:
         profit_margin: float,
         revenue_growth: float,
         fcf: float,
-        npa_ratio: Optional[float] = None,
-        dividend_yield: Optional[float] = None,
         
-        # Technical data
+        # Technical data - REQUIRED
         current_price: float,
         ema_20: float,
         ema_50: float,
@@ -139,10 +137,12 @@ class RefactoredDecisionEngine:
         recent_low_20d: float,
         recent_high_52w: float,
         recent_low_52w: float,
+        
+        # OPTIONAL parameters (with defaults)
+        npa_ratio: Optional[float] = None,
+        dividend_yield: Optional[float] = None,
         vwap: Optional[float] = None,
         htf_trend: Optional[str] = None,
-        
-        # Risk filter data (optional)
         index_prices: Optional[list] = None,      # NIFTY50 closes for regime detection
         index_atr_values: Optional[list] = None,  # ATR values for volatility percentile
         market_breadth: Optional[dict] = None,    # {"advances": N, "declines": N}

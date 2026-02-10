@@ -1,0 +1,72 @@
+name: Manual Analysis Trigger
+
+on:
+  workflow_dispatch:
+    inputs:
+      analysis_type:
+        description: 'Type of analysis to run'
+        required: true
+        type: choice
+        options:
+          - all
+          - standard
+          - enhanced
+          - integrated
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run Standard Analysis
+        if: ${{ github.event.inputs.analysis_type == 'all' || github.event.inputs.analysis_type == 'standard' }}
+        run: |
+          echo "Running Standard Analysis..."
+          python nifty50_weekly_automation.py
+      
+      - name: Run Enhanced Analysis
+        if: ${{ github.event.inputs.analysis_type == 'all' || github.event.inputs.analysis_type == 'enhanced' }}
+        run: |
+          echo "Running Enhanced Analysis..."
+          python nifty50_weekly_automation_enhanced.py
+      
+      - name: Run Integrated Analysis
+        if: ${{ github.event.inputs.analysis_type == 'all' || github.event.inputs.analysis_type == 'integrated' }}
+        run: |
+          echo "Running Integrated Analysis..."
+          python nifty50_weekly_integrated_analysis.py
+      
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add nifty50_analysis/*.json nifty50_analysis/*.csv nifty50_analysis/*.txt nifty50_analysis/*.md
+          git diff --staged --quiet || git commit -m "Manual analysis (${{ github.event.inputs.analysis_type }}): $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Upload analysis results
+        uses: actions/upload-artifact@v4
+        with:
+          name: manual-analysis-${{ github.event.inputs.analysis_type }}-${{ github.run_number }}
+          path: |
+            nifty50_analysis/*.json
+            nifty50_analysis/*.csv
+            logs/*.txt
+          retention-days: 30

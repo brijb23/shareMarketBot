@@ -1,6 +1,2 @@
-symbol,date,revenue_cagr,profit_cagr,roce,roe,margin_trend,debt_to_equity,interest_coverage,operating_cash_flow,net_profit,pe_ratio,historical_pe_median,peg_ratio
-CMSINFO.NS,2025-12-31,14.2,17.8,14.5,17.1,expanding,0.28,9.5,2800,1850,20.5,19.5,1.4
-CMSINFO.NS,2025-09-30,14.0,17.5,14.3,16.9,expanding,0.29,9.2,2750,1820,20.2,19.2,1.4
-CMSINFO.NS,2025-06-30,13.8,17.2,14.1,16.7,expanding,0.30,8.9,2700,1790,19.9,18.9,1.3
-CMSINFO.NS,2025-03-31,13.6,16.9,13.9,16.5,expanding,0.31,8.6,2650,1760,19.6,18.6,1.3
-CMSINFO.NS,2024-12-31,13.4,16.6,13.7,16.3,expanding,0.32,8.3,2600,1730,19.3,18.3,1.3
+symbol,date,revenue_cagr,profit_cagr,roce,roe,debt_to_equity,dividend_yield,pe_ratio,pb_ratio,peg_ratio,operating_cash_flow,interest_coverage,margin_trend,net_profit,historical_pe_median
+CMSINFO.NS,2026-02-09,15.1,18.5,9.1,16.1,0.1,199.0,14.932682,2.267264,1.5,4825280000,5.0,Improving,3576859904,14.932682

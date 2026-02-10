@@ -1,6 +1,2 @@
-date,revenue_cagr_3y,profit_cagr_3y,roce_pct,roe_pct,debt_to_equity,interest_coverage_ratio,operating_cash_flow_crore,net_margin_pct,pe_ratio,peg_ratio
-2025-12-31,12.5,15.3,18.5,22.4,0.25,8.5,8500,21.3,28.5,1.8
-2025-09-30,12.3,15.1,18.3,22.2,0.26,8.3,8300,21.1,28.2,1.8
-2025-06-30,12.1,14.9,18.1,22.0,0.27,8.1,8100,20.9,27.9,1.7
-2025-03-31,11.9,14.7,17.9,21.8,0.28,7.9,7900,20.7,27.6,1.7
-2024-12-31,11.7,14.5,17.7,21.6,0.29,7.7,7700,20.5,27.3,1.7
+symbol,date,revenue_cagr,profit_cagr,roce,roe,debt_to_equity,dividend_yield,pe_ratio,pb_ratio,peg_ratio,operating_cash_flow,interest_coverage,margin_trend,net_profit,historical_pe_median
+TCS,2026-02-09,10.0,10.0,15.0,15.0,0.5,2.0,20.0,1.5,1.5,1000000000,5.0,Improving,5000000000,20.0
