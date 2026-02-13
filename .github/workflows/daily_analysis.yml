@@ -60,7 +60,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add nifty50_analysis/*.json nifty50_analysis/*.csv nifty50_analysis/*.txt nifty50_analysis/*.md
           git diff --staged --quiet || git commit -m "Automated analysis: $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git pull origin main --no-rebase
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
