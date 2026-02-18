@@ -12,7 +12,7 @@ import glob
 import subprocess
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 import yfinance as yf
 
@@ -107,8 +107,14 @@ st.markdown("""
 
 def get_todays_json_file():
     """Check if today's JSON file exists, return path if yes"""
-    today = datetime.now().strftime('%Y%m%d')
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_{today}_*.json"
+    today = datetime.now()
+
+    # Subtract one day using timedelta to get yesterday's datetime object
+    yesterday = today - timedelta(days=1)
+
+    # Format the previous day's datetime object into the desired string format
+    previous_date_str = yesterday.strftime('%Y%m%d')
+    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_{previous_date_str}_*.json"
     files = glob.glob(pattern)
     
     if files:
@@ -118,8 +124,15 @@ def get_todays_json_file():
 
 def get_todays_enhanced_json_file():
     """Check if today's enhanced JSON file exists, return path if yes"""
-    today = datetime.now().strftime('%Y%m%d')
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_ENHANCED_{today}_*.json"
+    today = datetime.now()
+
+    # Subtract one day using timedelta to get yesterday's datetime object
+    yesterday = today - timedelta(days=1)
+
+    # Format the previous day's datetime object into the desired string format
+    previous_date_str = yesterday.strftime('%Y%m%d')
+
+    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_ENHANCED_{previous_date_str}_*.json"
     files = glob.glob(pattern)
     
     if files:
@@ -129,8 +142,15 @@ def get_todays_enhanced_json_file():
 
 def get_todays_integrated_json_file():
     """Check if today's integrated JSON file exists, return path if yes"""
-    today = datetime.now().strftime('%Y%m%d')
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_INTEGRATED_WEEKLY_{today}_*.json"
+    today = datetime.now()
+
+    # Subtract one day using timedelta to get yesterday's datetime object
+    yesterday = today - timedelta(days=1)
+
+    # Format the previous day's datetime object into the desired string format
+    previous_date_str = yesterday.strftime('%Y%m%d')
+
+    pattern = f"{ANALYSIS_DIR}/NIFTY50_INTEGRATED_WEEKLY_{previous_date_str}_*.json"
     files = glob.glob(pattern)
     
     # Filter out REPORTS files (we want the structured JSON, not the text reports)
