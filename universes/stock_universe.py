@@ -513,7 +513,10 @@ NIFTY50_STOCKS = [
     'SIGNATURE.NS',
     'TEJASNET.NS',
     'JTLIND.NS',
-    'PVP.NS'
+    'PVP.NS',
+    'RICOAUTO.NS',
+    'EQUITASBNK.NS',
+    'SAMMAANCAP.NS'
 ]
 
 # Helper function to get the stock list
