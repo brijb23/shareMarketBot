@@ -171,7 +171,7 @@ def generate_todays_recommendations():
             cwd=str(BASE_DIR),
             capture_output=True,
             text=True,
-            timeout=300
+            timeout=18000
         )
         
         if result.returncode != 0:
@@ -201,7 +201,7 @@ def generate_todays_enhanced_recommendations():
             cwd=str(BASE_DIR),
             capture_output=True,
             text=True,
-            timeout=300
+            timeout=18000
         )
         
         if result.returncode != 0:
@@ -231,7 +231,7 @@ def generate_todays_integrated_recommendations():
             cwd=str(BASE_DIR),
             capture_output=True,
             text=True,
-            timeout=1200  # 20 minutes timeout for comprehensive analysis
+            timeout=18000 
         )
         
         if result.returncode != 0:
