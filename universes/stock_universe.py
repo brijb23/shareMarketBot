@@ -2877,7 +2877,8 @@ NIFTY50_STOCKS = [
 'VISESHINFO.NS',
 'VISUINTL.NS',
 'XLENERGY.NS',
-'ZICOM.NS'    
+'ZICOM.NS',
+'MCX.NS'
 ]
 
 # Helper function to get the stock list
