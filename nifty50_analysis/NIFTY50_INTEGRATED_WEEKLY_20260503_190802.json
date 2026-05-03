@@ -1,0 +1,6734 @@
+[
+  {
+    "ticker": "HDFCBANK.NS",
+    "current_price": 771.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 2.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BHARTIARTL.NS",
+    "current_price": 1886.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TCS.NS",
+    "current_price": 2473.89990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ICICIBANK.NS",
+    "current_price": 1263.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "current_price": 1181.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HINDUNILVR.NS",
+    "current_price": 2250.89990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LT.NS",
+    "current_price": 4014.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "current_price": 13314.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HCLTECH.NS",
+    "current_price": 1199.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KOTAKBANK.NS",
+    "current_price": 383.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "current_price": 1808.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AXISBANK.NS",
+    "current_price": 1268.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 2.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ULTRACEMCO.NS",
+    "current_price": 11586.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJAJFINSV.NS",
+    "current_price": 1747.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TITAN.NS",
+    "current_price": 4385.2001953125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADANIPORTS.NS",
+    "current_price": 1657.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.55,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ETERNAL.NS",
+    "current_price": 247.02999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADANIENT.NS",
+    "current_price": 2408.39990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JSWSTEEL.NS",
+    "current_price": 1264.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.199999999999999,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "current_price": 200.64999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASIANPAINT.NS",
+    "current_price": 2444.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NESTLEIND.NS",
+    "current_price": 1458.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDIGO.NS",
+    "current_price": 4295.2998046875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TATASTEEL.NS",
+    "current_price": 211.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.05,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GRASIM.NS",
+    "current_price": 2794.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 0.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VEDL.NS",
+    "current_price": 271.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EICHERMOT.NS",
+    "current_price": 7109.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DIVISLAB.NS",
+    "current_price": 6502.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TECHM.NS",
+    "current_price": 1473.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CIPLA.NS",
+    "current_price": 1309.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TATACONSUM.NS",
+    "current_price": 1144.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CGPOWER.NS",
+    "current_price": 813.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "APOLLOHOSP.NS",
+    "current_price": 7636.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.55,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LUPIN.NS",
+    "current_price": 2305.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AUROPHARMA.NS",
+    "current_price": 1389.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 2.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MRF.NS",
+    "current_price": 129710.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PGHH.NS",
+    "current_price": 10146.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "M&MFIN.NS",
+    "current_price": 310.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "OLAELEC.NS",
+    "current_price": 36.560001373291016,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 1.05,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CMSINFO.NS",
+    "current_price": 290.3500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HCC.NS",
+    "current_price": 22.040000915527344,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AARTIDRUGS.NS",
+    "current_price": 376.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ORIENTELEC.NS",
+    "current_price": 184.16000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GUJTHEM.NS",
+    "current_price": 363.5799865722656,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GOPAL.NS",
+    "current_price": 271.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BHARATRAS.NS",
+    "current_price": 1384.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RBA.NS",
+    "current_price": 65.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LUMAXIND.NS",
+    "current_price": 5090.60009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ZOTA.NS",
+    "current_price": 1311.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AVANTEL.NS",
+    "current_price": 148.74000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EIEL.NS",
+    "current_price": 211.94000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HUBTOWN.NS",
+    "current_price": 202.82000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KITEX.NS",
+    "current_price": 164.49000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAYMONDREL.NS",
+    "current_price": 444.95001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SANATHAN.NS",
+    "current_price": 448.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NORTHARC.NS",
+    "current_price": 262.1300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JAMNAAUTO.NS",
+    "current_price": 121.55999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GUJALKALI.NS",
+    "current_price": 800.9500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DCAL.NS",
+    "current_price": 183.17999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AWFIS.NS",
+    "current_price": 351.4200134277344,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOSCHIP.NS",
+    "current_price": 201.44000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAMKY.NS",
+    "current_price": 503.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GOLDIAM.NS",
+    "current_price": 377.1000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.1000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JTEKTINDIA.NS",
+    "current_price": 136.1199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HEMIPROP.NS",
+    "current_price": 128.1199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "63MOONS.NS",
+    "current_price": 746.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KIRLOSIND.NS",
+    "current_price": 3260.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHANTIGEAR.NS",
+    "current_price": 480.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SINDHUTRAD.NS",
+    "current_price": 23.43000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BOROLTD.NS",
+    "current_price": 247.14999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MARATHON.NS",
+    "current_price": 470.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CAMLINFINE.NS",
+    "current_price": 126.94000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UFLEX.NS",
+    "current_price": 445.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VAIBHAVGBL.NS",
+    "current_price": 217.17999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UEL.NS",
+    "current_price": 157.6999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RPGLIFE.NS",
+    "current_price": 2295.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAYMOND.NS",
+    "current_price": 465.79998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ORCHPHARMA.NS",
+    "current_price": 625.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LUXIND.NS",
+    "current_price": 1398.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MPSLTD.NS",
+    "current_price": 1657.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MCLOUD.NS",
+    "current_price": 27.229999542236328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TRUALT.NS",
+    "current_price": 492.45001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AJMERA.NS",
+    "current_price": 124.30000305175781,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GOODLUCK.NS",
+    "current_price": 1254.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VADILALIND.NS",
+    "current_price": 4696.60009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EBGNG.NS",
+    "current_price": 424.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "QUESS.NS",
+    "current_price": 197.67999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WONDERLA.NS",
+    "current_price": 527.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.1000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GREENPLY.NS",
+    "current_price": 267.3500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NEOGEN.NS",
+    "current_price": 1637.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INTERARCH.NS",
+    "current_price": 2088.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PRECWIRE.NS",
+    "current_price": 422.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KOLTEPATIL.NS",
+    "current_price": 383.6499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JINDWORLD.NS",
+    "current_price": 25.899999618530273,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MBAPL.NS",
+    "current_price": 525.7999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARSSBL.NS",
+    "current_price": 598.2999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.250000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MEDIASSIST.NS",
+    "current_price": 345.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NPST.NS",
+    "current_price": 1192.8499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CENTUM.NS",
+    "current_price": 2847.89990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HARSHA.NS",
+    "current_price": 386.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GOCOLORS.NS",
+    "current_price": 281.9599914550781,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NSIL.NS",
+    "current_price": 5685.39990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GKENERGY.NS",
+    "current_price": 127.37999725341797,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDOSTAR.NS",
+    "current_price": 202.66000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KSL.NS",
+    "current_price": 849.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ROLEXRINGS.NS",
+    "current_price": 145.82000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADVENZYMES.NS",
+    "current_price": 347.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHAREINDIA.NS",
+    "current_price": 137.4499969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "POCL.NS",
+    "current_price": 1377.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GUFICBIO.NS",
+    "current_price": 284.6000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UNICHEMLAB.NS",
+    "current_price": 390.1000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MSTCLTD.NS",
+    "current_price": 433.1499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ROSSARI.NS",
+    "current_price": 478.95001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JUBLCPL.NS",
+    "current_price": 1711.9000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CYIENTDLM.NS",
+    "current_price": 393.1000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SUNCLAY.NS",
+    "current_price": 1423.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RPEL.NS",
+    "current_price": 700.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BALMLAWRIE.NS",
+    "current_price": 187.99000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARTEMISMED.NS",
+    "current_price": 244.1300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PRINCEPIPE.NS",
+    "current_price": 259.3900146484375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JISLJALEQS.NS",
+    "current_price": 32.52000045776367,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PITTIENG.NS",
+    "current_price": 977.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FOSECOIND.NS",
+    "current_price": 4719.10009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DPABHUSHAN.NS",
+    "current_price": 1035.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SSWL.NS",
+    "current_price": 212.7100067138672,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BHAGCHEM.NS",
+    "current_price": 264.9100036621094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJAJCON.NS",
+    "current_price": 450.45001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NAVNETEDUL.NS",
+    "current_price": 145.16000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDOTHAI.NS",
+    "current_price": 287.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GREENPANEL.NS",
+    "current_price": 228.91000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BBL.NS",
+    "current_price": 3096.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PROTEAN.NS",
+    "current_price": 529.9500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VISHNU.NS",
+    "current_price": 594.1500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SAMBHV.NS",
+    "current_price": 118.70999908447266,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BOMDYEING.NS",
+    "current_price": 113.05999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SWANDEF.NS",
+    "current_price": 1837.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PARAGMILK.NS",
+    "current_price": 224.24000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SENORES.NS",
+    "current_price": 899.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HLEGLAS.NS",
+    "current_price": 320.3500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HIKAL.NS",
+    "current_price": 189.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FLAIR.NS",
+    "current_price": 318.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KIRIINDUS.NS",
+    "current_price": 411.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KKCL.NS",
+    "current_price": 474.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.500000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MAHLOG.NS",
+    "current_price": 403.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EPACK.NS",
+    "current_price": 279.32000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARKADE.NS",
+    "current_price": 117.86000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.5,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PSPPROJECT.NS",
+    "current_price": 787.1500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STYLAMIND.NS",
+    "current_price": 2236.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KRISHANA.NS",
+    "current_price": 600.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.3,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PARKHOTELS.NS",
+    "current_price": 121.7300033569336,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GATEWAY.NS",
+    "current_price": 57.369998931884766,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PRABHA.NS",
+    "current_price": 161.64999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IMAGICAA.NS",
+    "current_price": 45.47999954223633,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JASH.NS",
+    "current_price": 418.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GLOBUSSPR.NS",
+    "current_price": 1106.449951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PAISALO.NS",
+    "current_price": 49.939998626708984,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DDEVPLSTIK.NS",
+    "current_price": 252.8300018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PATELENG.NS",
+    "current_price": 28.3799991607666,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PENIND.NS",
+    "current_price": 167.63999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WSTCSTPAPR.NS",
+    "current_price": 483.6000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GANECOS.NS",
+    "current_price": 1049.550048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KDDL.NS",
+    "current_price": 2370.60009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MAITHANALL.NS",
+    "current_price": 985.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "POLYPLEX.NS",
+    "current_price": 946.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DEEPINDS.NS",
+    "current_price": 485.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SAGCEM.NS",
+    "current_price": 180.22999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SIYSIL.NS",
+    "current_price": 569.0499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EUROPRATIK.NS",
+    "current_price": 268.69000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HPL.NS",
+    "current_price": 357.6000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EASEMYTRIP.NS",
+    "current_price": 7.860000133514404,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASHIANA.NS",
+    "current_price": 342.6499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TCPLPACK.NS",
+    "current_price": 2655.89990234375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BRIGHOTEL.NS",
+    "current_price": 67.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SANDHAR.NS",
+    "current_price": 494.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHK.NS",
+    "current_price": 146.1199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TFCILTD.NS",
+    "current_price": 72.0999984741211,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.95,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAMRAT.NS",
+    "current_price": 444.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SUNDROP.NS",
+    "current_price": 662.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EFCIL.NS",
+    "current_price": 195.2899932861328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ORISSAMINE.NS",
+    "current_price": 4247.7001953125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VEEDOL.NS",
+    "current_price": 1423.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TEAMLEASE.NS",
+    "current_price": 1232.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AGIIL.NS",
+    "current_price": 395.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NOCIL.NS",
+    "current_price": 179.3699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EMSLIMITED.NS",
+    "current_price": 347.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PREMEXPLN.NS",
+    "current_price": 561.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MANINDS.NS",
+    "current_price": 526.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TIRUMALCHM.NS",
+    "current_price": 204.1300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SANGHVIMOV.NS",
+    "current_price": 319.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FMGOETZE.NS",
+    "current_price": 469.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SBCL.NS",
+    "current_price": 595.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FCL.NS",
+    "current_price": 22.979999542236328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VIMTALABS.NS",
+    "current_price": 457.1499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MUTHOOTMF.NS",
+    "current_price": 192.3800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MARINE.NS",
+    "current_price": 229.3000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARVSMART.NS",
+    "current_price": 617.9500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DALMIASUG.NS",
+    "current_price": 397.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KPEL.NS",
+    "current_price": 360.92999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GIPCL.NS",
+    "current_price": 156.85000610351562,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.75,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALPEXSOLAR.NS",
+    "current_price": 1091.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PRAKASH.NS",
+    "current_price": 142.27999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RPSGVENT.NS",
+    "current_price": 847.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BCG.NS",
+    "current_price": 9.510000228881836,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TATVA.NS",
+    "current_price": 1311.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IOLCP.NS",
+    "current_price": 94.31999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJAJHIND.NS",
+    "current_price": 20.299999237060547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BFUTILITIE.NS",
+    "current_price": 558.9000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAMCOIND.NS",
+    "current_price": 266.4200134277344,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TVSSRICHAK.NS",
+    "current_price": 3893.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EPACKPEB.NS",
+    "current_price": 200.22000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "POKARNA.NS",
+    "current_price": 871.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JTLIND.NS",
+    "current_price": 79.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EVEREADY.NS",
+    "current_price": 335.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CARRARO.NS",
+    "current_price": 560.0499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NRBBEARING.NS",
+    "current_price": 284.0199890136719,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HONDAPOWER.NS",
+    "current_price": 2309.10009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SAKSOFT.NS",
+    "current_price": 140.14999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOREPENLAB.NS",
+    "current_price": 41.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HIRECT.NS",
+    "current_price": 941.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VENUSPIPES.NS",
+    "current_price": 1377.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SOTL.NS",
+    "current_price": 361.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALLCARGO.NS",
+    "current_price": 9.680000305175781,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MTNL.NS",
+    "current_price": 31.18000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RELTD.NS",
+    "current_price": 142.91000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALEMBICLTD.NS",
+    "current_price": 91.19999694824219,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DIGITIDE.NS",
+    "current_price": 97.30999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UTKARSHBNK.NS",
+    "current_price": 14.430000305175781,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NUCLEUS.NS",
+    "current_price": 803.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SERVOTECH.NS",
+    "current_price": 94.93000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AUTOAXLES.NS",
+    "current_price": 1845.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HMT.NS",
+    "current_price": 60.599998474121094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LAOPALA.NS",
+    "current_price": 178.72999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DCXINDIA.NS",
+    "current_price": 200.97000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HINDWAREAP.NS",
+    "current_price": 217.82000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JAYKAY.NS",
+    "current_price": 182.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDOCO.NS",
+    "current_price": 209.49000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WINDMACHIN.NS",
+    "current_price": 285.5799865722656,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SOLARWORLD.NS",
+    "current_price": 197.57000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TAJGVK.NS",
+    "current_price": 325.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NITCO.NS",
+    "current_price": 88.2699966430664,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SIRCA.NS",
+    "current_price": 423.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VIKRAN.NS",
+    "current_price": 72.27999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KALAMANDIR.NS",
+    "current_price": 101.3499984741211,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VSSL.NS",
+    "current_price": 278.69000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KRSNAA.NS",
+    "current_price": 588.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SDBL.NS",
+    "current_price": 87.1500015258789,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CARYSIL.NS",
+    "current_price": 902.9000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TCIEXP.NS",
+    "current_price": 524.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KCP.NS",
+    "current_price": 180.64999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BEPL.NS",
+    "current_price": 96.12999725341797,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KMEW.NS",
+    "current_price": 1769.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.75,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "XPROINDIA.NS",
+    "current_price": 1018.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HATHWAY.NS",
+    "current_price": 11.010000228881836,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "REPCOHOME.NS",
+    "current_price": 407.3999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADFFOODS.NS",
+    "current_price": 264.1400146484375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UNIVCABLES.NS",
+    "current_price": 837.4500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PANACEABIO.NS",
+    "current_price": 361.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GRMOVER.NS",
+    "current_price": 165.97000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DIAMONDYD.NS",
+    "current_price": 995.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CAPACITE.NS",
+    "current_price": 252.41000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ROSSTECH.NS",
+    "current_price": 989.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FILATEX.NS",
+    "current_price": 45.720001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JINDALPOLY.NS",
+    "current_price": 725.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SMSPHARMA.NS",
+    "current_price": 403.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MONARCH.NS",
+    "current_price": 295.7900085449219,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TASTYBITE.NS",
+    "current_price": 6992.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AEROFLEX.NS",
+    "current_price": 304.6700134277344,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HGS.NS",
+    "current_price": 409.20001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JAICORPLTD.NS",
+    "current_price": 115.9800033569336,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOLDTKPAC.NS",
+    "current_price": 568.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "COSMOFIRST.NS",
+    "current_price": 713.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PFS.NS",
+    "current_price": 31.18000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MBEL.NS",
+    "current_price": 332.0799865722656,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJEL.NS",
+    "current_price": 188.32000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KSHINTL.NS",
+    "current_price": 662.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INSECTICID.NS",
+    "current_price": 701.4500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHALBY.NS",
+    "current_price": 160.66000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NDRAUTO.NS",
+    "current_price": 782.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FINOPB.NS",
+    "current_price": 126.22000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.300000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ORIENTHOT.NS",
+    "current_price": 99.3499984741211,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STYLEBAAZA.NS",
+    "current_price": 388.6499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SCILAL.NS",
+    "current_price": 44.470001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NILKAMAL.NS",
+    "current_price": 1298.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LANDMARK.NS",
+    "current_price": 402.45001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EIHAHOTELS.NS",
+    "current_price": 323.79998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IPL.NS",
+    "current_price": 150.1999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SUMMITSEC.NS",
+    "current_price": 1559.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SEAMECLTD.NS",
+    "current_price": 1592.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MAYURUNIQ.NS",
+    "current_price": 549.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RML.NS",
+    "current_price": 809.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "YATRA.NS",
+    "current_price": 105.54000091552734,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STEELCAS.NS",
+    "current_price": 289.4200134277344,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GENESYS.NS",
+    "current_price": 268.69000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GVPIL.NS",
+    "current_price": 604.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SOLARA.NS",
+    "current_price": 495.79998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KICL.NS",
+    "current_price": 4755.7001953125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPECTRUM.NS",
+    "current_price": 1206.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SULA.NS",
+    "current_price": 174.10000610351562,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SIMPLEXINF.NS",
+    "current_price": 245.05999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SGFIN.NS",
+    "current_price": 567.7999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.1000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CANTABIL.NS",
+    "current_price": 241.86000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SYSTMTXC.NS",
+    "current_price": 70.58999633789062,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.300000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DELTACORP.NS",
+    "current_price": 71.18000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.200000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STUDDS.NS",
+    "current_price": 489.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SASKEN.NS",
+    "current_price": 1309.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SANGAMIND.NS",
+    "current_price": 517.7999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 3.4000000000000004,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RANEHOLDIN.NS",
+    "current_price": 1125.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HINDOILEXP.NS",
+    "current_price": 158.60000610351562,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STOVEKRAFT.NS",
+    "current_price": 545.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GEOJITFSL.NS",
+    "current_price": 64.43000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IDEAFORGE.NS",
+    "current_price": 609.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RPTECH.NS",
+    "current_price": 458.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ACCELYA.NS",
+    "current_price": 1158.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VENKEYS.NS",
+    "current_price": 1582.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TIL.NS",
+    "current_price": 197.16000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "YASHO.NS",
+    "current_price": 1498.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WEL.NS",
+    "current_price": 105.58999633789062,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DOLLAR.NS",
+    "current_price": 299.79998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDIANHUME.NS",
+    "current_price": 327.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DREDGECORP.NS",
+    "current_price": 938.4500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOL.NS",
+    "current_price": 48.93000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DCW.NS",
+    "current_price": 47.11000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UGROCAP.NS",
+    "current_price": 109.2699966430664,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.300000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "THEJO.NS",
+    "current_price": 1816.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HITECH.NS",
+    "current_price": 92.16999816894531,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MANGLMCEM.NS",
+    "current_price": 922.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AMRUTANJAN.NS",
+    "current_price": 571.2000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHRINGARMS.NS",
+    "current_price": 201.94000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WHEELS.NS",
+    "current_price": 1228.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "APCOTEXIND.NS",
+    "current_price": 402.3999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GMBREW.NS",
+    "current_price": 957.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VERANDA.NS",
+    "current_price": 190.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PIXTRANS.NS",
+    "current_price": 1550.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOBIKWIK.NS",
+    "current_price": 215.3000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UNIPARTS.NS",
+    "current_price": 534.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WAAREEINDO.NS",
+    "current_price": 432.70001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAJRATAN.NS",
+    "current_price": 444.3500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EXICOM.NS",
+    "current_price": 115.4000015258789,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDNIPPON.NS",
+    "current_price": 792.0499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VINCOFE.NS",
+    "current_price": 135.75999450683594,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MUKANDLTD.NS",
+    "current_price": 138.0500030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SOMANYCERA.NS",
+    "current_price": 463.3500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DYCL.NS",
+    "current_price": 370.44000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NELCO.NS",
+    "current_price": 703.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DIVGIITTS.NS",
+    "current_price": 720.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MSPL.NS",
+    "current_price": 35.5099983215332,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KERNEX.NS",
+    "current_price": 1348.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.75,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NITINSPIN.NS",
+    "current_price": 461.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BGRENERGY.NS",
+    "current_price": 282.0400085449219,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WINDLAS.NS",
+    "current_price": 851.8499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAMCOSYS.NS",
+    "current_price": 411.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPAL.NS",
+    "current_price": 811.0499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GTLINFRA.NS",
+    "current_price": 1.2200000286102295,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NIBE.NS",
+    "current_price": 1074.050048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPIC.NS",
+    "current_price": 70.26000213623047,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LAXMIDENTL.NS",
+    "current_price": 198.97999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASALCBR.NS",
+    "current_price": 889.2999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPANDANA.NS",
+    "current_price": 227.97999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PANAMAPET.NS",
+    "current_price": 279.80999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDOTECH.NS",
+    "current_price": 2702.300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALLTIME.NS",
+    "current_price": 240.66000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VIDHIING.NS",
+    "current_price": 300.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RHETAN.NS",
+    "current_price": 29.639999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WENDT.NS",
+    "current_price": 6936.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UNITECH.NS",
+    "current_price": 4.860000133514404,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RMDRIP.NS",
+    "current_price": 21.8799991607666,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MOTISONS.NS",
+    "current_price": 13.479999542236328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.800000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DEEDEV.NS",
+    "current_price": 417.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SEPC.NS",
+    "current_price": 8.109999656677246,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADOR.NS",
+    "current_price": 1078.8499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GARUDA.NS",
+    "current_price": 168.52999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VINDHYATEL.NS",
+    "current_price": 1369.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PRECAM.NS",
+    "current_price": 158.77000427246094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASTEC.NS",
+    "current_price": 694.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BETA.NS",
+    "current_price": 1330.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FUSION.NS",
+    "current_price": 191.07000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TALBROAUTO.NS",
+    "current_price": 332.6499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IFGLEXPOR.NS",
+    "current_price": 189.8300018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BLSE.NS",
+    "current_price": 197.57000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BFINVEST.NS",
+    "current_price": 415.95001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NAVKARCORP.NS",
+    "current_price": 100.3499984741211,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPMLINFRA.NS",
+    "current_price": 207.47000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JYOTISTRUC.NS",
+    "current_price": 13.210000038146973,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JGCHEM.NS",
+    "current_price": 404.20001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GOCLCORP.NS",
+    "current_price": 325.1499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HUHTAMAKI.NS",
+    "current_price": 179.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.1000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "QUICKHEAL.NS",
+    "current_price": 166.5800018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PNBGILTS.NS",
+    "current_price": 70.55000305175781,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.1000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JINDRILL.NS",
+    "current_price": 539.2999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DLINKINDIA.NS",
+    "current_price": 450.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BLISSGVS.NS",
+    "current_price": 276.760009765625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SANSTAR.NS",
+    "current_price": 90.08999633789062,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EXPLEOSOL.NS",
+    "current_price": 814.3499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SESHAPAPER.NS",
+    "current_price": 268.0899963378906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DEN.NS",
+    "current_price": 27.729999542236328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TTKHLTCARE.NS",
+    "current_price": 904.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DAMCAPITAL.NS",
+    "current_price": 153.74000549316406,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARMANFIN.NS",
+    "current_price": 1493.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ARIHANTSUP.NS",
+    "current_price": 275.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SATIN.NS",
+    "current_price": 176.16000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.6000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAMASTEEL.NS",
+    "current_price": 5.769999980926514,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DOLPHIN.NS",
+    "current_price": 416.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.95,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAJOOENG.NS",
+    "current_price": 57.93000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.1,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STANLEY.NS",
+    "current_price": 138.6300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MUFIN.NS",
+    "current_price": 114.27999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JNKINDIA.NS",
+    "current_price": 360.6600036621094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TARSONS.NS",
+    "current_price": 219.9199981689453,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HIMATSEIDE.NS",
+    "current_price": 88.79000091552734,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SOLEX.NS",
+    "current_price": 1288.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MMFL.NS",
+    "current_price": 494.3999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UDS.NS",
+    "current_price": 158.3699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SYNCOMF.NS",
+    "current_price": 13.739999771118164,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IGARASHI.NS",
+    "current_price": 387.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TINNARUBR.NS",
+    "current_price": 719.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GREENPOWER.NS",
+    "current_price": 12.539999961853027,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PUNJABCHEM.NS",
+    "current_price": 1178.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SURAKSHA.NS",
+    "current_price": 283.95001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AIMTRON.NS",
+    "current_price": 1182.8499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "APOLLOPIPE.NS",
+    "current_price": 452.6499938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHANTIGOLD.NS",
+    "current_price": 200.8000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MASTERTR.NS",
+    "current_price": 81.94000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IKIO.NS",
+    "current_price": 157.9499969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AWHCL.NS",
+    "current_price": 507.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STALLION.NS",
+    "current_price": 150.0399932861328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "LGHL.NS",
+    "current_price": 258.1000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ECOSMOBLTY.NS",
+    "current_price": 137.89999389648438,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JAGRAN.NS",
+    "current_price": 65.97000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RUPA.NS",
+    "current_price": 151.82000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VINYAS.NS",
+    "current_price": 1145.8499755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "OMAXE.NS",
+    "current_price": 84.08000183105469,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHRIRAMPPS.NS",
+    "current_price": 84.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IVALUE.NS",
+    "current_price": 258.1300048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HESTERBIO.NS",
+    "current_price": 1634.199951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.15,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FINKURVE.NS",
+    "current_price": 72.16000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "QUADFUTURE.NS",
+    "current_price": 309.45001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HMAAGRO.NS",
+    "current_price": 24.329999923706055,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JAGSNPHARM.NS",
+    "current_price": 210.3699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PLATIND.NS",
+    "current_price": 239.0800018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ORIENTTECH.NS",
+    "current_price": 272.9800109863281,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EKC.NS",
+    "current_price": 119.38999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ANDHRAPAP.NS",
+    "current_price": 66.56999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SALASAR.NS",
+    "current_price": 7.449999809265137,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ESAFSFB.NS",
+    "current_price": 26.399999618530273,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CONFIPET.NS",
+    "current_price": 54.650001525878906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SMCGLOBAL.NS",
+    "current_price": 67.6500015258789,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CENTRUM.NS",
+    "current_price": 24.1299991607666,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DOLATALGO.NS",
+    "current_price": 77.43000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ROTO.NS",
+    "current_price": 58.13999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NIITLTD.NS",
+    "current_price": 69.88999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GPTINFRA.NS",
+    "current_price": 113.4800033569336,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SURYODAY.NS",
+    "current_price": 152.88999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.300000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BIRLANU.NS",
+    "current_price": 1362.5999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RISHABH.NS",
+    "current_price": 471.8999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PAUSHAKLTD.NS",
+    "current_price": 469.8500061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASIANENE.NS",
+    "current_price": 317.7699890136719,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GANDHAR.NS",
+    "current_price": 138.72999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EXCELINDUS.NS",
+    "current_price": 955.1500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJAJHCARE.NS",
+    "current_price": 321.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALICON.NS",
+    "current_price": 697.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DCMSRIND.NS",
+    "current_price": 42.72999954223633,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CLSEL.NS",
+    "current_price": 281.32000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RAJRILTD.NS",
+    "current_price": 21.329999923706055,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INDORAMA.NS",
+    "current_price": 38.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PARACABLES.NS",
+    "current_price": 39.43000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VPRPL.NS",
+    "current_price": 43.900001525878906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SALZERELEC.NS",
+    "current_price": 653.0499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MANAKCOAT.NS",
+    "current_price": 108.88999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SIGACHI.NS",
+    "current_price": 20.200000762939453,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "INFOBEAN.NS",
+    "current_price": 179.9600067138672,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ALLDIGI.NS",
+    "current_price": 832.9000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BLKASHYAP.NS",
+    "current_price": 57.2599983215332,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SPORTKING.NS",
+    "current_price": 147.47999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GODAVARIB.NS",
+    "current_price": 318.20001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JARO.NS",
+    "current_price": 419.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SURAJEST.NS",
+    "current_price": 233.47999572753906,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CIFL.NS",
+    "current_price": 28.18000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "UNIECOM.NS",
+    "current_price": 92.58999633789062,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MONTECARLO.NS",
+    "current_price": 561.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MADRASFERT.NS",
+    "current_price": 68.62000274658203,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HARIOMPIPE.NS",
+    "current_price": 332.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DECCANCE.NS",
+    "current_price": 654.7000122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHANKARA.NS",
+    "current_price": 121.55999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GNA.NS",
+    "current_price": 430.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RIIL.NS",
+    "current_price": 783.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VMARCIND.NS",
+    "current_price": 991.4500122070312,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SUMEETINDS.NS",
+    "current_price": 30.010000228881836,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IMPAL.NS",
+    "current_price": 1004.0999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IGPL.NS",
+    "current_price": 430.54998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TAC.NS",
+    "current_price": 488.6000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RGL.NS",
+    "current_price": 100.12999725341797,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BSHSL.NS",
+    "current_price": 98.44999694824219,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHREDIGCEM.NS",
+    "current_price": 72.7300033569336,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SIGNPOST.NS",
+    "current_price": 255.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BALAJITELE.NS",
+    "current_price": 98.48999786376953,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HITECHGEAR.NS",
+    "current_price": 617.5499877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ATULAUTO.NS",
+    "current_price": 488.29998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AGARIND.NS",
+    "current_price": 416.95001220703125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "YUKEN.NS",
+    "current_price": 754.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DIFFNKG.NS",
+    "current_price": 300.3800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ONEPOINT.NS",
+    "current_price": 53.90999984741211,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CAPITALSFB.NS",
+    "current_price": 279.55999755859375,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.6000000000000005,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ASIANTILES.NS",
+    "current_price": 65.01000213623047,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RICOAUTO.NS",
+    "current_price": 113.13999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AURUM.NS",
+    "current_price": 182.32000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ADVENTHTL.NS",
+    "current_price": 153.36000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BUTTERFLY.NS",
+    "current_price": 598.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "FAZE3Q.NS",
+    "current_price": 444.04998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MICEL.NS",
+    "current_price": 43.16999816894531,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BHARATWIRE.NS",
+    "current_price": 222.02999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VASCONEQ.NS",
+    "current_price": 41.2599983215332,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WALCHANNAG.NS",
+    "current_price": 235.02000427246094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TEXINFRA.NS",
+    "current_price": 96.91000366210938,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WCIL.NS",
+    "current_price": 102.7300033569336,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "HERANBA.NS",
+    "current_price": 219.13999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BOROSCI.NS",
+    "current_price": 114.86000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GPTHEALTH.NS",
+    "current_price": 138.42999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IRMENERGY.NS",
+    "current_price": 356.9100036621094,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SHREEPUSHK.NS",
+    "current_price": 395.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MEIL.NS",
+    "current_price": 299.3800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GTPL.NS",
+    "current_price": 67.44999694824219,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ROHLTD.NS",
+    "current_price": 343.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VHL.NS",
+    "current_price": 3376.800048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DSSL.NS",
+    "current_price": 1088.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "TBZ.NS",
+    "current_price": 146.4199981689453,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BAJAJINDEF.NS",
+    "current_price": 299.2300109863281,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.6,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STLNETWORK.NS",
+    "current_price": 27.760000228881836,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "WEALTH.NS",
+    "current_price": 943.7999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.4,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "CONTROLPR.NS",
+    "current_price": 636.7999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "JINDALPHOT.NS",
+    "current_price": 1110.25,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ELECTHERM.NS",
+    "current_price": 807.1500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ABINFRA.NS",
+    "current_price": 15.859999656677246,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SRM.NS",
+    "current_price": 506.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "VILAS.NS",
+    "current_price": 430.3999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KROSS.NS",
+    "current_price": 185.3699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AMNPLST.NS",
+    "current_price": 163.11000061035156,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ZUARI.NS",
+    "current_price": 235.1999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STEELXIND.NS",
+    "current_price": 9.979999542236328,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ICEMAKE.NS",
+    "current_price": 797.6500244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.8,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KELLTONTEC.NS",
+    "current_price": 15.4399995803833,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "RACLGEAR.NS",
+    "current_price": 1273.0,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BLUSPRING.NS",
+    "current_price": 64.56999969482422,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PASHUPATI.NS",
+    "current_price": 88.1500015258789,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MANALIPETC.NS",
+    "current_price": 53.43000030517578,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DVL.NS",
+    "current_price": 242.5800018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "KRISHNADEF.NS",
+    "current_price": 1077.550048828125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "BCLIND.NS",
+    "current_price": 35.689998626708984,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.45,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "DPSCLTD.NS",
+    "current_price": 10.050000190734863,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "NELCAST.NS",
+    "current_price": 141.88999938964844,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EIMCOELECO.NS",
+    "current_price": 1573.5,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "OAL.NS",
+    "current_price": 310.19000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "STERTOOLS.NS",
+    "current_price": 242.83999633789062,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GRPLTD.NS",
+    "current_price": 1897.699951171875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.0,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "GEMAROMA.NS",
+    "current_price": 163.57000732421875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "EXCELSOFT.NS",
+    "current_price": 93.52999877929688,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 8.2,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PROSTARM.NS",
+    "current_price": 157.3300018310547,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "IZMO.NS",
+    "current_price": 709.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 7.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "ANTELOPUS.NS",
+    "current_price": 693.75,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 4.300000000000001,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "MATRIMONY.NS",
+    "current_price": 420.79998779296875,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "SWELECTES.NS",
+    "current_price": 659.4000244140625,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.25,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "PDMJEPAPER.NS",
+    "current_price": 84.7699966430664,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 6.7,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  },
+  {
+    "ticker": "AYMSYNTEX.NS",
+    "current_price": 233.17999267578125,
+    "decision": "InvestmentDecision.AVOID",
+    "target_price": 0,
+    "stop_loss": 0,
+    "scores": {
+      "fundamental_score": 5.9,
+      "technical_score": 0,
+      "confidence": 0
+    }
+  }
+]
