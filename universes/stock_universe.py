@@ -515,7 +515,14 @@ NIFTY50_STOCKS = [
 'ZYDUSLIFE.NS',
 'ZYDUSWELL.NS',
 'ECLERX.NS',
-'PVP.NS'
+'PVP.NS',
+'CERA.NS',
+'ARKADE.NS',
+'CMSINFO.NS',
+'HCC.NS',
+'HUDCO.NS'
+'IOC.NS',
+'SULA.NS'
 ]
 
 # Helper function to get the stock list
