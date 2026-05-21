@@ -12,6 +12,7 @@ import glob
 import subprocess
 import os
 import sys
+import math
 from datetime import datetime, timedelta
 from pathlib import Path
 import yfinance as yf
@@ -261,6 +262,37 @@ def load_json_data(file_path):
         st.error(f"Error loading file: {str(e)}")
         return None
 
+def format_display_number(value, template):
+    """Format numeric dashboard values while hiding missing/non-finite data."""
+    try:
+        if pd.isna(value):
+            return "-"
+    except (TypeError, ValueError):
+        pass
+    
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return value
+    
+    if not math.isfinite(number):
+        return "-"
+    
+    return template.format(number)
+
+def format_currency(value):
+    return format_display_number(value, "\u20b9{:.2f}")
+
+def format_percent(value, decimals=1):
+    return format_display_number(value, f"{{:.{decimals}f}}%")
+
+def is_positive_number(value):
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return False
+    return math.isfinite(number) and number > 0
+
 def prepare_dataframe(recommendations, signal_type):
     """Prepare dataframe for display based on signal type"""
     filtered = [r for r in recommendations if r.get('Signal') == signal_type]
@@ -299,11 +331,11 @@ def prepare_dataframe(recommendations, signal_type):
     numeric_cols = df_display.select_dtypes(include=['float64', 'int64']).columns
     for col in numeric_cols:
         if 'Price' in col or 'Target' in col or 'Stop' in col or 'Low' in col or 'High' in col:
-            df_display[col] = df_display[col].apply(lambda x: f"₹{x:.2f}")
+            df_display[col] = df_display[col].apply(lambda x: format_display_number(x, "\u20b9{:.2f}"))
         elif '%' in col:
-            df_display[col] = df_display[col].apply(lambda x: f"{x:.2f}%")
+            df_display[col] = df_display[col].apply(lambda x: format_display_number(x, "{:.2f}%"))
         elif 'Ratio' in col:
-            df_display[col] = df_display[col].apply(lambda x: f"{x:.2f}")
+            df_display[col] = df_display[col].apply(lambda x: format_display_number(x, "{:.2f}"))
     
     return df_display
 
@@ -374,16 +406,16 @@ def main():
                             st.success(f"**Found in Standard Analysis!**")
                             st.markdown(f"### {signal_color} {result.get('Ticker', 'N/A')}")
                             st.markdown(f"**Signal:** {signal}")
-                            st.markdown(f"**Price:** ₹{result.get('Current_Price', 0):.2f}")
+                            st.markdown(f"**Price:** {format_currency(result.get('Current_Price'))}")
                             
                             if 'Target' in result:
-                                st.markdown(f"**Target:** ₹{result.get('Target', 0):.2f}")
+                                st.markdown(f"**Target:** {format_currency(result.get('Target'))}")
                             if 'Stop_Loss' in result:
-                                st.markdown(f"**Stop Loss:** ₹{result.get('Stop_Loss', 0):.2f}")
+                                st.markdown(f"**Stop Loss:** {format_currency(result.get('Stop_Loss'))}")
                             if 'Confidence' in result:
-                                st.markdown(f"**Confidence:** {result.get('Confidence', 0):.1f}%")
+                                st.markdown(f"**Confidence:** {format_percent(result.get('Confidence'))}")
                             if signal == 'BUY' and 'Buy_Range_Low' in result:
-                                st.markdown(f"**Buy Range:** ₹{result.get('Buy_Range_Low', 0):.2f} - ₹{result.get('Buy_Range_High', 0):.2f}")
+                                st.markdown(f"**Buy Range:** {format_currency(result.get('Buy_Range_Low'))} - {format_currency(result.get('Buy_Range_High'))}")
                         else:
                             st.warning(f"Stock '{search_query}' not found in Standard Analysis")
                 
@@ -506,20 +538,20 @@ def main():
                             st.success(f"**Found in Enhanced Analysis!**")
                             st.markdown(f"### {signal_color} {result.get('Ticker', 'N/A')}")
                             st.markdown(f"**Signal:** {signal}")
-                            st.markdown(f"**Price:** ₹{result.get('Current_Price', 0):.2f}")
+                            st.markdown(f"**Price:** {format_currency(result.get('Current_Price'))}")
                             
                             if 'Target' in result:
-                                st.markdown(f"**Target:** ₹{result.get('Target', 0):.2f}")
+                                st.markdown(f"**Target:** {format_currency(result.get('Target'))}")
                             if 'Stop_Loss' in result:
-                                st.markdown(f"**Stop Loss:** ₹{result.get('Stop_Loss', 0):.2f}")
+                                st.markdown(f"**Stop Loss:** {format_currency(result.get('Stop_Loss'))}")
                             if 'Confidence' in result:
-                                st.markdown(f"**Confidence:** {result.get('Confidence', 0):.1f}%")
+                                st.markdown(f"**Confidence:** {format_percent(result.get('Confidence'))}")
                             if signal == 'BUY' and 'Buy_Range_Low' in result:
-                                st.markdown(f"**Buy Range:** ₹{result.get('Buy_Range_Low', 0):.2f} - ₹{result.get('Buy_Range_High', 0):.2f}")
+                                st.markdown(f"**Buy Range:** {format_currency(result.get('Buy_Range_Low'))} - {format_currency(result.get('Buy_Range_High'))}")
                             
                             # Enhanced-specific metrics
                             if 'RSI' in result:
-                                st.markdown(f"**RSI:** {result.get('RSI', 0):.1f}")
+                                st.markdown(f"**RSI:** {format_display_number(result.get('RSI'), '{:.1f}')}")
                             if 'Trend_Assessment' in result:
                                 st.markdown(f"**Trend:** {result.get('Trend_Assessment', 'N/A')}")
                         else:
@@ -696,20 +728,20 @@ def main():
                                 st.success(f"**Found in Integrated Analysis!**")
                                 st.markdown(f"### {signal_color} {result.get('Ticker', 'N/A')}")
                                 st.markdown(f"**Decision:** {signal}")
-                                st.markdown(f"**Price:** ₹{result.get('Current_Price', 0):.2f}")
+                                st.markdown(f"**Price:** {format_currency(result.get('Current_Price'))}")
                                 
-                                if 'Target' in result and result['Target'] > 0:
-                                    st.markdown(f"**Target:** ₹{result.get('Target', 0):.2f}")
-                                if 'Stop_Loss' in result and result['Stop_Loss'] > 0:
-                                    st.markdown(f"**Stop Loss:** ₹{result.get('Stop_Loss', 0):.2f}")
+                                if 'Target' in result and is_positive_number(result['Target']):
+                                    st.markdown(f"**Target:** {format_currency(result.get('Target'))}")
+                                if 'Stop_Loss' in result and is_positive_number(result['Stop_Loss']):
+                                    st.markdown(f"**Stop Loss:** {format_currency(result.get('Stop_Loss'))}")
                                 if 'Confidence' in result:
-                                    st.markdown(f"**Confidence:** {result.get('Confidence', 0):.1f}%")
+                                    st.markdown(f"**Confidence:** {format_percent(result.get('Confidence'))}")
                                 
                                 # Integrated-specific metrics
                                 if 'Fundamental_Score' in result:
-                                    st.markdown(f"**Fundamental Score:** {result.get('Fundamental_Score', 0):.1f}/100")
+                                    st.markdown(f"**Fundamental Score:** {format_display_number(result.get('Fundamental_Score'), '{:.1f}')}/100")
                                 if 'Technical_Score' in result:
-                                    st.markdown(f"**Technical Score:** {result.get('Technical_Score', 0):.1f}/100")
+                                    st.markdown(f"**Technical Score:** {format_display_number(result.get('Technical_Score'), '{:.1f}')}/100")
                             else:
                                 st.warning(f"Stock '{search_query}' not found in Integrated Analysis")
                     
@@ -787,12 +819,12 @@ def main():
                         # Format columns
                         for col in ['Price', 'Target', 'Stop Loss']:
                             if col in display_df.columns:
-                                display_df[col] = display_df[col].apply(lambda x: f"₹{x:.2f}" if x > 0 else "-")
+                                display_df[col] = display_df[col].apply(lambda x: format_currency(x) if is_positive_number(x) else "-")
                         for col in ['Fund Score', 'Tech Score']:
                             if col in display_df.columns:
-                                display_df[col] = display_df[col].apply(lambda x: f"{x:.1f}")
+                                display_df[col] = display_df[col].apply(lambda x: format_display_number(x, "{:.1f}"))
                         if 'Confidence' in display_df.columns:
-                            display_df['Confidence'] = display_df['Confidence'].apply(lambda x: f"{x:.1f}%")
+                            display_df['Confidence'] = display_df['Confidence'].apply(lambda x: format_percent(x))
                         
                         st.dataframe(display_df, use_container_width=True, hide_index=True)
                         st.caption(f"✅ {len(accumulate_stocks)} stocks recommended for accumulation")
@@ -813,12 +845,12 @@ def main():
                         
                         # Format columns
                         if 'Price' in display_df.columns:
-                            display_df['Price'] = display_df['Price'].apply(lambda x: f"₹{x:.2f}")
+                            display_df['Price'] = display_df['Price'].apply(format_currency)
                         for col in ['Fund Score', 'Tech Score']:
                             if col in display_df.columns:
-                                display_df[col] = display_df[col].apply(lambda x: f"{x:.1f}")
+                                display_df[col] = display_df[col].apply(lambda x: format_display_number(x, "{:.1f}"))
                         if 'Confidence' in display_df.columns:
-                            display_df['Confidence'] = display_df['Confidence'].apply(lambda x: f"{x:.1f}%")
+                            display_df['Confidence'] = display_df['Confidence'].apply(lambda x: format_percent(x))
                         
                         st.dataframe(display_df, use_container_width=True, hide_index=True)
                         st.caption(f"⏸️  {len(hold_stocks)} stocks recommended to HOLD")
@@ -839,10 +871,10 @@ def main():
                         
                         # Format columns
                         if 'Price' in display_df.columns:
-                            display_df['Price'] = display_df['Price'].apply(lambda x: f"₹{x:.2f}" if x > 0 else "N/A")
+                            display_df['Price'] = display_df['Price'].apply(lambda x: format_currency(x) if is_positive_number(x) else "N/A")
                         for col in ['Fund Score', 'Tech Score']:
                             if col in display_df.columns:
-                                display_df[col] = display_df[col].apply(lambda x: f"{x:.1f}")
+                                display_df[col] = display_df[col].apply(lambda x: format_display_number(x, "{:.1f}"))
                         
                         st.dataframe(display_df, use_container_width=True, hide_index=True)
                         st.caption(f"⛔ {len(avoid_stocks)} stocks showing AVOID signals")

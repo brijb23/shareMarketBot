@@ -539,6 +539,7 @@ class Config:
     ]
     VOLATILITY_LOW = 12
     VOLATILITY_NORMAL = 20
+    DAYS_LOOKBACK = 420  # Enough calendar days for 200+ trading bars
     BASE_DIR = Path(__file__).parent
     OUTPUT_DIR = BASE_DIR / 'nifty50_analysis'
     LOG_DIR = BASE_DIR / 'logs'
@@ -568,16 +569,50 @@ def setup_logging():
 
 # DATA COLLECTION
 class DataCollector:
+    REQUIRED_PRICE_COLUMNS = ['Close', 'High', 'Low', 'Volume']
+    MIN_VALID_BARS = 200
+    
     def __init__(self, logger):
         self.logger = logger
         self.data_cache = {}
     
+    def clean_price_data(self, ticker, data):
+        """Normalize downloaded OHLCV data and remove rows that cannot be analyzed."""
+        if data is None or data.empty:
+            self.logger.warning(f"No data for {ticker}")
+            return None
+        
+        if isinstance(data.columns, pd.MultiIndex):
+            data = data.copy()
+            data.columns = data.columns.get_level_values(0)
+        
+        missing_cols = [col for col in self.REQUIRED_PRICE_COLUMNS if col not in data.columns]
+        if missing_cols:
+            self.logger.warning(f"Missing columns for {ticker}: {', '.join(missing_cols)}")
+            return None
+        
+        original_rows = len(data)
+        data = data.sort_index()
+        data = data.dropna(subset=self.REQUIRED_PRICE_COLUMNS)
+        
+        if data.empty or len(data) < self.MIN_VALID_BARS:
+            self.logger.warning(f"Insufficient valid OHLCV data for {ticker} ({len(data)} bars)")
+            return None
+        
+        dropped_rows = original_rows - len(data)
+        if dropped_rows > 0:
+            self.logger.debug(f"{ticker}: Dropped {dropped_rows} rows with missing OHLCV data")
+        
+        return data
+    
     def fetch_stock_data(self, ticker):
         try:
             self.logger.debug(f"Fetching {ticker}...")
-            data = yf.download(ticker, period='1y', progress=False, timeout=30)
-            if data.empty:
-                self.logger.warning(f"No data for {ticker}")
+            end_date = datetime.now()
+            start_date = end_date - timedelta(days=Config.DAYS_LOOKBACK)
+            data = yf.download(ticker, start=start_date, end=end_date, progress=False, timeout=30)
+            data = self.clean_price_data(ticker, data)
+            if data is None:
                 return None
             self.data_cache[ticker] = data
             return data
@@ -605,6 +640,9 @@ class EnhancedAnalysisEngine:
         self.logger = logger
         self.results = []
         self.tech_analyzer = TechnicalAnalyzer()
+    
+    def _is_valid_number(self, value):
+        return not pd.isna(value) and np.isfinite(value)
     
     def build_technical_metrics(self, ticker, data):
         """Convert raw price data to TechnicalMetrics object"""
@@ -645,79 +683,113 @@ class EnhancedAnalysisEngine:
             # Extract last values safely for scalars
             try:
                 last_close = float(close.iloc[-1])
+                if not self._is_valid_number(last_close) or last_close <= 0:
+                    self.logger.warning(f"{ticker}: Invalid latest close price - skipping")
+                    return None
             except:
-                last_close = 0.0
+                self.logger.warning(f"{ticker}: Missing latest close price - skipping")
+                return None
                 
             try:
                 last_ma20 = float(ma20.iloc[-1])
-                if pd.isna(last_ma20):
-                    last_ma20 = 0.0
+                if not self._is_valid_number(last_ma20):
+                    self.logger.warning(f"{ticker}: Invalid MA20 - skipping")
+                    return None
             except:
-                last_ma20 = 0.0
+                self.logger.warning(f"{ticker}: Missing MA20 - skipping")
+                return None
                 
             try:
                 last_ma50 = float(ma50.iloc[-1])
-                if pd.isna(last_ma50):
-                    last_ma50 = 0.0
+                if not self._is_valid_number(last_ma50):
+                    self.logger.warning(f"{ticker}: Invalid MA50 - skipping")
+                    return None
             except:
-                last_ma50 = 0.0
+                self.logger.warning(f"{ticker}: Missing MA50 - skipping")
+                return None
                 
             try:
                 last_ma200 = float(ma200.iloc[-1])
-                if pd.isna(last_ma200):
-                    last_ma200 = 0.0
+                if not self._is_valid_number(last_ma200):
+                    self.logger.warning(f"{ticker}: Invalid MA200 - skipping")
+                    return None
             except:
-                last_ma200 = 0.0
+                self.logger.warning(f"{ticker}: Missing MA200 - skipping")
+                return None
                 
             try:
                 last_rsi = float(rsi.iloc[-1])
-                if pd.isna(last_rsi):
-                    last_rsi = 50.0
+                if not self._is_valid_number(last_rsi):
+                    self.logger.warning(f"{ticker}: Invalid RSI - skipping")
+                    return None
             except:
-                last_rsi = 50.0
+                self.logger.warning(f"{ticker}: Missing RSI - skipping")
+                return None
                 
             try:
                 last_macd = float(macd.iloc[-1])
-                if pd.isna(last_macd):
-                    last_macd = 0.0
+                if not self._is_valid_number(last_macd):
+                    self.logger.warning(f"{ticker}: Invalid MACD - skipping")
+                    return None
             except:
-                last_macd = 0.0
+                self.logger.warning(f"{ticker}: Missing MACD - skipping")
+                return None
                 
             try:
                 last_signal = float(signal_line.iloc[-1])
-                if pd.isna(last_signal):
-                    last_signal = 0.0
+                if not self._is_valid_number(last_signal):
+                    self.logger.warning(f"{ticker}: Invalid MACD signal - skipping")
+                    return None
             except:
-                last_signal = 0.0
+                self.logger.warning(f"{ticker}: Missing MACD signal - skipping")
+                return None
                 
             try:
                 last_atr = float(atr.iloc[-1])
-                if pd.isna(last_atr):
-                    last_atr = 10.0
+                if not self._is_valid_number(last_atr) or last_atr <= 0:
+                    self.logger.warning(f"{ticker}: Invalid ATR - skipping")
+                    return None
             except:
-                last_atr = 10.0
+                self.logger.warning(f"{ticker}: Missing ATR - skipping")
+                return None
                 
             try:
                 last_vol = float(volume.iloc[-1])
+                if not self._is_valid_number(last_vol):
+                    self.logger.warning(f"{ticker}: Invalid volume - skipping")
+                    return None
             except:
-                last_vol = 0.0
+                self.logger.warning(f"{ticker}: Missing volume - skipping")
+                return None
                 
             try:
                 last_vol_sma = float(vol_sma.iloc[-1])
-                if pd.isna(last_vol_sma):
-                    last_vol_sma = 0.0
+                if not self._is_valid_number(last_vol_sma):
+                    self.logger.warning(f"{ticker}: Invalid average volume - skipping")
+                    return None
             except:
-                last_vol_sma = 0.0
+                self.logger.warning(f"{ticker}: Missing average volume - skipping")
+                return None
                 
             try:
                 high_52w = float(close.tail(252).max())
+                if not self._is_valid_number(high_52w) or high_52w <= 0:
+                    high_52w = last_close
             except:
                 high_52w = last_close
                 
             try:
                 low_52w = float(close.tail(252).min())
+                if not self._is_valid_number(low_52w) or low_52w <= 0:
+                    low_52w = last_close
             except:
                 low_52w = last_close
+            
+            volume_trend = "stable"
+            if last_vol_sma > 0 and last_vol > last_vol_sma * 1.2:
+                volume_trend = "increasing"
+            elif last_vol_sma > 0 and last_vol < last_vol_sma * 0.8:
+                volume_trend = "decreasing"
             
             metrics = TechnicalMetrics(
                 current_price=last_close,
@@ -730,7 +802,7 @@ class EnhancedAnalysisEngine:
                 atr_14=last_atr,
                 current_volume=int(last_vol),
                 avg_volume_20d=int(last_vol_sma),
-                volume_trend="stable",
+                volume_trend=volume_trend,
                 price_52w_high=high_52w,
                 price_52w_low=low_52w,
                 price_52w_avg=(high_52w + low_52w) / 2
@@ -759,8 +831,24 @@ class EnhancedAnalysisEngine:
             tr3 = (low - close.shift()).abs()
             tr = pd.concat([tr1, tr2, tr3], axis=1).max(axis=1)
             atr = float(tr.rolling(14).mean().iloc[-1])
+            if not self._is_valid_number(atr):
+                atr = metrics.atr_14
+            if not self._is_valid_number(atr):
+                self.logger.warning(f"{ticker}: Invalid ATR - skipping")
+                return None
             
             current = metrics.current_price
+            if not self._is_valid_number(current) or current <= 0:
+                self.logger.warning(f"{ticker}: Invalid current price - skipping")
+                return None
+            ma50_value = float(close.rolling(50).mean().iloc[-1])
+            if not self._is_valid_number(ma50_value):
+                self.logger.warning(f"{ticker}: Invalid MA50 - skipping")
+                return None
+            atr_percent = (atr / current) * 100
+            if not self._is_valid_number(atr_percent):
+                self.logger.warning(f"{ticker}: Invalid ATR percent - skipping")
+                return None
             
             # Generate signal based on trend assessment
             if trend == "uptrend":
@@ -795,6 +883,7 @@ class EnhancedAnalysisEngine:
                 'RSI': round(metrics.rsi_14, 2),
                 'MACD': round(metrics.macd_line, 2),
                 'ATR': round(atr, 2),
+                'ATR_Percent': round(atr_percent, 2),
                 'Buy_Range_Low': round(buy_low, 2) if buy_low else None,
                 'Buy_Range_High': round(buy_high, 2) if buy_high else None,
                 'Stop_Loss': round(stop, 2),
@@ -802,6 +891,7 @@ class EnhancedAnalysisEngine:
                 'RR_Ratio': round(rr, 2),
                 'Analysis_Date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                 'Confidence': min(100, int(confidence)),
+                'MA50': round(ma50_value, 2),
                 'Rules_Passed': len(self.tech_analyzer.rules_passed) if hasattr(self.tech_analyzer, 'rules_passed') else 0,
                 'Rules_Failed': len(self.tech_analyzer.rules_failed) if hasattr(self.tech_analyzer, 'rules_failed') else 0
             }
@@ -847,9 +937,10 @@ class Phase19_3Enhancer:
                 elif rsi <= 40:
                     result['RSI_Note'] = "Weak (RSI 30-40)"
             
-            if result['ATR'] <= Config.VOLATILITY_LOW:
+            atr_percent = result.get('ATR_Percent', 0)
+            if atr_percent < 2:
                 result['Risk_Context'] = "LOW"
-            elif result['ATR'] <= Config.VOLATILITY_NORMAL:
+            elif atr_percent <= 4:
                 result['Risk_Context'] = "NORMAL"
             else:
                 result['Risk_Context'] = "ELEVATED"
@@ -863,14 +954,43 @@ class OutputGenerator:
         self.logger = logger
         self.ts = datetime.now().strftime('%Y%m%d_%H%M%S')
     
+    def _is_valid_number(self, value):
+        return not pd.isna(value) and np.isfinite(value)
+    
+    def _is_valid_result(self, result):
+        if result.get('Signal') not in {'BUY', 'HOLD', 'SELL'}:
+            return False
+        required_numeric = [
+            'Current_Price', 'RSI', 'MACD', 'MA20', 'MA50', 'MA200',
+            'ATR', 'ATR_Percent', 'Stop_Loss', 'Target', 'RR_Ratio',
+            'Confidence', 'Rules_Passed', 'Rules_Failed'
+        ]
+        for key in required_numeric:
+            value = result.get(key)
+            if not self._is_valid_number(value):
+                return False
+            if key in {'Current_Price', 'ATR'} and value <= 0:
+                return False
+            if key == 'Confidence' and not 0 <= value <= 100:
+                return False
+        return True
+    
+    def _validated_results(self, results):
+        valid = [result for result in results if self._is_valid_result(result)]
+        dropped = len(results) - len(valid)
+        if dropped:
+            self.logger.warning(f"Dropped {dropped} invalid result rows before output")
+        return valid
+    
     def generate_all(self, results):
         self.logger.info("Generating outputs...")
+        results = self._validated_results(results)
         files = []
         
         # CSV
         try:
             csv_file = Config.OUTPUT_DIR / f'NIFTY50_WEEKLY_ENHANCED_{self.ts}.csv'
-            keys = ['Ticker', 'Signal', 'Current_Price', 'Trend_Assessment', 'RSI', 'MACD', 'MA20', 'MA50', 'MA200', 'ATR',
+            keys = ['Ticker', 'Signal', 'Current_Price', 'Trend_Assessment', 'RSI', 'MACD', 'MA20', 'MA50', 'MA200', 'ATR', 'ATR_Percent',
                     'Buy_Range_Low', 'Buy_Range_High', 'Stop_Loss', 'Target', 'RR_Ratio', 'Risk_Context', 'Confidence', 'Rules_Passed', 'Rules_Failed']
             with open(csv_file, 'w', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=keys, extrasaction='ignore')
@@ -898,7 +1018,7 @@ class OutputGenerator:
                 'Recommendations': results
             }
             with open(json_file, 'w') as f:
-                json.dump(output, f, indent=2)
+                json.dump(output, f, indent=2, allow_nan=False)
             self.logger.info(f"[OK] JSON: {json_file.name}")
             files.append(str(json_file))
         except Exception as e:

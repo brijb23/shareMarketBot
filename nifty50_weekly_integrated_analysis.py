@@ -608,8 +608,8 @@ class Config:
     PRICE_DATA_DIR = Path(__file__).parent / 'data' / 'prices'
     
     # Analysis parameters
-    DAYS_LOOKBACK = 180  # 6 months of data
-    MIN_DATA_POINTS = 60  # Minimum bars required for analysis
+    DAYS_LOOKBACK = 420  # Enough calendar days for 200+ trading bars
+    MIN_DATA_POINTS = 200  # Minimum bars required for SMA-200/long-term trend analysis
     
     # Sector classification for enhanced analysis
     SECTOR_MAPPING = {
@@ -681,9 +681,11 @@ class IntegratedDataFetcher:
         self.price_cache = {}  # In-memory cache for price data
         self.fundamental_cache = {}  # In-memory cache for fundamental data
     
-    def fetch_price_data(self, ticker, days=180):
+    def fetch_price_data(self, ticker, days=None):
         """Fetch OHLCV data from yfinance (or return from cache)"""
         try:
+            if days is None:
+                days = Config.DAYS_LOOKBACK
             # Return from cache if available
             if ticker in self.price_cache:
                 return self.price_cache[ticker]
@@ -710,11 +712,13 @@ class IntegratedDataFetcher:
             self.logger.error(f"{ticker}: Price fetch failed - {str(e)[:50]}")
             return None
     
-    def bulk_fetch_all_price_data(self, tickers, days=180):
+    def bulk_fetch_all_price_data(self, tickers, days=None):
         """
         PHASE 1: Bulk fetch ALL price data synchronously (sequential)
         This ensures latest data before any analysis
         """
+        if days is None:
+            days = Config.DAYS_LOOKBACK
         self.logger.info("="*70)
         self.logger.info("PHASE 1: BULK DATA COLLECTION - STARTING")
         self.logger.info("="*70)
@@ -790,9 +794,11 @@ class IntegratedDataFetcher:
         self.logger.info(f"PHASE 1B COMPLETE: {len(self.fundamental_cache)} tickers with fundamental data")
         self.logger.info("="*70)
     
-    def get_market_index_data(self, days=180):
+    def get_market_index_data(self, days=None):
         """Fetch market index (NIFTY50 proxy) for regime analysis"""
         try:
+            if days is None:
+                days = Config.DAYS_LOOKBACK
             end_date = datetime.now()
             start_date = end_date - timedelta(days=days)
             
@@ -1014,7 +1020,7 @@ class IntegratedAnalysisEngine:
             
             # Extract key metrics
             current_price = float(price_data['Close'].iloc[-1])
-            if current_price == 0:
+            if pd.isna(current_price) or not np.isfinite(current_price) or current_price <= 0:
                 self.logger.warning(f"{ticker}: Invalid price data")
                 return None
             
@@ -1572,7 +1578,7 @@ def main():
         stocks_to_analyze = Config.NIFTY50_STOCKS
         
         logger.info(f"Bulk-fetching price data for {len(stocks_to_analyze)} stocks (SYNCHRONOUS)...")
-        price_cache = fetcher.bulk_fetch_all_price_data(stocks_to_analyze, days=180)
+        price_cache = fetcher.bulk_fetch_all_price_data(stocks_to_analyze)
         logger.info(f"PHASE 1: Price data fetched for {len(price_cache)} stocks")
         
         logger.info(f"Bulk-fetching fundamental data for cached stocks...")
@@ -1651,13 +1657,13 @@ def main():
             
             json_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
             with open(json_file, 'w') as f:
-                json.dump(structured_data, f, indent=2, default=str)
+                json.dump(structured_data, f, indent=2, default=str, allow_nan=False)
             logger.info(f"[SUCCESS] Structured JSON results saved: {json_file}")
             
             # Save formatted text reports
             text_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{datetime.now().strftime('%Y%m%d_%H%M%S')}_REPORTS.json"
             with open(text_file, 'w') as f:
-                json.dump(formatted_reports, f, indent=2, default=str)
+                json.dump(formatted_reports, f, indent=2, default=str, allow_nan=False)
             logger.info(f"[SUCCESS] Text reports saved: {text_file}")
             
             # CSV output

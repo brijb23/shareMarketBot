@@ -562,16 +562,48 @@ def setup_logging():
 
 # DATA COLLECTION
 class DataCollector:
+    REQUIRED_PRICE_COLUMNS = ['Close', 'High', 'Low']
+    MIN_VALID_BARS = 60
+    
     def __init__(self, logger):
         self.logger = logger
         self.data_cache = {}
+    
+    def clean_price_data(self, ticker, data):
+        """Normalize downloaded OHLC data and remove rows that cannot be analyzed."""
+        if data is None or data.empty:
+            self.logger.warning(f"No data for {ticker}")
+            return None
+        
+        if isinstance(data.columns, pd.MultiIndex):
+            data = data.copy()
+            data.columns = data.columns.get_level_values(0)
+        
+        missing_cols = [col for col in self.REQUIRED_PRICE_COLUMNS if col not in data.columns]
+        if missing_cols:
+            self.logger.warning(f"Missing columns for {ticker}: {', '.join(missing_cols)}")
+            return None
+        
+        original_rows = len(data)
+        data = data.sort_index()
+        data = data.dropna(subset=self.REQUIRED_PRICE_COLUMNS)
+        
+        if data.empty or len(data) < self.MIN_VALID_BARS:
+            self.logger.warning(f"Insufficient valid OHLC data for {ticker} ({len(data)} bars)")
+            return None
+        
+        dropped_rows = original_rows - len(data)
+        if dropped_rows > 0:
+            self.logger.debug(f"{ticker}: Dropped {dropped_rows} rows with missing OHLC data")
+        
+        return data
     
     def fetch_stock_data(self, ticker):
         try:
             self.logger.info(f"Fetching {ticker}...")
             data = yf.download(ticker, period='1y', progress=False, timeout=30)
-            if data.empty:
-                self.logger.warning(f"No data for {ticker}")
+            data = self.clean_price_data(ticker, data)
+            if data is None:
                 return None
             self.data_cache[ticker] = data
             return data
@@ -598,6 +630,9 @@ class AnalysisEngine:
     def __init__(self, logger):
         self.logger = logger
         self.results = []
+    
+    def _is_valid_number(self, value):
+        return not pd.isna(value) and np.isfinite(value)
     
     def calc_trend(self, data):
         try:
@@ -649,6 +684,17 @@ class AnalysisEngine:
             volatility = float(self.calc_volatility(data))
             current = float(data['Close'].iloc[-1])
             atr = float(self.calc_atr(data))
+            required_values = {
+                'trend': trend,
+                'momentum': momentum,
+                'volatility': volatility,
+                'current price': current,
+                'ATR': atr,
+            }
+            invalid = [name for name, value in required_values.items() if not self._is_valid_number(value)]
+            if invalid or current <= 0 or atr <= 0:
+                self.logger.warning(f"{ticker}: Invalid indicator data ({', '.join(invalid) or 'price/ATR'}) - skipping")
+                return None
             
             # Signal logic
             if trend > Config.TREND_THRESHOLD and momentum > Config.MOMENTUM_THRESHOLD:
@@ -669,6 +715,15 @@ class AnalysisEngine:
                 target = current + (atr * 2)
             
             rr = abs((target - current) / (current - stop)) if abs(current - stop) > 0.01 else 0
+            final_values = {
+                'stop loss': stop,
+                'target': target,
+                'RR ratio': rr,
+            }
+            invalid_final = [name for name, value in final_values.items() if not self._is_valid_number(value)]
+            if invalid_final:
+                self.logger.warning(f"{ticker}: Invalid output values ({', '.join(invalid_final)}) - skipping")
+                return None
             
             return {
                 'Ticker': ticker,
@@ -755,8 +810,37 @@ class OutputGenerator:
         self.logger = logger
         self.ts = datetime.now().strftime('%Y%m%d_%H%M%S')
     
+    def _is_valid_number(self, value):
+        return not pd.isna(value) and np.isfinite(value)
+    
+    def _is_valid_result(self, result):
+        if result.get('Signal') not in {'BUY', 'HOLD', 'SELL'}:
+            return False
+        required_numeric = [
+            'Current_Price', 'Trend_Percent', 'Momentum_Percent',
+            'Volatility_Percent', 'Stop_Loss', 'Target',
+            'RR_Ratio', 'Confidence'
+        ]
+        for key in required_numeric:
+            value = result.get(key)
+            if not self._is_valid_number(value):
+                return False
+            if key == 'Current_Price' and value <= 0:
+                return False
+            if key == 'Confidence' and not 0 <= value <= 100:
+                return False
+        return True
+    
+    def _validated_results(self, results):
+        valid = [result for result in results if self._is_valid_result(result)]
+        dropped = len(results) - len(valid)
+        if dropped:
+            self.logger.warning(f"Dropped {dropped} invalid result rows before output")
+        return valid
+    
     def generate_all(self, results):
         self.logger.info("Generating outputs...")
+        results = self._validated_results(results)
         files = []
         
         # CSV
@@ -790,7 +874,7 @@ class OutputGenerator:
                 'Recommendations': results
             }
             with open(json_file, 'w') as f:
-                json.dump(output, f, indent=2)
+                json.dump(output, f, indent=2, allow_nan=False)
             self.logger.info(f"[OK] JSON: {json_file.name}")
             files.append(str(json_file))
         except:
