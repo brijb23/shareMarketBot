@@ -2,8 +2,8 @@ name: Daily Stock Analysis
 
 on:
   schedule:
-    # Run daily at 12:00 AM UTC (adjust timezone as needed)
-    - cron: '30 18 * * *'
+    # Run daily at 1:30 AM UTC (adjust timezone as needed)
+    - cron: '30 1 * * *'
   
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
