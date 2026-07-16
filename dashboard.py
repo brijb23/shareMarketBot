@@ -111,7 +111,7 @@ def get_todays_json_file():
     today = datetime.now()
 
     # Subtract one day using timedelta to get yesterday's datetime object
-    yesterday = today - timedelta(days=1)
+    yesterday = today - timedelta(days=0)
 
     # Format the previous day's datetime object into the desired string format
     previous_date_str = yesterday.strftime('%Y%m%d')
@@ -128,7 +128,7 @@ def get_todays_enhanced_json_file():
     today = datetime.now()
 
     # Subtract one day using timedelta to get yesterday's datetime object
-    yesterday = today - timedelta(days=1)
+    yesterday = today - timedelta(days=0)
 
     # Format the previous day's datetime object into the desired string format
     previous_date_str = yesterday.strftime('%Y%m%d')
@@ -146,7 +146,7 @@ def get_todays_integrated_json_file():
     today = datetime.now()
 
     # Subtract one day using timedelta to get yesterday's datetime object
-    yesterday = today - timedelta(days=1)
+    yesterday = today - timedelta(days=0)
 
     # Format the previous day's datetime object into the desired string format
     previous_date_str = yesterday.strftime('%Y%m%d')
