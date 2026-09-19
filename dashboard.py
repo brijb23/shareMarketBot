@@ -13,6 +13,8 @@ import subprocess
 import os
 import sys
 import math
+import logging
+import numpy as np
 from datetime import datetime, timedelta
 from pathlib import Path
 import yfinance as yf
@@ -106,45 +108,57 @@ st.markdown("""
 # HELPER FUNCTIONS
 # ============================================================================
 
-def get_todays_json_file():
-    """Check if the previous trading day's JSON file exists, return path if yes."""
-    today = datetime.now()
-    previous_day = today - timedelta(days=1)
-    previous_date_str = previous_day.strftime('%Y%m%d')
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_{previous_date_str}*.json"
-    files = glob.glob(pattern)
-
-    if files:
-        return sorted(files)[-1]
+def get_latest_matching_file(prefix):
+    """Return the most recent matching file for the current date, or previous day if needed."""
+    for offset in [0, 1]:
+        target_date = datetime.now() - timedelta(days=offset)
+        date_str = target_date.strftime('%Y%m%d')
+        pattern = f"{ANALYSIS_DIR}/{prefix}{date_str}*.json"
+        files = glob.glob(pattern)
+        if files:
+            return sorted(files)[-1]
     return None
+
+
+def get_todays_json_file():
+    """Check the current day's JSON file first, then fall back to the previous day."""
+    return get_latest_matching_file('NIFTY50_WEEKLY_')
+
 
 def get_todays_enhanced_json_file():
-    """Check if the previous trading day's enhanced JSON file exists, return path if yes."""
-    today = datetime.now()
-    previous_day = today - timedelta(days=1)
-    previous_date_str = previous_day.strftime('%Y%m%d')
+    """Check the current day's enhanced JSON file first, then fall back to the previous day."""
+    return get_latest_matching_file('NIFTY50_WEEKLY_ENHANCED_')
 
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_WEEKLY_ENHANCED_{previous_date_str}*.json"
-    files = glob.glob(pattern)
-
-    if files:
-        return sorted(files)[-1]
-    return None
 
 def get_todays_integrated_json_file():
-    """Check if the previous trading day's integrated JSON file exists, return path if yes."""
-    today = datetime.now()
-    previous_day = today - timedelta(days=1)
-    previous_date_str = previous_day.strftime('%Y%m%d')
-
-    pattern = f"{ANALYSIS_DIR}/NIFTY50_INTEGRATED_WEEKLY_{previous_date_str}*.json"
-    files = glob.glob(pattern)
-
-    files = [f for f in files if 'REPORTS' not in f]
-
-    if files:
-        return sorted(files)[-1]
+    """Check the current day's integrated JSON file first, then fall back to the previous day."""
+    file_path = get_latest_matching_file('NIFTY50_INTEGRATED_WEEKLY_')
+    if file_path and 'REPORTS' not in file_path:
+        return file_path
     return None
+
+
+def get_todays_fundamental_json_file():
+    """Check current-day fundamental JSON first, then previous day. Works with both explicit fundamental names and date-based matches."""
+    for offset in [0, 1]:
+        target_date = datetime.now() - timedelta(days=offset)
+        date_str = target_date.strftime('%Y%m%d')
+
+        patterns = [
+            f"{ANALYSIS_DIR}/*FUNDAMENTAL*{date_str}*.json",
+            f"{ANALYSIS_DIR}/*{date_str}*.json",
+        ]
+
+        for pattern in patterns:
+            files = glob.glob(pattern)
+            files = [
+                f for f in files
+                if 'REPORTS' not in f and 'SUMMARY' not in f and 'INTEGRATED' not in f and 'ENHANCED' not in f and 'WEEKLY_' in f
+            ]
+            if files:
+                return sorted(files)[-1]
+    return None
+
 
 def generate_todays_recommendations():
     """Run automation script to generate today's recommendations"""
@@ -339,6 +353,105 @@ def search_stock(recommendations, search_ticker):
     
     return None
 
+
+def analyze_single_stock_ticker(ticker: str):
+    """Analyze a single ticker using the same production logic as the automation scripts."""
+    if not ticker:
+        return None
+
+    symbol = ticker.strip().upper()
+    if not symbol:
+        return None
+
+    try:
+        import nifty50_weekly_automation as standard_module
+        import nifty50_weekly_automation_enhanced as enhanced_module
+
+        data = yf.download(symbol, period='1y', progress=False, auto_adjust=False, timeout=30)
+        if data is None or data.empty:
+            return None
+
+        if isinstance(data.columns, pd.MultiIndex):
+            data = data.copy()
+            data.columns = data.columns.get_level_values(0)
+
+        logger = logging.getLogger('dashboard_single_stock')
+        logger.setLevel(logging.INFO)
+        if not logger.handlers:
+            handler = logging.StreamHandler()
+            handler.setFormatter(logging.Formatter('%(message)s'))
+            logger.addHandler(handler)
+
+        collector = standard_module.DataCollector(logger)
+        clean_data = collector.clean_price_data(symbol, data)
+        if clean_data is None or clean_data.empty:
+            return None
+
+        standard_engine = standard_module.AnalysisEngine(logger)
+        standard = standard_engine.generate_signal(symbol, clean_data)
+        if standard is None:
+            return None
+
+        enhanced_engine = enhanced_module.EnhancedAnalysisEngine(logger)
+        enhanced = enhanced_engine.generate_signal(symbol, clean_data)
+        if enhanced is None:
+            enhanced = {
+                'Signal': standard['Signal'],
+                'Current_Price': standard['Current_Price'],
+                'Target': standard['Target'],
+                'Stop_Loss': standard['Stop_Loss'],
+                'Confidence': standard['Confidence'],
+                'RSI': standard.get('Trend_Percent', 0),
+                'MACD': standard.get('Momentum_Percent', 0),
+                'Trend_Assessment': standard['Signal']
+            }
+
+        info = yf.Ticker(symbol).info or {}
+        roe = float(info.get('returnOnEquity', 0.15) * 100 if info.get('returnOnEquity') else 15)
+        roce = float(info.get('returnOnAssets', 0.12) * 100 if info.get('returnOnAssets') else 12)
+        profit_margin = float(info.get('profitMargins', 0.10) * 100 if info.get('profitMargins') else 10)
+        revenue_growth = float(info.get('revenueGrowth', 0.08) * 100 if info.get('revenueGrowth') else 8)
+        debt_to_equity = float(info.get('debtToEquity', 0.5) if info.get('debtToEquity') is not None else 0.5)
+        pe_ratio = float(info.get('trailingPE', 20) if info.get('trailingPE') is not None else 20)
+        pb_ratio = float(info.get('priceToBook', 2.0) if info.get('priceToBook') is not None else 2.0)
+        dividend_yield = float(info.get('dividendYield', 0.02) * 100 if info.get('dividendYield') else 2)
+
+        fundamental_ok = (
+            profit_margin >= 5 and roe >= 12 and roce >= 10 and revenue_growth >= 8 and
+            debt_to_equity <= 1.5 and pe_ratio <= 35 and pb_ratio <= 3.0
+        )
+        fundamental_signal = 'BUY' if fundamental_ok else ('HOLD' if dividend_yield > 0 else 'SELL')
+        fundamental = {
+            'Signal': fundamental_signal,
+            'Confidence': 80 if fundamental_signal == 'BUY' else 60,
+            'ROE': round(roe, 2),
+            'ROCE': round(roce, 2),
+            'Profit_Margin': round(profit_margin, 2),
+            'Revenue_Growth': round(revenue_growth, 2),
+            'Debt_To_Equity': round(debt_to_equity, 2),
+            'PE_Ratio': round(pe_ratio, 2),
+            'PB_Ratio': round(pb_ratio, 2),
+            'Dividend_Yield': round(dividend_yield, 2),
+            'Trend_Assessment': fundamental_signal,
+        }
+
+        final_signal = standard['Signal']
+        return {
+            'Ticker': symbol,
+            'Signal': final_signal,
+            'Current_Price': standard['Current_Price'],
+            'Target': standard['Target'],
+            'Stop_Loss': standard['Stop_Loss'],
+            'Confidence': standard['Confidence'],
+            'Standard_Analysis': standard,
+            'Enhanced_Analysis': enhanced,
+            'Fundamental_Analysis': fundamental,
+            'Custom_Analysis': True,
+            'Analysis_Date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        }
+    except Exception:
+        return None
+
 # ============================================================================
 # MAIN APP
 # ============================================================================
@@ -346,18 +459,16 @@ def search_stock(recommendations, search_ticker):
 def main():
     # Title
     st.markdown('<div class="main-title">📈 NIFTY50 Weekly Recommendations</div>', unsafe_allow_html=True)
-    
-    # Search functionality in sidebar
+
     with st.sidebar:
         st.header("🔍 Stock Search")
         search_query = st.text_input("Enter Stock Ticker (e.g., TCS.NS, RELIANCE.NS)", key="stock_search")
-        
         if search_query:
             st.markdown("---")
             st.subheader("Search Results")
-    
+
     # Create tabs for different recommendation types
-    tab1, tab2, tab3 = st.tabs(["📊 Standard Analysis", "🚀 Enhanced Analysis", "🎯 Integrated Analysis"])
+    tab1, tab2, tab3, tab4 = st.tabs(["📊 Standard Analysis", "🚀 Enhanced Analysis", "🔎 Custom Ticker Analysis", "🎯 Integrated Analysis"])
     
     # ============================================================================
     # TAB 1: STANDARD ANALYSIS (Original functionality)
@@ -643,9 +754,76 @@ def main():
                 """, unsafe_allow_html=True)
     
     # ============================================================================
-    # TAB 3: INTEGRATED ANALYSIS (Comprehensive 21-module analysis)
+    # TAB 3: CUSTOM TICKER ANALYSIS
     # ============================================================================
     with tab3:
+        custom_ticker = st.text_input("Analyze custom ticker (e.g., INFY.NS)", key="custom_stock_input_main")
+        if custom_ticker:
+            st.markdown('<div class="section-title buy-section">🔎 Custom Stock Analysis</div>', unsafe_allow_html=True)
+            single_result = analyze_single_stock_ticker(custom_ticker)
+            if single_result:
+                signal = single_result.get('Signal', 'HOLD')
+                signal_color = {'BUY': '🟢', 'HOLD': '🟡', 'SELL': '🔴'}.get(signal, '⚪')
+                st.success(f"**{signal_color} {single_result.get('Ticker')}**")
+                st.markdown(f"**Overall Signal:** {signal}")
+                st.markdown(f"**Current Price:** {format_currency(single_result.get('Current_Price'))}")
+                st.markdown(f"**Analysis Date:** {single_result.get('Analysis_Date')}")
+
+                standard = single_result.get('Standard_Analysis', {})
+                enhanced = single_result.get('Enhanced_Analysis', {})
+                fundamental = single_result.get('Fundamental_Analysis', {})
+
+                col1, col2, col3 = st.columns(3)
+
+                with col1:
+                    st.markdown('<div class="section-title hold-section" style="font-size:1.1em; padding:12px;">📊 Standard Analysis</div>', unsafe_allow_html=True)
+                    if standard:
+                        st.markdown(f"**Signal:** {standard.get('Signal')}")
+                        st.markdown(f"**Confidence:** {format_percent(standard.get('Confidence'))}")
+                        st.markdown(f"**Price:** {format_currency(standard.get('Current_Price'))}")
+                        st.markdown(f"**Target:** {format_currency(standard.get('Target'))}")
+                        st.markdown(f"**Stop Loss:** {format_currency(standard.get('Stop_Loss'))}")
+                    else:
+                        st.info("No standard analysis available")
+
+                with col2:
+                    st.markdown('<div class="section-title buy-section" style="font-size:1.1em; padding:12px;">🚀 Enhanced Analysis</div>', unsafe_allow_html=True)
+                    if enhanced:
+                        st.markdown(f"**Signal:** {enhanced.get('Signal')}")
+                        st.markdown(f"**Confidence:** {format_percent(enhanced.get('Confidence'))}")
+                        st.markdown(f"**Breakout Confirmed:** {'Yes' if enhanced.get('Breakout_Confirmed') else 'No'}")
+                        st.markdown(f"**Trend Consistent:** {'Yes' if enhanced.get('Trend_Consistent') else 'No'}")
+                        st.markdown(f"**Volume Surge:** {'Yes' if enhanced.get('Volume_Surge') else 'No'}")
+                        st.markdown(f"**Relative Strength:** {'Yes' if enhanced.get('Relative_Strength') else 'No'}")
+                        st.markdown(f"**Target:** {format_currency(enhanced.get('Target'))}")
+                        st.markdown(f"**Stop Loss:** {format_currency(enhanced.get('Stop_Loss'))}")
+                    else:
+                        st.info("No enhanced analysis available")
+
+                with col3:
+                    st.markdown('<div class="section-title sell-section" style="font-size:1.1em; padding:12px;">📉 Fundamental Analysis</div>', unsafe_allow_html=True)
+                    if fundamental:
+                        st.markdown(f"**Signal:** {fundamental.get('Signal')}")
+                        st.markdown(f"**Confidence:** {format_percent(fundamental.get('Confidence'))}")
+                        st.markdown(f"**ROE:** {fundamental.get('ROE')}%")
+                        st.markdown(f"**ROCE:** {fundamental.get('ROCE')}%")
+                        st.markdown(f"**Profit Margin:** {fundamental.get('Profit_Margin')}%")
+                        st.markdown(f"**Revenue Growth:** {fundamental.get('Revenue_Growth')}%")
+                        st.markdown(f"**Debt/Equity:** {fundamental.get('Debt_To_Equity')}")
+                        st.markdown(f"**PE Ratio:** {fundamental.get('PE_Ratio')}")
+                        st.markdown(f"**PB Ratio:** {fundamental.get('PB_Ratio')}")
+                        st.markdown(f"**Dividend Yield:** {fundamental.get('Dividend_Yield')}%")
+                    else:
+                        st.info("No fundamental analysis available")
+
+                st.divider()
+            else:
+                st.warning(f"Could not analyze '{custom_ticker}'. Please check the ticker symbol.")
+
+    # ============================================================================
+    # TAB 4: INTEGRATED ANALYSIS (Comprehensive 21-module analysis)
+    # ============================================================================
+    with tab4:
         # Get or generate integrated file
         integrated_json_file = get_todays_integrated_json_file()
         
