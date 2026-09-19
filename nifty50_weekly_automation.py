@@ -808,7 +808,7 @@ class Phase19_3Enhancer:
 class OutputGenerator:
     def __init__(self, logger):
         self.logger = logger
-        self.ts = datetime.now().strftime('%Y%m%d_%H%M%S')
+        self.ts = datetime.now().strftime('%Y%m%d')
     
     def _is_valid_number(self, value):
         return not pd.isna(value) and np.isfinite(value)

@@ -1654,21 +1654,22 @@ def main():
                 'stop_loss': r.get('stop_loss', 0),
                 'scores': r.get('scores', {})
             } for r in results]
-            
-            json_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+
+            analysis_date = datetime.now().strftime('%Y%m%d')
+            json_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{analysis_date}.json"
             with open(json_file, 'w') as f:
                 json.dump(structured_data, f, indent=2, default=str, allow_nan=False)
             logger.info(f"[SUCCESS] Structured JSON results saved: {json_file}")
             
             # Save formatted text reports
-            text_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{datetime.now().strftime('%Y%m%d_%H%M%S')}_REPORTS.json"
+            text_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{analysis_date}_REPORTS.json"
             with open(text_file, 'w') as f:
                 json.dump(formatted_reports, f, indent=2, default=str, allow_nan=False)
             logger.info(f"[SUCCESS] Text reports saved: {text_file}")
             
             # CSV output
             df = pd.DataFrame(structured_data)
-            csv_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+            csv_file = Config.ANALYSIS_DIR / f"NIFTY50_INTEGRATED_WEEKLY_{analysis_date}.csv"
             df.to_csv(csv_file, index=False)
             logger.info(f"[SUCCESS] CSV results saved: {csv_file}")
         
