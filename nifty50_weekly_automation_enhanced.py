@@ -812,6 +812,69 @@ class EnhancedAnalysisEngine:
             self.logger.error(f"Error building metrics for {ticker}: {str(e)}")
             return None
     
+    def _get_index_data(self):
+        """Fetch Nifty 50 index data for relative strength checks in enhanced analysis only."""
+        try:
+            if hasattr(self, '_index_cache') and self._index_cache is not None:
+                return self._index_cache
+            end_date = datetime.now()
+            start_date = end_date - timedelta(days=Config.DAYS_LOOKBACK)
+            index_data = yf.download('^NSEI', start=start_date, end=end_date, progress=False, timeout=30)
+            if index_data is None or index_data.empty:
+                self._index_cache = None
+                return None
+            index_data = index_data.sort_index().dropna(subset=['Close'])
+            self._index_cache = index_data
+            return index_data
+        except Exception as e:
+            self.logger.warning(f"Index data unavailable for relative strength: {str(e)[:60]}")
+            self._index_cache = None
+            return None
+
+    def _check_breakout_confirmation(self, close_series):
+        """Breakout confirmation requires price holding above the recent 20-day high."""
+        if len(close_series) < 20:
+            return False
+        recent_high = float(close_series.tail(20).max())
+        latest_close = float(close_series.iloc[-1])
+        return latest_close >= recent_high * 0.995 and latest_close > close_series.iloc[-2]
+
+    def _check_volume_surge(self, volume_series):
+        """Volume surge requires the last 3 sessions to be stronger than the 20-day average."""
+        if len(volume_series) < 20:
+            return False
+        recent_3_avg = float(volume_series.tail(3).mean())
+        avg_20d = float(volume_series.tail(20).mean())
+        latest_vol = float(volume_series.iloc[-1])
+        return recent_3_avg > avg_20d * 1.2 and latest_vol > avg_20d * 1.2
+
+    def _check_relative_strength_vs_index(self, close_series, index_close_series):
+        """Positive relative strength means the stock beat the index over the recent lookback."""
+        if len(close_series) < 20 or len(index_close_series) < 20:
+            return 0.0
+        stock_return = ((float(close_series.iloc[-1]) - float(close_series.iloc[-20])) / float(close_series.iloc[-20])) * 100
+        index_return = ((float(index_close_series.iloc[-1]) - float(index_close_series.iloc[-20])) / float(index_close_series.iloc[-20])) * 100
+        return stock_return - index_return
+
+    def _check_trend_consistency(self, metrics, close_series):
+        """Require stronger cross-indicator alignment for enhanced signals."""
+        if len(close_series) < 20:
+            return False, False
+        current = float(close_series.iloc[-1])
+        ma20 = float(close_series.rolling(20).mean().iloc[-1])
+        ma50 = float(close_series.rolling(50).mean().iloc[-1])
+        ma200 = float(close_series.rolling(200).mean().iloc[-1])
+
+        buy_consistent = (
+            current > ma20 and current > ma50 and current > ma200 and
+            metrics.rsi_14 > 50 and metrics.macd_line > metrics.macd_signal
+        )
+        sell_consistent = (
+            current < ma20 and current < ma50 and current < ma200 and
+            metrics.rsi_14 < 50 and metrics.macd_line < metrics.macd_signal
+        )
+        return buy_consistent, sell_consistent
+
     def generate_signal(self, ticker, data):
         try:
             # Build metrics
@@ -826,6 +889,7 @@ class EnhancedAnalysisEngine:
             close = data['Close'].astype(float)
             high = data['High'].astype(float)
             low = data['Low'].astype(float)
+            volume = data['Volume'].astype(float)
             tr1 = high - low
             tr2 = (high - close.shift()).abs()
             tr3 = (low - close.shift()).abs()
@@ -849,27 +913,35 @@ class EnhancedAnalysisEngine:
             if not self._is_valid_number(atr_percent):
                 self.logger.warning(f"{ticker}: Invalid ATR percent - skipping")
                 return None
+
+            index_data = self._get_index_data()
+            relative_strength = 0.0
+            if index_data is not None and 'Close' in index_data.columns:
+                relative_strength = self._check_relative_strength_vs_index(close, index_data['Close'].astype(float))
+            breakout_confirmed = self._check_breakout_confirmation(close)
+            volume_surge_confirmed = self._check_volume_surge(volume)
+            buy_consistent, sell_consistent = self._check_trend_consistency(metrics, close)
             
-            # Generate signal based on trend assessment
-            if trend == "uptrend":
+            signal = "HOLD"
+            confidence = 40
+            buy_low = None
+            buy_high = None
+            stop = current - (atr * 1.5)
+            target = current + (atr * 2)
+
+            # Enhanced checks: only allow BUY when trend, breakout, relative strength, volume, and consistency all align.
+            if trend == "uptrend" and breakout_confirmed and volume_surge_confirmed and buy_consistent and relative_strength > 0:
                 signal = "BUY"
                 buy_low = current * 0.98
                 buy_high = current * 1.02
                 stop = current - (atr * 2)
                 target = current + (atr * 5)
-                confidence = min(100, 70 + (metrics.rsi_14 - 50) * 0.5)
-            elif trend == "downtrend":
+                confidence = min(100, 75 + (relative_strength * 1.2) + (metrics.rsi_14 - 50) * 0.4)
+            elif trend == "downtrend" and not breakout_confirmed and volume_surge_confirmed and sell_consistent and relative_strength < 0:
                 signal = "SELL"
-                buy_low, buy_high = None, None
                 stop = current + (atr * 2)
                 target = current - (atr * 5)
-                confidence = min(100, 70 + (50 - metrics.rsi_14) * 0.5)
-            else:  # weak_trend
-                signal = "HOLD"
-                buy_low, buy_high = None, None
-                stop = current - (atr * 1.5)
-                target = current + (atr * 2)
-                confidence = 40
+                confidence = min(100, 75 + ((50 - metrics.rsi_14) * 0.5) - (relative_strength * 0.8))
             
             rr = abs((target - current) / (current - stop)) if abs(current - stop) > 0.01 else 0
             
@@ -884,6 +956,10 @@ class EnhancedAnalysisEngine:
                 'MACD': round(metrics.macd_line, 2),
                 'ATR': round(atr, 2),
                 'ATR_Percent': round(atr_percent, 2),
+                'Breakout_Confirmed': bool(breakout_confirmed),
+                'Volume_Surge_Confirmed': bool(volume_surge_confirmed),
+                'Relative_Strength_vs_Index': round(relative_strength, 2),
+                'Trend_Consistency_Confirmed': bool(buy_consistent or sell_consistent),
                 'Buy_Range_Low': round(buy_low, 2) if buy_low else None,
                 'Buy_Range_High': round(buy_high, 2) if buy_high else None,
                 'Stop_Loss': round(stop, 2),
