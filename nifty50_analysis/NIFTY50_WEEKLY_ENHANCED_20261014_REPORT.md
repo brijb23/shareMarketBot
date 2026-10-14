@@ -1,16 +1,16 @@
 # NIFTY50 Enhanced Technical Analysis (Module-Based)
-**Generated:** 2026-10-14 00:04:16
+**Generated:** 2026-10-14 23:22:41
 
 **Analysis Engine:** technical_analysis.py module + Phase 19.3 enhancements
 
 ## Summary
 - **BUY:** 0
-- **HOLD:** 2496
+- **HOLD:** 2497
 - **SELL:** 0
 
 ## BUY (0)
 
-## HOLD (2496)
+## HOLD (2497)
 
 ### RELIANCE.NS
 | Metric | Value |
@@ -303,16 +303,16 @@
 ### SUNPHARMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1760.0 |
+| Price | 1770.7 |
 | Trend | downtrend |
-| RSI | 28.55 |
-| MACD | -33.61 |
-| MA20 | 1824.04 |
-| MA200 | 1803.0 |
-| ATR | 31.44 |
+| RSI | 34.37 |
+| MACD | -33.28 |
+| MA20 | 1820.57 |
+| MA200 | 1803.21 |
+| ATR | 30.44 |
 | Risk | LOW |
-| Stop Loss | 1712.85 |
-| Target | 1822.87 |
+| Stop Loss | 1725.05 |
+| Target | 1831.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -357,20 +357,20 @@
 ### BAJAJFINSV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1719.9 |
-| Trend | downtrend |
-| RSI | 27.58 |
-| MACD | -55.23 |
-| MA20 | 1786.92 |
-| MA200 | 1877.18 |
-| ATR | 37.91 |
+| Price | 1755.7 |
+| Trend | weak_trend |
+| RSI | 38.68 |
+| MACD | -51.06 |
+| MA20 | 1779.03 |
+| MA200 | 1875.74 |
+| ATR | 38.69 |
 | Risk | NORMAL |
-| Stop Loss | 1663.04 |
-| Target | 1795.71 |
+| Stop Loss | 1697.66 |
+| Target | 1833.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TITAN.NS
 | Metric | Value |
@@ -393,20 +393,20 @@
 ### NTPC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 310.0 |
+| Price | 311.0 |
 | Trend | downtrend |
-| RSI | 31.02 |
-| MACD | -5.2 |
-| MA20 | 322.54 |
-| MA200 | 353.55 |
-| ATR | 5.98 |
+| RSI | 30.37 |
+| MACD | -5.35 |
+| MA20 | 321.42 |
+| MA200 | 353.53 |
+| ATR | 6.15 |
 | Risk | LOW |
-| Stop Loss | 301.03 |
-| Target | 321.96 |
+| Stop Loss | 301.78 |
+| Target | 323.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### HAL.NS
 | Metric | Value |
@@ -681,16 +681,16 @@
 ### INDIGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4795.0 |
+| Price | 4800.4 |
 | Trend | downtrend |
-| RSI | 42.14 |
-| MACD | -49.34 |
-| MA20 | 4907.7 |
-| MA200 | 4822.63 |
-| ATR | 112.83 |
+| RSI | 36.42 |
+| MACD | -53.72 |
+| MA20 | 4899.07 |
+| MA200 | 4820.87 |
+| ATR | 108.75 |
 | Risk | NORMAL |
-| Stop Loss | 4625.76 |
-| Target | 5020.66 |
+| Stop Loss | 4637.27 |
+| Target | 5017.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -753,16 +753,16 @@
 ### HINDZINC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 546.9 |
+| Price | 549.6 |
 | Trend | downtrend |
-| RSI | 28.8 |
-| MACD | -10.47 |
-| MA20 | 568.81 |
-| MA200 | 582.23 |
-| ATR | 14.24 |
+| RSI | 30.94 |
+| MACD | -10.34 |
+| MA20 | 567.46 |
+| MA200 | 582.09 |
+| ATR | 14.1 |
 | Risk | NORMAL |
-| Stop Loss | 525.54 |
-| Target | 575.38 |
+| Stop Loss | 528.44 |
+| Target | 577.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -789,34 +789,34 @@
 ### HYUNDAI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1941.1 |
+| Price | 1964.9 |
 | Trend | downtrend |
-| RSI | 28.06 |
-| MACD | -59.2 |
-| MA20 | 2064.46 |
-| MA200 | 2039.45 |
-| ATR | 57.22 |
+| RSI | 34.65 |
+| MACD | -57.78 |
+| MA20 | 2054.01 |
+| MA200 | 2037.79 |
+| ATR | 60.34 |
 | Risk | NORMAL |
-| Stop Loss | 1855.27 |
-| Target | 2055.54 |
+| Stop Loss | 1874.4 |
+| Target | 2085.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GRASIM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2858.0 |
+| Price | 2912.0 |
 | Trend | downtrend |
-| RSI | 22.7 |
-| MACD | -96.1 |
-| MA20 | 3080.16 |
-| MA200 | 2971.16 |
-| ATR | 62.54 |
+| RSI | 31.37 |
+| MACD | -94.77 |
+| MA20 | 3061.67 |
+| MA200 | 2971.7 |
+| ATR | 63.26 |
 | Risk | NORMAL |
-| Stop Loss | 2764.19 |
-| Target | 2983.09 |
+| Stop Loss | 2817.1 |
+| Target | 3038.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -825,16 +825,16 @@
 ### SBILIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1680.8 |
+| Price | 1687.2 |
 | Trend | downtrend |
-| RSI | 33.83 |
-| MACD | -15.85 |
-| MA20 | 1720.92 |
-| MA200 | 1873.61 |
-| ATR | 44.31 |
+| RSI | 35.53 |
+| MACD | -16.56 |
+| MA20 | 1721.05 |
+| MA200 | 1871.92 |
+| ATR | 44.13 |
 | Risk | NORMAL |
-| Stop Loss | 1614.33 |
-| Target | 1769.43 |
+| Stop Loss | 1621.01 |
+| Target | 1775.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1041,16 +1041,16 @@
 ### PIDILITIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1477.7 |
-| Trend | downtrend |
-| RSI | 33.61 |
-| MACD | -33.7 |
-| MA20 | 1516.91 |
-| MA200 | 1492.42 |
-| ATR | 36.41 |
+| Price | 1497.6 |
+| Trend | weak_trend |
+| RSI | 37.91 |
+| MACD | -31.08 |
+| MA20 | 1513.44 |
+| MA200 | 1492.67 |
+| ATR | 36.96 |
 | Risk | NORMAL |
-| Stop Loss | 1423.08 |
-| Target | 1550.53 |
+| Stop Loss | 1442.16 |
+| Target | 1571.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1113,16 +1113,16 @@
 ### BRITANNIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4774.5 |
+| Price | 4801.3 |
 | Trend | weak_trend |
-| RSI | 33.25 |
-| MACD | -103.21 |
-| MA20 | 4886.42 |
-| MA200 | 5456.02 |
-| ATR | 91.98 |
+| RSI | 41.21 |
+| MACD | -98.41 |
+| MA20 | 4878.38 |
+| MA200 | 5450.02 |
+| ATR | 88.33 |
 | Risk | LOW |
-| Stop Loss | 4636.53 |
-| Target | 4958.46 |
+| Stop Loss | 4668.81 |
+| Target | 4977.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1131,38 +1131,38 @@
 ### AMBUJACEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 348.0 |
+| Price | 350.0 |
 | Trend | downtrend |
-| RSI | 28.72 |
-| MACD | -14.1 |
-| MA20 | 373.31 |
-| MA200 | 449.84 |
-| ATR | 10.59 |
+| RSI | 31.29 |
+| MACD | -14.04 |
+| MA20 | 371.22 |
+| MA200 | 448.9 |
+| ATR | 10.57 |
 | Risk | NORMAL |
-| Stop Loss | 332.11 |
-| Target | 369.19 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### TATACAP.NS
-| Metric | Value |
-|--------|-------|
-| Price | 327.0 |
-| Trend | downtrend |
-| RSI | 39.58 |
-| MACD | -10.52 |
-| MA20 | 334.63 |
-| MA200 | 339.85 |
-| ATR | 9.42 |
-| Risk | NORMAL |
-| Stop Loss | 312.86 |
-| Target | 345.85 |
+| Stop Loss | 334.15 |
+| Target | 371.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### TATACAP.NS
+| Metric | Value |
+|--------|-------|
+| Price | 327.65 |
+| Trend | weak_trend |
+| RSI | 41.39 |
+| MACD | -9.67 |
+| MA20 | 332.87 |
+| MA200 | 339.87 |
+| ATR | 9.5 |
+| Risk | NORMAL |
+| Stop Loss | 313.41 |
+| Target | 346.64 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BANKBARODA.NS
 | Metric | Value |
@@ -1365,16 +1365,16 @@
 ### TORNTPHARM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4682.0 |
+| Price | 4642.9 |
 | Trend | weak_trend |
-| RSI | 29.35 |
-| MACD | -65.93 |
-| MA20 | 4834.82 |
-| MA200 | 4454.08 |
-| ATR | 104.21 |
+| RSI | 29.17 |
+| MACD | -70.45 |
+| MA20 | 4818.69 |
+| MA200 | 4458.46 |
+| ATR | 104.5 |
 | Risk | NORMAL |
-| Stop Loss | 4525.69 |
-| Target | 4890.41 |
+| Stop Loss | 4486.15 |
+| Target | 4851.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1437,20 +1437,20 @@
 ### GAIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 166.91 |
+| Price | 168.3 |
 | Trend | weak_trend |
-| RSI | 36.91 |
+| RSI | 42.1 |
 | MACD | -1.43 |
-| MA20 | 171.04 |
-| MA200 | 165.0 |
-| ATR | 3.54 |
+| MA20 | 170.77 |
+| MA200 | 165.02 |
+| ATR | 3.55 |
 | Risk | NORMAL |
-| Stop Loss | 161.6 |
-| Target | 174.0 |
+| Stop Loss | 162.98 |
+| Target | 175.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CANBK.NS
 | Metric | Value |
@@ -1545,16 +1545,16 @@
 ### BOSCHLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 44585.0 |
+| Price | 44900.0 |
 | Trend | weak_trend |
-| RSI | 36.66 |
-| MACD | -804.41 |
-| MA20 | 46425.5 |
-| MA200 | 39084.97 |
-| ATR | 1186.79 |
+| RSI | 34.25 |
+| MACD | -773.29 |
+| MA20 | 46251.25 |
+| MA200 | 39130.94 |
+| ATR | 1201.79 |
 | Risk | NORMAL |
-| Stop Loss | 42804.82 |
-| Target | 46958.57 |
+| Stop Loss | 43097.32 |
+| Target | 47303.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1599,16 +1599,16 @@
 ### CUMMINSIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4835.0 |
+| Price | 4834.6 |
 | Trend | weak_trend |
-| RSI | 36.95 |
-| MACD | -87.99 |
-| MA20 | 4913.27 |
-| MA200 | 4976.41 |
-| ATR | 113.43 |
+| RSI | 41.85 |
+| MACD | -83.93 |
+| MA20 | 4901.5 |
+| MA200 | 4978.81 |
+| ATR | 108.46 |
 | Risk | NORMAL |
-| Stop Loss | 4664.86 |
-| Target | 5061.86 |
+| Stop Loss | 4671.9 |
+| Target | 5051.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1797,34 +1797,34 @@
 ### SHREECEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21860.0 |
-| Trend | weak_trend |
-| RSI | 41.59 |
-| MACD | -480.67 |
-| MA20 | 22139.25 |
-| MA200 | 25075.11 |
-| ATR | 528.93 |
+| Price | 22225.0 |
+| Trend | downtrend |
+| RSI | 50.3 |
+| MACD | -432.1 |
+| MA20 | 22122.0 |
+| MA200 | 25058.57 |
+| ATR | 533.57 |
 | Risk | NORMAL |
-| Stop Loss | 21066.61 |
-| Target | 22917.86 |
+| Stop Loss | 21424.64 |
+| Target | 23292.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### JINDALSTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1012.5 |
+| Price | 1031.7 |
 | Trend | downtrend |
-| RSI | 25.87 |
-| MACD | -26.71 |
-| MA20 | 1106.22 |
-| MA200 | 1135.43 |
-| ATR | 35.26 |
+| RSI | 28.44 |
+| MACD | -28.07 |
+| MA20 | 1101.78 |
+| MA200 | 1135.64 |
+| ATR | 36.06 |
 | Risk | NORMAL |
-| Stop Loss | 959.61 |
-| Target | 1083.01 |
+| Stop Loss | 977.6 |
+| Target | 1103.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1887,16 +1887,16 @@
 ### MANKIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2400.0 |
+| Price | 2372.0 |
 | Trend | weak_trend |
-| RSI | 46.73 |
-| MACD | 12.6 |
-| MA20 | 2420.59 |
-| MA200 | 2303.59 |
-| ATR | 69.61 |
+| RSI | 40.43 |
+| MACD | 6.57 |
+| MA20 | 2425.19 |
+| MA200 | 2304.59 |
+| ATR | 69.09 |
 | Risk | NORMAL |
-| Stop Loss | 2295.58 |
-| Target | 2539.23 |
+| Stop Loss | 2268.36 |
+| Target | 2510.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1923,16 +1923,16 @@
 ### INDUSTOWER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 375.65 |
+| Price | 378.75 |
 | Trend | weak_trend |
-| RSI | 48.89 |
-| MACD | 0.23 |
-| MA20 | 377.99 |
-| MA200 | 400.79 |
-| ATR | 10.81 |
+| RSI | 48.11 |
+| MACD | 0.28 |
+| MA20 | 377.52 |
+| MA200 | 400.69 |
+| ATR | 10.62 |
 | Risk | NORMAL |
-| Stop Loss | 359.43 |
-| Target | 397.27 |
+| Stop Loss | 362.82 |
+| Target | 399.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1941,16 +1941,16 @@
 ### UNITDSPR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1349.7 |
-| Trend | downtrend |
-| RSI | 42.11 |
-| MACD | -28.49 |
-| MA20 | 1378.58 |
-| MA200 | 1364.41 |
-| ATR | 33.49 |
+| Price | 1371.1 |
+| Trend | weak_trend |
+| RSI | 45.8 |
+| MACD | -25.88 |
+| MA20 | 1377.38 |
+| MA200 | 1364.31 |
+| ATR | 34.43 |
 | Risk | NORMAL |
-| Stop Loss | 1299.47 |
-| Target | 1416.67 |
+| Stop Loss | 1319.46 |
+| Target | 1439.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -1959,16 +1959,16 @@
 ### GMRAIRPORT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.5 |
+| Price | 90.34 |
 | Trend | downtrend |
-| RSI | 31.15 |
-| MACD | -2.25 |
-| MA20 | 94.63 |
-| MA200 | 99.6 |
-| ATR | 2.53 |
+| RSI | 33.91 |
+| MACD | -2.27 |
+| MA20 | 94.25 |
+| MA200 | 99.54 |
+| ATR | 2.54 |
 | Risk | NORMAL |
-| Stop Loss | 85.71 |
-| Target | 94.56 |
+| Stop Loss | 86.53 |
+| Target | 95.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2085,16 +2085,16 @@
 ### HAVELLS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1052.0 |
+| Price | 1082.0 |
 | Trend | weak_trend |
-| RSI | 38.64 |
-| MACD | -36.03 |
-| MA20 | 1072.65 |
-| MA200 | 1252.56 |
-| ATR | 24.59 |
+| RSI | 48.57 |
+| MACD | -31.45 |
+| MA20 | 1071.2 |
+| MA200 | 1250.95 |
+| ATR | 25.42 |
 | Risk | NORMAL |
-| Stop Loss | 1015.11 |
-| Target | 1101.19 |
+| Stop Loss | 1043.87 |
+| Target | 1132.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2103,20 +2103,20 @@
 ### MARICO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 782.4 |
+| Price | 782.8 |
 | Trend | downtrend |
-| RSI | 29.25 |
-| MACD | -12.14 |
-| MA20 | 801.98 |
-| MA200 | 796.66 |
-| ATR | 16.43 |
+| RSI | 25.42 |
+| MACD | -12.02 |
+| MA20 | 801.02 |
+| MA200 | 796.89 |
+| ATR | 16.84 |
 | Risk | NORMAL |
-| Stop Loss | 757.75 |
-| Target | 815.26 |
+| Stop Loss | 757.54 |
+| Target | 816.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### HINDPETRO.NS
 | Metric | Value |
@@ -2175,16 +2175,16 @@
 ### DABUR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 374.4 |
+| Price | 378.75 |
 | Trend | weak_trend |
-| RSI | 40.37 |
+| RSI | 43.07 |
 | MACD | -3.0 |
-| MA20 | 383.29 |
-| MA200 | 441.72 |
-| ATR | 8.49 |
+| MA20 | 383.43 |
+| MA200 | 441.18 |
+| ATR | 8.58 |
 | Risk | NORMAL |
-| Stop Loss | 361.67 |
-| Target | 391.38 |
+| Stop Loss | 365.88 |
+| Target | 395.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2193,16 +2193,16 @@
 ### LUPIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1935.0 |
+| Price | 1953.6 |
 | Trend | downtrend |
-| RSI | 17.13 |
-| MACD | -55.15 |
-| MA20 | 2049.82 |
-| MA200 | 2242.17 |
-| ATR | 38.35 |
+| RSI | 19.4 |
+| MACD | -55.47 |
+| MA20 | 2042.75 |
+| MA200 | 2241.38 |
+| ATR | 38.77 |
 | Risk | LOW |
-| Stop Loss | 1877.47 |
-| Target | 2011.7 |
+| Stop Loss | 1895.44 |
+| Target | 2031.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2211,20 +2211,20 @@
 ### JSWENERGY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 467.35 |
+| Price | 460.5 |
 | Trend | downtrend |
-| RSI | 25.14 |
-| MACD | -16.46 |
-| MA20 | 499.56 |
-| MA200 | 522.62 |
-| ATR | 12.26 |
+| RSI | 22.8 |
+| MACD | -17.3 |
+| MA20 | 496.26 |
+| MA200 | 522.54 |
+| ATR | 12.64 |
 | Risk | NORMAL |
-| Stop Loss | 448.95 |
-| Target | 491.88 |
+| Stop Loss | 441.54 |
+| Target | 485.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ICICIPRULI.NS
 | Metric | Value |
@@ -2283,16 +2283,16 @@
 ### NAUKRI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1203.9 |
+| Price | 1222.6 |
 | Trend | weak_trend |
-| RSI | 35.71 |
-| MACD | -21.54 |
-| MA20 | 1242.64 |
-| MA200 | 1141.34 |
-| ATR | 43.55 |
+| RSI | 37.84 |
+| MACD | -20.17 |
+| MA20 | 1241.23 |
+| MA200 | 1140.78 |
+| ATR | 44.29 |
 | Risk | NORMAL |
-| Stop Loss | 1138.58 |
-| Target | 1291.0 |
+| Stop Loss | 1156.16 |
+| Target | 1311.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2301,16 +2301,16 @@
 ### SRF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2488.4 |
+| Price | 2492.0 |
 | Trend | weak_trend |
-| RSI | 42.81 |
-| MACD | -21.52 |
-| MA20 | 2496.06 |
-| MA200 | 2675.47 |
-| ATR | 54.52 |
+| RSI | 43.58 |
+| MACD | -19.84 |
+| MA20 | 2496.54 |
+| MA200 | 2672.54 |
+| ATR | 55.56 |
 | Risk | NORMAL |
-| Stop Loss | 2406.62 |
-| Target | 2597.44 |
+| Stop Loss | 2408.66 |
+| Target | 2603.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2517,16 +2517,16 @@
 ### IOB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.25 |
+| Price | 30.79 |
 | Trend | downtrend |
-| RSI | 30.87 |
-| MACD | -0.63 |
-| MA20 | 31.55 |
-| MA200 | 33.97 |
-| ATR | 0.73 |
+| RSI | 38.99 |
+| MACD | -0.6 |
+| MA20 | 31.44 |
+| MA200 | 33.96 |
+| ATR | 0.77 |
 | Risk | NORMAL |
-| Stop Loss | 29.15 |
-| Target | 31.72 |
+| Stop Loss | 29.64 |
+| Target | 32.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2535,38 +2535,38 @@
 ### OFSS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10360.0 |
+| Price | 10640.0 |
 | Trend | weak_trend |
-| RSI | 35.49 |
-| MACD | -324.33 |
-| MA20 | 10904.5 |
-| MA200 | 9210.81 |
-| ATR | 356.93 |
+| RSI | 41.69 |
+| MACD | -299.2 |
+| MA20 | 10848.35 |
+| MA200 | 9225.98 |
+| ATR | 360.93 |
 | Risk | NORMAL |
-| Stop Loss | 9824.61 |
-| Target | 11073.86 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### LENSKART.NS
-| Metric | Value |
-|--------|-------|
-| Price | 648.3 |
-| Trend | weak_trend |
-| RSI | 40.22 |
-| MACD | 3.4 |
-| MA20 | 679.66 |
-| MA200 | 537.3 |
-| ATR | 24.03 |
-| Risk | NORMAL |
-| Stop Loss | 612.25 |
-| Target | 696.36 |
+| Stop Loss | 10098.61 |
+| Target | 11361.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### LENSKART.NS
+| Metric | Value |
+|--------|-------|
+| Price | 657.3 |
+| Trend | weak_trend |
+| RSI | 40.68 |
+| MACD | 1.85 |
+| MA20 | 678.44 |
+| MA200 | 538.25 |
+| ATR | 23.1 |
+| Risk | NORMAL |
+| Stop Loss | 622.65 |
+| Target | 703.5 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GVT&D.NS
 | Metric | Value |
@@ -2625,16 +2625,16 @@
 ### LLOYDSME.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1808.8 |
+| Price | 1812.2 |
 | Trend | weak_trend |
-| RSI | 48.47 |
-| MACD | -8.6 |
-| MA20 | 1828.7 |
-| MA200 | 1600.95 |
-| ATR | 59.09 |
+| RSI | 45.35 |
+| MACD | -9.06 |
+| MA20 | 1829.33 |
+| MA200 | 1603.51 |
+| ATR | 56.35 |
 | Risk | NORMAL |
-| Stop Loss | 1720.16 |
-| Target | 1926.99 |
+| Stop Loss | 1727.67 |
+| Target | 1924.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2697,16 +2697,16 @@
 ### OIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 441.55 |
+| Price | 445.0 |
 | Trend | downtrend |
-| RSI | 27.09 |
-| MACD | -8.75 |
-| MA20 | 464.29 |
-| MA200 | 459.42 |
-| ATR | 10.11 |
+| RSI | 34.81 |
+| MACD | -8.78 |
+| MA20 | 462.05 |
+| MA200 | 459.65 |
+| ATR | 9.3 |
 | Risk | NORMAL |
-| Stop Loss | 426.38 |
-| Target | 461.78 |
+| Stop Loss | 431.05 |
+| Target | 463.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2733,16 +2733,16 @@
 ### COROMANDEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1690.0 |
+| Price | 1723.2 |
 | Trend | downtrend |
-| RSI | 23.31 |
-| MACD | -70.29 |
-| MA20 | 1854.97 |
-| MA200 | 2043.53 |
-| ATR | 62.44 |
+| RSI | 27.78 |
+| MACD | -69.48 |
+| MA20 | 1844.68 |
+| MA200 | 2040.42 |
+| ATR | 65.01 |
 | Risk | NORMAL |
-| Stop Loss | 1596.34 |
-| Target | 1814.89 |
+| Stop Loss | 1625.68 |
+| Target | 1853.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -2895,16 +2895,16 @@
 ### MRF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 122410.0 |
+| Price | 122510.0 |
 | Trend | weak_trend |
-| RSI | 36.54 |
-| MACD | -1830.25 |
-| MA20 | 124226.25 |
-| MA200 | 133818.52 |
-| ATR | 1383.93 |
+| RSI | 37.58 |
+| MACD | -1776.88 |
+| MA20 | 123937.25 |
+| MA200 | 133671.11 |
+| ATR | 1381.79 |
 | Risk | LOW |
-| Stop Loss | 120334.11 |
-| Target | 125177.86 |
+| Stop Loss | 120437.32 |
+| Target | 125273.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3003,20 +3003,20 @@
 ### SCHAEFFLER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3691.8 |
+| Price | 3621.1 |
 | Trend | downtrend |
-| RSI | 10.36 |
-| MACD | -79.32 |
-| MA20 | 3923.94 |
-| MA200 | 3987.73 |
-| ATR | 85.97 |
+| RSI | 10.23 |
+| MACD | -89.78 |
+| MA20 | 3907.47 |
+| MA200 | 3986.79 |
+| ATR | 88.42 |
 | Risk | NORMAL |
-| Stop Loss | 3562.84 |
-| Target | 3863.74 |
+| Stop Loss | 3488.47 |
+| Target | 3797.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### INDUSINDBK.NS
 | Metric | Value |
@@ -3057,16 +3057,16 @@
 ### AUBANK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 977.2 |
+| Price | 991.5 |
 | Trend | downtrend |
-| RSI | 38.23 |
-| MACD | -19.78 |
-| MA20 | 1017.3 |
-| MA200 | 1004.98 |
-| ATR | 27.92 |
+| RSI | 41.71 |
+| MACD | -19.16 |
+| MA20 | 1013.93 |
+| MA200 | 1005.02 |
+| ATR | 28.44 |
 | Risk | NORMAL |
-| Stop Loss | 935.32 |
-| Target | 1033.04 |
+| Stop Loss | 948.85 |
+| Target | 1048.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3093,16 +3093,16 @@
 ### OBEROIRLTY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1700.0 |
+| Price | 1720.0 |
 | Trend | weak_trend |
-| RSI | 29.91 |
-| MACD | -32.0 |
-| MA20 | 1763.45 |
-| MA200 | 1684.29 |
-| ATR | 46.21 |
+| RSI | 28.83 |
+| MACD | -31.38 |
+| MA20 | 1762.4 |
+| MA200 | 1684.54 |
+| ATR | 45.54 |
 | Risk | NORMAL |
-| Stop Loss | 1630.68 |
-| Target | 1792.43 |
+| Stop Loss | 1651.7 |
+| Target | 1811.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3129,16 +3129,16 @@
 ### FACT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 731.2 |
+| Price | 736.2 |
 | Trend | downtrend |
-| RSI | 27.04 |
-| MACD | -18.53 |
-| MA20 | 759.67 |
-| MA200 | 832.22 |
-| ATR | 21.26 |
+| RSI | 29.96 |
+| MACD | -18.01 |
+| MA20 | 757.5 |
+| MA200 | 831.59 |
+| ATR | 21.45 |
 | Risk | NORMAL |
-| Stop Loss | 699.31 |
-| Target | 773.72 |
+| Stop Loss | 704.02 |
+| Target | 779.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3273,16 +3273,16 @@
 ### IDFCFIRSTB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 79.44 |
+| Price | 78.83 |
 | Trend | weak_trend |
-| RSI | 35.03 |
-| MACD | -1.52 |
-| MA20 | 82.87 |
-| MA200 | 77.45 |
-| ATR | 2.38 |
+| RSI | 34.73 |
+| MACD | -1.58 |
+| MA20 | 82.51 |
+| MA200 | 77.42 |
+| ATR | 2.4 |
 | Risk | NORMAL |
-| Stop Loss | 75.87 |
-| Target | 84.2 |
+| Stop Loss | 75.23 |
+| Target | 83.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3291,34 +3291,34 @@
 ### PIIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2131.5 |
+| Price | 2130.0 |
 | Trend | downtrend |
-| RSI | 33.01 |
-| MACD | -78.74 |
-| MA20 | 2278.43 |
-| MA200 | 2822.44 |
-| ATR | 64.9 |
+| RSI | 20.43 |
+| MACD | -80.27 |
+| MA20 | 2271.98 |
+| MA200 | 2816.93 |
+| ATR | 59.45 |
 | Risk | NORMAL |
-| Stop Loss | 2034.15 |
-| Target | 2261.3 |
+| Stop Loss | 2040.83 |
+| Target | 2248.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MOTILALOFS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1051.0 |
+| Price | 1068.9 |
 | Trend | weak_trend |
-| RSI | 59.06 |
-| MACD | 12.67 |
-| MA20 | 1016.56 |
-| MA200 | 863.38 |
-| ATR | 36.89 |
+| RSI | 59.83 |
+| MACD | 14.95 |
+| MA20 | 1018.68 |
+| MA200 | 864.45 |
+| ATR | 37.2 |
 | Risk | NORMAL |
-| Stop Loss | 995.67 |
-| Target | 1124.78 |
+| Stop Loss | 1013.1 |
+| Target | 1143.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3345,16 +3345,16 @@
 ### MFSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1306.5 |
+| Price | 1325.4 |
 | Trend | downtrend |
-| RSI | 20.11 |
-| MACD | -55.98 |
-| MA20 | 1432.6 |
-| MA200 | 1609.6 |
-| ATR | 53.27 |
+| RSI | 24.19 |
+| MACD | -55.63 |
+| MA20 | 1425.03 |
+| MA200 | 1607.77 |
+| ATR | 54.07 |
 | Risk | ELEVATED |
-| Stop Loss | 1226.59 |
-| Target | 1413.04 |
+| Stop Loss | 1244.29 |
+| Target | 1433.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3399,16 +3399,16 @@
 ### NAM-INDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1057.0 |
+| Price | 1065.7 |
 | Trend | weak_trend |
-| RSI | 31.67 |
-| MACD | -33.69 |
-| MA20 | 1105.71 |
-| MA200 | 1029.73 |
-| ATR | 31.02 |
+| RSI | 30.65 |
+| MACD | -31.93 |
+| MA20 | 1099.52 |
+| MA200 | 1030.67 |
+| ATR | 31.24 |
 | Risk | NORMAL |
-| Stop Loss | 1010.47 |
-| Target | 1119.04 |
+| Stop Loss | 1018.85 |
+| Target | 1128.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3453,16 +3453,16 @@
 ### LINDEINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5987.5 |
+| Price | 6009.0 |
 | Trend | downtrend |
-| RSI | 34.95 |
-| MACD | -110.97 |
-| MA20 | 6160.62 |
-| MA200 | 6713.73 |
-| ATR | 171.86 |
+| RSI | 33.42 |
+| MACD | -111.11 |
+| MA20 | 6149.7 |
+| MA200 | 6714.12 |
+| ATR | 162.36 |
 | Risk | NORMAL |
-| Stop Loss | 5729.71 |
-| Target | 6331.21 |
+| Stop Loss | 5765.46 |
+| Target | 6333.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3471,16 +3471,16 @@
 ### SUNDARMFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4182.0 |
+| Price | 4234.9 |
 | Trend | downtrend |
-| RSI | 26.67 |
-| MACD | -115.99 |
-| MA20 | 4476.02 |
-| MA200 | 4745.69 |
-| ATR | 138.13 |
+| RSI | 25.3 |
+| MACD | -113.99 |
+| MA20 | 4452.23 |
+| MA200 | 4742.41 |
+| ATR | 129.85 |
 | Risk | NORMAL |
-| Stop Loss | 3974.81 |
-| Target | 4458.26 |
+| Stop Loss | 4040.12 |
+| Target | 4494.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3489,16 +3489,16 @@
 ### SUPREMEIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3493.8 |
-| Trend | weak_trend |
-| RSI | 49.57 |
-| MACD | -3.91 |
-| MA20 | 3449.23 |
-| MA200 | 3559.36 |
-| ATR | 101.74 |
+| Price | 3506.9 |
+| Trend | downtrend |
+| RSI | 53.32 |
+| MACD | -0.98 |
+| MA20 | 3456.36 |
+| MA200 | 3560.18 |
+| ATR | 101.31 |
 | Risk | NORMAL |
-| Stop Loss | 3341.19 |
-| Target | 3697.29 |
+| Stop Loss | 3354.94 |
+| Target | 3709.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3507,16 +3507,16 @@
 ### BIOCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 346.35 |
+| Price | 351.0 |
 | Trend | downtrend |
-| RSI | 11.78 |
-| MACD | -13.15 |
-| MA20 | 374.94 |
-| MA200 | 393.81 |
-| ATR | 8.66 |
+| RSI | 19.19 |
+| MACD | -13.26 |
+| MA20 | 372.95 |
+| MA200 | 393.57 |
+| ATR | 8.8 |
 | Risk | NORMAL |
-| Stop Loss | 333.36 |
-| Target | 363.67 |
+| Stop Loss | 337.81 |
+| Target | 368.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3525,16 +3525,16 @@
 ### TATACOMM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1662.7 |
+| Price | 1672.4 |
 | Trend | downtrend |
-| RSI | 32.48 |
-| MACD | -19.55 |
-| MA20 | 1700.38 |
-| MA200 | 1693.04 |
-| ATR | 46.42 |
+| RSI | 44.09 |
+| MACD | -18.44 |
+| MA20 | 1695.92 |
+| MA200 | 1692.36 |
+| ATR | 44.67 |
 | Risk | NORMAL |
-| Stop Loss | 1593.07 |
-| Target | 1755.54 |
+| Stop Loss | 1605.39 |
+| Target | 1761.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3561,20 +3561,20 @@
 ### AIIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 551.85 |
+| Price | 544.35 |
 | Trend | weak_trend |
-| RSI | 45.9 |
-| MACD | 2.32 |
+| RSI | 48.54 |
+| MACD | 1.81 |
 | MA20 | 547.36 |
-| MA200 | 521.39 |
-| ATR | 15.66 |
+| MA200 | 521.21 |
+| ATR | 15.33 |
 | Risk | NORMAL |
-| Stop Loss | 528.35 |
-| Target | 583.18 |
+| Stop Loss | 521.35 |
+| Target | 575.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GODFRYPHLP.NS
 | Metric | Value |
@@ -3597,16 +3597,16 @@
 ### JKCEMENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4812.0 |
+| Price | 4887.5 |
 | Trend | downtrend |
-| RSI | 38.95 |
-| MACD | -57.71 |
-| MA20 | 4967.23 |
-| MA200 | 5374.0 |
-| ATR | 155.93 |
+| RSI | 41.69 |
+| MACD | -58.58 |
+| MA20 | 4969.43 |
+| MA200 | 5371.44 |
+| ATR | 163.21 |
 | Risk | NORMAL |
-| Stop Loss | 4578.11 |
-| Target | 5123.86 |
+| Stop Loss | 4642.68 |
+| Target | 5213.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3651,34 +3651,34 @@
 ### PAGEIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36905.0 |
+| Price | 37100.0 |
 | Trend | weak_trend |
-| RSI | 57.22 |
-| MACD | 154.59 |
-| MA20 | 36581.75 |
-| MA200 | 36142.44 |
-| ATR | 821.43 |
+| RSI | 49.55 |
+| MACD | 156.98 |
+| MA20 | 36668.5 |
+| MA200 | 36151.78 |
+| ATR | 776.79 |
 | Risk | NORMAL |
-| Stop Loss | 35672.86 |
-| Target | 38547.86 |
+| Stop Loss | 35934.82 |
+| Target | 38653.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GLAXO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2531.5 |
+| Price | 2536.3 |
 | Trend | weak_trend |
-| RSI | 21.46 |
-| MACD | -70.97 |
-| MA20 | 2767.45 |
-| MA200 | 2480.1 |
-| ATR | 85.64 |
+| RSI | 20.65 |
+| MACD | -77.37 |
+| MA20 | 2752.85 |
+| MA200 | 2480.45 |
+| ATR | 86.29 |
 | Risk | NORMAL |
-| Stop Loss | 2403.04 |
-| Target | 2702.79 |
+| Stop Loss | 2406.86 |
+| Target | 2708.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3687,16 +3687,16 @@
 ### BALKRISIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1996.8 |
+| Price | 2006.2 |
 | Trend | downtrend |
-| RSI | 15.01 |
-| MACD | -68.42 |
-| MA20 | 2124.07 |
-| MA200 | 2264.33 |
-| ATR | 47.0 |
+| RSI | 17.45 |
+| MACD | -68.58 |
+| MA20 | 2116.15 |
+| MA200 | 2262.6 |
+| ATR | 48.46 |
 | Risk | NORMAL |
-| Stop Loss | 1926.3 |
-| Target | 2090.8 |
+| Stop Loss | 1933.51 |
+| Target | 2103.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3759,38 +3759,38 @@
 ### HEXT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 549.85 |
+| Price | 561.7 |
 | Trend | weak_trend |
-| RSI | 65.99 |
-| MACD | -2.02 |
-| MA20 | 508.02 |
-| MA200 | 541.9 |
-| ATR | 19.41 |
+| RSI | 76.38 |
+| MACD | 1.9 |
+| MA20 | 511.25 |
+| MA200 | 541.0 |
+| ATR | 19.97 |
 | Risk | NORMAL |
-| Stop Loss | 520.73 |
-| Target | 588.67 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### LTTS.NS
-| Metric | Value |
-|--------|-------|
-| Price | 3309.0 |
-| Trend | downtrend |
-| RSI | 50.14 |
-| MACD | -47.05 |
-| MA20 | 3259.15 |
-| MA200 | 3519.26 |
-| ATR | 106.22 |
-| Risk | NORMAL |
-| Stop Loss | 3149.67 |
-| Target | 3521.44 |
+| Stop Loss | 531.74 |
+| Target | 601.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### LTTS.NS
+| Metric | Value |
+|--------|-------|
+| Price | 3429.2 |
+| Trend | downtrend |
+| RSI | 58.29 |
+| MACD | -29.57 |
+| MA20 | 3263.74 |
+| MA200 | 3514.08 |
+| ATR | 112.5 |
+| Risk | NORMAL |
+| Stop Loss | 3260.45 |
+| Target | 3654.2 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### VOLTAS.NS
 | Metric | Value |
@@ -3867,16 +3867,16 @@
 ### PGHH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6950.5 |
+| Price | 6982.0 |
 | Trend | weak_trend |
-| RSI | 30.62 |
-| MACD | -259.38 |
-| MA20 | 7113.43 |
-| MA200 | 9664.3 |
-| ATR | 170.64 |
+| RSI | 36.54 |
+| MACD | -239.1 |
+| MA20 | 7086.62 |
+| MA200 | 9635.79 |
+| ATR | 159.54 |
 | Risk | NORMAL |
-| Stop Loss | 6694.54 |
-| Target | 7291.79 |
+| Stop Loss | 6742.7 |
+| Target | 7301.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3885,16 +3885,16 @@
 ### PETRONET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 290.5 |
+| Price | 290.0 |
 | Trend | weak_trend |
-| RSI | 53.09 |
-| MACD | 1.36 |
-| MA20 | 287.77 |
-| MA200 | 280.14 |
-| ATR | 6.41 |
+| RSI | 59.54 |
+| MACD | 1.27 |
+| MA20 | 287.91 |
+| MA200 | 280.24 |
+| ATR | 6.07 |
 | Risk | NORMAL |
-| Stop Loss | 280.89 |
-| Target | 303.31 |
+| Stop Loss | 280.9 |
+| Target | 302.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3957,16 +3957,16 @@
 ### M&MFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 322.4 |
-| Trend | downtrend |
-| RSI | 27.6 |
-| MACD | -12.36 |
-| MA20 | 335.18 |
-| MA200 | 338.11 |
-| ATR | 10.99 |
+| Price | 325.75 |
+| Trend | weak_trend |
+| RSI | 31.78 |
+| MACD | -11.55 |
+| MA20 | 333.66 |
+| MA200 | 337.9 |
+| ATR | 11.03 |
 | Risk | NORMAL |
-| Stop Loss | 305.91 |
-| Target | 344.39 |
+| Stop Loss | 309.2 |
+| Target | 347.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -3993,16 +3993,16 @@
 ### DALBHARAT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1626.6 |
+| Price | 1654.1 |
 | Trend | downtrend |
-| RSI | 28.5 |
-| MACD | -41.11 |
-| MA20 | 1686.15 |
-| MA200 | 1874.14 |
-| ATR | 45.76 |
+| RSI | 36.54 |
+| MACD | -38.18 |
+| MA20 | 1681.52 |
+| MA200 | 1872.36 |
+| ATR | 45.75 |
 | Risk | NORMAL |
-| Stop Loss | 1557.95 |
-| Target | 1718.13 |
+| Stop Loss | 1585.47 |
+| Target | 1745.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4047,16 +4047,16 @@
 ### RADICO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4555.0 |
+| Price | 4540.0 |
 | Trend | weak_trend |
-| RSI | 53.17 |
-| MACD | 2.78 |
-| MA20 | 4444.4 |
-| MA200 | 3561.98 |
-| ATR | 128.78 |
+| RSI | 53.91 |
+| MACD | 9.0 |
+| MA20 | 4453.0 |
+| MA200 | 3568.9 |
+| ATR | 127.61 |
 | Risk | NORMAL |
-| Stop Loss | 4361.83 |
-| Target | 4812.56 |
+| Stop Loss | 4348.59 |
+| Target | 4795.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4083,16 +4083,16 @@
 ### FLUOROCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4604.4 |
+| Price | 4550.8 |
 | Trend | weak_trend |
-| RSI | 52.92 |
-| MACD | -18.67 |
-| MA20 | 4503.96 |
-| MA200 | 3824.29 |
-| ATR | 124.17 |
+| RSI | 54.29 |
+| MACD | -13.37 |
+| MA20 | 4493.0 |
+| MA200 | 3828.99 |
+| ATR | 126.19 |
 | Risk | NORMAL |
-| Stop Loss | 4418.14 |
-| Target | 4852.74 |
+| Stop Loss | 4361.51 |
+| Target | 4803.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4101,16 +4101,16 @@
 ### ENDURANCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2421.6 |
+| Price | 2424.2 |
 | Trend | downtrend |
-| RSI | 14.79 |
-| MACD | -91.4 |
-| MA20 | 2610.94 |
-| MA200 | 2584.28 |
-| ATR | 77.0 |
+| RSI | 17.55 |
+| MACD | -93.63 |
+| MA20 | 2597.52 |
+| MA200 | 2582.98 |
+| ATR | 74.94 |
 | Risk | NORMAL |
-| Stop Loss | 2306.1 |
-| Target | 2575.6 |
+| Stop Loss | 2311.79 |
+| Target | 2574.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4119,16 +4119,16 @@
 ### KEI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4654.2 |
+| Price | 4640.6 |
 | Trend | downtrend |
-| RSI | 52.73 |
-| MACD | -113.24 |
-| MA20 | 4581.2 |
-| MA200 | 4838.6 |
-| ATR | 122.44 |
+| RSI | 53.1 |
+| MACD | -102.3 |
+| MA20 | 4584.33 |
+| MA200 | 4840.41 |
+| ATR | 125.51 |
 | Risk | NORMAL |
-| Stop Loss | 4470.55 |
-| Target | 4899.07 |
+| Stop Loss | 4452.34 |
+| Target | 4891.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4137,16 +4137,16 @@
 ### ASTRAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1430.4 |
+| Price | 1442.0 |
 | Trend | downtrend |
-| RSI | 56.38 |
-| MACD | -13.16 |
-| MA20 | 1393.46 |
-| MA200 | 1500.22 |
-| ATR | 33.78 |
+| RSI | 63.52 |
+| MACD | -9.1 |
+| MA20 | 1394.99 |
+| MA200 | 1500.33 |
+| ATR | 33.59 |
 | Risk | NORMAL |
-| Stop Loss | 1379.73 |
-| Target | 1497.96 |
+| Stop Loss | 1391.61 |
+| Target | 1509.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4155,16 +4155,16 @@
 ### THERMAX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3308.5 |
+| Price | 3298.6 |
 | Trend | weak_trend |
-| RSI | 35.11 |
-| MACD | -153.38 |
-| MA20 | 3404.23 |
-| MA200 | 3774.39 |
-| ATR | 112.24 |
+| RSI | 39.28 |
+| MACD | -143.5 |
+| MA20 | 3385.06 |
+| MA200 | 3776.69 |
+| ATR | 108.96 |
 | Risk | NORMAL |
-| Stop Loss | 3140.14 |
-| Target | 3532.99 |
+| Stop Loss | 3135.15 |
+| Target | 3516.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4173,16 +4173,16 @@
 ### PWL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 140.26 |
+| Price | 138.91 |
 | Trend | weak_trend |
-| RSI | 55.71 |
-| MACD | 3.25 |
-| MA20 | 132.84 |
-| MA200 | 116.33 |
-| ATR | 6.7 |
+| RSI | 52.67 |
+| MACD | 3.33 |
+| MA20 | 132.98 |
+| MA200 | 116.36 |
+| ATR | 6.59 |
 | Risk | ELEVATED |
-| Stop Loss | 130.21 |
-| Target | 153.66 |
+| Stop Loss | 129.03 |
+| Target | 152.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4227,16 +4227,16 @@
 ### NH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1692.2 |
+| Price | 1687.3 |
 | Trend | downtrend |
-| RSI | 19.07 |
-| MACD | -50.33 |
-| MA20 | 1813.53 |
-| MA200 | 1847.11 |
-| ATR | 51.88 |
+| RSI | 19.58 |
+| MACD | -52.08 |
+| MA20 | 1804.44 |
+| MA200 | 1846.07 |
+| ATR | 52.52 |
 | Risk | NORMAL |
-| Stop Loss | 1614.38 |
-| Target | 1795.96 |
+| Stop Loss | 1608.52 |
+| Target | 1792.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4263,16 +4263,16 @@
 ### GODREJIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 985.8 |
+| Price | 998.0 |
 | Trend | downtrend |
-| RSI | 19.96 |
-| MACD | -44.54 |
-| MA20 | 1069.61 |
-| MA200 | 1072.4 |
-| ATR | 35.41 |
+| RSI | 24.98 |
+| MACD | -44.18 |
+| MA20 | 1063.17 |
+| MA200 | 1072.42 |
+| ATR | 35.81 |
 | Risk | NORMAL |
-| Stop Loss | 932.68 |
-| Target | 1056.63 |
+| Stop Loss | 944.29 |
+| Target | 1069.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4317,16 +4317,16 @@
 ### KPRMILL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1080.6 |
+| Price | 1087.8 |
 | Trend | weak_trend |
-| RSI | 41.67 |
-| MACD | -14.4 |
-| MA20 | 1100.18 |
-| MA200 | 994.22 |
-| ATR | 33.15 |
+| RSI | 43.07 |
+| MACD | -13.22 |
+| MA20 | 1099.11 |
+| MA200 | 994.81 |
+| ATR | 33.26 |
 | Risk | NORMAL |
-| Stop Loss | 1030.87 |
-| Target | 1146.9 |
+| Stop Loss | 1037.9 |
+| Target | 1154.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4335,16 +4335,16 @@
 ### CHOLAHLDNG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1408.0 |
+| Price | 1414.2 |
 | Trend | weak_trend |
-| RSI | 39.1 |
-| MACD | -33.8 |
-| MA20 | 1436.36 |
-| MA200 | 1598.22 |
-| ATR | 45.58 |
+| RSI | 42.37 |
+| MACD | -31.01 |
+| MA20 | 1430.64 |
+| MA200 | 1596.16 |
+| ATR | 45.34 |
 | Risk | NORMAL |
-| Stop Loss | 1339.63 |
-| Target | 1499.16 |
+| Stop Loss | 1346.19 |
+| Target | 1504.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4353,16 +4353,16 @@
 ### 3MINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30335.0 |
+| Price | 30795.0 |
 | Trend | downtrend |
-| RSI | 19.6 |
-| MACD | -919.32 |
-| MA20 | 32289.5 |
-| MA200 | 33343.47 |
-| ATR | 886.43 |
+| RSI | 26.13 |
+| MACD | -891.05 |
+| MA20 | 32193.75 |
+| MA200 | 33324.87 |
+| ATR | 871.07 |
 | Risk | NORMAL |
-| Stop Loss | 29005.36 |
-| Target | 32107.86 |
+| Stop Loss | 29488.39 |
+| Target | 32537.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4389,16 +4389,16 @@
 ### PIRAMALFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1993.5 |
+| Price | 2036.3 |
 | Trend | weak_trend |
-| RSI | 25.44 |
-| MACD | -59.64 |
-| MA20 | 2120.15 |
-| MA200 | 1940.5 |
-| ATR | 102.34 |
+| RSI | 32.65 |
+| MACD | -55.73 |
+| MA20 | 2109.19 |
+| MA200 | 1942.72 |
+| ATR | 102.01 |
 | Risk | ELEVATED |
-| Stop Loss | 1840.0 |
-| Target | 2198.17 |
+| Stop Loss | 1883.28 |
+| Target | 2240.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4407,16 +4407,16 @@
 ### APARINDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18100.0 |
+| Price | 18005.0 |
 | Trend | downtrend |
-| RSI | 39.98 |
-| MACD | 242.87 |
-| MA20 | 17834.7 |
-| MA200 | 12792.69 |
-| ATR | 688.57 |
+| RSI | 46.83 |
+| MACD | 233.3 |
+| MA20 | 17859.95 |
+| MA200 | 12839.07 |
+| ATR | 618.0 |
 | Risk | NORMAL |
-| Stop Loss | 17067.14 |
-| Target | 19477.14 |
+| Stop Loss | 17078.0 |
+| Target | 19241.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4497,16 +4497,16 @@
 ### NLCINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 244.6 |
+| Price | 245.35 |
 | Trend | downtrend |
-| RSI | 26.46 |
+| RSI | 26.7 |
 | MACD | -7.3 |
-| MA20 | 257.58 |
-| MA200 | 283.2 |
-| ATR | 6.93 |
+| MA20 | 256.64 |
+| MA200 | 283.25 |
+| ATR | 6.99 |
 | Risk | NORMAL |
-| Stop Loss | 234.21 |
-| Target | 258.46 |
+| Stop Loss | 234.87 |
+| Target | 259.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4515,20 +4515,20 @@
 ### AWL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 183.37 |
-| Trend | weak_trend |
-| RSI | 49.7 |
-| MACD | -1.63 |
+| Price | 184.91 |
+| Trend | downtrend |
+| RSI | 52.73 |
+| MACD | -1.33 |
 | MA20 | 182.65 |
-| MA200 | 194.69 |
-| ATR | 5.25 |
+| MA200 | 194.39 |
+| ATR | 5.35 |
 | Risk | NORMAL |
-| Stop Loss | 175.49 |
-| Target | 193.87 |
+| Stop Loss | 176.89 |
+| Target | 195.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### CENTRALBK.NS
 | Metric | Value |
@@ -4587,34 +4587,34 @@
 ### DELHIVERY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 412.15 |
+| Price | 416.4 |
 | Trend | weak_trend |
-| RSI | 38.15 |
-| MACD | -12.55 |
-| MA20 | 416.76 |
-| MA200 | 444.1 |
-| ATR | 12.14 |
+| RSI | 42.56 |
+| MACD | -11.09 |
+| MA20 | 415.63 |
+| MA200 | 444.15 |
+| ATR | 12.27 |
 | Risk | NORMAL |
-| Stop Loss | 393.95 |
-| Target | 436.42 |
+| Stop Loss | 398.0 |
+| Target | 440.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ASTERDM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 679.4 |
+| Price | 689.85 |
 | Trend | downtrend |
-| RSI | 28.77 |
-| MACD | -24.77 |
-| MA20 | 727.85 |
-| MA200 | 709.03 |
-| ATR | 24.01 |
+| RSI | 33.69 |
+| MACD | -24.19 |
+| MA20 | 724.19 |
+| MA200 | 709.5 |
+| ATR | 25.22 |
 | Risk | NORMAL |
-| Stop Loss | 643.38 |
-| Target | 727.42 |
+| Stop Loss | 652.02 |
+| Target | 740.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4623,16 +4623,16 @@
 ### EXIDEIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 394.15 |
+| Price | 395.0 |
 | Trend | weak_trend |
-| RSI | 12.47 |
-| MACD | -9.97 |
-| MA20 | 413.52 |
-| MA200 | 376.21 |
-| ATR | 10.84 |
+| RSI | 15.16 |
+| MACD | -10.08 |
+| MA20 | 412.64 |
+| MA200 | 376.38 |
+| ATR | 10.52 |
 | Risk | NORMAL |
-| Stop Loss | 377.89 |
-| Target | 415.83 |
+| Stop Loss | 379.22 |
+| Target | 416.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4641,16 +4641,16 @@
 ### GODIGIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 279.4 |
+| Price | 280.85 |
 | Trend | weak_trend |
-| RSI | 76.12 |
-| MACD | 3.23 |
-| MA20 | 255.56 |
-| MA200 | 302.65 |
+| RSI | 76.46 |
+| MACD | 4.45 |
+| MA20 | 256.8 |
+| MA200 | 302.34 |
 | ATR | 9.5 |
 | Risk | NORMAL |
-| Stop Loss | 265.15 |
-| Target | 298.4 |
+| Stop Loss | 266.59 |
+| Target | 299.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4659,16 +4659,16 @@
 ### HONAUT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32425.0 |
+| Price | 32540.0 |
 | Trend | downtrend |
-| RSI | 23.1 |
-| MACD | -758.55 |
-| MA20 | 33748.25 |
-| MA200 | 33659.81 |
-| ATR | 885.0 |
+| RSI | 29.69 |
+| MACD | -763.52 |
+| MA20 | 33646.25 |
+| MA200 | 33654.86 |
+| ATR | 864.29 |
 | Risk | NORMAL |
-| Stop Loss | 31097.5 |
-| Target | 34195.0 |
+| Stop Loss | 31243.57 |
+| Target | 34268.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4713,16 +4713,16 @@
 ### AIAENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3746.1 |
+| Price | 3744.5 |
 | Trend | weak_trend |
-| RSI | 32.35 |
-| MACD | -115.7 |
-| MA20 | 3884.93 |
-| MA200 | 4111.98 |
-| ATR | 105.43 |
+| RSI | 33.31 |
+| MACD | -114.78 |
+| MA20 | 3867.33 |
+| MA200 | 4111.77 |
+| ATR | 105.79 |
 | Risk | NORMAL |
-| Stop Loss | 3587.96 |
-| Target | 3956.96 |
+| Stop Loss | 3585.81 |
+| Target | 3956.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4731,16 +4731,16 @@
 ### COHANCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 444.45 |
+| Price | 437.35 |
 | Trend | weak_trend |
-| RSI | 41.55 |
-| MACD | -0.46 |
-| MA20 | 447.82 |
-| MA200 | 414.22 |
-| ATR | 15.39 |
+| RSI | 41.82 |
+| MACD | -1.31 |
+| MA20 | 447.68 |
+| MA200 | 413.72 |
+| ATR | 15.62 |
 | Risk | NORMAL |
-| Stop Loss | 421.37 |
-| Target | 475.22 |
+| Stop Loss | 413.92 |
+| Target | 468.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4749,16 +4749,16 @@
 ### LICHSGFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 568.0 |
+| Price | 564.0 |
 | Trend | weak_trend |
-| RSI | 50.0 |
-| MACD | 0.46 |
-| MA20 | 545.43 |
-| MA200 | 524.93 |
-| ATR | 18.11 |
+| RSI | 49.67 |
+| MACD | 2.33 |
+| MA20 | 545.49 |
+| MA200 | 525.14 |
+| ATR | 18.33 |
 | Risk | NORMAL |
-| Stop Loss | 540.83 |
-| Target | 604.22 |
+| Stop Loss | 536.5 |
+| Target | 600.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4767,16 +4767,16 @@
 ### GILLETTE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7076.5 |
+| Price | 7019.5 |
 | Trend | downtrend |
-| RSI | 51.33 |
-| MACD | -67.91 |
-| MA20 | 7102.02 |
-| MA200 | 7748.64 |
-| ATR | 159.0 |
+| RSI | 50.48 |
+| MACD | -69.39 |
+| MA20 | 7087.65 |
+| MA200 | 7744.94 |
+| ATR | 161.04 |
 | Risk | NORMAL |
-| Stop Loss | 6838.0 |
-| Target | 7394.5 |
+| Stop Loss | 6777.95 |
+| Target | 7341.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4785,16 +4785,16 @@
 ### GLAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3078.4 |
+| Price | 3091.1 |
 | Trend | weak_trend |
-| RSI | 60.25 |
-| MACD | 57.12 |
-| MA20 | 2952.13 |
-| MA200 | 2176.86 |
-| ATR | 90.54 |
+| RSI | 63.15 |
+| MACD | 59.73 |
+| MA20 | 2960.57 |
+| MA200 | 2184.05 |
+| ATR | 90.29 |
 | Risk | NORMAL |
-| Stop Loss | 2942.6 |
-| Target | 3259.47 |
+| Stop Loss | 2955.66 |
+| Target | 3271.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4803,16 +4803,16 @@
 ### APOLLOTYRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 401.2 |
+| Price | 401.35 |
 | Trend | weak_trend |
-| RSI | 44.0 |
-| MACD | -6.05 |
-| MA20 | 404.62 |
-| MA200 | 436.44 |
-| ATR | 11.2 |
+| RSI | 49.01 |
+| MACD | -5.78 |
+| MA20 | 403.8 |
+| MA200 | 435.94 |
+| ATR | 10.89 |
 | Risk | NORMAL |
-| Stop Loss | 384.4 |
-| Target | 423.6 |
+| Stop Loss | 385.02 |
+| Target | 423.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4857,16 +4857,16 @@
 ### ITI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 240.26 |
-| Trend | downtrend |
-| RSI | 35.84 |
-| MACD | -7.53 |
-| MA20 | 249.21 |
-| MA200 | 282.98 |
-| ATR | 8.07 |
+| Price | 245.14 |
+| Trend | weak_trend |
+| RSI | 42.73 |
+| MACD | -6.96 |
+| MA20 | 248.32 |
+| MA200 | 282.64 |
+| ATR | 8.23 |
 | Risk | NORMAL |
-| Stop Loss | 228.16 |
-| Target | 256.4 |
+| Stop Loss | 232.79 |
+| Target | 261.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4875,16 +4875,16 @@
 ### HINDCOPPER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 469.95 |
+| Price | 468.05 |
 | Trend | downtrend |
-| RSI | 33.61 |
-| MACD | -12.41 |
-| MA20 | 486.1 |
-| MA200 | 526.53 |
-| ATR | 14.09 |
+| RSI | 30.19 |
+| MACD | -12.36 |
+| MA20 | 483.87 |
+| MA200 | 526.94 |
+| ATR | 13.33 |
 | Risk | NORMAL |
-| Stop Loss | 448.82 |
-| Target | 498.12 |
+| Stop Loss | 448.06 |
+| Target | 494.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4929,16 +4929,16 @@
 ### IGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 143.67 |
+| Price | 142.85 |
 | Trend | weak_trend |
-| RSI | 43.87 |
-| MACD | -1.41 |
-| MA20 | 144.86 |
-| MA200 | 159.44 |
-| ATR | 3.99 |
+| RSI | 45.92 |
+| MACD | -1.4 |
+| MA20 | 144.48 |
+| MA200 | 159.21 |
+| ATR | 3.9 |
 | Risk | NORMAL |
-| Stop Loss | 137.68 |
-| Target | 151.65 |
+| Stop Loss | 137.0 |
+| Target | 150.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -4965,16 +4965,16 @@
 ### AEGISVOPAK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 286.4 |
+| Price | 282.9 |
 | Trend | weak_trend |
-| RSI | 30.19 |
-| MACD | 0.28 |
-| MA20 | 297.03 |
-| MA200 | 236.96 |
-| ATR | 13.26 |
+| RSI | 36.21 |
+| MACD | -0.43 |
+| MA20 | 296.42 |
+| MA200 | 237.07 |
+| ATR | 11.99 |
 | Risk | ELEVATED |
-| Stop Loss | 266.51 |
-| Target | 312.91 |
+| Stop Loss | 264.91 |
+| Target | 306.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5037,16 +5037,16 @@
 ### IKS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1724.1 |
+| Price | 1743.6 |
 | Trend | weak_trend |
-| RSI | 44.02 |
-| MACD | -13.91 |
-| MA20 | 1779.35 |
-| MA200 | 1659.63 |
-| ATR | 68.79 |
+| RSI | 35.19 |
+| MACD | -14.04 |
+| MA20 | 1779.5 |
+| MA200 | 1660.07 |
+| ATR | 64.15 |
 | Risk | NORMAL |
-| Stop Loss | 1620.92 |
-| Target | 1861.67 |
+| Stop Loss | 1647.37 |
+| Target | 1871.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5073,16 +5073,16 @@
 ### TVSHLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11621.0 |
+| Price | 11588.0 |
 | Trend | downtrend |
-| RSI | 18.59 |
-| MACD | -482.22 |
-| MA20 | 12278.55 |
-| MA200 | 13905.32 |
-| ATR | 314.36 |
+| RSI | 20.36 |
+| MACD | -474.2 |
+| MA20 | 12206.75 |
+| MA200 | 13892.93 |
+| ATR | 309.07 |
 | Risk | NORMAL |
-| Stop Loss | 11149.46 |
-| Target | 12249.71 |
+| Stop Loss | 11124.39 |
+| Target | 12206.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5091,34 +5091,34 @@
 ### IRB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.88 |
+| Price | 17.87 |
 | Trend | weak_trend |
-| RSI | 47.42 |
-| MACD | -0.43 |
-| MA20 | 17.93 |
-| MA200 | 20.34 |
-| ATR | 0.62 |
+| RSI | 48.67 |
+| MACD | -0.38 |
+| MA20 | 17.84 |
+| MA200 | 20.33 |
+| ATR | 0.63 |
 | Risk | NORMAL |
-| Stop Loss | 16.95 |
-| Target | 19.12 |
+| Stop Loss | 16.92 |
+| Target | 19.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SUMICHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 416.4 |
+| Price | 414.25 |
 | Trend | downtrend |
-| RSI | 28.31 |
-| MACD | -21.42 |
-| MA20 | 439.33 |
-| MA200 | 455.23 |
-| ATR | 15.51 |
+| RSI | 25.19 |
+| MACD | -20.89 |
+| MA20 | 436.22 |
+| MA200 | 455.09 |
+| ATR | 15.38 |
 | Risk | NORMAL |
-| Stop Loss | 393.14 |
-| Target | 447.41 |
+| Stop Loss | 391.18 |
+| Target | 445.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5217,16 +5217,16 @@
 ### EMCURE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1867.4 |
+| Price | 1868.6 |
 | Trend | weak_trend |
-| RSI | 25.44 |
-| MACD | -12.2 |
-| MA20 | 1939.53 |
-| MA200 | 1695.19 |
-| ATR | 55.27 |
+| RSI | 29.2 |
+| MACD | -14.22 |
+| MA20 | 1934.01 |
+| MA200 | 1697.62 |
+| ATR | 54.54 |
 | Risk | NORMAL |
-| Stop Loss | 1784.49 |
-| Target | 1977.94 |
+| Stop Loss | 1786.79 |
+| Target | 1977.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5235,34 +5235,34 @@
 ### LALPATHLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1969.7 |
+| Price | 1910.6 |
 | Trend | weak_trend |
-| RSI | 57.67 |
-| MACD | 13.18 |
-| MA20 | 1938.41 |
-| MA200 | 1603.52 |
-| ATR | 66.57 |
+| RSI | 50.11 |
+| MACD | 9.28 |
+| MA20 | 1938.49 |
+| MA200 | 1606.16 |
+| ATR | 70.49 |
 | Risk | NORMAL |
-| Stop Loss | 1869.84 |
-| Target | 2102.84 |
+| Stop Loss | 1804.87 |
+| Target | 2051.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AMBER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6528.0 |
+| Price | 6640.0 |
 | Trend | downtrend |
-| RSI | 35.79 |
-| MACD | -188.88 |
-| MA20 | 6852.77 |
-| MA200 | 7231.91 |
-| ATR | 217.57 |
+| RSI | 41.08 |
+| MACD | -181.02 |
+| MA20 | 6822.52 |
+| MA200 | 7231.71 |
+| ATR | 217.5 |
 | Risk | NORMAL |
-| Stop Loss | 6201.64 |
-| Target | 6963.14 |
+| Stop Loss | 6313.75 |
+| Target | 7075.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5271,16 +5271,16 @@
 ### PPLPHARMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 196.66 |
+| Price | 196.01 |
 | Trend | weak_trend |
-| RSI | 30.31 |
-| MACD | -3.12 |
-| MA20 | 204.63 |
-| MA200 | 175.21 |
-| ATR | 6.57 |
+| RSI | 33.13 |
+| MACD | -3.32 |
+| MA20 | 203.86 |
+| MA200 | 175.33 |
+| ATR | 6.5 |
 | Risk | NORMAL |
-| Stop Loss | 186.81 |
-| Target | 209.79 |
+| Stop Loss | 186.25 |
+| Target | 209.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5289,20 +5289,20 @@
 ### ZFCVINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2113.8 |
+| Price | 2149.3 |
 | Trend | downtrend |
-| RSI | 20.08 |
-| MACD | -101.38 |
-| MA20 | 2311.04 |
-| MA200 | 2438.81 |
-| ATR | 61.09 |
+| RSI | 26.39 |
+| MACD | -99.24 |
+| MA20 | 2291.09 |
+| MA200 | 2436.61 |
+| ATR | 60.38 |
 | Risk | NORMAL |
-| Stop Loss | 2022.16 |
-| Target | 2235.99 |
+| Stop Loss | 2058.73 |
+| Target | 2270.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NUVAMA.NS
 | Metric | Value |
@@ -5343,16 +5343,16 @@
 ### RAMCOCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 804.85 |
+| Price | 809.45 |
 | Trend | downtrend |
-| RSI | 16.77 |
-| MACD | -18.58 |
-| MA20 | 852.06 |
-| MA200 | 961.49 |
-| ATR | 21.37 |
+| RSI | 20.08 |
+| MACD | -19.29 |
+| MA20 | 849.2 |
+| MA200 | 960.23 |
+| ATR | 21.08 |
 | Risk | NORMAL |
-| Stop Loss | 772.8 |
-| Target | 847.59 |
+| Stop Loss | 777.83 |
+| Target | 851.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5361,52 +5361,52 @@
 ### SHYAMMETL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1088.5 |
-| Trend | downtrend |
-| RSI | 47.68 |
-| MACD | 3.19 |
-| MA20 | 1072.18 |
-| MA200 | 922.9 |
-| ATR | 32.04 |
-| Risk | NORMAL |
-| Stop Loss | 1040.45 |
-| Target | 1152.57 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### FSL.NS
-| Metric | Value |
-|--------|-------|
-| Price | 277.35 |
+| Price | 1097.6 |
 | Trend | weak_trend |
-| RSI | 56.37 |
-| MACD | -0.36 |
-| MA20 | 264.17 |
-| MA200 | 261.86 |
-| ATR | 9.62 |
+| RSI | 50.88 |
+| MACD | 5.34 |
+| MA20 | 1073.32 |
+| MA200 | 924.32 |
+| ATR | 32.76 |
 | Risk | NORMAL |
-| Stop Loss | 262.92 |
-| Target | 296.59 |
+| Stop Loss | 1048.45 |
+| Target | 1163.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
+### FSL.NS
+| Metric | Value |
+|--------|-------|
+| Price | 291.75 |
+| Trend | uptrend |
+| RSI | 64.57 |
+| MACD | 1.88 |
+| MA20 | 266.38 |
+| MA200 | 261.63 |
+| ATR | 10.71 |
+| Risk | NORMAL |
+| Stop Loss | 275.68 |
+| Target | 313.18 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+
 ### EMAMILTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 364.6 |
+| Price | 373.5 |
 | Trend | downtrend |
-| RSI | 37.65 |
-| MACD | -3.72 |
-| MA20 | 377.66 |
-| MA200 | 429.97 |
-| ATR | 10.79 |
+| RSI | 37.17 |
+| MACD | -3.55 |
+| MA20 | 378.14 |
+| MA200 | 429.27 |
+| ATR | 10.89 |
 | Risk | NORMAL |
-| Stop Loss | 348.41 |
-| Target | 386.19 |
+| Stop Loss | 357.17 |
+| Target | 395.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5415,16 +5415,16 @@
 ### DEEPAKNTR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1618.3 |
+| Price | 1622.1 |
 | Trend | downtrend |
-| RSI | 54.7 |
-| MACD | -23.21 |
-| MA20 | 1574.61 |
-| MA200 | 1627.43 |
-| ATR | 43.28 |
+| RSI | 51.4 |
+| MACD | -18.04 |
+| MA20 | 1576.33 |
+| MA200 | 1627.25 |
+| ATR | 42.59 |
 | Risk | NORMAL |
-| Stop Loss | 1553.38 |
-| Target | 1704.86 |
+| Stop Loss | 1558.22 |
+| Target | 1707.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5451,16 +5451,16 @@
 ### EIHOTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 287.9 |
+| Price | 292.0 |
 | Trend | downtrend |
-| RSI | 24.46 |
-| MACD | -1.98 |
-| MA20 | 297.38 |
-| MA200 | 317.68 |
-| ATR | 6.63 |
+| RSI | 35.24 |
+| MACD | -2.09 |
+| MA20 | 297.66 |
+| MA200 | 317.32 |
+| ATR | 6.74 |
 | Risk | NORMAL |
-| Stop Loss | 277.95 |
-| Target | 301.16 |
+| Stop Loss | 281.89 |
+| Target | 305.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5487,16 +5487,16 @@
 ### PTCIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25715.0 |
+| Price | 25500.0 |
 | Trend | weak_trend |
-| RSI | 76.09 |
-| MACD | 802.21 |
-| MA20 | 22903.75 |
-| MA200 | 18419.64 |
-| ATR | 855.0 |
+| RSI | 75.57 |
+| MACD | 892.07 |
+| MA20 | 22997.25 |
+| MA200 | 18462.58 |
+| ATR | 879.29 |
 | Risk | NORMAL |
-| Stop Loss | 24432.5 |
-| Target | 27425.0 |
+| Stop Loss | 24181.07 |
+| Target | 27258.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5541,16 +5541,16 @@
 ### KIOCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 376.75 |
+| Price | 375.7 |
 | Trend | uptrend |
-| RSI | 67.96 |
-| MACD | -2.91 |
-| MA20 | 342.1 |
-| MA200 | 369.67 |
-| ATR | 15.15 |
+| RSI | 66.73 |
+| MACD | -0.58 |
+| MA20 | 343.09 |
+| MA200 | 369.87 |
+| ATR | 15.41 |
 | Risk | ELEVATED |
-| Stop Loss | 354.02 |
-| Target | 407.05 |
+| Stop Loss | 352.58 |
+| Target | 406.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5559,16 +5559,16 @@
 ### MANAPPURAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 320.0 |
+| Price | 326.75 |
 | Trend | weak_trend |
-| RSI | 53.26 |
-| MACD | -6.25 |
-| MA20 | 316.98 |
-| MA200 | 309.75 |
-| ATR | 9.76 |
+| RSI | 54.8 |
+| MACD | -4.85 |
+| MA20 | 316.87 |
+| MA200 | 309.93 |
+| ATR | 10.02 |
 | Risk | NORMAL |
-| Stop Loss | 305.36 |
-| Target | 339.52 |
+| Stop Loss | 311.72 |
+| Target | 346.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5577,34 +5577,34 @@
 ### PNBHOUSING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1200.0 |
-| Trend | uptrend |
-| RSI | 61.28 |
-| MACD | 3.71 |
-| MA20 | 1126.56 |
-| MA200 | 992.13 |
-| ATR | 34.9 |
+| Price | 1224.8 |
+| Trend | weak_trend |
+| RSI | 68.34 |
+| MACD | 10.42 |
+| MA20 | 1128.85 |
+| MA200 | 993.65 |
+| ATR | 35.36 |
 | Risk | NORMAL |
-| Stop Loss | 1147.65 |
-| Target | 1269.8 |
+| Stop Loss | 1171.75 |
+| Target | 1295.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### BRIGADE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 578.0 |
+| Price | 582.6 |
 | Trend | weak_trend |
-| RSI | 38.73 |
-| MACD | -18.12 |
-| MA20 | 591.34 |
-| MA200 | 566.94 |
-| ATR | 20.11 |
+| RSI | 37.26 |
+| MACD | -16.15 |
+| MA20 | 588.54 |
+| MA200 | 566.62 |
+| ATR | 20.41 |
 | Risk | NORMAL |
-| Stop Loss | 547.84 |
-| Target | 618.21 |
+| Stop Loss | 551.98 |
+| Target | 623.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5613,16 +5613,16 @@
 ### ABSLAMC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 986.9 |
+| Price | 986.95 |
 | Trend | weak_trend |
-| RSI | 38.8 |
-| MACD | -11.23 |
-| MA20 | 1023.17 |
-| MA200 | 967.7 |
-| ATR | 38.31 |
+| RSI | 40.2 |
+| MACD | -12.06 |
+| MA20 | 1017.03 |
+| MA200 | 968.92 |
+| ATR | 37.59 |
 | Risk | NORMAL |
-| Stop Loss | 929.43 |
-| Target | 1063.52 |
+| Stop Loss | 930.57 |
+| Target | 1062.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5631,34 +5631,34 @@
 ### TIMKEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2927.0 |
+| Price | 2929.0 |
 | Trend | downtrend |
-| RSI | 35.59 |
-| MACD | -48.58 |
-| MA20 | 3144.79 |
-| MA200 | 3279.87 |
-| ATR | 89.54 |
+| RSI | 31.87 |
+| MACD | -56.95 |
+| MA20 | 3126.12 |
+| MA200 | 3279.45 |
+| ATR | 91.67 |
 | Risk | NORMAL |
-| Stop Loss | 2792.7 |
-| Target | 3106.07 |
+| Stop Loss | 2791.49 |
+| Target | 3112.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### HSCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 661.4 |
+| Price | 660.0 |
 | Trend | weak_trend |
-| RSI | 41.31 |
-| MACD | -5.88 |
-| MA20 | 665.71 |
-| MA200 | 587.28 |
-| ATR | 14.13 |
+| RSI | 44.16 |
+| MACD | -5.9 |
+| MA20 | 665.46 |
+| MA200 | 588.19 |
+| ATR | 14.04 |
 | Risk | NORMAL |
-| Stop Loss | 640.21 |
-| Target | 689.65 |
+| Stop Loss | 638.95 |
+| Target | 688.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5667,16 +5667,16 @@
 ### FORCEMOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17010.0 |
-| Trend | downtrend |
-| RSI | 41.97 |
-| MACD | -207.15 |
-| MA20 | 17164.9 |
-| MA200 | 19500.64 |
-| ATR | 418.14 |
+| Price | 17170.0 |
+| Trend | weak_trend |
+| RSI | 48.2 |
+| MACD | -178.88 |
+| MA20 | 17138.15 |
+| MA200 | 19497.74 |
+| ATR | 411.43 |
 | Risk | NORMAL |
-| Stop Loss | 16382.79 |
-| Target | 17846.29 |
+| Stop Loss | 16552.86 |
+| Target | 17992.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5757,52 +5757,52 @@
 ### ASTRAZEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5919.0 |
+| Price | 5877.5 |
 | Trend | downtrend |
-| RSI | 23.82 |
-| MACD | -337.76 |
-| MA20 | 6339.07 |
-| MA200 | 8075.81 |
-| ATR | 184.21 |
+| RSI | 19.69 |
+| MACD | -329.29 |
+| MA20 | 6294.73 |
+| MA200 | 8060.01 |
+| ATR | 182.89 |
 | Risk | NORMAL |
-| Stop Loss | 5642.68 |
-| Target | 6287.43 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### ERIS.NS
-| Metric | Value |
-|--------|-------|
-| Price | 1157.1 |
-| Trend | downtrend |
-| RSI | 14.99 |
-| MACD | -45.0 |
-| MA20 | 1240.5 |
-| MA200 | 1373.42 |
-| ATR | 41.86 |
-| Risk | NORMAL |
-| Stop Loss | 1094.3 |
-| Target | 1240.83 |
+| Stop Loss | 5603.16 |
+| Target | 6243.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### ERIS.NS
+| Metric | Value |
+|--------|-------|
+| Price | 1149.8 |
+| Trend | downtrend |
+| RSI | 16.39 |
+| MACD | -45.37 |
+| MA20 | 1230.22 |
+| MA200 | 1371.45 |
+| ATR | 40.44 |
+| Risk | NORMAL |
+| Stop Loss | 1089.14 |
+| Target | 1230.69 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### CESC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 136.27 |
+| Price | 136.35 |
 | Trend | weak_trend |
-| RSI | 37.13 |
-| MACD | -4.34 |
-| MA20 | 137.66 |
-| MA200 | 156.24 |
-| ATR | 3.64 |
+| RSI | 38.62 |
+| MACD | -3.91 |
+| MA20 | 137.21 |
+| MA200 | 156.1 |
+| ATR | 3.69 |
 | Risk | NORMAL |
 | Stop Loss | 130.81 |
-| Target | 143.55 |
+| Target | 143.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5829,16 +5829,16 @@
 ### SUNTV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 628.8 |
+| Price | 636.05 |
 | Trend | weak_trend |
-| RSI | 85.64 |
-| MACD | 42.9 |
-| MA20 | 541.95 |
-| MA200 | 536.9 |
-| ATR | 35.23 |
+| RSI | 83.95 |
+| MACD | 43.25 |
+| MA20 | 549.95 |
+| MA200 | 537.41 |
+| ATR | 33.86 |
 | Risk | ELEVATED |
-| Stop Loss | 575.95 |
-| Target | 699.26 |
+| Stop Loss | 585.26 |
+| Target | 703.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5847,16 +5847,16 @@
 ### KARURVYSYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 342.3 |
+| Price | 348.6 |
 | Trend | weak_trend |
-| RSI | 65.91 |
-| MACD | -0.1 |
-| MA20 | 328.04 |
-| MA200 | 302.33 |
-| ATR | 9.42 |
+| RSI | 77.86 |
+| MACD | 1.31 |
+| MA20 | 328.78 |
+| MA200 | 302.82 |
+| ATR | 9.65 |
 | Risk | NORMAL |
-| Stop Loss | 328.16 |
-| Target | 361.15 |
+| Stop Loss | 334.13 |
+| Target | 367.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5919,16 +5919,16 @@
 ### AADHARHFC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 441.2 |
+| Price | 444.0 |
 | Trend | weak_trend |
-| RSI | 32.24 |
-| MACD | -7.29 |
-| MA20 | 450.81 |
-| MA200 | 480.56 |
-| ATR | 11.83 |
+| RSI | 39.27 |
+| MACD | -7.11 |
+| MA20 | 450.18 |
+| MA200 | 480.34 |
+| ATR | 11.46 |
 | Risk | NORMAL |
-| Stop Loss | 423.46 |
-| Target | 464.85 |
+| Stop Loss | 426.81 |
+| Target | 466.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5937,16 +5937,16 @@
 ### IIFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 606.65 |
-| Trend | downtrend |
-| RSI | 49.55 |
-| MACD | -6.32 |
-| MA20 | 601.13 |
-| MA200 | 541.47 |
-| ATR | 20.66 |
+| Price | 613.7 |
+| Trend | weak_trend |
+| RSI | 48.79 |
+| MACD | -4.75 |
+| MA20 | 601.79 |
+| MA200 | 541.74 |
+| ATR | 20.8 |
 | Risk | NORMAL |
-| Stop Loss | 575.66 |
-| Target | 647.96 |
+| Stop Loss | 582.5 |
+| Target | 655.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5955,16 +5955,16 @@
 ### REDINGTON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 390.2 |
+| Price | 391.95 |
 | Trend | weak_trend |
-| RSI | 49.14 |
-| MACD | 7.23 |
-| MA20 | 398.8 |
-| MA200 | 276.67 |
-| ATR | 15.21 |
+| RSI | 39.87 |
+| MACD | 6.36 |
+| MA20 | 398.71 |
+| MA200 | 277.29 |
+| ATR | 14.7 |
 | Risk | NORMAL |
-| Stop Loss | 367.39 |
-| Target | 420.61 |
+| Stop Loss | 369.89 |
+| Target | 421.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5973,16 +5973,16 @@
 ### HATSUN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1110.0 |
+| Price | 1133.6 |
 | Trend | weak_trend |
-| RSI | 46.04 |
-| MACD | 3.91 |
-| MA20 | 1150.92 |
-| MA200 | 961.16 |
-| ATR | 41.74 |
+| RSI | 43.05 |
+| MACD | 3.79 |
+| MA20 | 1146.38 |
+| MA200 | 961.96 |
+| ATR | 41.19 |
 | Risk | NORMAL |
-| Stop Loss | 1047.39 |
-| Target | 1193.49 |
+| Stop Loss | 1071.82 |
+| Target | 1215.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -5991,20 +5991,20 @@
 ### CREDITACC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1301.2 |
+| Price | 1278.4 |
 | Trend | weak_trend |
-| RSI | 37.92 |
-| MACD | -43.79 |
-| MA20 | 1314.73 |
-| MA200 | 1347.07 |
-| ATR | 43.58 |
+| RSI | 39.19 |
+| MACD | -40.94 |
+| MA20 | 1307.44 |
+| MA200 | 1347.06 |
+| ATR | 43.74 |
 | Risk | NORMAL |
-| Stop Loss | 1235.83 |
-| Target | 1388.36 |
+| Stop Loss | 1212.79 |
+| Target | 1365.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### URBANCO.NS
 | Metric | Value |
@@ -6027,16 +6027,16 @@
 ### JSWHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11314.0 |
+| Price | 11320.0 |
 | Trend | downtrend |
-| RSI | 53.9 |
-| MACD | -37.07 |
-| MA20 | 11204.85 |
-| MA200 | 13785.56 |
-| ATR | 266.79 |
+| RSI | 53.63 |
+| MACD | -29.5 |
+| MA20 | 11198.4 |
+| MA200 | 13742.31 |
+| ATR | 260.29 |
 | Risk | NORMAL |
-| Stop Loss | 10913.82 |
-| Target | 11847.57 |
+| Stop Loss | 10929.57 |
+| Target | 11840.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6045,16 +6045,16 @@
 ### PSB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.98 |
-| Trend | downtrend |
-| RSI | 30.2 |
-| MACD | -0.52 |
-| MA20 | 21.58 |
-| MA200 | 24.3 |
-| ATR | 0.38 |
+| Price | 21.25 |
+| Trend | weak_trend |
+| RSI | 37.41 |
+| MACD | -0.48 |
+| MA20 | 21.5 |
+| MA200 | 24.27 |
+| ATR | 0.4 |
 | Risk | LOW |
-| Stop Loss | 20.41 |
-| Target | 21.74 |
+| Stop Loss | 20.66 |
+| Target | 22.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6063,16 +6063,16 @@
 ### ONESOURCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1471.0 |
+| Price | 1459.1 |
 | Trend | downtrend |
-| RSI | 29.4 |
-| MACD | -23.44 |
-| MA20 | 1554.31 |
-| MA200 | 1575.49 |
-| ATR | 56.4 |
+| RSI | 29.35 |
+| MACD | -26.25 |
+| MA20 | 1547.65 |
+| MA200 | 1574.2 |
+| ATR | 57.06 |
 | Risk | NORMAL |
-| Stop Loss | 1386.4 |
-| Target | 1583.8 |
+| Stop Loss | 1373.51 |
+| Target | 1573.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6081,20 +6081,20 @@
 ### KPIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1418.1 |
+| Price | 1417.5 |
 | Trend | weak_trend |
-| RSI | 46.84 |
-| MACD | 5.66 |
-| MA20 | 1403.56 |
-| MA200 | 1250.79 |
-| ATR | 46.91 |
+| RSI | 52.97 |
+| MACD | 6.18 |
+| MA20 | 1402.65 |
+| MA200 | 1252.32 |
+| ATR | 46.83 |
 | Risk | NORMAL |
-| Stop Loss | 1347.74 |
-| Target | 1511.91 |
+| Stop Loss | 1347.26 |
+| Target | 1511.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ATHERENERG.NS
 | Metric | Value |
@@ -6117,16 +6117,16 @@
 ### SUNDRMFAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1169.7 |
+| Price | 1132.6 |
 | Trend | weak_trend |
-| RSI | 41.55 |
-| MACD | -14.01 |
-| MA20 | 1173.92 |
-| MA200 | 953.7 |
-| ATR | 37.37 |
+| RSI | 38.04 |
+| MACD | -14.25 |
+| MA20 | 1167.05 |
+| MA200 | 954.75 |
+| ATR | 38.04 |
 | Risk | NORMAL |
-| Stop Loss | 1113.64 |
-| Target | 1244.44 |
+| Stop Loss | 1075.54 |
+| Target | 1208.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6135,16 +6135,16 @@
 ### ABREL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1015.3 |
+| Price | 1066.3 |
 | Trend | downtrend |
-| RSI | 11.76 |
-| MACD | -81.58 |
-| MA20 | 1160.36 |
-| MA200 | 1344.47 |
-| ATR | 47.26 |
+| RSI | 27.9 |
+| MACD | -77.93 |
+| MA20 | 1149.6 |
+| MA200 | 1341.13 |
+| ATR | 48.07 |
 | Risk | ELEVATED |
-| Stop Loss | 944.4 |
-| Target | 1109.83 |
+| Stop Loss | 994.19 |
+| Target | 1162.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6171,16 +6171,16 @@
 ### CHALET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 825.8 |
-| Trend | weak_trend |
-| RSI | 41.58 |
-| MACD | -11.33 |
-| MA20 | 851.58 |
-| MA200 | 820.74 |
-| ATR | 28.99 |
+| Price | 814.3 |
+| Trend | downtrend |
+| RSI | 35.68 |
+| MACD | -12.56 |
+| MA20 | 848.43 |
+| MA200 | 820.46 |
+| ATR | 28.62 |
 | Risk | NORMAL |
-| Stop Loss | 782.32 |
-| Target | 883.77 |
+| Stop Loss | 771.37 |
+| Target | 871.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6189,16 +6189,16 @@
 ### CHAMBLFERT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 374.8 |
+| Price | 378.7 |
 | Trend | downtrend |
-| RSI | 16.67 |
-| MACD | -11.19 |
-| MA20 | 406.59 |
-| MA200 | 439.68 |
-| ATR | 9.28 |
+| RSI | 19.94 |
+| MACD | -11.68 |
+| MA20 | 404.59 |
+| MA200 | 439.37 |
+| ATR | 9.37 |
 | Risk | NORMAL |
-| Stop Loss | 360.88 |
-| Target | 393.36 |
+| Stop Loss | 364.64 |
+| Target | 397.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6243,16 +6243,16 @@
 ### CASTROLIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 193.87 |
+| Price | 193.98 |
 | Trend | weak_trend |
-| RSI | 50.76 |
-| MACD | 2.08 |
-| MA20 | 195.71 |
-| MA200 | 179.92 |
-| ATR | 4.2 |
+| RSI | 46.37 |
+| MACD | 1.73 |
+| MA20 | 196.01 |
+| MA200 | 180.03 |
+| ATR | 4.19 |
 | Risk | NORMAL |
-| Stop Loss | 187.58 |
-| Target | 202.26 |
+| Stop Loss | 187.69 |
+| Target | 202.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6261,16 +6261,16 @@
 ### SCHNEIDER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1185.6 |
+| Price | 1209.2 |
 | Trend | weak_trend |
-| RSI | 42.04 |
-| MACD | -6.9 |
-| MA20 | 1218.35 |
-| MA200 | 1087.46 |
-| ATR | 46.15 |
+| RSI | 49.2 |
+| MACD | -6.95 |
+| MA20 | 1217.46 |
+| MA200 | 1089.87 |
+| ATR | 47.21 |
 | Risk | NORMAL |
-| Stop Loss | 1116.37 |
-| Target | 1277.9 |
+| Stop Loss | 1138.39 |
+| Target | 1303.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6279,16 +6279,16 @@
 ### POLYMED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1641.2 |
+| Price | 1600.0 |
 | Trend | weak_trend |
-| RSI | 40.66 |
-| MACD | -29.61 |
-| MA20 | 1672.69 |
-| MA200 | 1564.24 |
-| ATR | 51.19 |
+| RSI | 37.04 |
+| MACD | -30.76 |
+| MA20 | 1665.76 |
+| MA200 | 1563.2 |
+| ATR | 52.09 |
 | Risk | NORMAL |
-| Stop Loss | 1564.42 |
-| Target | 1743.57 |
+| Stop Loss | 1521.86 |
+| Target | 1704.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6297,16 +6297,16 @@
 ### DCMSHRIRAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 954.1 |
+| Price | 961.6 |
 | Trend | weak_trend |
-| RSI | 45.33 |
-| MACD | -13.66 |
-| MA20 | 969.79 |
-| MA200 | 1079.86 |
-| ATR | 39.24 |
+| RSI | 47.28 |
+| MACD | -12.88 |
+| MA20 | 967.87 |
+| MA200 | 1078.62 |
+| ATR | 39.48 |
 | Risk | ELEVATED |
-| Stop Loss | 895.25 |
-| Target | 1032.57 |
+| Stop Loss | 902.39 |
+| Target | 1040.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6315,16 +6315,16 @@
 ### BASF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3378.2 |
+| Price | 3421.2 |
 | Trend | downtrend |
-| RSI | 24.19 |
-| MACD | -99.23 |
-| MA20 | 3502.37 |
-| MA200 | 3626.45 |
-| ATR | 89.53 |
+| RSI | 35.04 |
+| MACD | -93.69 |
+| MA20 | 3490.35 |
+| MA200 | 3624.2 |
+| ATR | 84.45 |
 | Risk | NORMAL |
-| Stop Loss | 3243.91 |
-| Target | 3557.26 |
+| Stop Loss | 3294.53 |
+| Target | 3590.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6333,16 +6333,16 @@
 ### TENNIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 474.35 |
+| Price | 466.0 |
 | Trend | downtrend |
-| RSI | 33.89 |
-| MACD | -14.54 |
-| MA20 | 502.4 |
-| MA200 | 551.5 |
-| ATR | 15.56 |
+| RSI | 20.48 |
+| MACD | -15.38 |
+| MA20 | 500.38 |
+| MA200 | 551.42 |
+| ATR | 14.85 |
 | Risk | NORMAL |
-| Stop Loss | 451.01 |
-| Target | 505.47 |
+| Stop Loss | 443.72 |
+| Target | 495.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6351,16 +6351,16 @@
 ### KANSAINER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 178.06 |
+| Price | 179.52 |
 | Trend | weak_trend |
-| RSI | 46.02 |
-| MACD | -3.31 |
-| MA20 | 181.8 |
-| MA200 | 202.56 |
-| ATR | 6.58 |
+| RSI | 48.62 |
+| MACD | -3.24 |
+| MA20 | 181.35 |
+| MA200 | 202.37 |
+| ATR | 6.56 |
 | Risk | NORMAL |
-| Stop Loss | 168.19 |
-| Target | 191.22 |
+| Stop Loss | 169.68 |
+| Target | 192.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6369,16 +6369,16 @@
 ### DEVYANI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 123.63 |
-| Trend | weak_trend |
-| RSI | 16.1 |
-| MACD | -3.34 |
-| MA20 | 133.43 |
-| MA200 | 122.91 |
-| ATR | 4.77 |
+| Price | 122.08 |
+| Trend | downtrend |
+| RSI | 11.53 |
+| MACD | -3.63 |
+| MA20 | 132.63 |
+| MA200 | 122.86 |
+| ATR | 4.73 |
 | Risk | NORMAL |
-| Stop Loss | 116.48 |
-| Target | 133.17 |
+| Stop Loss | 114.98 |
+| Target | 131.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6495,16 +6495,16 @@
 ### BIKAJI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 470.35 |
+| Price | 472.85 |
 | Trend | downtrend |
-| RSI | 24.71 |
-| MACD | -31.4 |
-| MA20 | 529.71 |
-| MA200 | 637.9 |
-| ATR | 22.06 |
+| RSI | 26.57 |
+| MACD | -31.43 |
+| MA20 | 525.94 |
+| MA200 | 636.52 |
+| ATR | 22.78 |
 | Risk | ELEVATED |
-| Stop Loss | 437.25 |
-| Target | 514.48 |
+| Stop Loss | 438.68 |
+| Target | 518.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6513,16 +6513,16 @@
 ### KAJARIACER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1224.7 |
+| Price | 1226.7 |
 | Trend | weak_trend |
-| RSI | 56.16 |
-| MACD | 1.01 |
-| MA20 | 1211.56 |
-| MA200 | 1093.63 |
-| ATR | 38.48 |
+| RSI | 61.87 |
+| MACD | 1.76 |
+| MA20 | 1211.88 |
+| MA200 | 1094.52 |
+| ATR | 38.46 |
 | Risk | NORMAL |
-| Stop Loss | 1166.98 |
-| Target | 1301.66 |
+| Stop Loss | 1169.0 |
+| Target | 1303.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6531,52 +6531,52 @@
 ### ATUL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5978.5 |
+| Price | 5998.0 |
 | Trend | weak_trend |
-| RSI | 43.31 |
-| MACD | -117.32 |
-| MA20 | 6034.1 |
-| MA200 | 6403.55 |
-| ATR | 131.07 |
+| RSI | 37.82 |
+| MACD | -107.45 |
+| MA20 | 6021.77 |
+| MA200 | 6403.65 |
+| ATR | 124.25 |
 | Risk | NORMAL |
-| Stop Loss | 5781.89 |
-| Target | 6240.64 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### SARDAEN.NS
-| Metric | Value |
-|--------|-------|
-| Price | 479.65 |
-| Trend | downtrend |
-| RSI | 29.58 |
-| MACD | -5.75 |
-| MA20 | 499.42 |
-| MA200 | 518.74 |
-| ATR | 12.26 |
-| Risk | NORMAL |
-| Stop Loss | 461.26 |
-| Target | 504.16 |
+| Stop Loss | 5811.62 |
+| Target | 6246.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### SARDAEN.NS
+| Metric | Value |
+|--------|-------|
+| Price | 471.9 |
+| Trend | downtrend |
+| RSI | 25.97 |
+| MACD | -7.1 |
+| MA20 | 496.81 |
+| MA200 | 518.55 |
+| ATR | 13.23 |
+| Risk | NORMAL |
+| Stop Loss | 452.06 |
+| Target | 498.35 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### APLLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 789.05 |
+| Price | 797.85 |
 | Trend | weak_trend |
-| RSI | 31.34 |
-| MACD | -4.53 |
-| MA20 | 831.31 |
-| MA200 | 773.17 |
-| ATR | 25.62 |
+| RSI | 36.8 |
+| MACD | -5.98 |
+| MA20 | 830.65 |
+| MA200 | 772.93 |
+| ATR | 26.06 |
 | Risk | NORMAL |
-| Stop Loss | 750.62 |
-| Target | 840.29 |
+| Stop Loss | 758.76 |
+| Target | 849.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6621,16 +6621,16 @@
 ### JSWCEMENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.0 |
+| Price | 112.88 |
 | Trend | weak_trend |
-| RSI | 36.08 |
-| MACD | -2.96 |
-| MA20 | 114.63 |
-| MA200 | 123.88 |
-| ATR | 2.98 |
+| RSI | 38.21 |
+| MACD | -2.79 |
+| MA20 | 114.33 |
+| MA200 | 123.87 |
+| ATR | 2.97 |
 | Risk | NORMAL |
-| Stop Loss | 107.52 |
-| Target | 117.97 |
+| Stop Loss | 108.42 |
+| Target | 118.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6639,20 +6639,20 @@
 ### SAILIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1471.3 |
+| Price | 1462.3 |
 | Trend | weak_trend |
-| RSI | 26.37 |
-| MACD | -3.46 |
-| MA20 | 1556.07 |
-| MA200 | 1162.03 |
-| ATR | 50.46 |
+| RSI | 26.24 |
+| MACD | -8.63 |
+| MA20 | 1549.94 |
+| MA200 | 1164.76 |
+| ATR | 52.64 |
 | Risk | NORMAL |
-| Stop Loss | 1395.61 |
-| Target | 1572.21 |
+| Stop Loss | 1383.34 |
+| Target | 1567.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### CGCL.NS
 | Metric | Value |
@@ -6693,34 +6693,34 @@
 ### GRINDWELL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1997.1 |
-| Trend | weak_trend |
-| RSI | 54.59 |
-| MACD | 6.57 |
-| MA20 | 1950.87 |
-| MA200 | 1790.65 |
-| ATR | 59.0 |
+| Price | 1969.4 |
+| Trend | uptrend |
+| RSI | 54.13 |
+| MACD | 4.82 |
+| MA20 | 1955.05 |
+| MA200 | 1792.69 |
+| ATR | 57.57 |
 | Risk | NORMAL |
-| Stop Loss | 1908.6 |
-| Target | 2115.1 |
+| Stop Loss | 1883.04 |
+| Target | 2084.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### VINATIORGA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1129.0 |
+| Price | 1135.5 |
 | Trend | downtrend |
-| RSI | 32.06 |
-| MACD | -40.9 |
-| MA20 | 1196.98 |
-| MA200 | 1361.05 |
-| ATR | 35.64 |
+| RSI | 36.37 |
+| MACD | -40.37 |
+| MA20 | 1189.48 |
+| MA200 | 1358.98 |
+| ATR | 34.51 |
 | Risk | NORMAL |
-| Stop Loss | 1075.55 |
-| Target | 1200.27 |
+| Stop Loss | 1083.74 |
+| Target | 1204.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6729,16 +6729,16 @@
 ### SKFINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1406.2 |
+| Price | 1411.9 |
 | Trend | downtrend |
-| RSI | 24.44 |
-| MACD | -35.22 |
-| MA20 | 1492.64 |
-| MA200 | 1607.41 |
-| ATR | 39.2 |
+| RSI | 29.05 |
+| MACD | -35.99 |
+| MA20 | 1486.85 |
+| MA200 | 1605.98 |
+| ATR | 38.86 |
 | Risk | NORMAL |
-| Stop Loss | 1347.4 |
-| Target | 1484.6 |
+| Stop Loss | 1353.61 |
+| Target | 1489.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6747,16 +6747,16 @@
 ### MAHSCOOTER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12265.0 |
+| Price | 12361.0 |
 | Trend | downtrend |
-| RSI | 23.14 |
-| MACD | -267.73 |
-| MA20 | 12760.63 |
-| MA200 | 12824.34 |
-| ATR | 345.43 |
+| RSI | 29.32 |
+| MACD | -256.28 |
+| MA20 | 12738.03 |
+| MA200 | 12817.21 |
+| ATR | 328.36 |
 | Risk | NORMAL |
-| Stop Loss | 11746.86 |
-| Target | 12955.86 |
+| Stop Loss | 11868.46 |
+| Target | 13017.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6801,16 +6801,16 @@
 ### FIVESTAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 500.85 |
+| Price | 505.2 |
 | Trend | weak_trend |
-| RSI | 41.32 |
-| MACD | -7.72 |
-| MA20 | 522.19 |
-| MA200 | 484.19 |
-| ATR | 17.96 |
+| RSI | 43.13 |
+| MACD | -7.66 |
+| MA20 | 519.9 |
+| MA200 | 483.88 |
+| ATR | 17.7 |
 | Risk | NORMAL |
-| Stop Loss | 473.91 |
-| Target | 536.76 |
+| Stop Loss | 478.65 |
+| Target | 540.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6819,16 +6819,16 @@
 ### TRITURBINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 520.15 |
+| Price | 523.1 |
 | Trend | downtrend |
-| RSI | 32.6 |
-| MACD | -14.77 |
-| MA20 | 543.1 |
-| MA200 | 559.64 |
-| ATR | 15.48 |
+| RSI | 36.35 |
+| MACD | -14.38 |
+| MA20 | 540.77 |
+| MA200 | 559.63 |
+| ATR | 15.26 |
 | Risk | NORMAL |
-| Stop Loss | 496.93 |
-| Target | 551.11 |
+| Stop Loss | 500.21 |
+| Target | 553.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6837,16 +6837,16 @@
 ### CARBORUNIV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1196.2 |
+| Price | 1184.7 |
 | Trend | weak_trend |
-| RSI | 52.27 |
-| MACD | 27.87 |
-| MA20 | 1196.94 |
-| MA200 | 984.66 |
-| ATR | 54.91 |
+| RSI | 46.31 |
+| MACD | 23.05 |
+| MA20 | 1202.42 |
+| MA200 | 986.35 |
+| ATR | 53.36 |
 | Risk | ELEVATED |
-| Stop Loss | 1113.83 |
-| Target | 1306.03 |
+| Stop Loss | 1104.65 |
+| Target | 1291.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6873,16 +6873,16 @@
 ### RATNAMANI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2547.1 |
+| Price | 2516.0 |
 | Trend | weak_trend |
-| RSI | 32.67 |
-| MACD | -28.41 |
-| MA20 | 2695.4 |
-| MA200 | 2450.38 |
-| ATR | 92.75 |
+| RSI | 30.73 |
+| MACD | -34.15 |
+| MA20 | 2680.63 |
+| MA200 | 2451.53 |
+| ATR | 93.34 |
 | Risk | NORMAL |
-| Stop Loss | 2407.98 |
-| Target | 2732.6 |
+| Stop Loss | 2376.0 |
+| Target | 2702.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6909,34 +6909,34 @@
 ### VENTIVE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 557.3 |
-| Trend | downtrend |
-| RSI | 50.22 |
-| MACD | -5.59 |
-| MA20 | 564.46 |
-| MA200 | 646.08 |
-| ATR | 20.47 |
+| Price | 555.35 |
+| Trend | weak_trend |
+| RSI | 38.58 |
+| MACD | -5.82 |
+| MA20 | 563.49 |
+| MA200 | 645.38 |
+| ATR | 19.17 |
 | Risk | NORMAL |
-| Stop Loss | 526.6 |
-| Target | 598.24 |
+| Stop Loss | 526.59 |
+| Target | 593.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### NAVA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 545.15 |
+| Price | 541.75 |
 | Trend | downtrend |
-| RSI | 45.37 |
-| MACD | -1.95 |
-| MA20 | 552.97 |
-| MA200 | 581.02 |
+| RSI | 45.53 |
+| MACD | -2.77 |
+| MA20 | 552.46 |
+| MA200 | 580.86 |
 | ATR | 16.31 |
 | Risk | NORMAL |
-| Stop Loss | 520.68 |
-| Target | 577.77 |
+| Stop Loss | 517.28 |
+| Target | 574.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -6945,20 +6945,20 @@
 ### CUB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 231.17 |
+| Price | 234.53 |
 | Trend | weak_trend |
-| RSI | 47.18 |
-| MACD | 0.46 |
-| MA20 | 226.24 |
-| MA200 | 207.16 |
-| ATR | 8.65 |
+| RSI | 55.86 |
+| MACD | 1.09 |
+| MA20 | 226.6 |
+| MA200 | 207.3 |
+| ATR | 8.38 |
 | Risk | NORMAL |
-| Stop Loss | 218.19 |
-| Target | 248.48 |
+| Stop Loss | 221.96 |
+| Target | 251.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CENTURYPLY.NS
 | Metric | Value |
@@ -6999,16 +6999,16 @@
 ### MANYAVAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 493.95 |
+| Price | 506.5 |
 | Trend | weak_trend |
-| RSI | 30.42 |
-| MACD | -9.11 |
-| MA20 | 528.72 |
-| MA200 | 454.82 |
-| ATR | 19.06 |
+| RSI | 38.01 |
+| MACD | -8.97 |
+| MA20 | 525.34 |
+| MA200 | 454.4 |
+| ATR | 19.27 |
 | Risk | NORMAL |
-| Stop Loss | 465.36 |
-| Target | 532.06 |
+| Stop Loss | 477.6 |
+| Target | 545.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7053,16 +7053,16 @@
 ### TBOTEK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1633.5 |
+| Price | 1649.8 |
 | Trend | weak_trend |
-| RSI | 35.62 |
-| MACD | -1.06 |
-| MA20 | 1676.99 |
-| MA200 | 1435.51 |
-| ATR | 60.21 |
+| RSI | 39.76 |
+| MACD | -2.79 |
+| MA20 | 1675.5 |
+| MA200 | 1435.26 |
+| ATR | 59.72 |
 | Risk | NORMAL |
-| Stop Loss | 1543.18 |
-| Target | 1753.93 |
+| Stop Loss | 1560.22 |
+| Target | 1769.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7071,16 +7071,16 @@
 ### CONCORDBIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1354.4 |
+| Price | 1369.7 |
 | Trend | weak_trend |
-| RSI | 22.21 |
-| MACD | -31.43 |
-| MA20 | 1433.73 |
-| MA200 | 1266.09 |
-| ATR | 53.12 |
+| RSI | 28.2 |
+| MACD | -30.43 |
+| MA20 | 1426.93 |
+| MA200 | 1266.3 |
+| ATR | 51.24 |
 | Risk | NORMAL |
-| Stop Loss | 1274.72 |
-| Target | 1460.64 |
+| Stop Loss | 1292.85 |
+| Target | 1472.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7089,16 +7089,16 @@
 ### TRAVELFOOD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1213.0 |
+| Price | 1206.3 |
 | Trend | weak_trend |
-| RSI | 42.27 |
-| MACD | -21.64 |
-| MA20 | 1213.41 |
-| MA200 | 1225.0 |
-| ATR | 29.02 |
+| RSI | 38.59 |
+| MACD | -19.92 |
+| MA20 | 1211.04 |
+| MA200 | 1224.91 |
+| ATR | 29.44 |
 | Risk | NORMAL |
-| Stop Loss | 1169.47 |
-| Target | 1271.04 |
+| Stop Loss | 1162.14 |
+| Target | 1265.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7125,16 +7125,16 @@
 ### UTIAMC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 877.65 |
+| Price | 887.6 |
 | Trend | downtrend |
-| RSI | 21.16 |
-| MACD | -5.39 |
-| MA20 | 895.75 |
-| MA200 | 942.19 |
-| ATR | 19.45 |
+| RSI | 31.38 |
+| MACD | -4.94 |
+| MA20 | 894.63 |
+| MA200 | 941.18 |
+| ATR | 18.83 |
 | Risk | NORMAL |
-| Stop Loss | 848.48 |
-| Target | 916.55 |
+| Stop Loss | 859.36 |
+| Target | 925.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7161,20 +7161,20 @@
 ### LMW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16023.0 |
+| Price | 16331.0 |
 | Trend | weak_trend |
-| RSI | 20.25 |
-| MACD | -462.17 |
-| MA20 | 17012.75 |
-| MA200 | 15646.89 |
-| ATR | 430.07 |
+| RSI | 33.35 |
+| MACD | -455.59 |
+| MA20 | 16942.95 |
+| MA200 | 15653.74 |
+| ATR | 433.43 |
 | Risk | NORMAL |
-| Stop Loss | 15377.89 |
-| Target | 16883.14 |
+| Stop Loss | 15680.86 |
+| Target | 17197.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ACMESOLAR.NS
 | Metric | Value |
@@ -7215,20 +7215,20 @@
 ### GABRIEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1401.2 |
+| Price | 1411.9 |
 | Trend | weak_trend |
-| RSI | 59.95 |
-| MACD | -3.79 |
-| MA20 | 1346.7 |
-| MA200 | 1134.08 |
-| ATR | 63.59 |
-| Risk | ELEVATED |
-| Stop Loss | 1305.82 |
-| Target | 1528.37 |
+| RSI | 42.31 |
+| MACD | 1.07 |
+| MA20 | 1349.97 |
+| MA200 | 1135.85 |
+| ATR | 50.68 |
+| Risk | NORMAL |
+| Stop Loss | 1335.88 |
+| Target | 1513.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GMDCLTD.NS
 | Metric | Value |
@@ -7269,16 +7269,16 @@
 ### ELGIEQUIP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 576.7 |
+| Price | 587.5 |
 | Trend | weak_trend |
-| RSI | 34.97 |
-| MACD | -7.41 |
-| MA20 | 599.56 |
-| MA200 | 545.16 |
-| ATR | 16.7 |
+| RSI | 41.46 |
+| MACD | -7.29 |
+| MA20 | 598.05 |
+| MA200 | 545.75 |
+| ATR | 17.1 |
 | Risk | NORMAL |
-| Stop Loss | 551.66 |
-| Target | 610.09 |
+| Stop Loss | 561.85 |
+| Target | 621.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7323,16 +7323,16 @@
 ### VGUARD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 288.9 |
+| Price | 290.5 |
 | Trend | downtrend |
-| RSI | 23.0 |
-| MACD | -9.13 |
-| MA20 | 309.12 |
-| MA200 | 317.29 |
-| ATR | 8.72 |
+| RSI | 26.53 |
+| MACD | -9.22 |
+| MA20 | 307.46 |
+| MA200 | 317.09 |
+| ATR | 8.67 |
 | Risk | NORMAL |
-| Stop Loss | 275.82 |
-| Target | 306.34 |
+| Stop Loss | 277.5 |
+| Target | 307.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7377,16 +7377,16 @@
 ### CIEINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 379.45 |
+| Price | 380.75 |
 | Trend | weak_trend |
-| RSI | 38.99 |
-| MACD | -5.21 |
-| MA20 | 381.65 |
-| MA200 | 432.83 |
-| ATR | 9.5 |
+| RSI | 42.76 |
+| MACD | -4.68 |
+| MA20 | 381.71 |
+| MA200 | 432.8 |
+| ATR | 9.29 |
 | Risk | NORMAL |
-| Stop Loss | 365.21 |
-| Target | 398.44 |
+| Stop Loss | 366.82 |
+| Target | 399.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7485,34 +7485,34 @@
 ### ABDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 705.6 |
+| Price | 718.45 |
 | Trend | weak_trend |
-| RSI | 61.56 |
-| MACD | 20.96 |
-| MA20 | 682.74 |
-| MA200 | 563.52 |
-| ATR | 32.55 |
+| RSI | 66.21 |
+| MACD | 21.22 |
+| MA20 | 687.03 |
+| MA200 | 564.03 |
+| ATR | 32.72 |
 | Risk | ELEVATED |
-| Stop Loss | 656.77 |
-| Target | 770.71 |
+| Stop Loss | 669.37 |
+| Target | 783.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CAPLIPOINT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2419.8 |
+| Price | 2361.6 |
 | Trend | weak_trend |
-| RSI | 27.47 |
-| MACD | -36.75 |
-| MA20 | 2678.81 |
-| MA200 | 2130.3 |
-| ATR | 116.06 |
+| RSI | 23.53 |
+| MACD | -53.87 |
+| MA20 | 2659.36 |
+| MA200 | 2132.51 |
+| ATR | 117.28 |
 | Risk | ELEVATED |
-| Stop Loss | 2245.7 |
-| Target | 2651.93 |
+| Stop Loss | 2185.68 |
+| Target | 2596.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7557,16 +7557,16 @@
 ### DOMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2070.3 |
+| Price | 2088.4 |
 | Trend | weak_trend |
-| RSI | 47.68 |
-| MACD | -30.71 |
-| MA20 | 2088.56 |
-| MA200 | 2286.78 |
-| ATR | 40.52 |
+| RSI | 48.13 |
+| MACD | -27.67 |
+| MA20 | 2086.93 |
+| MA200 | 2284.3 |
+| ATR | 41.12 |
 | Risk | LOW |
-| Stop Loss | 2009.52 |
-| Target | 2151.34 |
+| Stop Loss | 2026.72 |
+| Target | 2170.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7575,16 +7575,16 @@
 ### LTFOODS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 414.45 |
+| Price | 414.25 |
 | Trend | weak_trend |
-| RSI | 40.89 |
-| MACD | -5.18 |
-| MA20 | 415.9 |
-| MA200 | 399.63 |
-| ATR | 12.19 |
+| RSI | 45.59 |
+| MACD | -4.64 |
+| MA20 | 414.76 |
+| MA200 | 399.71 |
+| ATR | 12.03 |
 | Risk | NORMAL |
-| Stop Loss | 396.17 |
-| Target | 438.83 |
+| Stop Loss | 396.21 |
+| Target | 438.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7593,16 +7593,16 @@
 ### KIRLOSBROS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1710.3 |
+| Price | 1713.5 |
 | Trend | weak_trend |
-| RSI | 40.49 |
-| MACD | -37.98 |
-| MA20 | 1755.85 |
-| MA200 | 1710.26 |
-| ATR | 62.24 |
+| RSI | 42.93 |
+| MACD | -36.98 |
+| MA20 | 1752.33 |
+| MA200 | 1710.63 |
+| ATR | 60.35 |
 | Risk | NORMAL |
-| Stop Loss | 1616.95 |
-| Target | 1834.77 |
+| Stop Loss | 1622.97 |
+| Target | 1834.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7611,16 +7611,16 @@
 ### AGARWALEYE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 475.2 |
-| Trend | weak_trend |
-| RSI | 40.43 |
-| MACD | -7.3 |
-| MA20 | 491.96 |
-| MA200 | 471.92 |
-| ATR | 16.16 |
+| Price | 471.35 |
+| Trend | downtrend |
+| RSI | 36.44 |
+| MACD | -7.83 |
+| MA20 | 490.11 |
+| MA200 | 471.79 |
+| ATR | 16.15 |
 | Risk | NORMAL |
-| Stop Loss | 450.96 |
-| Target | 507.52 |
+| Stop Loss | 447.13 |
+| Target | 503.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7629,16 +7629,16 @@
 ### JBMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 537.0 |
+| Price | 541.95 |
 | Trend | downtrend |
-| RSI | 26.58 |
-| MACD | -23.38 |
-| MA20 | 572.32 |
-| MA200 | 614.92 |
-| ATR | 16.72 |
+| RSI | 28.91 |
+| MACD | -22.54 |
+| MA20 | 568.41 |
+| MA200 | 614.77 |
+| ATR | 16.57 |
 | Risk | NORMAL |
-| Stop Loss | 511.92 |
-| Target | 570.44 |
+| Stop Loss | 517.09 |
+| Target | 575.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7647,20 +7647,20 @@
 ### RRKABEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2721.5 |
+| Price | 2614.2 |
 | Trend | weak_trend |
-| RSI | 73.96 |
-| MACD | 36.31 |
-| MA20 | 2538.34 |
-| MA200 | 1975.62 |
-| ATR | 92.79 |
+| RSI | 60.23 |
+| MACD | 31.92 |
+| MA20 | 2547.83 |
+| MA200 | 1981.28 |
+| ATR | 97.06 |
 | Risk | NORMAL |
-| Stop Loss | 2582.32 |
-| Target | 2907.07 |
+| Stop Loss | 2468.61 |
+| Target | 2808.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### GALLANTT.NS
 | Metric | Value |
@@ -7719,16 +7719,16 @@
 ### INDIAMART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1592.2 |
+| Price | 1613.8 |
 | Trend | weak_trend |
-| RSI | 37.87 |
-| MACD | -32.58 |
-| MA20 | 1632.87 |
-| MA200 | 1946.32 |
-| ATR | 37.97 |
+| RSI | 44.04 |
+| MACD | -30.27 |
+| MA20 | 1628.81 |
+| MA200 | 1943.62 |
+| ATR | 40.82 |
 | Risk | NORMAL |
-| Stop Loss | 1535.24 |
-| Target | 1668.14 |
+| Stop Loss | 1552.57 |
+| Target | 1695.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7755,16 +7755,16 @@
 ### PARADEEP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 144.67 |
+| Price | 141.77 |
 | Trend | weak_trend |
-| RSI | 28.4 |
-| MACD | -0.91 |
-| MA20 | 152.94 |
-| MA200 | 135.11 |
-| ATR | 4.5 |
+| RSI | 26.99 |
+| MACD | -1.62 |
+| MA20 | 152.23 |
+| MA200 | 135.05 |
+| ATR | 4.84 |
 | Risk | NORMAL |
-| Stop Loss | 137.92 |
-| Target | 153.67 |
+| Stop Loss | 134.51 |
+| Target | 151.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7773,16 +7773,16 @@
 ### CEATLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3288.6 |
+| Price | 3291.0 |
 | Trend | weak_trend |
-| RSI | 39.43 |
-| MACD | -43.31 |
-| MA20 | 3322.76 |
-| MA200 | 3514.51 |
-| ATR | 76.02 |
+| RSI | 38.65 |
+| MACD | -40.47 |
+| MA20 | 3323.39 |
+| MA200 | 3511.5 |
+| ATR | 75.61 |
 | Risk | NORMAL |
-| Stop Loss | 3174.57 |
-| Target | 3440.64 |
+| Stop Loss | 3177.58 |
+| Target | 3442.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7827,20 +7827,20 @@
 ### INTELLECT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 585.15 |
+| Price | 606.95 |
 | Trend | downtrend |
-| RSI | 25.89 |
-| MACD | -26.56 |
-| MA20 | 627.46 |
-| MA200 | 733.23 |
-| ATR | 22.36 |
+| RSI | 37.55 |
+| MACD | -24.44 |
+| MA20 | 623.68 |
+| MA200 | 731.05 |
+| ATR | 22.73 |
 | Risk | NORMAL |
-| Stop Loss | 551.6 |
-| Target | 629.88 |
+| Stop Loss | 572.85 |
+| Target | 652.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SYRMA.NS
 | Metric | Value |
@@ -7863,16 +7863,16 @@
 ### FINEORG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5501.5 |
+| Price | 5422.5 |
 | Trend | weak_trend |
-| RSI | 66.49 |
-| MACD | 84.12 |
-| MA20 | 5232.52 |
-| MA200 | 4720.02 |
-| ATR | 173.79 |
+| RSI | 61.58 |
+| MACD | 84.78 |
+| MA20 | 5245.27 |
+| MA200 | 4725.85 |
+| ATR | 175.57 |
 | Risk | NORMAL |
-| Stop Loss | 5240.82 |
-| Target | 5849.07 |
+| Stop Loss | 5159.14 |
+| Target | 5773.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7881,16 +7881,16 @@
 ### NUVOCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 318.3 |
+| Price | 319.0 |
 | Trend | downtrend |
-| RSI | 42.01 |
-| MACD | -2.85 |
-| MA20 | 327.15 |
-| MA200 | 327.05 |
-| ATR | 10.84 |
+| RSI | 35.63 |
+| MACD | -3.11 |
+| MA20 | 326.59 |
+| MA200 | 326.84 |
+| ATR | 10.71 |
 | Risk | NORMAL |
-| Stop Loss | 302.04 |
-| Target | 339.98 |
+| Stop Loss | 302.93 |
+| Target | 340.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -7935,20 +7935,20 @@
 ### KIRLOSENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2193.0 |
+| Price | 2180.8 |
 | Trend | weak_trend |
-| RSI | 53.86 |
-| MACD | 16.34 |
-| MA20 | 2187.35 |
-| MA200 | 1763.66 |
-| ATR | 109.08 |
+| RSI | 51.03 |
+| MACD | 12.64 |
+| MA20 | 2187.96 |
+| MA200 | 1768.16 |
+| ATR | 112.83 |
 | Risk | ELEVATED |
-| Stop Loss | 2029.38 |
-| Target | 2411.16 |
+| Stop Loss | 2011.56 |
+| Target | 2406.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BLS.NS
 | Metric | Value |
@@ -7989,20 +7989,20 @@
 ### THELEELA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 594.75 |
+| Price | 601.25 |
 | Trend | weak_trend |
-| RSI | 68.99 |
-| MACD | 14.97 |
-| MA20 | 555.73 |
-| MA200 | 463.56 |
-| ATR | 26.49 |
+| RSI | 70.45 |
+| MACD | 15.98 |
+| MA20 | 558.67 |
+| MA200 | 464.51 |
+| ATR | 26.34 |
 | Risk | ELEVATED |
-| Stop Loss | 555.02 |
-| Target | 647.73 |
+| Stop Loss | 561.74 |
+| Target | 653.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### EMMVEE.NS
 | Metric | Value |
@@ -8025,16 +8025,16 @@
 ### SPLPETRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 771.25 |
+| Price | 773.45 |
 | Trend | weak_trend |
-| RSI | 28.32 |
-| MACD | 3.81 |
-| MA20 | 824.95 |
-| MA200 | 696.69 |
-| ATR | 33.07 |
+| RSI | 29.15 |
+| MACD | 1.01 |
+| MA20 | 822.7 |
+| MA200 | 697.46 |
+| ATR | 33.71 |
 | Risk | ELEVATED |
-| Stop Loss | 721.65 |
-| Target | 837.39 |
+| Stop Loss | 722.88 |
+| Target | 840.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8061,16 +8061,16 @@
 ### ZYDUSWELL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 491.85 |
+| Price | 499.45 |
 | Trend | weak_trend |
-| RSI | 35.29 |
-| MACD | -11.3 |
-| MA20 | 517.68 |
-| MA200 | 487.95 |
-| ATR | 16.35 |
+| RSI | 41.82 |
+| MACD | -10.84 |
+| MA20 | 515.05 |
+| MA200 | 488.32 |
+| ATR | 15.88 |
 | Risk | NORMAL |
-| Stop Loss | 467.33 |
-| Target | 524.54 |
+| Stop Loss | 475.64 |
+| Target | 531.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8079,16 +8079,16 @@
 ### KSB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 776.4 |
+| Price | 778.65 |
 | Trend | downtrend |
-| RSI | 44.47 |
-| MACD | -6.12 |
-| MA20 | 802.79 |
-| MA200 | 815.45 |
-| ATR | 30.01 |
+| RSI | 40.64 |
+| MACD | -7.24 |
+| MA20 | 801.52 |
+| MA200 | 815.53 |
+| ATR | 29.72 |
 | Risk | NORMAL |
-| Stop Loss | 731.39 |
-| Target | 836.41 |
+| Stop Loss | 734.07 |
+| Target | 838.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8169,34 +8169,34 @@
 ### JAINREC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 288.2 |
-| Trend | downtrend |
-| RSI | 57.2 |
-| MACD | -1.2 |
-| MA20 | 285.38 |
-| MA200 | 374.05 |
-| ATR | 12.65 |
-| Risk | ELEVATED |
-| Stop Loss | 269.23 |
-| Target | 313.49 |
+| Price | 288.55 |
+| Trend | weak_trend |
+| RSI | 48.49 |
+| MACD | -1.05 |
+| MA20 | 285.57 |
+| MA200 | 373.49 |
+| ATR | 11.18 |
+| Risk | NORMAL |
+| Stop Loss | 271.79 |
+| Target | 310.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GODREJAGRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 630.0 |
+| Price | 633.75 |
 | Trend | weak_trend |
-| RSI | 38.01 |
-| MACD | 1.15 |
-| MA20 | 647.94 |
-| MA200 | 579.05 |
-| ATR | 20.63 |
+| RSI | 41.93 |
+| MACD | 0.59 |
+| MA20 | 645.83 |
+| MA200 | 579.42 |
+| ATR | 20.57 |
 | Risk | NORMAL |
-| Stop Loss | 599.05 |
-| Target | 671.26 |
+| Stop Loss | 602.89 |
+| Target | 674.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8223,16 +8223,16 @@
 ### BBTC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1245.4 |
+| Price | 1244.5 |
 | Trend | downtrend |
-| RSI | 8.84 |
-| MACD | -60.27 |
-| MA20 | 1373.12 |
-| MA200 | 1561.16 |
-| ATR | 37.27 |
+| RSI | 9.61 |
+| MACD | -61.03 |
+| MA20 | 1364.17 |
+| MA200 | 1557.96 |
+| ATR | 35.48 |
 | Risk | NORMAL |
-| Stop Loss | 1189.49 |
-| Target | 1319.94 |
+| Stop Loss | 1191.28 |
+| Target | 1315.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8259,16 +8259,16 @@
 ### INDGN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 586.0 |
+| Price | 580.7 |
 | Trend | weak_trend |
-| RSI | 45.47 |
-| MACD | 3.2 |
-| MA20 | 593.06 |
-| MA200 | 516.39 |
-| ATR | 20.11 |
+| RSI | 44.87 |
+| MACD | 2.02 |
+| MA20 | 593.18 |
+| MA200 | 516.65 |
+| ATR | 21.25 |
 | Risk | NORMAL |
-| Stop Loss | 555.83 |
-| Target | 626.23 |
+| Stop Loss | 548.83 |
+| Target | 623.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8295,16 +8295,16 @@
 ### MINDACORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 650.45 |
+| Price | 651.2 |
 | Trend | weak_trend |
-| RSI | 39.76 |
-| MACD | -15.01 |
-| MA20 | 670.83 |
-| MA200 | 611.17 |
-| ATR | 18.44 |
+| RSI | 37.55 |
+| MACD | -14.45 |
+| MA20 | 668.12 |
+| MA200 | 611.45 |
+| ATR | 18.51 |
 | Risk | NORMAL |
-| Stop Loss | 622.8 |
-| Target | 687.32 |
+| Stop Loss | 623.44 |
+| Target | 688.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8331,16 +8331,16 @@
 ### CELLO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 364.1 |
+| Price | 367.65 |
 | Trend | downtrend |
-| RSI | 65.79 |
-| MACD | 6.27 |
-| MA20 | 339.88 |
-| MA200 | 407.3 |
-| ATR | 17.72 |
+| RSI | 67.49 |
+| MACD | 6.87 |
+| MA20 | 341.62 |
+| MA200 | 406.44 |
+| ATR | 17.92 |
 | Risk | ELEVATED |
-| Stop Loss | 337.51 |
-| Target | 399.55 |
+| Stop Loss | 340.76 |
+| Target | 403.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8403,16 +8403,16 @@
 ### ANURAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1151.6 |
+| Price | 1165.0 |
 | Trend | downtrend |
-| RSI | 48.09 |
-| MACD | -21.22 |
-| MA20 | 1173.19 |
-| MA200 | 1268.91 |
-| ATR | 36.07 |
+| RSI | 42.43 |
+| MACD | -19.21 |
+| MA20 | 1170.55 |
+| MA200 | 1268.07 |
+| ATR | 33.63 |
 | Risk | NORMAL |
-| Stop Loss | 1097.49 |
-| Target | 1223.74 |
+| Stop Loss | 1114.56 |
+| Target | 1232.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8457,16 +8457,16 @@
 ### HOMEFIRST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1076.9 |
+| Price | 1093.9 |
 | Trend | downtrend |
-| RSI | 18.26 |
-| MACD | -30.83 |
-| MA20 | 1142.34 |
-| MA200 | 1127.47 |
-| ATR | 42.86 |
+| RSI | 26.89 |
+| MACD | -29.65 |
+| MA20 | 1137.81 |
+| MA200 | 1127.21 |
+| ATR | 40.54 |
 | Risk | NORMAL |
-| Stop Loss | 1012.61 |
-| Target | 1162.61 |
+| Stop Loss | 1033.1 |
+| Target | 1174.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8475,20 +8475,20 @@
 ### MGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1020.6 |
+| Price | 1022.2 |
 | Trend | downtrend |
-| RSI | 28.78 |
-| MACD | -14.8 |
-| MA20 | 1060.65 |
-| MA200 | 1078.36 |
-| ATR | 25.35 |
+| RSI | 32.09 |
+| MACD | -15.74 |
+| MA20 | 1057.54 |
+| MA200 | 1077.87 |
+| ATR | 25.14 |
 | Risk | NORMAL |
-| Stop Loss | 982.57 |
-| Target | 1071.3 |
+| Stop Loss | 984.5 |
+| Target | 1072.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### USHAMART.NS
 | Metric | Value |
@@ -8583,16 +8583,16 @@
 ### FINCABLES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1438.3 |
+| Price | 1474.5 |
 | Trend | weak_trend |
-| RSI | 55.19 |
-| MACD | 38.98 |
-| MA20 | 1430.95 |
-| MA200 | 1012.78 |
-| ATR | 55.81 |
+| RSI | 50.94 |
+| MACD | 39.48 |
+| MA20 | 1433.48 |
+| MA200 | 1016.25 |
+| ATR | 55.41 |
 | Risk | NORMAL |
-| Stop Loss | 1354.59 |
-| Target | 1549.91 |
+| Stop Loss | 1391.39 |
+| Target | 1585.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8601,16 +8601,16 @@
 ### SKFINDUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2567.7 |
-| Trend | weak_trend |
-| RSI | 29.64 |
-| MACD | -60.05 |
-| MA20 | 2813.58 |
-| MA200 | 2521.69 |
-| ATR | 113.49 |
+| Price | 2503.7 |
+| Trend | downtrend |
+| RSI | 30.65 |
+| MACD | -73.8 |
+| MA20 | 2794.38 |
+| MA200 | 2522.29 |
+| ATR | 112.98 |
 | Risk | ELEVATED |
-| Stop Loss | 2397.46 |
-| Target | 2794.69 |
+| Stop Loss | 2334.23 |
+| Target | 2729.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8619,16 +8619,16 @@
 ### ACE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1201.1 |
+| Price | 1192.9 |
 | Trend | weak_trend |
-| RSI | 44.3 |
-| MACD | 17.39 |
-| MA20 | 1209.49 |
-| MA200 | 968.59 |
-| ATR | 40.63 |
+| RSI | 40.34 |
+| MACD | 14.83 |
+| MA20 | 1212.69 |
+| MA200 | 969.93 |
+| ATR | 41.0 |
 | Risk | NORMAL |
-| Stop Loss | 1140.16 |
-| Target | 1282.36 |
+| Stop Loss | 1131.4 |
+| Target | 1274.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8655,16 +8655,16 @@
 ### EMBDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.61 |
-| Trend | weak_trend |
-| RSI | 40.11 |
-| MACD | -0.89 |
-| MA20 | 56.66 |
-| MA200 | 59.51 |
-| ATR | 2.77 |
+| Price | 55.05 |
+| Trend | downtrend |
+| RSI | 39.87 |
+| MACD | -0.95 |
+| MA20 | 56.64 |
+| MA200 | 59.44 |
+| ATR | 2.56 |
 | Risk | ELEVATED |
-| Stop Loss | 51.46 |
-| Target | 61.15 |
+| Stop Loss | 51.21 |
+| Target | 60.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8673,16 +8673,16 @@
 ### JINDALSAW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 281.1 |
-| Trend | weak_trend |
-| RSI | 42.47 |
-| MACD | -4.17 |
-| MA20 | 283.28 |
-| MA200 | 230.21 |
-| ATR | 10.2 |
+| Price | 283.05 |
+| Trend | downtrend |
+| RSI | 47.72 |
+| MACD | -3.55 |
+| MA20 | 281.84 |
+| MA200 | 230.83 |
+| ATR | 10.02 |
 | Risk | NORMAL |
-| Stop Loss | 265.8 |
-| Target | 301.5 |
+| Stop Loss | 268.02 |
+| Target | 303.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8727,16 +8727,16 @@
 ### ACUTAAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3144.1 |
+| Price | 3176.7 |
 | Trend | weak_trend |
-| RSI | 34.57 |
-| MACD | -37.03 |
-| MA20 | 3250.61 |
-| MA200 | 2705.82 |
-| ATR | 119.71 |
+| RSI | 47.48 |
+| MACD | -34.99 |
+| MA20 | 3240.39 |
+| MA200 | 2713.46 |
+| ATR | 112.11 |
 | Risk | NORMAL |
-| Stop Loss | 2964.54 |
-| Target | 3383.51 |
+| Stop Loss | 3008.54 |
+| Target | 3400.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8763,20 +8763,20 @@
 ### CCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1050.4 |
-| Trend | weak_trend |
-| RSI | 42.59 |
-| MACD | -12.51 |
-| MA20 | 1050.45 |
-| MA200 | 1073.18 |
-| ATR | 30.02 |
+| Price | 1070.7 |
+| Trend | downtrend |
+| RSI | 57.48 |
+| MACD | -9.94 |
+| MA20 | 1049.93 |
+| MA200 | 1073.71 |
+| ATR | 29.79 |
 | Risk | NORMAL |
-| Stop Loss | 1005.37 |
-| Target | 1110.44 |
+| Stop Loss | 1026.02 |
+| Target | 1130.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FINPIPE.NS
 | Metric | Value |
@@ -8835,16 +8835,16 @@
 ### INDIACEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 297.75 |
+| Price | 299.4 |
 | Trend | downtrend |
-| RSI | 19.3 |
-| MACD | -17.06 |
-| MA20 | 319.66 |
-| MA200 | 393.23 |
-| ATR | 11.41 |
+| RSI | 22.22 |
+| MACD | -16.38 |
+| MA20 | 317.28 |
+| MA200 | 392.54 |
+| ATR | 11.45 |
 | Risk | NORMAL |
-| Stop Loss | 280.64 |
-| Target | 320.56 |
+| Stop Loss | 282.22 |
+| Target | 322.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8853,16 +8853,16 @@
 ### BLUEJET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 518.9 |
+| Price | 517.85 |
 | Trend | weak_trend |
-| RSI | 22.84 |
-| MACD | -14.81 |
-| MA20 | 553.71 |
-| MA200 | 489.07 |
-| ATR | 19.46 |
+| RSI | 17.01 |
+| MACD | -15.33 |
+| MA20 | 551.18 |
+| MA200 | 489.01 |
+| ATR | 18.78 |
 | Risk | NORMAL |
-| Stop Loss | 489.71 |
-| Target | 557.82 |
+| Stop Loss | 489.69 |
+| Target | 555.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8907,16 +8907,16 @@
 ### TSFINV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 404.75 |
+| Price | 403.25 |
 | Trend | downtrend |
-| RSI | 19.55 |
-| MACD | -6.99 |
-| MA20 | 432.15 |
-| MA200 | 414.83 |
-| ATR | 13.73 |
+| RSI | 18.36 |
+| MACD | -7.51 |
+| MA20 | 430.45 |
+| MA200 | 414.56 |
+| ATR | 13.79 |
 | Risk | NORMAL |
-| Stop Loss | 384.16 |
-| Target | 432.21 |
+| Stop Loss | 382.57 |
+| Target | 430.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8925,38 +8925,38 @@
 ### SBFC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.27 |
-| Trend | downtrend |
-| RSI | 40.4 |
-| MACD | -3.03 |
-| MA20 | 88.2 |
-| MA200 | 93.65 |
-| ATR | 2.85 |
+| Price | 88.66 |
+| Trend | weak_trend |
+| RSI | 45.91 |
+| MACD | -2.56 |
+| MA20 | 87.72 |
+| MA200 | 93.58 |
+| ATR | 3.04 |
 | Risk | NORMAL |
-| Stop Loss | 82.99 |
-| Target | 92.97 |
+| Stop Loss | 84.1 |
+| Target | 94.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CANHLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 136.51 |
+| Price | 136.27 |
 | Trend | downtrend |
-| RSI | 21.02 |
-| MACD | -3.05 |
-| MA20 | 148.47 |
-| MA200 | 145.28 |
-| ATR | 7.28 |
+| RSI | 19.64 |
+| MACD | -3.49 |
+| MA20 | 147.69 |
+| MA200 | 145.33 |
+| ATR | 7.4 |
 | Risk | ELEVATED |
-| Stop Loss | 125.59 |
+| Stop Loss | 125.17 |
 | Target | 151.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RAILTEL.NS
 | Metric | Value |
@@ -8979,16 +8979,16 @@
 ### CLEAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 794.75 |
+| Price | 795.3 |
 | Trend | weak_trend |
-| RSI | 36.52 |
-| MACD | -5.78 |
-| MA20 | 813.36 |
-| MA200 | 786.89 |
-| ATR | 23.75 |
+| RSI | 37.18 |
+| MACD | -6.1 |
+| MA20 | 811.03 |
+| MA200 | 786.4 |
+| ATR | 24.09 |
 | Risk | NORMAL |
-| Stop Loss | 759.12 |
-| Target | 842.26 |
+| Stop Loss | 759.17 |
+| Target | 843.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -8997,16 +8997,16 @@
 ### TITAGARH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 763.75 |
+| Price | 761.85 |
 | Trend | downtrend |
-| RSI | 15.29 |
-| MACD | -16.12 |
-| MA20 | 813.94 |
-| MA200 | 796.53 |
-| ATR | 21.73 |
+| RSI | 15.91 |
+| MACD | -17.89 |
+| MA20 | 809.98 |
+| MA200 | 796.42 |
+| ATR | 21.43 |
 | Risk | NORMAL |
-| Stop Loss | 731.15 |
-| Target | 807.22 |
+| Stop Loss | 729.7 |
+| Target | 804.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9033,16 +9033,16 @@
 ### SHRIPISTON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4386.7 |
+| Price | 4332.8 |
 | Trend | weak_trend |
-| RSI | 44.5 |
-| MACD | -31.18 |
-| MA20 | 4469.93 |
-| MA200 | 3663.76 |
-| ATR | 179.31 |
+| RSI | 42.25 |
+| MACD | -36.83 |
+| MA20 | 4467.99 |
+| MA200 | 3670.03 |
+| ATR | 178.31 |
 | Risk | ELEVATED |
-| Stop Loss | 4117.73 |
-| Target | 4745.33 |
+| Stop Loss | 4065.33 |
+| Target | 4689.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9051,16 +9051,16 @@
 ### ALIVUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1345.2 |
+| Price | 1344.4 |
 | Trend | weak_trend |
-| RSI | 36.13 |
-| MACD | -2.27 |
-| MA20 | 1370.47 |
-| MA200 | 1092.81 |
-| ATR | 43.1 |
+| RSI | 41.42 |
+| MACD | -3.31 |
+| MA20 | 1368.35 |
+| MA200 | 1095.05 |
+| ATR | 42.49 |
 | Risk | NORMAL |
-| Stop Loss | 1280.55 |
-| Target | 1431.4 |
+| Stop Loss | 1280.67 |
+| Target | 1429.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9105,16 +9105,16 @@
 ### OLECTRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1047.5 |
+| Price | 1062.1 |
 | Trend | downtrend |
-| RSI | 27.98 |
-| MACD | -55.16 |
-| MA20 | 1151.49 |
-| MA200 | 1203.06 |
-| ATR | 43.43 |
-| Risk | ELEVATED |
-| Stop Loss | 982.36 |
-| Target | 1134.36 |
+| RSI | 28.62 |
+| MACD | -54.42 |
+| MA20 | 1144.15 |
+| MA200 | 1202.49 |
+| ATR | 41.81 |
+| Risk | NORMAL |
+| Stop Loss | 999.38 |
+| Target | 1145.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9141,16 +9141,16 @@
 ### JUBLINGREA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 628.0 |
+| Price | 627.5 |
 | Trend | downtrend |
-| RSI | 50.24 |
-| MACD | -12.93 |
-| MA20 | 636.72 |
-| MA200 | 665.23 |
-| ATR | 23.14 |
+| RSI | 53.39 |
+| MACD | -12.67 |
+| MA20 | 635.18 |
+| MA200 | 664.84 |
+| ATR | 22.39 |
 | Risk | NORMAL |
-| Stop Loss | 593.3 |
-| Target | 674.27 |
+| Stop Loss | 593.91 |
+| Target | 672.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9159,16 +9159,16 @@
 ### SANOFI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2932.8 |
+| Price | 2956.2 |
 | Trend | downtrend |
-| RSI | 30.24 |
-| MACD | -54.97 |
-| MA20 | 3058.9 |
-| MA200 | 3472.25 |
-| ATR | 67.6 |
+| RSI | 36.16 |
+| MACD | -55.97 |
+| MA20 | 3052.75 |
+| MA200 | 3466.92 |
+| ATR | 69.34 |
 | Risk | NORMAL |
-| Stop Loss | 2831.4 |
-| Target | 3068.0 |
+| Stop Loss | 2852.2 |
+| Target | 3094.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9177,16 +9177,16 @@
 ### SANOFICONR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3559.7 |
+| Price | 3608.0 |
 | Trend | downtrend |
-| RSI | 8.26 |
-| MACD | -151.41 |
-| MA20 | 3869.59 |
-| MA200 | 4359.07 |
-| ATR | 102.95 |
+| RSI | 16.12 |
+| MACD | -151.27 |
+| MA20 | 3848.82 |
+| MA200 | 4354.5 |
+| ATR | 104.74 |
 | Risk | NORMAL |
-| Stop Loss | 3405.27 |
-| Target | 3765.6 |
+| Stop Loss | 3450.89 |
+| Target | 3817.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9195,16 +9195,16 @@
 ### EUREKAFORB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 335.9 |
+| Price | 341.15 |
 | Trend | downtrend |
-| RSI | 20.22 |
-| MACD | -19.49 |
-| MA20 | 366.96 |
-| MA200 | 473.28 |
-| ATR | 12.17 |
+| RSI | 26.08 |
+| MACD | -19.05 |
+| MA20 | 364.31 |
+| MA200 | 471.78 |
+| ATR | 12.25 |
 | Risk | NORMAL |
-| Stop Loss | 317.64 |
-| Target | 360.25 |
+| Stop Loss | 322.78 |
+| Target | 365.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9231,34 +9231,34 @@
 ### RELAXO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 290.3 |
-| Trend | weak_trend |
-| RSI | 47.33 |
-| MACD | -15.04 |
-| MA20 | 294.73 |
-| MA200 | 342.6 |
-| ATR | 8.35 |
+| Price | 295.85 |
+| Trend | downtrend |
+| RSI | 52.45 |
+| MACD | -13.54 |
+| MA20 | 293.46 |
+| MA200 | 342.09 |
+| ATR | 8.58 |
 | Risk | NORMAL |
-| Stop Loss | 277.77 |
-| Target | 307.01 |
+| Stop Loss | 282.99 |
+| Target | 313.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PRUDENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3163.2 |
+| Price | 3175.9 |
 | Trend | weak_trend |
-| RSI | 33.32 |
-| MACD | -33.85 |
-| MA20 | 3248.38 |
-| MA200 | 2804.15 |
-| ATR | 113.11 |
+| RSI | 35.39 |
+| MACD | -33.78 |
+| MA20 | 3237.93 |
+| MA200 | 2806.56 |
+| ATR | 114.48 |
 | Risk | NORMAL |
-| Stop Loss | 2993.53 |
-| Target | 3389.43 |
+| Stop Loss | 3004.18 |
+| Target | 3404.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9267,16 +9267,16 @@
 ### VIKRAMSOLR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 141.97 |
+| Price | 143.75 |
 | Trend | downtrend |
-| RSI | 4.17 |
-| MACD | -6.53 |
-| MA20 | 157.41 |
-| MA200 | 195.23 |
-| ATR | 3.86 |
+| RSI | 11.47 |
+| MACD | -6.64 |
+| MA20 | 156.26 |
+| MA200 | 194.79 |
+| ATR | 3.82 |
 | Risk | NORMAL |
-| Stop Loss | 136.18 |
-| Target | 149.69 |
+| Stop Loss | 138.01 |
+| Target | 151.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9303,16 +9303,16 @@
 ### CANFINHOME.NS
 | Metric | Value |
 |--------|-------|
-| Price | 735.0 |
+| Price | 735.85 |
 | Trend | weak_trend |
-| RSI | 37.2 |
-| MACD | -19.38 |
-| MA20 | 746.8 |
-| MA200 | 846.34 |
-| ATR | 19.95 |
+| RSI | 40.65 |
+| MACD | -17.82 |
+| MA20 | 744.61 |
+| MA200 | 845.38 |
+| ATR | 20.54 |
 | Risk | NORMAL |
-| Stop Loss | 705.08 |
-| Target | 774.9 |
+| Stop Loss | 705.04 |
+| Target | 776.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9375,16 +9375,16 @@
 ### BLACKBUCK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 580.4 |
+| Price | 578.35 |
 | Trend | downtrend |
-| RSI | 34.33 |
-| MACD | -0.64 |
-| MA20 | 608.54 |
-| MA200 | 583.85 |
-| ATR | 22.45 |
+| RSI | 36.06 |
+| MACD | -2.22 |
+| MA20 | 606.05 |
+| MA200 | 583.59 |
+| ATR | 20.35 |
 | Risk | NORMAL |
-| Stop Loss | 546.73 |
-| Target | 625.3 |
+| Stop Loss | 547.82 |
+| Target | 619.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9411,38 +9411,38 @@
 ### SAFARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1316.7 |
+| Price | 1300.7 |
 | Trend | downtrend |
-| RSI | 19.43 |
-| MACD | -55.25 |
-| MA20 | 1429.74 |
-| MA200 | 1654.5 |
-| ATR | 48.65 |
+| RSI | 14.63 |
+| MACD | -56.38 |
+| MA20 | 1417.54 |
+| MA200 | 1650.03 |
+| ATR | 48.14 |
 | Risk | NORMAL |
-| Stop Loss | 1243.72 |
-| Target | 1414.0 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### INOXINDIA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 2078.7 |
-| Trend | weak_trend |
-| RSI | 49.26 |
-| MACD | -0.84 |
-| MA20 | 2085.55 |
-| MA200 | 1580.33 |
-| ATR | 89.96 |
-| Risk | ELEVATED |
-| Stop Loss | 1943.76 |
-| Target | 2258.61 |
+| Stop Loss | 1228.49 |
+| Target | 1396.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### INOXINDIA.NS
+| Metric | Value |
+|--------|-------|
+| Price | 2083.9 |
+| Trend | downtrend |
+| RSI | 46.3 |
+| MACD | -0.62 |
+| MA20 | 2077.41 |
+| MA200 | 1585.14 |
+| ATR | 88.32 |
+| Risk | ELEVATED |
+| Stop Loss | 1951.42 |
+| Target | 2260.54 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### HFCL.NS
 | Metric | Value |
@@ -9483,20 +9483,20 @@
 ### PVRINOX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1401.3 |
-| Trend | uptrend |
-| RSI | 55.26 |
-| MACD | 30.49 |
-| MA20 | 1277.92 |
-| MA200 | 1058.33 |
-| ATR | 55.22 |
-| Risk | NORMAL |
-| Stop Loss | 1318.47 |
-| Target | 1511.74 |
+| Price | 1404.5 |
+| Trend | weak_trend |
+| RSI | 57.21 |
+| MACD | 36.9 |
+| MA20 | 1286.29 |
+| MA200 | 1060.05 |
+| ATR | 56.31 |
+| Risk | ELEVATED |
+| Stop Loss | 1320.04 |
+| Target | 1517.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SCI.NS
 | Metric | Value |
@@ -9519,16 +9519,16 @@
 ### JKLAKSHMI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 469.2 |
+| Price | 476.9 |
 | Trend | downtrend |
-| RSI | 23.11 |
-| MACD | -15.94 |
-| MA20 | 494.54 |
-| MA200 | 620.0 |
-| ATR | 13.11 |
+| RSI | 32.1 |
+| MACD | -15.11 |
+| MA20 | 493.09 |
+| MA200 | 618.51 |
+| ATR | 12.68 |
 | Risk | NORMAL |
-| Stop Loss | 449.53 |
-| Target | 495.42 |
+| Stop Loss | 457.88 |
+| Target | 502.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9537,16 +9537,16 @@
 ### VIJAYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1452.1 |
+| Price | 1406.5 |
 | Trend | weak_trend |
-| RSI | 34.9 |
-| MACD | -9.54 |
-| MA20 | 1482.05 |
-| MA200 | 1207.27 |
-| ATR | 51.93 |
+| RSI | 34.35 |
+| MACD | -13.14 |
+| MA20 | 1477.38 |
+| MA200 | 1209.35 |
+| ATR | 51.3 |
 | Risk | NORMAL |
-| Stop Loss | 1374.21 |
-| Target | 1555.96 |
+| Stop Loss | 1329.55 |
+| Target | 1509.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9591,16 +9591,16 @@
 ### AETHER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1779.3 |
+| Price | 1715.7 |
 | Trend | weak_trend |
-| RSI | 64.3 |
-| MACD | 37.75 |
-| MA20 | 1691.85 |
-| MA200 | 1254.27 |
-| ATR | 69.86 |
-| Risk | NORMAL |
-| Stop Loss | 1674.5 |
-| Target | 1919.03 |
+| RSI | 56.59 |
+| MACD | 33.79 |
+| MA20 | 1693.9 |
+| MA200 | 1258.66 |
+| ATR | 73.98 |
+| Risk | ELEVATED |
+| Stop Loss | 1604.73 |
+| Target | 1863.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9663,34 +9663,34 @@
 ### METROPOLIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 538.55 |
+| Price | 534.75 |
 | Trend | weak_trend |
-| RSI | 25.44 |
-| MACD | -11.66 |
-| MA20 | 565.75 |
-| MA200 | 517.29 |
-| ATR | 18.81 |
+| RSI | 24.81 |
+| MACD | -11.97 |
+| MA20 | 563.21 |
+| MA200 | 517.61 |
+| ATR | 19.11 |
 | Risk | NORMAL |
-| Stop Loss | 510.33 |
-| Target | 576.17 |
+| Stop Loss | 506.08 |
+| Target | 572.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### IXIGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 142.62 |
+| Price | 140.53 |
 | Trend | downtrend |
-| RSI | 26.95 |
-| MACD | -4.5 |
-| MA20 | 158.85 |
-| MA200 | 185.38 |
-| ATR | 5.46 |
-| Risk | NORMAL |
-| Stop Loss | 134.43 |
-| Target | 153.54 |
+| RSI | 21.28 |
+| MACD | -5.39 |
+| MA20 | 157.94 |
+| MA200 | 184.8 |
+| ATR | 5.65 |
+| Risk | ELEVATED |
+| Stop Loss | 132.05 |
+| Target | 151.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9735,16 +9735,16 @@
 ### WESTLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 586.9 |
+| Price | 595.35 |
 | Trend | weak_trend |
-| RSI | 58.53 |
-| MACD | 7.69 |
-| MA20 | 577.24 |
-| MA200 | 505.38 |
-| ATR | 26.19 |
+| RSI | 58.08 |
+| MACD | 8.13 |
+| MA20 | 578.52 |
+| MA200 | 505.75 |
+| ATR | 25.06 |
 | Risk | ELEVATED |
-| Stop Loss | 547.62 |
-| Target | 639.27 |
+| Stop Loss | 557.76 |
+| Target | 645.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9753,16 +9753,16 @@
 ### RKFORGE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 693.6 |
+| Price | 698.65 |
 | Trend | weak_trend |
-| RSI | 41.62 |
-| MACD | -2.54 |
-| MA20 | 705.98 |
-| MA200 | 592.38 |
-| ATR | 23.48 |
+| RSI | 43.78 |
+| MACD | -2.78 |
+| MA20 | 705.35 |
+| MA200 | 593.49 |
+| ATR | 22.84 |
 | Risk | NORMAL |
-| Stop Loss | 658.38 |
-| Target | 740.56 |
+| Stop Loss | 664.39 |
+| Target | 744.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9771,16 +9771,16 @@
 ### STARCEMENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 167.54 |
+| Price | 168.14 |
 | Trend | downtrend |
-| RSI | 12.31 |
-| MACD | -6.08 |
-| MA20 | 182.49 |
-| MA200 | 208.44 |
-| ATR | 4.6 |
+| RSI | 15.59 |
+| MACD | -6.28 |
+| MA20 | 181.14 |
+| MA200 | 208.21 |
+| ATR | 4.53 |
 | Risk | NORMAL |
-| Stop Loss | 160.64 |
-| Target | 176.74 |
+| Stop Loss | 161.34 |
+| Target | 177.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9807,34 +9807,34 @@
 ### RELINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 58.11 |
-| Trend | weak_trend |
-| RSI | 70.13 |
-| MACD | -0.43 |
-| MA20 | 50.02 |
-| MA200 | 85.91 |
-| ATR | 1.75 |
+| Price | 56.95 |
+| Trend | downtrend |
+| RSI | 69.57 |
+| MACD | -0.05 |
+| MA20 | 50.18 |
+| MA200 | 85.33 |
+| ATR | 1.76 |
 | Risk | NORMAL |
-| Stop Loss | 55.49 |
-| Target | 61.61 |
+| Stop Loss | 54.31 |
+| Target | 60.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PGHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5201.5 |
+| Price | 5295.5 |
 | Trend | downtrend |
-| RSI | 34.96 |
-| MACD | -131.84 |
-| MA20 | 5393.8 |
-| MA200 | 5541.69 |
-| ATR | 160.36 |
+| RSI | 42.24 |
+| MACD | -124.06 |
+| MA20 | 5388.0 |
+| MA200 | 5540.96 |
+| ATR | 164.64 |
 | Risk | NORMAL |
-| Stop Loss | 4960.96 |
-| Target | 5522.21 |
+| Stop Loss | 5048.54 |
+| Target | 5624.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9843,20 +9843,20 @@
 ### ALKYLAMINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1824.6 |
+| Price | 1835.9 |
 | Trend | weak_trend |
-| RSI | 46.26 |
-| MACD | -23.39 |
-| MA20 | 1832.66 |
-| MA200 | 1675.61 |
-| ATR | 78.26 |
+| RSI | 47.62 |
+| MACD | -21.66 |
+| MA20 | 1831.08 |
+| MA200 | 1676.79 |
+| ATR | 78.2 |
 | Risk | ELEVATED |
-| Stop Loss | 1707.2 |
-| Target | 1981.13 |
+| Stop Loss | 1718.6 |
+| Target | 1992.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TEJASNET.NS
 | Metric | Value |
@@ -9879,16 +9879,16 @@
 ### SHAILY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3156.7 |
+| Price | 3158.9 |
 | Trend | weak_trend |
-| RSI | 42.28 |
-| MACD | -38.37 |
-| MA20 | 3116.64 |
-| MA200 | 2610.59 |
-| ATR | 96.28 |
+| RSI | 49.19 |
+| MACD | -30.68 |
+| MA20 | 3110.61 |
+| MA200 | 2614.55 |
+| ATR | 90.51 |
 | Risk | NORMAL |
-| Stop Loss | 3012.28 |
-| Target | 3349.26 |
+| Stop Loss | 3023.13 |
+| Target | 3339.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9971,14 +9971,14 @@
 |--------|-------|
 | Price | 603.55 |
 | Trend | weak_trend |
-| RSI | 36.53 |
-| MACD | -4.4 |
-| MA20 | 626.96 |
-| MA200 | 492.05 |
-| ATR | 26.17 |
+| RSI | 33.65 |
+| MACD | -5.0 |
+| MA20 | 625.91 |
+| MA200 | 492.62 |
+| ATR | 25.73 |
 | Risk | ELEVATED |
-| Stop Loss | 564.29 |
-| Target | 655.89 |
+| Stop Loss | 564.96 |
+| Target | 655.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -9987,16 +9987,16 @@
 ### MEDPLUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 627.6 |
+| Price | 617.0 |
 | Trend | downtrend |
-| RSI | 26.29 |
-| MACD | -11.09 |
-| MA20 | 650.89 |
-| MA200 | 796.15 |
-| ATR | 12.63 |
+| RSI | 24.39 |
+| MACD | -12.37 |
+| MA20 | 648.73 |
+| MA200 | 795.17 |
+| ATR | 13.12 |
 | Risk | NORMAL |
-| Stop Loss | 608.66 |
-| Target | 652.85 |
+| Stop Loss | 597.32 |
+| Target | 643.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10077,16 +10077,16 @@
 ### RHIM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 369.8 |
-| Trend | weak_trend |
-| RSI | 51.38 |
-| MACD | -1.53 |
-| MA20 | 375.65 |
-| MA200 | 398.73 |
-| ATR | 13.83 |
+| Price | 370.9 |
+| Trend | downtrend |
+| RSI | 42.5 |
+| MACD | -1.68 |
+| MA20 | 375.41 |
+| MA200 | 398.32 |
+| ATR | 12.21 |
 | Risk | NORMAL |
-| Stop Loss | 349.05 |
-| Target | 397.46 |
+| Stop Loss | 352.59 |
+| Target | 395.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10095,16 +10095,16 @@
 ### AEQUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 265.9 |
+| Price | 265.1 |
 | Trend | weak_trend |
-| RSI | 67.0 |
-| MACD | 9.75 |
-| MA20 | 254.44 |
-| MA200 | 190.9 |
-| ATR | 14.89 |
+| RSI | 62.28 |
+| MACD | 8.8 |
+| MA20 | 256.4 |
+| MA200 | 191.47 |
+| ATR | 14.9 |
 | Risk | ELEVATED |
-| Stop Loss | 243.56 |
-| Target | 295.69 |
+| Stop Loss | 242.75 |
+| Target | 294.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10113,34 +10113,34 @@
 ### JLHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 255.0 |
+| Price | 242.05 |
 | Trend | downtrend |
-| RSI | 29.55 |
-| MACD | -10.49 |
-| MA20 | 265.1 |
-| MA200 | 272.38 |
-| ATR | 9.47 |
-| Risk | NORMAL |
-| Stop Loss | 240.79 |
-| Target | 273.94 |
+| RSI | 23.78 |
+| MACD | -11.02 |
+| MA20 | 263.25 |
+| MA200 | 272.19 |
+| ATR | 10.2 |
+| Risk | ELEVATED |
+| Stop Loss | 226.75 |
+| Target | 262.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### INDIASHLTR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 633.35 |
+| Price | 628.0 |
 | Trend | downtrend |
-| RSI | 28.3 |
-| MACD | -9.66 |
-| MA20 | 651.49 |
-| MA200 | 740.43 |
-| ATR | 19.44 |
+| RSI | 30.59 |
+| MACD | -10.22 |
+| MA20 | 650.27 |
+| MA200 | 739.47 |
+| ATR | 18.97 |
 | Risk | NORMAL |
-| Stop Loss | 604.2 |
-| Target | 672.22 |
+| Stop Loss | 599.55 |
+| Target | 665.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10149,16 +10149,16 @@
 ### ASTRAMICRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1689.8 |
+| Price | 1673.9 |
 | Trend | weak_trend |
-| RSI | 53.74 |
-| MACD | -2.35 |
-| MA20 | 1638.32 |
-| MA200 | 1315.32 |
-| ATR | 51.13 |
+| RSI | 57.19 |
+| MACD | -0.81 |
+| MA20 | 1637.98 |
+| MA200 | 1319.15 |
+| ATR | 50.5 |
 | Risk | NORMAL |
-| Stop Loss | 1613.11 |
-| Target | 1792.06 |
+| Stop Loss | 1598.15 |
+| Target | 1774.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10167,20 +10167,20 @@
 ### TDPOWERSYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 825.65 |
-| Trend | uptrend |
-| RSI | 66.35 |
-| MACD | 22.9 |
-| MA20 | 770.77 |
-| MA200 | 551.67 |
-| ATR | 40.82 |
+| Price | 797.85 |
+| Trend | weak_trend |
+| RSI | 58.02 |
+| MACD | 21.66 |
+| MA20 | 770.42 |
+| MA200 | 553.87 |
+| ATR | 42.21 |
 | Risk | ELEVATED |
-| Stop Loss | 764.42 |
-| Target | 907.29 |
+| Stop Loss | 734.53 |
+| Target | 882.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KPIGREEN.NS
 | Metric | Value |
@@ -10221,20 +10221,20 @@
 ### BIRLACORPN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 815.5 |
+| Price | 805.65 |
 | Trend | weak_trend |
-| RSI | 47.08 |
-| MACD | -14.5 |
-| MA20 | 823.21 |
-| MA200 | 943.48 |
-| ATR | 22.56 |
+| RSI | 46.4 |
+| MACD | -14.61 |
+| MA20 | 822.23 |
+| MA200 | 942.38 |
+| ATR | 22.79 |
 | Risk | NORMAL |
-| Stop Loss | 781.65 |
-| Target | 860.63 |
+| Stop Loss | 771.46 |
+| Target | 851.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SAPPHIRE.NS
 | Metric | Value |
@@ -10257,52 +10257,52 @@
 ### MAPMYINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 906.95 |
-| Trend | downtrend |
-| RSI | 51.39 |
-| MACD | -20.84 |
-| MA20 | 885.79 |
-| MA200 | 1058.66 |
-| ATR | 35.1 |
-| Risk | NORMAL |
-| Stop Loss | 854.29 |
-| Target | 977.16 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### UJJIVANSFB.NS
-| Metric | Value |
-|--------|-------|
-| Price | 62.35 |
+| Price | 916.75 |
 | Trend | weak_trend |
-| RSI | 44.36 |
-| MACD | -0.91 |
-| MA20 | 64.53 |
-| MA200 | 60.68 |
-| ATR | 2.51 |
-| Risk | ELEVATED |
-| Stop Loss | 58.58 |
-| Target | 67.38 |
+| RSI | 48.81 |
+| MACD | -16.83 |
+| MA20 | 885.34 |
+| MA200 | 1054.93 |
+| ATR | 31.93 |
+| Risk | NORMAL |
+| Stop Loss | 868.86 |
+| Target | 980.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### UJJIVANSFB.NS
+| Metric | Value |
+|--------|-------|
+| Price | 65.25 |
+| Trend | weak_trend |
+| RSI | 51.04 |
+| MACD | -0.75 |
+| MA20 | 64.52 |
+| MA200 | 60.74 |
+| ATR | 2.66 |
+| Risk | ELEVATED |
+| Stop Loss | 61.26 |
+| Target | 70.56 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
 ### HCG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 585.8 |
+| Price | 579.35 |
 | Trend | downtrend |
-| RSI | 20.04 |
-| MACD | -21.45 |
-| MA20 | 675.96 |
-| MA200 | 632.31 |
-| ATR | 25.8 |
+| RSI | 14.34 |
+| MACD | -25.53 |
+| MA20 | 670.23 |
+| MA200 | 631.68 |
+| ATR | 26.25 |
 | Risk | ELEVATED |
-| Stop Loss | 547.11 |
-| Target | 637.39 |
+| Stop Loss | 539.98 |
+| Target | 631.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10311,16 +10311,16 @@
 ### NESCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1036.5 |
+| Price | 1041.3 |
 | Trend | downtrend |
-| RSI | 34.72 |
-| MACD | -9.01 |
-| MA20 | 1061.95 |
-| MA200 | 1118.41 |
-| ATR | 28.05 |
+| RSI | 40.14 |
+| MACD | -8.62 |
+| MA20 | 1058.9 |
+| MA200 | 1117.56 |
+| ATR | 27.77 |
 | Risk | NORMAL |
-| Stop Loss | 994.42 |
-| Target | 1092.6 |
+| Stop Loss | 999.64 |
+| Target | 1096.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10329,34 +10329,34 @@
 ### HAPPYFORGE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1966.3 |
+| Price | 1936.6 |
 | Trend | weak_trend |
-| RSI | 32.94 |
-| MACD | -47.32 |
-| MA20 | 2053.28 |
-| MA200 | 1507.95 |
-| ATR | 79.7 |
+| RSI | 30.8 |
+| MACD | -49.13 |
+| MA20 | 2041.66 |
+| MA200 | 1512.27 |
+| ATR | 83.03 |
 | Risk | ELEVATED |
-| Stop Loss | 1846.75 |
-| Target | 2125.7 |
+| Stop Loss | 1812.06 |
+| Target | 2102.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### HONASA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 472.4 |
+| Price | 466.9 |
 | Trend | weak_trend |
-| RSI | 49.56 |
-| MACD | -0.83 |
-| MA20 | 464.05 |
-| MA200 | 375.54 |
-| ATR | 18.95 |
+| RSI | 47.61 |
+| MACD | -0.56 |
+| MA20 | 463.83 |
+| MA200 | 376.58 |
+| ATR | 19.86 |
 | Risk | ELEVATED |
-| Stop Loss | 443.97 |
-| Target | 510.3 |
+| Stop Loss | 437.1 |
+| Target | 506.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10365,34 +10365,34 @@
 ### KRBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 393.05 |
-| Trend | downtrend |
-| RSI | 49.95 |
-| MACD | -3.13 |
-| MA20 | 391.59 |
-| MA200 | 360.28 |
-| ATR | 14.63 |
+| Price | 396.6 |
+| Trend | weak_trend |
+| RSI | 53.48 |
+| MACD | -2.42 |
+| MA20 | 390.61 |
+| MA200 | 360.31 |
+| ATR | 15.31 |
 | Risk | NORMAL |
-| Stop Loss | 371.11 |
-| Target | 422.31 |
+| Stop Loss | 373.63 |
+| Target | 427.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### VARROC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 820.6 |
+| Price | 821.5 |
 | Trend | weak_trend |
-| RSI | 37.36 |
-| MACD | -2.93 |
-| MA20 | 838.16 |
-| MA200 | 632.52 |
-| ATR | 31.91 |
+| RSI | 39.16 |
+| MACD | -2.91 |
+| MA20 | 835.64 |
+| MA200 | 633.46 |
+| ATR | 29.94 |
 | Risk | NORMAL |
-| Stop Loss | 772.73 |
-| Target | 884.42 |
+| Stop Loss | 776.59 |
+| Target | 881.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10419,20 +10419,20 @@
 ### LATENTVIEW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 231.79 |
-| Trend | downtrend |
-| RSI | 19.27 |
-| MACD | -10.1 |
-| MA20 | 242.7 |
-| MA200 | 320.1 |
-| ATR | 8.3 |
+| Price | 238.97 |
+| Trend | weak_trend |
+| RSI | 35.12 |
+| MACD | -9.17 |
+| MA20 | 242.03 |
+| MA200 | 318.89 |
+| ATR | 8.52 |
 | Risk | NORMAL |
-| Stop Loss | 219.33 |
-| Target | 248.4 |
+| Stop Loss | 226.18 |
+| Target | 256.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BLUESTONE.NS
 | Metric | Value |
@@ -10473,20 +10473,20 @@
 ### LLOYDSENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.56 |
+| Price | 70.97 |
 | Trend | weak_trend |
-| RSI | 51.99 |
-| MACD | 0.49 |
-| MA20 | 74.01 |
-| MA200 | 66.62 |
-| ATR | 3.96 |
+| RSI | 51.02 |
+| MACD | 0.1 |
+| MA20 | 74.07 |
+| MA200 | 66.64 |
+| ATR | 3.94 |
 | Risk | ELEVATED |
-| Stop Loss | 65.62 |
-| Target | 79.48 |
+| Stop Loss | 65.06 |
+| Target | 78.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### TI.NS
 | Metric | Value |
@@ -10527,16 +10527,16 @@
 ### SANDUMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 178.17 |
+| Price | 178.55 |
 | Trend | weak_trend |
-| RSI | 42.58 |
-| MACD | -4.51 |
-| MA20 | 182.21 |
-| MA200 | 207.68 |
-| ATR | 5.4 |
+| RSI | 43.07 |
+| MACD | -4.37 |
+| MA20 | 181.62 |
+| MA200 | 207.5 |
+| ATR | 5.36 |
 | Risk | NORMAL |
-| Stop Loss | 170.08 |
-| Target | 188.96 |
+| Stop Loss | 170.52 |
+| Target | 189.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10545,16 +10545,16 @@
 ### TTKPRESTIG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 516.5 |
+| Price | 516.6 |
 | Trend | weak_trend |
-| RSI | 46.6 |
-| MACD | -14.31 |
-| MA20 | 523.43 |
-| MA200 | 554.24 |
-| ATR | 15.14 |
+| RSI | 49.76 |
+| MACD | -13.49 |
+| MA20 | 522.39 |
+| MA200 | 553.76 |
+| ATR | 14.71 |
 | Risk | NORMAL |
-| Stop Loss | 493.79 |
-| Target | 546.78 |
+| Stop Loss | 494.54 |
+| Target | 546.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10599,16 +10599,16 @@
 ### TCI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 843.85 |
+| Price | 845.05 |
 | Trend | downtrend |
-| RSI | 61.25 |
-| MACD | -2.34 |
-| MA20 | 853.15 |
-| MA200 | 951.66 |
-| ATR | 32.91 |
+| RSI | 60.03 |
+| MACD | -3.63 |
+| MA20 | 852.46 |
+| MA200 | 950.75 |
+| ATR | 32.51 |
 | Risk | NORMAL |
-| Stop Loss | 794.48 |
-| Target | 909.67 |
+| Stop Loss | 796.28 |
+| Target | 910.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10617,20 +10617,20 @@
 ### BBOX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 924.6 |
+| Price | 921.85 |
 | Trend | weak_trend |
-| RSI | 66.14 |
-| MACD | 29.89 |
-| MA20 | 816.55 |
-| MA200 | 707.53 |
-| ATR | 46.2 |
+| RSI | 70.68 |
+| MACD | 33.64 |
+| MA20 | 822.6 |
+| MA200 | 709.57 |
+| ATR | 44.64 |
 | Risk | ELEVATED |
-| Stop Loss | 855.3 |
-| Target | 1017.0 |
+| Stop Loss | 854.89 |
+| Target | 1011.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### POWERMECH.NS
 | Metric | Value |
@@ -10653,16 +10653,16 @@
 ### ORKLAINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 550.6 |
-| Trend | weak_trend |
-| RSI | 38.57 |
-| MACD | -6.99 |
-| MA20 | 560.8 |
-| MA200 | 592.95 |
-| ATR | 18.23 |
+| Price | 544.45 |
+| Trend | downtrend |
+| RSI | 39.74 |
+| MACD | -7.22 |
+| MA20 | 558.46 |
+| MA200 | 592.69 |
+| ATR | 17.82 |
 | Risk | NORMAL |
-| Stop Loss | 523.25 |
-| Target | 587.06 |
+| Stop Loss | 517.72 |
+| Target | 580.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10689,20 +10689,20 @@
 ### LOTUSDEV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 238.01 |
+| Price | 230.73 |
 | Trend | weak_trend |
-| RSI | 64.59 |
-| MACD | 12.49 |
-| MA20 | 223.34 |
-| MA200 | 156.87 |
-| ATR | 12.73 |
+| RSI | 59.74 |
+| MACD | 11.56 |
+| MA20 | 224.44 |
+| MA200 | 157.25 |
+| ATR | 13.27 |
 | Risk | ELEVATED |
-| Stop Loss | 218.91 |
-| Target | 263.47 |
+| Stop Loss | 210.83 |
+| Target | 257.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### JAIBALAJI.NS
 | Metric | Value |
@@ -10725,16 +10725,16 @@
 ### SAREGAMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 497.9 |
+| Price | 501.15 |
 | Trend | weak_trend |
-| RSI | 54.33 |
-| MACD | -1.63 |
-| MA20 | 495.74 |
-| MA200 | 415.24 |
-| ATR | 17.1 |
+| RSI | 48.9 |
+| MACD | -1.03 |
+| MA20 | 495.53 |
+| MA200 | 416.0 |
+| ATR | 17.0 |
 | Risk | NORMAL |
-| Stop Loss | 472.25 |
-| Target | 532.1 |
+| Stop Loss | 475.66 |
+| Target | 535.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10797,16 +10797,16 @@
 ### CORONA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2015.3 |
+| Price | 2026.2 |
 | Trend | weak_trend |
-| RSI | 23.7 |
-| MACD | -29.15 |
-| MA20 | 2107.82 |
-| MA200 | 1773.51 |
-| ATR | 60.52 |
+| RSI | 28.13 |
+| MACD | -29.2 |
+| MA20 | 2097.32 |
+| MA200 | 1776.81 |
+| ATR | 63.73 |
 | Risk | NORMAL |
-| Stop Loss | 1924.52 |
-| Target | 2136.34 |
+| Stop Loss | 1930.61 |
+| Target | 2153.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10833,16 +10833,16 @@
 ### MANORAMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1984.0 |
+| Price | 2002.5 |
 | Trend | weak_trend |
-| RSI | 58.54 |
-| MACD | 27.52 |
-| MA20 | 1939.91 |
-| MA200 | 1529.19 |
-| ATR | 60.71 |
+| RSI | 62.59 |
+| MACD | 28.79 |
+| MA20 | 1937.25 |
+| MA200 | 1532.5 |
+| ATR | 63.09 |
 | Risk | NORMAL |
-| Stop Loss | 1892.94 |
-| Target | 2105.41 |
+| Stop Loss | 1907.87 |
+| Target | 2128.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10851,16 +10851,16 @@
 ### ARVIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 511.55 |
+| Price | 514.6 |
 | Trend | weak_trend |
-| RSI | 37.47 |
-| MACD | -8.65 |
-| MA20 | 539.59 |
-| MA200 | 441.6 |
-| ATR | 16.32 |
+| RSI | 41.04 |
+| MACD | -9.12 |
+| MA20 | 536.57 |
+| MA200 | 442.58 |
+| ATR | 16.88 |
 | Risk | NORMAL |
-| Stop Loss | 487.07 |
-| Target | 544.19 |
+| Stop Loss | 489.28 |
+| Target | 548.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -10869,38 +10869,38 @@
 ### APOLLO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 401.4 |
+| Price | 407.05 |
 | Trend | weak_trend |
-| RSI | 56.68 |
-| MACD | 1.75 |
-| MA20 | 396.78 |
-| MA200 | 323.64 |
-| ATR | 15.21 |
+| RSI | 50.26 |
+| MACD | 2.22 |
+| MA20 | 396.04 |
+| MA200 | 324.49 |
+| ATR | 14.22 |
 | Risk | NORMAL |
-| Stop Loss | 378.59 |
-| Target | 431.81 |
+| Stop Loss | 385.71 |
+| Target | 435.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PNGJL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 603.4 |
-| Trend | uptrend |
-| RSI | 50.7 |
-| MACD | -3.63 |
-| MA20 | 596.61 |
-| MA200 | 592.17 |
-| ATR | 22.7 |
+| Price | 597.2 |
+| Trend | weak_trend |
+| RSI | 49.56 |
+| MACD | -3.12 |
+| MA20 | 595.81 |
+| MA200 | 592.11 |
+| ATR | 23.3 |
 | Risk | NORMAL |
-| Stop Loss | 569.34 |
-| Target | 648.81 |
+| Stop Loss | 562.24 |
+| Target | 643.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MAHSEAMLES.NS
 | Metric | Value |
@@ -10959,20 +10959,20 @@
 ### RELIGARE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 221.78 |
+| Price | 224.49 |
 | Trend | downtrend |
-| RSI | 22.68 |
-| MACD | -6.94 |
-| MA20 | 237.38 |
-| MA200 | 237.65 |
-| ATR | 7.26 |
+| RSI | 28.04 |
+| MACD | -6.73 |
+| MA20 | 235.76 |
+| MA200 | 237.63 |
+| ATR | 7.34 |
 | Risk | NORMAL |
-| Stop Loss | 210.89 |
-| Target | 236.29 |
+| Stop Loss | 213.47 |
+| Target | 239.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GMRP&UI.NS
 | Metric | Value |
@@ -10995,16 +10995,16 @@
 ### BECTORFOOD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 203.9 |
-| Trend | downtrend |
-| RSI | 22.78 |
-| MACD | -5.96 |
-| MA20 | 215.57 |
-| MA200 | 206.16 |
-| ATR | 6.32 |
+| Price | 208.93 |
+| Trend | weak_trend |
+| RSI | 38.05 |
+| MACD | -5.67 |
+| MA20 | 213.89 |
+| MA200 | 206.01 |
+| ATR | 6.34 |
 | Risk | NORMAL |
-| Stop Loss | 194.41 |
-| Target | 216.55 |
+| Stop Loss | 199.41 |
+| Target | 221.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11013,34 +11013,34 @@
 ### WEWORK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 669.1 |
+| Price | 677.55 |
 | Trend | weak_trend |
-| RSI | 48.25 |
-| MACD | -3.96 |
-| MA20 | 666.49 |
-| MA200 | 604.97 |
-| ATR | 22.12 |
+| RSI | 53.19 |
+| MACD | -2.71 |
+| MA20 | 666.85 |
+| MA200 | 605.48 |
+| ATR | 22.61 |
 | Risk | NORMAL |
-| Stop Loss | 635.92 |
-| Target | 713.34 |
+| Stop Loss | 643.63 |
+| Target | 722.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### RCF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 104.27 |
-| Trend | downtrend |
-| RSI | 39.69 |
-| MACD | -2.57 |
-| MA20 | 107.78 |
-| MA200 | 124.35 |
-| ATR | 2.77 |
+| Price | 105.06 |
+| Trend | weak_trend |
+| RSI | 43.98 |
+| MACD | -2.52 |
+| MA20 | 107.53 |
+| MA200 | 124.19 |
+| ATR | 2.75 |
 | Risk | NORMAL |
-| Stop Loss | 100.12 |
-| Target | 109.81 |
+| Stop Loss | 100.93 |
+| Target | 110.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11049,16 +11049,16 @@
 ### ESABINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5452.5 |
-| Trend | downtrend |
-| RSI | 42.98 |
-| MACD | -114.84 |
-| MA20 | 5572.32 |
-| MA200 | 5799.23 |
-| ATR | 134.21 |
+| Price | 5497.5 |
+| Trend | weak_trend |
+| RSI | 39.16 |
+| MACD | -108.3 |
+| MA20 | 5553.0 |
+| MA200 | 5796.16 |
+| ATR | 129.61 |
 | Risk | NORMAL |
-| Stop Loss | 5251.18 |
-| Target | 5720.93 |
+| Stop Loss | 5303.09 |
+| Target | 5756.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11067,16 +11067,16 @@
 ### VOLTAMP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10507.0 |
+| Price | 10384.0 |
 | Trend | weak_trend |
-| RSI | 40.45 |
-| MACD | -62.8 |
-| MA20 | 10623.35 |
-| MA200 | 9293.96 |
-| ATR | 265.86 |
+| RSI | 38.75 |
+| MACD | -69.54 |
+| MA20 | 10581.7 |
+| MA200 | 9305.96 |
+| ATR | 254.93 |
 | Risk | NORMAL |
-| Stop Loss | 10108.21 |
-| Target | 11038.71 |
+| Stop Loss | 10001.61 |
+| Target | 10893.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11085,52 +11085,52 @@
 ### STAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1096.2 |
+| Price | 1095.5 |
 | Trend | weak_trend |
-| RSI | 21.83 |
-| MACD | -3.66 |
-| MA20 | 1154.15 |
-| MA200 | 1008.1 |
-| ATR | 37.26 |
+| RSI | 23.44 |
+| MACD | -5.03 |
+| MA20 | 1149.76 |
+| MA200 | 1008.95 |
+| ATR | 36.74 |
 | Risk | NORMAL |
-| Stop Loss | 1040.31 |
-| Target | 1170.71 |
+| Stop Loss | 1040.39 |
+| Target | 1168.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GALAXYSURF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2532.5 |
+| Price | 2581.9 |
 | Trend | weak_trend |
-| RSI | 76.82 |
-| MACD | 73.26 |
-| MA20 | 2295.19 |
-| MA200 | 1947.94 |
-| ATR | 98.42 |
+| RSI | 78.53 |
+| MACD | 83.33 |
+| MA20 | 2314.92 |
+| MA200 | 1950.99 |
+| ATR | 99.27 |
 | Risk | NORMAL |
-| Stop Loss | 2384.87 |
-| Target | 2729.34 |
+| Stop Loss | 2432.99 |
+| Target | 2780.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MAHLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 346.5 |
+| Price | 350.45 |
 | Trend | downtrend |
-| RSI | 34.09 |
-| MACD | -4.91 |
-| MA20 | 354.49 |
-| MA200 | 356.07 |
-| ATR | 11.95 |
+| RSI | 41.59 |
+| MACD | -4.66 |
+| MA20 | 354.37 |
+| MA200 | 355.84 |
+| ATR | 12.21 |
 | Risk | NORMAL |
-| Stop Loss | 328.57 |
-| Target | 370.41 |
+| Stop Loss | 332.14 |
+| Target | 374.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11157,16 +11157,16 @@
 ### SHARDACROP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 727.65 |
+| Price | 721.25 |
 | Trend | weak_trend |
-| RSI | 43.41 |
-| MACD | -13.77 |
-| MA20 | 737.77 |
-| MA200 | 913.84 |
-| ATR | 19.31 |
+| RSI | 40.82 |
+| MACD | -13.65 |
+| MA20 | 735.55 |
+| MA200 | 913.1 |
+| ATR | 19.47 |
 | Risk | NORMAL |
-| Stop Loss | 698.68 |
-| Target | 766.27 |
+| Stop Loss | 692.05 |
+| Target | 760.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11175,16 +11175,16 @@
 ### OSWALPUMPS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 255.5 |
-| Trend | downtrend |
-| RSI | 27.98 |
-| MACD | -9.79 |
-| MA20 | 269.7 |
-| MA200 | 365.58 |
-| ATR | 9.12 |
+| Price | 259.75 |
+| Trend | weak_trend |
+| RSI | 35.77 |
+| MACD | -9.4 |
+| MA20 | 268.57 |
+| MA200 | 364.22 |
+| ATR | 9.08 |
 | Risk | NORMAL |
-| Stop Loss | 241.82 |
-| Target | 273.74 |
+| Stop Loss | 246.14 |
+| Target | 277.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11193,16 +11193,16 @@
 ### DODLA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 995.9 |
+| Price | 1002.7 |
 | Trend | downtrend |
-| RSI | 21.21 |
-| MACD | -20.58 |
-| MA20 | 1034.88 |
-| MA200 | 1099.73 |
-| ATR | 26.66 |
+| RSI | 29.5 |
+| MACD | -20.1 |
+| MA20 | 1030.48 |
+| MA200 | 1098.69 |
+| ATR | 24.21 |
 | Risk | NORMAL |
-| Stop Loss | 955.9 |
-| Target | 1049.23 |
+| Stop Loss | 966.39 |
+| Target | 1051.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11265,16 +11265,16 @@
 ### CERA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4970.5 |
+| Price | 5055.5 |
 | Trend | downtrend |
-| RSI | 17.23 |
-| MACD | -200.6 |
-| MA20 | 5306.27 |
-| MA200 | 5446.69 |
-| ATR | 124.39 |
+| RSI | 25.48 |
+| MACD | -191.97 |
+| MA20 | 5279.68 |
+| MA200 | 5445.81 |
+| ATR | 127.43 |
 | Risk | NORMAL |
-| Stop Loss | 4783.91 |
-| Target | 5219.29 |
+| Stop Loss | 4864.36 |
+| Target | 5310.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11283,16 +11283,16 @@
 ### KIRLPNU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 667.15 |
+| Price | 649.9 |
 | Trend | downtrend |
-| RSI | 33.81 |
-| MACD | -15.65 |
-| MA20 | 691.98 |
-| MA200 | 687.89 |
-| ATR | 23.44 |
+| RSI | 31.73 |
+| MACD | -17.26 |
+| MA20 | 688.48 |
+| MA200 | 688.57 |
+| ATR | 23.58 |
 | Risk | NORMAL |
-| Stop Loss | 632.0 |
-| Target | 714.02 |
+| Stop Loss | 614.54 |
+| Target | 697.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11319,16 +11319,16 @@
 ### KALPATARU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 257.9 |
+| Price | 261.2 |
 | Trend | downtrend |
-| RSI | 37.21 |
-| MACD | -3.35 |
-| MA20 | 268.75 |
-| MA200 | 309.29 |
-| ATR | 11.83 |
+| RSI | 42.61 |
+| MACD | -3.59 |
+| MA20 | 268.5 |
+| MA200 | 308.91 |
+| ATR | 11.73 |
 | Risk | ELEVATED |
-| Stop Loss | 240.16 |
-| Target | 281.55 |
+| Stop Loss | 243.61 |
+| Target | 284.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11373,16 +11373,16 @@
 ### GARFIBRES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 765.85 |
+| Price | 765.8 |
 | Trend | weak_trend |
-| RSI | 28.88 |
-| MACD | -6.86 |
-| MA20 | 781.02 |
-| MA200 | 696.58 |
-| ATR | 22.74 |
+| RSI | 28.86 |
+| MACD | -6.88 |
+| MA20 | 779.53 |
+| MA200 | 697.03 |
+| ATR | 22.6 |
 | Risk | NORMAL |
-| Stop Loss | 731.74 |
-| Target | 811.33 |
+| Stop Loss | 731.91 |
+| Target | 810.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11391,20 +11391,20 @@
 ### ACI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 473.4 |
+| Price | 470.65 |
 | Trend | downtrend |
-| RSI | 52.79 |
-| MACD | -6.61 |
-| MA20 | 471.67 |
-| MA200 | 541.01 |
-| ATR | 16.7 |
+| RSI | 52.97 |
+| MACD | -6.21 |
+| MA20 | 471.68 |
+| MA200 | 540.87 |
+| ATR | 17.33 |
 | Risk | NORMAL |
-| Stop Loss | 448.35 |
-| Target | 506.8 |
+| Stop Loss | 444.66 |
+| Target | 505.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SHILPAMED.NS
 | Metric | Value |
@@ -11427,16 +11427,16 @@
 ### DBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 392.65 |
+| Price | 394.1 |
 | Trend | downtrend |
-| RSI | 28.34 |
-| MACD | -3.65 |
-| MA20 | 407.01 |
-| MA200 | 434.31 |
-| ATR | 11.03 |
+| RSI | 27.96 |
+| MACD | -3.99 |
+| MA20 | 406.59 |
+| MA200 | 434.01 |
+| ATR | 10.76 |
 | Risk | NORMAL |
-| Stop Loss | 376.1 |
-| Target | 414.71 |
+| Stop Loss | 377.96 |
+| Target | 415.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11445,16 +11445,16 @@
 ### MAXESTATES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 531.6 |
+| Price | 546.7 |
 | Trend | weak_trend |
-| RSI | 28.29 |
-| MACD | 2.82 |
-| MA20 | 572.34 |
-| MA200 | 436.37 |
-| ATR | 23.62 |
+| RSI | 35.34 |
+| MACD | 1.94 |
+| MA20 | 571.65 |
+| MA200 | 436.83 |
+| ATR | 24.09 |
 | Risk | ELEVATED |
-| Stop Loss | 496.17 |
-| Target | 578.84 |
+| Stop Loss | 510.57 |
+| Target | 594.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11463,16 +11463,16 @@
 ### THOMASCOOK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.04 |
+| Price | 100.45 |
 | Trend | downtrend |
-| RSI | 36.55 |
-| MACD | -1.95 |
-| MA20 | 102.58 |
-| MA200 | 107.44 |
-| ATR | 2.75 |
+| RSI | 38.29 |
+| MACD | -1.84 |
+| MA20 | 102.17 |
+| MA200 | 107.23 |
+| ATR | 2.69 |
 | Risk | NORMAL |
-| Stop Loss | 95.92 |
-| Target | 105.53 |
+| Stop Loss | 96.41 |
+| Target | 105.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11535,16 +11535,16 @@
 ### THANGAMAYL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4890.5 |
+| Price | 4900.5 |
 | Trend | weak_trend |
-| RSI | 48.72 |
-| MACD | -124.01 |
-| MA20 | 4972.85 |
-| MA200 | 4535.16 |
-| ATR | 194.39 |
+| RSI | 42.08 |
+| MACD | -116.39 |
+| MA20 | 4961.57 |
+| MA200 | 4543.01 |
+| ATR | 187.68 |
 | Risk | NORMAL |
-| Stop Loss | 4598.91 |
-| Target | 5279.29 |
+| Stop Loss | 4618.98 |
+| Target | 5275.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11553,16 +11553,16 @@
 ### PRSMJOHNSN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 97.76 |
+| Price | 98.76 |
 | Trend | downtrend |
-| RSI | 14.27 |
-| MACD | -3.66 |
-| MA20 | 109.31 |
-| MA200 | 120.37 |
-| ATR | 3.39 |
+| RSI | 17.66 |
+| MACD | -3.78 |
+| MA20 | 108.58 |
+| MA200 | 120.24 |
+| ATR | 3.42 |
 | Risk | NORMAL |
-| Stop Loss | 92.67 |
-| Target | 104.55 |
+| Stop Loss | 93.63 |
+| Target | 105.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11571,16 +11571,16 @@
 ### RUSTOMJEE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 354.15 |
+| Price | 353.25 |
 | Trend | weak_trend |
-| RSI | 49.8 |
-| MACD | -1.61 |
-| MA20 | 358.39 |
-| MA200 | 415.11 |
-| ATR | 14.15 |
-| Risk | NORMAL |
-| Stop Loss | 332.93 |
-| Target | 382.44 |
+| RSI | 42.24 |
+| MACD | -2.22 |
+| MA20 | 358.8 |
+| MA200 | 414.24 |
+| ATR | 14.61 |
+| Risk | ELEVATED |
+| Stop Loss | 331.34 |
+| Target | 382.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11589,16 +11589,16 @@
 ### AKUMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 751.45 |
+| Price | 769.3 |
 | Trend | weak_trend |
-| RSI | 31.21 |
-| MACD | 5.46 |
-| MA20 | 796.69 |
-| MA200 | 583.35 |
-| ATR | 29.13 |
+| RSI | 39.87 |
+| MACD | 3.43 |
+| MA20 | 796.34 |
+| MA200 | 585.1 |
+| ATR | 29.55 |
 | Risk | NORMAL |
-| Stop Loss | 707.76 |
-| Target | 809.71 |
+| Stop Loss | 724.98 |
+| Target | 828.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11607,16 +11607,16 @@
 ### AJAXENGG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 568.3 |
+| Price | 573.05 |
 | Trend | weak_trend |
-| RSI | 52.75 |
-| MACD | -0.17 |
-| MA20 | 578.61 |
-| MA200 | 544.11 |
-| ATR | 20.78 |
+| RSI | 53.97 |
+| MACD | -0.61 |
+| MA20 | 577.73 |
+| MA200 | 544.0 |
+| ATR | 20.85 |
 | Risk | NORMAL |
-| Stop Loss | 537.14 |
-| Target | 609.85 |
+| Stop Loss | 541.78 |
+| Target | 614.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11625,20 +11625,20 @@
 ### ETHOSLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2550.2 |
+| Price | 2589.8 |
 | Trend | weak_trend |
-| RSI | 45.43 |
-| MACD | -40.31 |
-| MA20 | 2590.47 |
-| MA200 | 2547.76 |
-| ATR | 91.46 |
+| RSI | 47.64 |
+| MACD | -37.09 |
+| MA20 | 2588.19 |
+| MA200 | 2545.97 |
+| ATR | 90.53 |
 | Risk | NORMAL |
-| Stop Loss | 2413.01 |
-| Target | 2733.11 |
+| Stop Loss | 2454.01 |
+| Target | 2770.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PNCINFRA.NS
 | Metric | Value |
@@ -11661,16 +11661,16 @@
 ### FDC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 341.4 |
-| Trend | downtrend |
-| RSI | 36.64 |
-| MACD | -5.98 |
-| MA20 | 342.98 |
-| MA200 | 374.23 |
-| ATR | 10.3 |
+| Price | 338.45 |
+| Trend | weak_trend |
+| RSI | 38.07 |
+| MACD | -5.42 |
+| MA20 | 342.83 |
+| MA200 | 373.89 |
+| ATR | 10.15 |
 | Risk | NORMAL |
-| Stop Loss | 325.94 |
-| Target | 362.01 |
+| Stop Loss | 323.23 |
+| Target | 358.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11715,16 +11715,16 @@
 ### TMB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 878.2 |
+| Price | 874.3 |
 | Trend | weak_trend |
-| RSI | 47.71 |
-| MACD | -4.25 |
-| MA20 | 882.86 |
-| MA200 | 718.94 |
-| ATR | 27.91 |
+| RSI | 47.36 |
+| MACD | -4.2 |
+| MA20 | 881.03 |
+| MA200 | 720.82 |
+| ATR | 27.32 |
 | Risk | NORMAL |
-| Stop Loss | 836.33 |
-| Target | 934.02 |
+| Stop Loss | 833.32 |
+| Target | 928.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11733,16 +11733,16 @@
 ### TIPSMUSIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 682.25 |
+| Price | 706.95 |
 | Trend | uptrend |
-| RSI | 55.85 |
-| MACD | -2.16 |
-| MA20 | 654.41 |
-| MA200 | 608.71 |
-| ATR | 23.53 |
+| RSI | 60.6 |
+| MACD | 2.51 |
+| MA20 | 656.68 |
+| MA200 | 609.57 |
+| ATR | 25.38 |
 | Risk | NORMAL |
-| Stop Loss | 646.95 |
-| Target | 729.31 |
+| Stop Loss | 668.89 |
+| Target | 757.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11751,16 +11751,16 @@
 ### ATLANTAELE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1846.0 |
+| Price | 1852.0 |
 | Trend | weak_trend |
-| RSI | 61.01 |
-| MACD | 24.39 |
-| MA20 | 1712.21 |
-| MA200 | 1429.44 |
-| ATR | 98.55 |
+| RSI | 64.18 |
+| MACD | 28.89 |
+| MA20 | 1715.92 |
+| MA200 | 1433.93 |
+| ATR | 99.15 |
 | Risk | ELEVATED |
-| Stop Loss | 1698.17 |
-| Target | 2043.1 |
+| Stop Loss | 1703.27 |
+| Target | 2050.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11769,20 +11769,20 @@
 ### EPIGRAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 979.3 |
+| Price | 990.9 |
 | Trend | downtrend |
-| RSI | 22.53 |
-| MACD | -38.62 |
-| MA20 | 1053.66 |
-| MA200 | 1094.61 |
-| ATR | 36.05 |
+| RSI | 27.2 |
+| MACD | -38.58 |
+| MA20 | 1046.65 |
+| MA200 | 1092.64 |
+| ATR | 36.26 |
 | Risk | NORMAL |
-| Stop Loss | 925.22 |
-| Target | 1051.4 |
+| Stop Loss | 936.51 |
+| Target | 1063.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### INOXGREEN.NS
 | Metric | Value |
@@ -11805,20 +11805,20 @@
 ### SFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 612.15 |
+| Price | 604.75 |
 | Trend | downtrend |
-| RSI | 30.64 |
-| MACD | -16.22 |
-| MA20 | 638.11 |
-| MA200 | 617.5 |
-| ATR | 18.52 |
+| RSI | 23.98 |
+| MACD | -16.46 |
+| MA20 | 633.77 |
+| MA200 | 617.64 |
+| ATR | 17.38 |
 | Risk | NORMAL |
-| Stop Loss | 584.37 |
-| Target | 649.19 |
+| Stop Loss | 578.68 |
+| Target | 639.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### V2RETAIL.NS
 | Metric | Value |
@@ -11841,20 +11841,20 @@
 ### MASTEK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1645.6 |
-| Trend | downtrend |
-| RSI | 57.83 |
-| MACD | -10.55 |
-| MA20 | 1600.52 |
-| MA200 | 1715.76 |
-| ATR | 54.59 |
+| Price | 1715.7 |
+| Trend | weak_trend |
+| RSI | 68.07 |
+| MACD | -2.11 |
+| MA20 | 1604.99 |
+| MA200 | 1713.71 |
+| ATR | 57.89 |
 | Risk | NORMAL |
-| Stop Loss | 1563.71 |
-| Target | 1754.79 |
+| Stop Loss | 1628.87 |
+| Target | 1831.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### BALUFORGE.NS
 | Metric | Value |
@@ -11895,34 +11895,34 @@
 ### GANESHHOU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 691.6 |
+| Price | 686.65 |
 | Trend | downtrend |
-| RSI | 31.66 |
-| MACD | -20.22 |
-| MA20 | 724.1 |
-| MA200 | 727.03 |
-| ATR | 22.69 |
+| RSI | 31.82 |
+| MACD | -20.56 |
+| MA20 | 720.26 |
+| MA200 | 726.48 |
+| ATR | 22.81 |
 | Risk | NORMAL |
-| Stop Loss | 657.57 |
-| Target | 736.98 |
+| Stop Loss | 652.43 |
+| Target | 732.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### RTNINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.87 |
-| Trend | downtrend |
-| RSI | 32.03 |
-| MACD | -1.0 |
-| MA20 | 26.25 |
-| MA200 | 32.71 |
-| ATR | 1.1 |
+| Price | 25.23 |
+| Trend | weak_trend |
+| RSI | 34.38 |
+| MACD | -0.97 |
+| MA20 | 26.13 |
+| MA200 | 32.63 |
+| ATR | 1.06 |
 | Risk | ELEVATED |
-| Stop Loss | 23.22 |
-| Target | 27.07 |
+| Stop Loss | 23.65 |
+| Target | 27.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11931,34 +11931,34 @@
 ### PFOCUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 281.95 |
+| Price | 279.0 |
 | Trend | weak_trend |
-| RSI | 24.88 |
-| MACD | -7.88 |
-| MA20 | 311.93 |
-| MA200 | 273.74 |
-| ATR | 20.57 |
+| RSI | 21.75 |
+| MACD | -8.41 |
+| MA20 | 310.34 |
+| MA200 | 274.05 |
+| ATR | 20.17 |
 | Risk | ELEVATED |
-| Stop Loss | 251.09 |
-| Target | 323.1 |
+| Stop Loss | 248.75 |
+| Target | 319.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### WELENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 725.7 |
+| Price | 736.6 |
 | Trend | weak_trend |
-| RSI | 25.76 |
-| MACD | 4.4 |
-| MA20 | 753.85 |
-| MA200 | 556.17 |
-| ATR | 25.59 |
+| RSI | 32.09 |
+| MACD | 3.94 |
+| MA20 | 751.37 |
+| MA200 | 557.32 |
+| ATR | 25.53 |
 | Risk | NORMAL |
-| Stop Loss | 687.32 |
-| Target | 776.88 |
+| Stop Loss | 698.31 |
+| Target | 787.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -11985,16 +11985,16 @@
 ### ISGEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 905.55 |
+| Price | 912.45 |
 | Trend | weak_trend |
-| RSI | 62.77 |
-| MACD | 31.01 |
-| MA20 | 858.31 |
-| MA200 | 882.03 |
-| ATR | 32.51 |
+| RSI | 67.83 |
+| MACD | 30.54 |
+| MA20 | 864.44 |
+| MA200 | 882.55 |
+| ATR | 32.41 |
 | Risk | NORMAL |
-| Stop Loss | 856.79 |
-| Target | 970.56 |
+| Stop Loss | 863.83 |
+| Target | 977.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12021,16 +12021,16 @@
 ### RATEGAIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 862.25 |
+| Price | 874.9 |
 | Trend | weak_trend |
-| RSI | 56.47 |
-| MACD | -9.89 |
-| MA20 | 849.06 |
-| MA200 | 728.01 |
-| ATR | 28.18 |
+| RSI | 61.54 |
+| MACD | -7.12 |
+| MA20 | 848.9 |
+| MA200 | 729.1 |
+| ATR | 28.11 |
 | Risk | NORMAL |
-| Stop Loss | 819.98 |
-| Target | 918.61 |
+| Stop Loss | 832.73 |
+| Target | 931.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12093,16 +12093,16 @@
 ### CSBBANK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 305.25 |
+| Price | 308.1 |
 | Trend | downtrend |
-| RSI | 19.25 |
-| MACD | -6.62 |
-| MA20 | 317.56 |
-| MA200 | 373.66 |
-| ATR | 9.1 |
+| RSI | 23.55 |
+| MACD | -6.31 |
+| MA20 | 317.68 |
+| MA200 | 373.22 |
+| ATR | 8.86 |
 | Risk | NORMAL |
-| Stop Loss | 291.59 |
-| Target | 323.46 |
+| Stop Loss | 294.8 |
+| Target | 325.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12111,16 +12111,16 @@
 ### EPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 229.99 |
+| Price | 233.97 |
 | Trend | weak_trend |
-| RSI | 35.38 |
-| MACD | -2.71 |
-| MA20 | 235.7 |
-| MA200 | 223.54 |
-| ATR | 6.71 |
+| RSI | 46.06 |
+| MACD | -2.57 |
+| MA20 | 235.44 |
+| MA200 | 223.66 |
+| ATR | 6.82 |
 | Risk | NORMAL |
-| Stop Loss | 219.92 |
-| Target | 243.42 |
+| Stop Loss | 223.74 |
+| Target | 247.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12147,20 +12147,20 @@
 ### JUSTDIAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 654.95 |
+| Price | 672.85 |
 | Trend | weak_trend |
-| RSI | 39.39 |
-| MACD | -8.18 |
-| MA20 | 664.23 |
-| MA200 | 620.31 |
-| ATR | 19.74 |
+| RSI | 46.72 |
+| MACD | -6.29 |
+| MA20 | 664.6 |
+| MA200 | 620.03 |
+| ATR | 20.03 |
 | Risk | NORMAL |
-| Stop Loss | 625.34 |
-| Target | 694.43 |
+| Stop Loss | 642.8 |
+| Target | 712.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MHRIL.NS
 | Metric | Value |
@@ -12201,16 +12201,16 @@
 ### ARVINDFASN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 394.25 |
-| Trend | downtrend |
-| RSI | 36.78 |
-| MACD | -12.42 |
-| MA20 | 410.86 |
-| MA200 | 450.7 |
-| ATR | 14.75 |
+| Price | 399.3 |
+| Trend | weak_trend |
+| RSI | 41.83 |
+| MACD | -11.73 |
+| MA20 | 408.5 |
+| MA200 | 450.15 |
+| ATR | 14.73 |
 | Risk | NORMAL |
-| Stop Loss | 372.12 |
-| Target | 423.76 |
+| Stop Loss | 377.21 |
+| Target | 428.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12237,16 +12237,16 @@
 ### ELLEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 351.45 |
+| Price | 345.9 |
 | Trend | weak_trend |
-| RSI | 43.36 |
-| MACD | 3.93 |
-| MA20 | 360.28 |
-| MA200 | 281.38 |
-| ATR | 23.28 |
+| RSI | 46.38 |
+| MACD | 3.05 |
+| MA20 | 358.57 |
+| MA200 | 281.37 |
+| ATR | 21.7 |
 | Risk | ELEVATED |
-| Stop Loss | 316.53 |
-| Target | 398.01 |
+| Stop Loss | 313.34 |
+| Target | 389.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12255,16 +12255,16 @@
 ### CMSINFO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 215.01 |
+| Price | 220.52 |
 | Trend | downtrend |
-| RSI | 22.52 |
-| MACD | -7.07 |
-| MA20 | 225.41 |
-| MA200 | 284.58 |
-| ATR | 6.11 |
+| RSI | 29.39 |
+| MACD | -6.57 |
+| MA20 | 225.22 |
+| MA200 | 283.96 |
+| ATR | 6.36 |
 | Risk | NORMAL |
-| Stop Loss | 205.84 |
-| Target | 227.23 |
+| Stop Loss | 210.98 |
+| Target | 233.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12273,52 +12273,52 @@
 ### PGIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1331.4 |
-| Trend | weak_trend |
-| RSI | 75.31 |
-| MACD | 34.84 |
-| MA20 | 1242.88 |
-| MA200 | 916.53 |
-| ATR | 60.54 |
+| Price | 1287.5 |
+| Trend | uptrend |
+| RSI | 62.56 |
+| MACD | 33.41 |
+| MA20 | 1247.88 |
+| MA200 | 918.85 |
+| ATR | 63.71 |
 | Risk | ELEVATED |
-| Stop Loss | 1240.59 |
-| Target | 1452.49 |
+| Stop Loss | 1191.94 |
+| Target | 1414.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### DHANUKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 852.2 |
+| Price | 866.7 |
 | Trend | downtrend |
-| RSI | 15.08 |
-| MACD | -31.17 |
-| MA20 | 938.66 |
-| MA200 | 1044.16 |
-| ATR | 26.03 |
+| RSI | 22.61 |
+| MACD | -32.14 |
+| MA20 | 932.99 |
+| MA200 | 1042.6 |
+| ATR | 26.42 |
 | Risk | NORMAL |
-| Stop Loss | 813.15 |
-| Target | 904.26 |
+| Stop Loss | 827.07 |
+| Target | 919.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SYMPHONY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 545.45 |
+| Price | 543.7 |
 | Trend | downtrend |
-| RSI | 23.89 |
-| MACD | -15.62 |
-| MA20 | 574.33 |
-| MA200 | 733.41 |
-| ATR | 17.96 |
+| RSI | 25.28 |
+| MACD | -15.88 |
+| MA20 | 571.88 |
+| MA200 | 731.97 |
+| ATR | 18.1 |
 | Risk | NORMAL |
-| Stop Loss | 518.51 |
-| Target | 581.36 |
+| Stop Loss | 516.54 |
+| Target | 579.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12363,16 +12363,16 @@
 ### AHLUCONT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 562.15 |
+| Price | 565.2 |
 | Trend | weak_trend |
-| RSI | 41.43 |
-| MACD | -23.78 |
-| MA20 | 571.34 |
-| MA200 | 786.8 |
-| ATR | 18.82 |
+| RSI | 41.52 |
+| MACD | -22.1 |
+| MA20 | 569.59 |
+| MA200 | 784.75 |
+| ATR | 20.38 |
 | Risk | NORMAL |
-| Stop Loss | 533.92 |
-| Target | 599.79 |
+| Stop Loss | 534.64 |
+| Target | 605.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12381,34 +12381,34 @@
 ### IFBIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1188.5 |
+| Price | 1186.8 |
 | Trend | weak_trend |
-| RSI | 44.08 |
-| MACD | -32.21 |
-| MA20 | 1216.22 |
-| MA200 | 1241.18 |
-| ATR | 41.32 |
+| RSI | 45.27 |
+| MACD | -30.92 |
+| MA20 | 1210.56 |
+| MA200 | 1239.26 |
+| ATR | 41.47 |
 | Risk | NORMAL |
-| Stop Loss | 1126.52 |
-| Target | 1271.14 |
+| Stop Loss | 1124.59 |
+| Target | 1269.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BAJAJELEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 298.85 |
+| Price | 303.05 |
 | Trend | downtrend |
-| RSI | 27.2 |
-| MACD | -10.32 |
-| MA20 | 313.43 |
-| MA200 | 361.36 |
-| ATR | 8.85 |
+| RSI | 33.33 |
+| MACD | -9.68 |
+| MA20 | 311.82 |
+| MA200 | 360.49 |
+| ATR | 8.99 |
 | Risk | NORMAL |
-| Stop Loss | 285.57 |
-| Target | 316.55 |
+| Stop Loss | 289.57 |
+| Target | 321.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12453,16 +12453,16 @@
 ### PRICOLLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 667.0 |
+| Price | 669.25 |
 | Trend | weak_trend |
-| RSI | 21.04 |
-| MACD | -23.49 |
-| MA20 | 729.71 |
-| MA200 | 631.82 |
-| ATR | 28.67 |
+| RSI | 15.95 |
+| MACD | -24.21 |
+| MA20 | 725.1 |
+| MA200 | 631.81 |
+| ATR | 28.16 |
 | Risk | ELEVATED |
-| Stop Loss | 624.0 |
-| Target | 724.34 |
+| Stop Loss | 627.01 |
+| Target | 725.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12507,16 +12507,16 @@
 ### HNDFDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 571.85 |
+| Price | 575.85 |
 | Trend | weak_trend |
-| RSI | 22.97 |
-| MACD | -11.43 |
-| MA20 | 598.1 |
-| MA200 | 537.61 |
-| ATR | 17.85 |
+| RSI | 22.6 |
+| MACD | -11.3 |
+| MA20 | 595.95 |
+| MA200 | 537.89 |
+| ATR | 18.15 |
 | Risk | NORMAL |
-| Stop Loss | 545.07 |
-| Target | 607.56 |
+| Stop Loss | 548.63 |
+| Target | 612.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12525,20 +12525,20 @@
 ### PURVA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 209.83 |
-| Trend | downtrend |
-| RSI | 43.44 |
-| MACD | -2.18 |
-| MA20 | 210.48 |
-| MA200 | 216.73 |
-| ATR | 7.39 |
+| Price | 211.64 |
+| Trend | weak_trend |
+| RSI | 43.53 |
+| MACD | -1.8 |
+| MA20 | 210.46 |
+| MA200 | 216.61 |
+| ATR | 7.28 |
 | Risk | NORMAL |
-| Stop Loss | 198.75 |
-| Target | 224.6 |
+| Stop Loss | 200.71 |
+| Target | 226.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### UTLSOLAR.NS
 | Metric | Value |
@@ -12561,16 +12561,16 @@
 ### AVL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 586.2 |
+| Price | 580.6 |
 | Trend | weak_trend |
-| RSI | 38.49 |
-| MACD | -5.35 |
-| MA20 | 609.17 |
-| MA200 | 548.66 |
-| ATR | 21.94 |
+| RSI | 37.81 |
+| MACD | -6.43 |
+| MA20 | 607.37 |
+| MA200 | 549.14 |
+| ATR | 22.7 |
 | Risk | NORMAL |
-| Stop Loss | 553.3 |
-| Target | 630.07 |
+| Stop Loss | 546.56 |
+| Target | 625.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12579,20 +12579,20 @@
 ### RTNPOWER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.63 |
-| Trend | downtrend |
-| RSI | 27.78 |
-| MACD | -0.27 |
-| MA20 | 6.89 |
-| MA200 | 8.63 |
-| ATR | 0.18 |
+| Price | 6.67 |
+| Trend | weak_trend |
+| RSI | 31.78 |
+| MACD | -0.26 |
+| MA20 | 6.87 |
+| MA200 | 8.61 |
+| ATR | 0.17 |
 | Risk | NORMAL |
-| Stop Loss | 6.37 |
-| Target | 6.98 |
+| Stop Loss | 6.41 |
+| Target | 7.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RENUKA.NS
 | Metric | Value |
@@ -12615,20 +12615,20 @@
 ### GREENLAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 211.72 |
+| Price | 208.11 |
 | Trend | downtrend |
-| RSI | 24.4 |
-| MACD | -8.56 |
-| MA20 | 220.59 |
-| MA200 | 238.54 |
-| ATR | 6.9 |
+| RSI | 23.67 |
+| MACD | -8.43 |
+| MA20 | 219.26 |
+| MA200 | 238.33 |
+| ATR | 6.66 |
 | Risk | NORMAL |
-| Stop Loss | 201.37 |
-| Target | 225.52 |
+| Stop Loss | 198.12 |
+| Target | 221.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SUPRAJIT.NS
 | Metric | Value |
@@ -12669,16 +12669,16 @@
 ### VMART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 817.7 |
+| Price | 816.5 |
 | Trend | weak_trend |
-| RSI | 52.86 |
-| MACD | -0.28 |
-| MA20 | 787.77 |
-| MA200 | 689.46 |
-| ATR | 30.26 |
+| RSI | 57.28 |
+| MACD | 1.4 |
+| MA20 | 788.15 |
+| MA200 | 689.86 |
+| ATR | 29.33 |
 | Risk | NORMAL |
-| Stop Loss | 772.31 |
-| Target | 878.21 |
+| Stop Loss | 772.5 |
+| Target | 875.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12687,16 +12687,16 @@
 ### IONEXCHANG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 386.8 |
+| Price | 387.15 |
 | Trend | weak_trend |
-| RSI | 16.75 |
-| MACD | -3.84 |
-| MA20 | 416.86 |
-| MA200 | 383.98 |
-| ATR | 14.12 |
+| RSI | 17.81 |
+| MACD | -4.87 |
+| MA20 | 413.93 |
+| MA200 | 384.07 |
+| ATR | 13.47 |
 | Risk | NORMAL |
-| Stop Loss | 365.62 |
-| Target | 415.04 |
+| Stop Loss | 366.94 |
+| Target | 414.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12705,16 +12705,16 @@
 ### SUNTECK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 269.4 |
+| Price | 270.6 |
 | Trend | downtrend |
-| RSI | 23.66 |
-| MACD | -5.81 |
-| MA20 | 280.66 |
-| MA200 | 331.3 |
-| ATR | 7.49 |
+| RSI | 27.36 |
+| MACD | -5.9 |
+| MA20 | 279.86 |
+| MA200 | 330.71 |
+| ATR | 7.46 |
 | Risk | NORMAL |
-| Stop Loss | 258.17 |
-| Target | 284.37 |
+| Stop Loss | 259.4 |
+| Target | 285.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12723,16 +12723,16 @@
 ### JUNIPER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 213.99 |
+| Price | 214.64 |
 | Trend | weak_trend |
-| RSI | 26.26 |
-| MACD | 0.72 |
-| MA20 | 217.2 |
-| MA200 | 213.42 |
-| ATR | 5.8 |
+| RSI | 28.9 |
+| MACD | 0.57 |
+| MA20 | 216.87 |
+| MA200 | 213.2 |
+| ATR | 5.42 |
 | Risk | NORMAL |
-| Stop Loss | 205.29 |
-| Target | 225.59 |
+| Stop Loss | 206.5 |
+| Target | 225.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12741,34 +12741,34 @@
 ### WAKEFIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 132.2 |
+| Price | 134.4 |
 | Trend | downtrend |
-| RSI | 25.26 |
-| MACD | -2.88 |
-| MA20 | 141.76 |
-| MA200 | 150.78 |
-| ATR | 6.24 |
+| RSI | 30.04 |
+| MACD | -2.89 |
+| MA20 | 140.72 |
+| MA200 | 150.49 |
+| ATR | 5.93 |
 | Risk | ELEVATED |
-| Stop Loss | 122.83 |
-| Target | 144.69 |
+| Stop Loss | 125.5 |
+| Target | 146.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### HGINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 404.05 |
+| Price | 410.2 |
 | Trend | downtrend |
-| RSI | 34.04 |
-| MACD | -22.84 |
-| MA20 | 438.03 |
-| MA200 | 567.19 |
-| ATR | 19.11 |
+| RSI | 36.33 |
+| MACD | -22.06 |
+| MA20 | 434.34 |
+| MA200 | 565.52 |
+| ATR | 19.04 |
 | Risk | ELEVATED |
-| Stop Loss | 375.38 |
-| Target | 442.27 |
+| Stop Loss | 381.65 |
+| Target | 448.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12795,16 +12795,16 @@
 ### SUBROS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 671.4 |
+| Price | 679.05 |
 | Trend | downtrend |
-| RSI | 32.0 |
-| MACD | -14.33 |
-| MA20 | 695.8 |
-| MA200 | 761.2 |
-| ATR | 19.48 |
+| RSI | 33.05 |
+| MACD | -13.77 |
+| MA20 | 694.56 |
+| MA200 | 760.24 |
+| ATR | 19.89 |
 | Risk | NORMAL |
-| Stop Loss | 642.19 |
-| Target | 710.35 |
+| Stop Loss | 649.22 |
+| Target | 718.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12903,16 +12903,16 @@
 ### GULFOILLUB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1068.1 |
+| Price | 1056.0 |
 | Trend | weak_trend |
-| RSI | 51.84 |
-| MACD | 0.14 |
-| MA20 | 1082.97 |
-| MA200 | 1022.61 |
-| ATR | 32.56 |
+| RSI | 50.95 |
+| MACD | -2.37 |
+| MA20 | 1082.73 |
+| MA200 | 1022.1 |
+| ATR | 32.4 |
 | Risk | NORMAL |
-| Stop Loss | 1019.26 |
-| Target | 1133.21 |
+| Stop Loss | 1007.4 |
+| Target | 1120.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12921,16 +12921,16 @@
 ### CHEMPLASTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 206.13 |
+| Price | 210.29 |
 | Trend | downtrend |
-| RSI | 61.31 |
-| MACD | 8.4 |
-| MA20 | 192.28 |
-| MA200 | 226.34 |
-| ATR | 13.59 |
+| RSI | 55.99 |
+| MACD | 8.36 |
+| MA20 | 194.22 |
+| MA200 | 226.15 |
+| ATR | 12.61 |
 | Risk | ELEVATED |
-| Stop Loss | 185.74 |
-| Target | 233.31 |
+| Stop Loss | 191.38 |
+| Target | 235.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -12957,16 +12957,16 @@
 ### SWSOLAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 167.77 |
+| Price | 168.53 |
 | Trend | weak_trend |
-| RSI | 44.94 |
-| MACD | -6.57 |
-| MA20 | 172.32 |
-| MA200 | 198.84 |
-| ATR | 6.5 |
+| RSI | 40.1 |
+| MACD | -6.1 |
+| MA20 | 171.73 |
+| MA200 | 198.61 |
+| ATR | 5.98 |
 | Risk | NORMAL |
-| Stop Loss | 158.03 |
-| Target | 180.76 |
+| Stop Loss | 159.56 |
+| Target | 180.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13047,16 +13047,16 @@
 ### VIPIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 269.7 |
+| Price | 271.2 |
 | Trend | downtrend |
-| RSI | 24.71 |
-| MACD | -7.94 |
-| MA20 | 290.77 |
-| MA200 | 324.92 |
-| ATR | 8.22 |
+| RSI | 25.0 |
+| MACD | -8.3 |
+| MA20 | 289.33 |
+| MA200 | 324.53 |
+| ATR | 7.99 |
 | Risk | NORMAL |
-| Stop Loss | 257.37 |
-| Target | 286.14 |
+| Stop Loss | 259.22 |
+| Target | 287.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13065,16 +13065,16 @@
 ### ELECTCAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.07 |
+| Price | 76.3 |
 | Trend | weak_trend |
-| RSI | 55.69 |
-| MACD | -0.08 |
-| MA20 | 74.83 |
-| MA200 | 75.23 |
-| ATR | 3.7 |
+| RSI | 58.17 |
+| MACD | -0.03 |
+| MA20 | 74.76 |
+| MA200 | 75.25 |
+| ATR | 3.76 |
 | Risk | ELEVATED |
-| Stop Loss | 70.53 |
-| Target | 83.46 |
+| Stop Loss | 70.66 |
+| Target | 83.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13083,34 +13083,34 @@
 ### TIIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2668.1 |
+| Price | 2632.2 |
 | Trend | weak_trend |
-| RSI | 21.37 |
-| MACD | -110.11 |
-| MA20 | 2928.05 |
-| MA200 | 2515.71 |
-| ATR | 109.62 |
+| RSI | 22.2 |
+| MACD | -115.27 |
+| MA20 | 2897.15 |
+| MA200 | 2517.68 |
+| ATR | 111.84 |
 | Risk | ELEVATED |
-| Stop Loss | 2503.67 |
-| Target | 2887.34 |
+| Stop Loss | 2464.45 |
+| Target | 2855.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PILANIINVS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3934.9 |
+| Price | 3949.6 |
 | Trend | weak_trend |
-| RSI | 42.36 |
-| MACD | -74.77 |
-| MA20 | 4019.87 |
-| MA200 | 4493.73 |
-| ATR | 106.25 |
+| RSI | 45.1 |
+| MACD | -73.0 |
+| MA20 | 4007.77 |
+| MA200 | 4487.74 |
+| ATR | 106.24 |
 | Risk | NORMAL |
-| Stop Loss | 3775.52 |
-| Target | 4147.4 |
+| Stop Loss | 3790.25 |
+| Target | 4162.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13119,34 +13119,34 @@
 ### SMARTWORKS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 471.95 |
+| Price | 473.5 |
 | Trend | weak_trend |
-| RSI | 17.23 |
-| MACD | -11.39 |
-| MA20 | 515.35 |
-| MA200 | 462.55 |
-| ATR | 18.98 |
-| Risk | ELEVATED |
-| Stop Loss | 443.48 |
-| Target | 509.91 |
+| RSI | 15.52 |
+| MACD | -12.56 |
+| MA20 | 512.49 |
+| MA200 | 462.62 |
+| ATR | 18.14 |
+| Risk | NORMAL |
+| Stop Loss | 446.29 |
+| Target | 509.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### IMFA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1192.7 |
+| Price | 1197.5 |
 | Trend | weak_trend |
-| RSI | 39.71 |
-| MACD | -37.45 |
-| MA20 | 1216.16 |
-| MA200 | 1343.15 |
-| ATR | 38.08 |
+| RSI | 36.84 |
+| MACD | -34.71 |
+| MA20 | 1213.86 |
+| MA200 | 1342.1 |
+| ATR | 38.59 |
 | Risk | NORMAL |
-| Stop Loss | 1135.58 |
-| Target | 1268.86 |
+| Stop Loss | 1139.61 |
+| Target | 1274.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13173,16 +13173,16 @@
 ### PARAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1292.6 |
+| Price | 1291.6 |
 | Trend | weak_trend |
-| RSI | 34.22 |
-| MACD | -30.99 |
-| MA20 | 1328.49 |
-| MA200 | 971.38 |
-| ATR | 53.84 |
-| Risk | ELEVATED |
-| Stop Loss | 1211.84 |
-| Target | 1400.29 |
+| RSI | 37.32 |
+| MACD | -29.5 |
+| MA20 | 1321.29 |
+| MA200 | 974.64 |
+| ATR | 50.16 |
+| Risk | NORMAL |
+| Stop Loss | 1216.35 |
+| Target | 1391.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13191,16 +13191,16 @@
 ### GHCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 385.9 |
+| Price | 384.85 |
 | Trend | downtrend |
-| RSI | 19.86 |
-| MACD | -10.73 |
-| MA20 | 410.21 |
-| MA200 | 460.02 |
-| ATR | 10.6 |
+| RSI | 19.93 |
+| MACD | -11.2 |
+| MA20 | 408.39 |
+| MA200 | 459.16 |
+| ATR | 10.56 |
 | Risk | NORMAL |
-| Stop Loss | 370.0 |
-| Target | 407.1 |
+| Stop Loss | 369.01 |
+| Target | 405.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13209,16 +13209,16 @@
 ### SAATVIKGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 398.05 |
+| Price | 398.65 |
 | Trend | downtrend |
-| RSI | 28.67 |
-| MACD | -6.01 |
-| MA20 | 413.11 |
-| MA200 | 421.71 |
-| ATR | 14.58 |
+| RSI | 12.48 |
+| MACD | -6.21 |
+| MA20 | 413.25 |
+| MA200 | 421.73 |
+| ATR | 13.57 |
 | Risk | NORMAL |
-| Stop Loss | 376.18 |
-| Target | 427.21 |
+| Stop Loss | 378.3 |
+| Target | 425.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13299,20 +13299,20 @@
 ### RAJESHEXPO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.27 |
+| Price | 53.33 |
 | Trend | downtrend |
-| RSI | 7.34 |
-| MACD | -5.38 |
-| MA20 | 66.69 |
-| MA200 | 113.82 |
-| ATR | 3.08 |
+| RSI | 7.31 |
+| MACD | -5.7 |
+| MA20 | 65.44 |
+| MA200 | 113.06 |
+| ATR | 3.1 |
 | Risk | ELEVATED |
-| Stop Loss | 50.65 |
-| Target | 61.43 |
+| Stop Loss | 48.68 |
+| Target | 59.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### STLTECH.NS
 | Metric | Value |
@@ -13353,16 +13353,16 @@
 ### FISCHER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.91 |
+| Price | 30.05 |
 | Trend | downtrend |
-| RSI | 32.1 |
-| MACD | -1.22 |
-| MA20 | 33.22 |
-| MA200 | 37.46 |
-| ATR | 1.82 |
+| RSI | 32.19 |
+| MACD | -1.31 |
+| MA20 | 32.94 |
+| MA200 | 37.39 |
+| ATR | 1.81 |
 | Risk | ELEVATED |
-| Stop Loss | 27.19 |
-| Target | 33.54 |
+| Stop Loss | 27.34 |
+| Target | 33.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13389,16 +13389,16 @@
 ### KSCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 702.45 |
-| Trend | downtrend |
-| RSI | 48.64 |
-| MACD | -15.06 |
-| MA20 | 717.68 |
-| MA200 | 846.63 |
-| ATR | 39.41 |
+| Price | 710.85 |
+| Trend | weak_trend |
+| RSI | 51.87 |
+| MACD | -13.93 |
+| MA20 | 717.43 |
+| MA200 | 845.54 |
+| ATR | 39.83 |
 | Risk | ELEVATED |
-| Stop Loss | 643.33 |
-| Target | 781.28 |
+| Stop Loss | 651.11 |
+| Target | 790.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13407,16 +13407,16 @@
 ### ICIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 453.5 |
-| Trend | weak_trend |
-| RSI | 54.18 |
-| MACD | 4.84 |
-| MA20 | 447.6 |
-| MA200 | 335.93 |
-| ATR | 22.55 |
+| Price | 448.25 |
+| Trend | downtrend |
+| RSI | 49.84 |
+| MACD | 4.29 |
+| MA20 | 447.85 |
+| MA200 | 336.83 |
+| ATR | 22.39 |
 | Risk | ELEVATED |
-| Stop Loss | 419.67 |
-| Target | 498.61 |
+| Stop Loss | 414.67 |
+| Target | 493.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13425,16 +13425,16 @@
 ### SHOPERSTOP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 385.2 |
+| Price | 377.0 |
 | Trend | weak_trend |
-| RSI | 44.76 |
-| MACD | -1.42 |
-| MA20 | 398.55 |
-| MA200 | 360.9 |
-| ATR | 18.18 |
+| RSI | 42.16 |
+| MACD | -2.73 |
+| MA20 | 398.62 |
+| MA200 | 360.53 |
+| ATR | 18.54 |
 | Risk | ELEVATED |
-| Stop Loss | 357.93 |
-| Target | 421.56 |
+| Stop Loss | 349.19 |
+| Target | 414.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13443,16 +13443,16 @@
 ### INDIGOPNTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1019.7 |
+| Price | 1023.9 |
 | Trend | weak_trend |
-| RSI | 25.31 |
-| MACD | -24.27 |
-| MA20 | 1083.22 |
-| MA200 | 1012.6 |
-| ATR | 34.36 |
+| RSI | 22.8 |
+| MACD | -25.38 |
+| MA20 | 1079.95 |
+| MA200 | 1011.8 |
+| ATR | 34.53 |
 | Risk | NORMAL |
-| Stop Loss | 968.15 |
-| Target | 1088.43 |
+| Stop Loss | 972.11 |
+| Target | 1092.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13479,16 +13479,16 @@
 ### TVSSCS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 125.88 |
+| Price | 125.9 |
 | Trend | weak_trend |
-| RSI | 34.44 |
-| MACD | -0.74 |
-| MA20 | 129.49 |
-| MA200 | 119.58 |
-| ATR | 4.15 |
+| RSI | 35.35 |
+| MACD | -0.86 |
+| MA20 | 129.26 |
+| MA200 | 119.68 |
+| ATR | 4.08 |
 | Risk | NORMAL |
-| Stop Loss | 119.66 |
-| Target | 134.18 |
+| Stop Loss | 119.78 |
+| Target | 134.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13497,34 +13497,34 @@
 ### RESPONIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 149.81 |
+| Price | 151.77 |
 | Trend | downtrend |
-| RSI | 38.92 |
-| MACD | -2.09 |
-| MA20 | 160.19 |
-| MA200 | 171.94 |
-| ATR | 8.69 |
+| RSI | 43.93 |
+| MACD | -2.35 |
+| MA20 | 159.11 |
+| MA200 | 171.73 |
+| ATR | 8.86 |
 | Risk | ELEVATED |
-| Stop Loss | 136.78 |
-| Target | 167.19 |
+| Stop Loss | 138.48 |
+| Target | 169.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BANSALWIRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 319.8 |
+| Price | 318.2 |
 | Trend | weak_trend |
-| RSI | 53.62 |
-| MACD | 0.8 |
-| MA20 | 317.47 |
-| MA200 | 300.3 |
-| ATR | 12.1 |
+| RSI | 52.84 |
+| MACD | 0.64 |
+| MA20 | 317.91 |
+| MA200 | 300.33 |
+| ATR | 12.24 |
 | Risk | NORMAL |
-| Stop Loss | 301.66 |
-| Target | 343.99 |
+| Stop Loss | 299.85 |
+| Target | 342.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13569,16 +13569,16 @@
 ### AGI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 765.1 |
+| Price | 759.55 |
 | Trend | weak_trend |
-| RSI | 31.22 |
-| MACD | 7.81 |
-| MA20 | 784.1 |
-| MA200 | 651.49 |
-| ATR | 27.28 |
+| RSI | 15.16 |
+| MACD | 5.37 |
+| MA20 | 784.29 |
+| MA200 | 651.74 |
+| ATR | 26.14 |
 | Risk | NORMAL |
-| Stop Loss | 724.19 |
-| Target | 819.65 |
+| Stop Loss | 720.34 |
+| Target | 811.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13587,16 +13587,16 @@
 ### CAPILLARY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 561.8 |
+| Price | 563.3 |
 | Trend | weak_trend |
-| RSI | 60.85 |
-| MACD | 18.21 |
-| MA20 | 537.12 |
-| MA200 | 540.9 |
-| ATR | 35.02 |
+| RSI | 54.0 |
+| MACD | 17.38 |
+| MA20 | 542.19 |
+| MA200 | 540.35 |
+| ATR | 33.28 |
 | Risk | ELEVATED |
-| Stop Loss | 509.27 |
-| Target | 631.84 |
+| Stop Loss | 513.38 |
+| Target | 629.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13605,16 +13605,16 @@
 ### KNRCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.13 |
+| Price | 113.58 |
 | Trend | downtrend |
-| RSI | 32.44 |
-| MACD | -2.96 |
-| MA20 | 118.33 |
-| MA200 | 130.43 |
-| ATR | 3.81 |
+| RSI | 38.24 |
+| MACD | -2.88 |
+| MA20 | 117.74 |
+| MA200 | 130.27 |
+| ATR | 3.88 |
 | Risk | NORMAL |
-| Stop Loss | 106.41 |
-| Target | 119.76 |
+| Stop Loss | 107.76 |
+| Target | 121.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13623,20 +13623,20 @@
 ### UNIMECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1797.1 |
+| Price | 1833.1 |
 | Trend | weak_trend |
-| RSI | 58.12 |
-| MACD | 75.78 |
-| MA20 | 1698.77 |
-| MA200 | 1122.24 |
-| ATR | 88.79 |
+| RSI | 58.25 |
+| MACD | 76.68 |
+| MA20 | 1709.92 |
+| MA200 | 1126.88 |
+| ATR | 82.82 |
 | Risk | ELEVATED |
-| Stop Loss | 1663.91 |
-| Target | 1974.69 |
+| Stop Loss | 1708.87 |
+| Target | 1998.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### GMMPFAUDLR.NS
 | Metric | Value |
@@ -13659,38 +13659,38 @@
 ### ASHOKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 106.5 |
+| Price | 106.39 |
 | Trend | downtrend |
-| RSI | 35.26 |
-| MACD | -2.94 |
-| MA20 | 108.89 |
-| MA200 | 129.59 |
-| ATR | 3.28 |
+| RSI | 36.29 |
+| MACD | -2.73 |
+| MA20 | 108.52 |
+| MA200 | 129.26 |
+| ATR | 3.29 |
 | Risk | NORMAL |
-| Stop Loss | 101.57 |
-| Target | 113.07 |
+| Stop Loss | 101.46 |
+| Target | 112.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DYNAMATECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14128.0 |
+| Price | 13985.0 |
 | Trend | weak_trend |
-| RSI | 74.06 |
-| MACD | 582.79 |
-| MA20 | 12986.95 |
-| MA200 | 10553.45 |
-| ATR | 566.71 |
+| RSI | 68.99 |
+| MACD | 581.8 |
+| MA20 | 13081.35 |
+| MA200 | 10575.86 |
+| ATR | 567.29 |
 | Risk | ELEVATED |
-| Stop Loss | 13277.93 |
-| Target | 15261.43 |
+| Stop Loss | 13134.07 |
+| Target | 15119.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### E2E.NS
 | Metric | Value |
@@ -13713,16 +13713,16 @@
 ### GOKULAGRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 206.0 |
+| Price | 208.14 |
 | Trend | weak_trend |
-| RSI | 31.59 |
-| MACD | -6.07 |
-| MA20 | 216.13 |
-| MA200 | 204.95 |
-| ATR | 8.21 |
-| Risk | NORMAL |
-| Stop Loss | 193.68 |
-| Target | 222.42 |
+| RSI | 34.98 |
+| MACD | -5.91 |
+| MA20 | 215.2 |
+| MA200 | 205.04 |
+| ATR | 8.53 |
+| Risk | ELEVATED |
+| Stop Loss | 195.35 |
+| Target | 225.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13731,20 +13731,20 @@
 ### FEDFINA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.06 |
-| Trend | weak_trend |
-| RSI | 45.98 |
-| MACD | -2.0 |
-| MA20 | 151.15 |
-| MA200 | 149.29 |
-| ATR | 4.29 |
+| Price | 150.89 |
+| Trend | downtrend |
+| RSI | 47.07 |
+| MACD | -1.76 |
+| MA20 | 150.77 |
+| MA200 | 149.34 |
+| ATR | 4.21 |
 | Risk | NORMAL |
-| Stop Loss | 143.63 |
-| Target | 158.64 |
+| Stop Loss | 144.58 |
+| Target | 159.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### OPTIEMUS.NS
 | Metric | Value |
@@ -13767,16 +13767,16 @@
 ### KINGFA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6665.0 |
+| Price | 6477.5 |
 | Trend | weak_trend |
-| RSI | 72.27 |
-| MACD | 234.78 |
-| MA20 | 6347.51 |
-| MA200 | 4981.57 |
-| ATR | 223.82 |
+| RSI | 60.77 |
+| MACD | 209.13 |
+| MA20 | 6362.6 |
+| MA200 | 4995.23 |
+| ATR | 224.32 |
 | Risk | NORMAL |
-| Stop Loss | 6329.27 |
-| Target | 7112.64 |
+| Stop Loss | 6141.02 |
+| Target | 6926.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13803,20 +13803,20 @@
 ### DATAMATICS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 747.2 |
-| Trend | downtrend |
-| RSI | 43.5 |
-| MACD | -8.92 |
-| MA20 | 773.54 |
-| MA200 | 767.93 |
-| ATR | 31.57 |
+| Price | 777.9 |
+| Trend | weak_trend |
+| RSI | 52.77 |
+| MACD | -7.39 |
+| MA20 | 774.43 |
+| MA200 | 767.71 |
+| ATR | 34.08 |
 | Risk | ELEVATED |
-| Stop Loss | 699.84 |
-| Target | 810.34 |
+| Stop Loss | 726.78 |
+| Target | 846.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### WEBELSOLAR.NS
 | Metric | Value |
@@ -13875,20 +13875,20 @@
 ### ROUTE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 418.1 |
+| Price | 435.75 |
 | Trend | downtrend |
-| RSI | 16.51 |
-| MACD | -21.64 |
-| MA20 | 453.35 |
-| MA200 | 528.18 |
-| ATR | 13.79 |
+| RSI | 34.1 |
+| MACD | -20.06 |
+| MA20 | 450.46 |
+| MA200 | 526.82 |
+| ATR | 15.23 |
 | Risk | NORMAL |
-| Stop Loss | 397.42 |
-| Target | 445.68 |
+| Stop Loss | 412.91 |
+| Target | 466.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ITDC.NS
 | Metric | Value |
@@ -13929,16 +13929,16 @@
 ### ZAGGLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 166.22 |
+| Price | 167.72 |
 | Trend | downtrend |
-| RSI | 19.45 |
-| MACD | -4.98 |
-| MA20 | 175.54 |
-| MA200 | 231.2 |
-| ATR | 5.07 |
+| RSI | 24.53 |
+| MACD | -4.93 |
+| MA20 | 174.57 |
+| MA200 | 230.26 |
+| ATR | 5.13 |
 | Risk | NORMAL |
-| Stop Loss | 158.61 |
-| Target | 176.36 |
+| Stop Loss | 160.03 |
+| Target | 177.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -13983,16 +13983,16 @@
 ### SIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 408.85 |
+| Price | 405.4 |
 | Trend | weak_trend |
-| RSI | 43.2 |
-| MACD | -3.1 |
-| MA20 | 416.35 |
-| MA200 | 373.22 |
-| ATR | 13.89 |
+| RSI | 39.15 |
+| MACD | -3.6 |
+| MA20 | 415.66 |
+| MA200 | 373.62 |
+| ATR | 13.66 |
 | Risk | NORMAL |
-| Stop Loss | 388.01 |
-| Target | 436.64 |
+| Stop Loss | 384.91 |
+| Target | 432.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14001,16 +14001,16 @@
 ### PDSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 333.55 |
+| Price | 331.05 |
 | Trend | weak_trend |
-| RSI | 30.63 |
-| MACD | -4.9 |
-| MA20 | 347.31 |
-| MA200 | 328.76 |
-| ATR | 10.28 |
+| RSI | 17.86 |
+| MACD | -5.53 |
+| MA20 | 346.45 |
+| MA200 | 328.51 |
+| ATR | 9.8 |
 | Risk | NORMAL |
-| Stop Loss | 318.13 |
-| Target | 354.11 |
+| Stop Loss | 316.34 |
+| Target | 350.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14055,16 +14055,16 @@
 ### VRLLOG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 288.35 |
+| Price | 289.75 |
 | Trend | downtrend |
-| RSI | 41.22 |
-| MACD | -0.68 |
-| MA20 | 287.49 |
-| MA200 | 262.5 |
-| ATR | 5.42 |
+| RSI | 45.67 |
+| MACD | -0.37 |
+| MA20 | 287.56 |
+| MA200 | 262.63 |
+| ATR | 5.26 |
 | Risk | LOW |
-| Stop Loss | 280.22 |
-| Target | 299.19 |
+| Stop Loss | 281.86 |
+| Target | 300.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14073,16 +14073,16 @@
 ### ENTERO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1644.1 |
+| Price | 1614.2 |
 | Trend | weak_trend |
-| RSI | 28.15 |
-| MACD | 2.76 |
-| MA20 | 1749.39 |
-| MA200 | 1275.12 |
-| ATR | 65.89 |
+| RSI | 15.52 |
+| MACD | -5.35 |
+| MA20 | 1739.33 |
+| MA200 | 1278.36 |
+| ATR | 64.98 |
 | Risk | ELEVATED |
-| Stop Loss | 1545.27 |
-| Target | 1775.87 |
+| Stop Loss | 1516.73 |
+| Target | 1744.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14127,16 +14127,16 @@
 ### JSFB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 491.55 |
+| Price | 499.45 |
 | Trend | weak_trend |
-| RSI | 37.45 |
-| MACD | -11.96 |
-| MA20 | 508.27 |
-| MA200 | 454.86 |
-| ATR | 22.12 |
+| RSI | 39.55 |
+| MACD | -11.08 |
+| MA20 | 507.4 |
+| MA200 | 455.26 |
+| ATR | 22.08 |
 | Risk | ELEVATED |
-| Stop Loss | 458.36 |
-| Target | 535.8 |
+| Stop Loss | 466.33 |
+| Target | 543.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14145,16 +14145,16 @@
 ### JKIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 441.8 |
+| Price | 443.25 |
 | Trend | downtrend |
-| RSI | 27.93 |
-| MACD | -12.37 |
-| MA20 | 463.18 |
-| MA200 | 503.82 |
-| ATR | 13.39 |
+| RSI | 29.64 |
+| MACD | -12.07 |
+| MA20 | 461.75 |
+| MA200 | 503.27 |
+| ATR | 13.41 |
 | Risk | NORMAL |
-| Stop Loss | 421.71 |
-| Target | 468.59 |
+| Stop Loss | 423.13 |
+| Target | 470.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14163,34 +14163,34 @@
 ### CARERATING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1519.2 |
+| Price | 1524.3 |
 | Trend | downtrend |
-| RSI | 23.38 |
-| MACD | -34.2 |
-| MA20 | 1613.67 |
-| MA200 | 1626.46 |
-| ATR | 39.96 |
+| RSI | 25.18 |
+| MACD | -36.56 |
+| MA20 | 1607.36 |
+| MA200 | 1626.43 |
+| ATR | 41.02 |
 | Risk | NORMAL |
-| Stop Loss | 1459.26 |
-| Target | 1599.11 |
+| Stop Loss | 1462.77 |
+| Target | 1606.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MIDWESTLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1012.75 |
+| Price | 1019.25 |
 | Trend | downtrend |
-| RSI | 52.65 |
-| MACD | -20.79 |
-| MA20 | 967.59 |
-| MA200 | 1271.17 |
-| ATR | 62.37 |
+| RSI | 50.11 |
+| MACD | -16.15 |
+| MA20 | 967.74 |
+| MA200 | 1268.75 |
+| ATR | 65.38 |
 | Risk | ELEVATED |
-| Stop Loss | 919.19 |
-| Target | 1137.49 |
+| Stop Loss | 921.18 |
+| Target | 1150.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14199,16 +14199,16 @@
 ### ANUP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1497.6 |
+| Price | 1511.1 |
 | Trend | downtrend |
-| RSI | 32.48 |
-| MACD | -73.35 |
-| MA20 | 1603.75 |
-| MA200 | 1906.14 |
-| ATR | 55.16 |
+| RSI | 29.28 |
+| MACD | -71.96 |
+| MA20 | 1596.09 |
+| MA200 | 1902.88 |
+| ATR | 51.77 |
 | Risk | NORMAL |
-| Stop Loss | 1414.86 |
-| Target | 1607.91 |
+| Stop Loss | 1433.44 |
+| Target | 1614.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14217,16 +14217,16 @@
 ### GREAVESCOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 209.66 |
+| Price | 209.6 |
 | Trend | weak_trend |
-| RSI | 57.01 |
-| MACD | 3.54 |
-| MA20 | 211.04 |
-| MA200 | 183.72 |
-| ATR | 11.1 |
+| RSI | 56.36 |
+| MACD | 2.89 |
+| MA20 | 211.91 |
+| MA200 | 183.87 |
+| ATR | 10.97 |
 | Risk | ELEVATED |
-| Stop Loss | 193.01 |
-| Target | 231.86 |
+| Stop Loss | 193.15 |
+| Target | 231.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14235,34 +14235,34 @@
 ### SUVEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 286.1 |
+| Price | 283.75 |
 | Trend | weak_trend |
-| RSI | 18.87 |
-| MACD | -15.82 |
-| MA20 | 322.79 |
-| MA200 | 241.08 |
-| ATR | 12.91 |
+| RSI | 18.89 |
+| MACD | -16.55 |
+| MA20 | 319.2 |
+| MA200 | 241.64 |
+| ATR | 13.08 |
 | Risk | ELEVATED |
-| Stop Loss | 266.74 |
-| Target | 311.91 |
+| Stop Loss | 264.13 |
+| Target | 309.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### LGBBROSLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1659.8 |
+| Price | 1671.3 |
 | Trend | downtrend |
-| RSI | 33.56 |
-| MACD | 0.14 |
-| MA20 | 1709.27 |
-| MA200 | 1676.75 |
-| ATR | 47.5 |
+| RSI | 37.09 |
+| MACD | -1.44 |
+| MA20 | 1707.29 |
+| MA200 | 1676.0 |
+| ATR | 48.36 |
 | Risk | NORMAL |
-| Stop Loss | 1588.55 |
-| Target | 1754.8 |
+| Stop Loss | 1598.75 |
+| Target | 1768.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14307,16 +14307,16 @@
 ### TARC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 120.35 |
+| Price | 121.85 |
 | Trend | downtrend |
-| RSI | 26.28 |
-| MACD | -1.94 |
-| MA20 | 126.46 |
-| MA200 | 135.85 |
-| ATR | 3.85 |
+| RSI | 29.11 |
+| MACD | -1.89 |
+| MA20 | 125.98 |
+| MA200 | 135.72 |
+| ATR | 3.96 |
 | Risk | NORMAL |
-| Stop Loss | 114.58 |
-| Target | 128.05 |
+| Stop Loss | 115.92 |
+| Target | 129.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14325,16 +14325,16 @@
 ### NIITMTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 196.45 |
+| Price | 200.13 |
 | Trend | downtrend |
-| RSI | 33.95 |
-| MACD | -7.51 |
-| MA20 | 211.09 |
-| MA200 | 282.31 |
-| ATR | 8.69 |
+| RSI | 35.2 |
+| MACD | -7.27 |
+| MA20 | 209.6 |
+| MA200 | 281.33 |
+| ATR | 8.67 |
 | Risk | ELEVATED |
-| Stop Loss | 183.42 |
-| Target | 213.82 |
+| Stop Loss | 187.12 |
+| Target | 217.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14343,16 +14343,16 @@
 ### DBCORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 176.33 |
+| Price | 176.38 |
 | Trend | weak_trend |
-| RSI | 40.41 |
-| MACD | -6.3 |
-| MA20 | 178.92 |
-| MA200 | 209.59 |
-| ATR | 5.54 |
+| RSI | 39.73 |
+| MACD | -5.75 |
+| MA20 | 178.2 |
+| MA200 | 209.22 |
+| ATR | 5.64 |
 | Risk | NORMAL |
-| Stop Loss | 168.02 |
-| Target | 187.41 |
+| Stop Loss | 167.92 |
+| Target | 187.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14361,16 +14361,16 @@
 ### INNOVACAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1081.8 |
+| Price | 1064.9 |
 | Trend | weak_trend |
-| RSI | 34.68 |
-| MACD | 1.05 |
-| MA20 | 1184.69 |
-| MA200 | 869.16 |
-| ATR | 61.36 |
+| RSI | 28.06 |
+| MACD | -6.21 |
+| MA20 | 1180.58 |
+| MA200 | 871.05 |
+| ATR | 61.89 |
 | Risk | ELEVATED |
-| Stop Loss | 989.75 |
-| Target | 1204.53 |
+| Stop Loss | 972.06 |
+| Target | 1188.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14397,16 +14397,16 @@
 ### BALAMINES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2062.3 |
+| Price | 2084.0 |
 | Trend | weak_trend |
-| RSI | 46.75 |
-| MACD | -46.72 |
-| MA20 | 2143.27 |
-| MA200 | 1660.42 |
-| ATR | 119.06 |
+| RSI | 47.42 |
+| MACD | -46.18 |
+| MA20 | 2133.65 |
+| MA200 | 1665.28 |
+| ATR | 120.11 |
 | Risk | ELEVATED |
-| Stop Loss | 1883.7 |
-| Target | 2300.43 |
+| Stop Loss | 1903.83 |
+| Target | 2324.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14415,16 +14415,16 @@
 ### NACLIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 132.07 |
+| Price | 128.12 |
 | Trend | weak_trend |
-| RSI | 32.27 |
-| MACD | -9.07 |
-| MA20 | 138.86 |
-| MA200 | 163.66 |
-| ATR | 5.69 |
+| RSI | 33.61 |
+| MACD | -8.92 |
+| MA20 | 137.38 |
+| MA200 | 163.53 |
+| ATR | 5.55 |
 | Risk | ELEVATED |
-| Stop Loss | 123.54 |
-| Target | 143.44 |
+| Stop Loss | 119.8 |
+| Target | 139.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14433,34 +14433,34 @@
 ### DCBBANK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 214.89 |
+| Price | 210.39 |
 | Trend | downtrend |
-| RSI | 46.88 |
-| MACD | -2.05 |
-| MA20 | 211.06 |
-| MA200 | 187.94 |
-| ATR | 8.17 |
+| RSI | 43.85 |
+| MACD | -1.58 |
+| MA20 | 210.26 |
+| MA200 | 188.16 |
+| ATR | 8.26 |
 | Risk | NORMAL |
-| Stop Loss | 202.63 |
-| Target | 231.24 |
+| Stop Loss | 198.0 |
+| Target | 226.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SJS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2056.2 |
+| Price | 2076.8 |
 | Trend | weak_trend |
-| RSI | 29.98 |
-| MACD | -98.11 |
-| MA20 | 2211.47 |
-| MA200 | 1991.55 |
-| ATR | 83.46 |
+| RSI | 32.91 |
+| MACD | -93.49 |
+| MA20 | 2197.61 |
+| MA200 | 1993.39 |
+| ATR | 84.07 |
 | Risk | ELEVATED |
-| Stop Loss | 1931.0 |
-| Target | 2223.13 |
+| Stop Loss | 1950.69 |
+| Target | 2244.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14505,16 +14505,16 @@
 ### SPARC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 184.85 |
+| Price | 189.05 |
 | Trend | weak_trend |
-| RSI | 41.18 |
-| MACD | -3.33 |
-| MA20 | 195.78 |
-| MA200 | 174.66 |
-| ATR | 9.4 |
+| RSI | 43.26 |
+| MACD | -3.42 |
+| MA20 | 195.43 |
+| MA200 | 174.89 |
+| ATR | 9.39 |
 | Risk | ELEVATED |
-| Stop Loss | 170.75 |
-| Target | 203.65 |
+| Stop Loss | 174.96 |
+| Target | 207.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14541,16 +14541,16 @@
 ### BANARISUG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3411.3 |
+| Price | 3396.4 |
 | Trend | downtrend |
-| RSI | 59.81 |
-| MACD | -64.3 |
-| MA20 | 3339.65 |
-| MA200 | 3564.55 |
-| ATR | 96.26 |
+| RSI | 56.85 |
+| MACD | -56.09 |
+| MA20 | 3334.23 |
+| MA200 | 3563.46 |
+| ATR | 93.55 |
 | Risk | NORMAL |
-| Stop Loss | 3266.9 |
-| Target | 3603.83 |
+| Stop Loss | 3256.07 |
+| Target | 3583.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14559,16 +14559,16 @@
 ### SHREEJISPG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 823.5 |
+| Price | 824.8 |
 | Trend | weak_trend |
-| RSI | 98.84 |
-| MACD | 37.76 |
-| MA20 | 748.56 |
-| MA200 | 488.8 |
-| ATR | 17.46 |
-| Risk | NORMAL |
-| Stop Loss | 797.3 |
-| Target | 858.43 |
+| RSI | 98.75 |
+| MACD | 38.45 |
+| MA20 | 755.21 |
+| MA200 | 491.28 |
+| ATR | 16.42 |
+| Risk | LOW |
+| Stop Loss | 800.17 |
+| Target | 857.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14577,20 +14577,20 @@
 ### SHILCTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3867.1 |
+| Price | 3897.2 |
 | Trend | downtrend |
-| RSI | 42.45 |
-| MACD | -43.85 |
-| MA20 | 4040.59 |
-| MA200 | 4084.63 |
-| ATR | 118.27 |
+| RSI | 43.83 |
+| MACD | -48.58 |
+| MA20 | 4026.73 |
+| MA200 | 4084.48 |
+| ATR | 122.01 |
 | Risk | NORMAL |
-| Stop Loss | 3689.69 |
-| Target | 4103.64 |
+| Stop Loss | 3714.18 |
+| Target | 4141.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VSTTILLERS.NS
 | Metric | Value |
@@ -14613,52 +14613,52 @@
 ### INDRAMEDCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 331.2 |
+| Price | 329.95 |
 | Trend | downtrend |
-| RSI | 30.04 |
-| MACD | -8.71 |
-| MA20 | 349.78 |
-| MA200 | 384.53 |
-| ATR | 12.02 |
+| RSI | 31.39 |
+| MACD | -8.8 |
+| MA20 | 348.72 |
+| MA200 | 383.85 |
+| ATR | 11.8 |
 | Risk | NORMAL |
-| Stop Loss | 313.16 |
-| Target | 355.25 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### PACEDIGITK.NS
-| Metric | Value |
-|--------|-------|
-| Price | 165.42 |
-| Trend | downtrend |
-| RSI | 61.52 |
-| MACD | -1.45 |
-| MA20 | 161.96 |
-| MA200 | 179.5 |
-| ATR | 7.66 |
-| Risk | ELEVATED |
-| Stop Loss | 153.93 |
-| Target | 180.74 |
+| Stop Loss | 312.24 |
+| Target | 353.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### PACEDIGITK.NS
+| Metric | Value |
+|--------|-------|
+| Price | 164.14 |
+| Trend | weak_trend |
+| RSI | 44.74 |
+| MACD | -1.35 |
+| MA20 | 162.25 |
+| MA200 | 179.36 |
+| ATR | 6.53 |
+| Risk | NORMAL |
+| Stop Loss | 154.35 |
+| Target | 177.19 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### VSTIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 201.5 |
+| Price | 201.51 |
 | Trend | weak_trend |
-| RSI | 34.31 |
-| MACD | -2.62 |
-| MA20 | 203.75 |
-| MA200 | 227.41 |
-| ATR | 3.44 |
+| RSI | 36.69 |
+| MACD | -2.52 |
+| MA20 | 203.63 |
+| MA200 | 227.22 |
+| ATR | 3.34 |
 | Risk | LOW |
-| Stop Loss | 196.34 |
-| Target | 208.38 |
+| Stop Loss | 196.5 |
+| Target | 208.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14685,16 +14685,16 @@
 ### SAMHI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 144.07 |
+| Price | 144.5 |
 | Trend | downtrend |
-| RSI | 24.76 |
-| MACD | -3.98 |
-| MA20 | 153.57 |
-| MA200 | 164.01 |
-| ATR | 4.81 |
+| RSI | 26.35 |
+| MACD | -4.05 |
+| MA20 | 152.94 |
+| MA200 | 163.85 |
+| ATR | 4.88 |
 | Risk | NORMAL |
-| Stop Loss | 136.85 |
-| Target | 153.7 |
+| Stop Loss | 137.18 |
+| Target | 154.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14721,34 +14721,34 @@
 ### CEIGALL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 367.45 |
+| Price | 383.55 |
 | Trend | weak_trend |
-| RSI | 39.51 |
-| MACD | 4.01 |
-| MA20 | 379.42 |
-| MA200 | 323.23 |
-| ATR | 12.89 |
+| RSI | 54.35 |
+| MACD | 4.4 |
+| MA20 | 379.57 |
+| MA200 | 323.93 |
+| ATR | 14.21 |
 | Risk | NORMAL |
-| Stop Loss | 348.12 |
-| Target | 393.23 |
+| Stop Loss | 362.24 |
+| Target | 411.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SGMART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 764.1 |
+| Price | 780.25 |
 | Trend | weak_trend |
-| RSI | 60.55 |
-| MACD | -0.12 |
-| MA20 | 737.13 |
-| MA200 | 569.83 |
-| ATR | 30.61 |
-| Risk | ELEVATED |
-| Stop Loss | 718.19 |
-| Target | 825.31 |
+| RSI | 67.47 |
+| MACD | 2.25 |
+| MA20 | 738.6 |
+| MA200 | 572.06 |
+| ATR | 31.0 |
+| Risk | NORMAL |
+| Stop Loss | 733.74 |
+| Target | 842.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14757,16 +14757,16 @@
 ### HERITGFOOD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 391.8 |
+| Price | 394.35 |
 | Trend | weak_trend |
-| RSI | 33.61 |
-| MACD | 2.56 |
-| MA20 | 404.93 |
-| MA200 | 358.91 |
-| ATR | 13.75 |
+| RSI | 38.22 |
+| MACD | 2.12 |
+| MA20 | 403.78 |
+| MA200 | 358.61 |
+| ATR | 13.36 |
 | Risk | NORMAL |
-| Stop Loss | 371.17 |
-| Target | 419.3 |
+| Stop Loss | 374.31 |
+| Target | 421.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14775,16 +14775,16 @@
 ### STYRENIX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2016.6 |
-| Trend | downtrend |
-| RSI | 40.05 |
-| MACD | -29.14 |
-| MA20 | 2048.69 |
-| MA200 | 2091.14 |
-| ATR | 58.48 |
+| Price | 2023.2 |
+| Trend | weak_trend |
+| RSI | 42.9 |
+| MACD | -27.27 |
+| MA20 | 2044.19 |
+| MA200 | 2091.63 |
+| ATR | 59.61 |
 | Risk | NORMAL |
-| Stop Loss | 1928.88 |
-| Target | 2133.56 |
+| Stop Loss | 1933.78 |
+| Target | 2142.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14793,16 +14793,16 @@
 ### ORIENTCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 110.88 |
+| Price | 112.36 |
 | Trend | downtrend |
-| RSI | 17.56 |
-| MACD | -4.43 |
-| MA20 | 119.19 |
-| MA200 | 141.34 |
-| ATR | 3.38 |
+| RSI | 24.78 |
+| MACD | -4.36 |
+| MA20 | 118.52 |
+| MA200 | 141.1 |
+| ATR | 3.37 |
 | Risk | NORMAL |
-| Stop Loss | 105.81 |
-| Target | 117.64 |
+| Stop Loss | 107.3 |
+| Target | 119.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14829,34 +14829,34 @@
 ### ORIENTELEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 172.28 |
+| Price | 172.52 |
 | Trend | downtrend |
-| RSI | 55.7 |
-| MACD | -2.96 |
-| MA20 | 164.23 |
-| MA200 | 175.23 |
-| ATR | 5.82 |
+| RSI | 58.26 |
+| MACD | -2.05 |
+| MA20 | 164.17 |
+| MA200 | 175.19 |
+| ATR | 5.86 |
 | Risk | NORMAL |
-| Stop Loss | 163.55 |
-| Target | 183.92 |
+| Stop Loss | 163.73 |
+| Target | 184.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GUJTHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 371.75 |
+| Price | 373.0 |
 | Trend | weak_trend |
-| RSI | 33.02 |
-| MACD | -9.19 |
-| MA20 | 399.59 |
-| MA200 | 361.42 |
-| ATR | 16.86 |
+| RSI | 34.28 |
+| MACD | -9.43 |
+| MA20 | 397.14 |
+| MA200 | 361.27 |
+| ATR | 18.07 |
 | Risk | ELEVATED |
-| Stop Loss | 346.46 |
-| Target | 405.47 |
+| Stop Loss | 345.9 |
+| Target | 409.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14865,16 +14865,16 @@
 ### GOPAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 255.05 |
+| Price | 252.45 |
 | Trend | weak_trend |
-| RSI | 46.66 |
-| MACD | -3.33 |
-| MA20 | 255.54 |
-| MA200 | 283.5 |
-| ATR | 8.9 |
+| RSI | 40.54 |
+| MACD | -3.3 |
+| MA20 | 255.3 |
+| MA200 | 283.22 |
+| ATR | 9.09 |
 | Risk | NORMAL |
-| Stop Loss | 241.71 |
-| Target | 272.84 |
+| Stop Loss | 238.82 |
+| Target | 270.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14883,16 +14883,16 @@
 ### BHARATRAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 970.6 |
+| Price | 989.3 |
 | Trend | downtrend |
-| RSI | 19.93 |
-| MACD | -65.75 |
-| MA20 | 1064.1 |
-| MA200 | 1467.5 |
-| ATR | 34.87 |
+| RSI | 19.37 |
+| MACD | -62.78 |
+| MA20 | 1055.7 |
+| MA200 | 1460.96 |
+| ATR | 34.44 |
 | Risk | NORMAL |
-| Stop Loss | 918.29 |
-| Target | 1040.34 |
+| Stop Loss | 937.65 |
+| Target | 1058.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14901,16 +14901,16 @@
 ### RBA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 91.43 |
+| Price | 89.91 |
 | Trend | weak_trend |
-| RSI | 40.69 |
-| MACD | -0.61 |
-| MA20 | 93.75 |
-| MA200 | 73.45 |
-| ATR | 3.45 |
+| RSI | 40.81 |
+| MACD | -0.82 |
+| MA20 | 93.34 |
+| MA200 | 73.57 |
+| ATR | 3.38 |
 | Risk | NORMAL |
-| Stop Loss | 86.25 |
-| Target | 98.34 |
+| Stop Loss | 84.83 |
+| Target | 96.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14919,16 +14919,16 @@
 ### LUMAXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5291.5 |
+| Price | 5267.0 |
 | Trend | downtrend |
-| RSI | 18.39 |
-| MACD | -151.68 |
-| MA20 | 5625.62 |
-| MA200 | 5433.84 |
-| ATR | 170.25 |
+| RSI | 10.12 |
+| MACD | -157.55 |
+| MA20 | 5595.0 |
+| MA200 | 5432.42 |
+| ATR | 172.18 |
 | Risk | NORMAL |
-| Stop Loss | 5036.12 |
-| Target | 5632.0 |
+| Stop Loss | 5008.73 |
+| Target | 5611.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14937,16 +14937,16 @@
 ### ZOTA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1285.0 |
+| Price | 1301.2 |
 | Trend | downtrend |
-| RSI | 49.65 |
-| MACD | 39.02 |
-| MA20 | 1266.2 |
-| MA200 | 1268.96 |
-| ATR | 63.96 |
+| RSI | 42.08 |
+| MACD | 36.74 |
+| MA20 | 1276.95 |
+| MA200 | 1267.64 |
+| ATR | 56.06 |
 | Risk | ELEVATED |
-| Stop Loss | 1189.05 |
-| Target | 1412.93 |
+| Stop Loss | 1217.11 |
+| Target | 1413.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -14955,16 +14955,16 @@
 ### AVANTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.77 |
+| Price | 150.61 |
 | Trend | downtrend |
-| RSI | 55.56 |
-| MACD | -2.02 |
-| MA20 | 149.13 |
-| MA200 | 155.72 |
-| ATR | 6.45 |
+| RSI | 53.88 |
+| MACD | -1.78 |
+| MA20 | 148.84 |
+| MA200 | 155.71 |
+| ATR | 6.31 |
 | Risk | ELEVATED |
-| Stop Loss | 141.09 |
-| Target | 163.67 |
+| Stop Loss | 141.15 |
+| Target | 163.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15009,16 +15009,16 @@
 ### KITEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 115.08 |
+| Price | 115.02 |
 | Trend | weak_trend |
-| RSI | 47.85 |
-| MACD | -3.04 |
-| MA20 | 118.0 |
-| MA200 | 155.6 |
-| ATR | 4.61 |
+| RSI | 39.3 |
+| MACD | -2.98 |
+| MA20 | 117.58 |
+| MA200 | 155.23 |
+| ATR | 4.22 |
 | Risk | NORMAL |
-| Stop Loss | 108.17 |
-| Target | 124.29 |
+| Stop Loss | 108.69 |
+| Target | 123.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15045,20 +15045,20 @@
 ### SANATHAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 523.65 |
-| Trend | weak_trend |
-| RSI | 63.49 |
-| MACD | 12.97 |
-| MA20 | 499.59 |
-| MA200 | 440.37 |
-| ATR | 23.16 |
+| Price | 533.4 |
+| Trend | uptrend |
+| RSI | 69.01 |
+| MACD | 13.87 |
+| MA20 | 502.65 |
+| MA200 | 440.82 |
+| ATR | 24.18 |
 | Risk | ELEVATED |
-| Stop Loss | 488.91 |
-| Target | 569.97 |
+| Stop Loss | 497.13 |
+| Target | 581.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### NORTHARC.NS
 | Metric | Value |
@@ -15081,16 +15081,16 @@
 ### JAMNAAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 146.19 |
+| Price | 145.73 |
 | Trend | weak_trend |
-| RSI | 67.33 |
-| MACD | 5.18 |
-| MA20 | 135.53 |
-| MA200 | 126.68 |
-| ATR | 7.04 |
+| RSI | 66.6 |
+| MACD | 5.21 |
+| MA20 | 136.12 |
+| MA200 | 126.78 |
+| ATR | 7.15 |
 | Risk | ELEVATED |
-| Stop Loss | 135.63 |
-| Target | 160.27 |
+| Stop Loss | 135.01 |
+| Target | 160.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15099,16 +15099,16 @@
 ### GUJALKALI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 600.2 |
+| Price | 593.9 |
 | Trend | weak_trend |
-| RSI | 40.01 |
-| MACD | -17.6 |
-| MA20 | 628.42 |
-| MA200 | 589.07 |
-| ATR | 20.49 |
+| RSI | 39.12 |
+| MACD | -17.97 |
+| MA20 | 623.79 |
+| MA200 | 589.61 |
+| ATR | 20.07 |
 | Risk | NORMAL |
-| Stop Loss | 569.46 |
-| Target | 641.19 |
+| Stop Loss | 563.79 |
+| Target | 634.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15171,16 +15171,16 @@
 ### RAMKY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 265.8 |
+| Price | 269.1 |
 | Trend | downtrend |
-| RSI | 23.47 |
-| MACD | -21.13 |
-| MA20 | 299.11 |
-| MA200 | 432.81 |
-| ATR | 12.79 |
+| RSI | 26.12 |
+| MACD | -20.82 |
+| MA20 | 296.01 |
+| MA200 | 431.45 |
+| ATR | 12.8 |
 | Risk | ELEVATED |
-| Stop Loss | 246.62 |
-| Target | 291.37 |
+| Stop Loss | 249.89 |
+| Target | 294.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15189,16 +15189,16 @@
 ### GOLDIAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 307.65 |
+| Price | 311.3 |
 | Trend | weak_trend |
-| RSI | 41.01 |
-| MACD | -8.83 |
-| MA20 | 318.46 |
-| MA200 | 301.21 |
-| ATR | 11.83 |
+| RSI | 45.14 |
+| MACD | -8.39 |
+| MA20 | 317.78 |
+| MA200 | 301.39 |
+| ATR | 11.93 |
 | Risk | NORMAL |
-| Stop Loss | 289.9 |
-| Target | 331.31 |
+| Stop Loss | 293.41 |
+| Target | 335.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15225,16 +15225,16 @@
 ### HEMIPROP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 109.61 |
+| Price | 112.56 |
 | Trend | downtrend |
-| RSI | 27.61 |
-| MACD | -4.27 |
-| MA20 | 116.0 |
-| MA200 | 133.41 |
-| ATR | 3.27 |
+| RSI | 36.98 |
+| MACD | -4.01 |
+| MA20 | 115.59 |
+| MA200 | 133.32 |
+| ATR | 3.33 |
 | Risk | NORMAL |
-| Stop Loss | 104.7 |
-| Target | 116.16 |
+| Stop Loss | 107.57 |
+| Target | 119.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15243,34 +15243,34 @@
 ### 63MOONS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 824.0 |
-| Trend | weak_trend |
-| RSI | 35.95 |
-| MACD | -11.35 |
-| MA20 | 832.1 |
-| MA200 | 696.58 |
-| ATR | 43.25 |
+| Price | 904.4 |
+| Trend | uptrend |
+| RSI | 61.51 |
+| MACD | -2.59 |
+| MA20 | 831.99 |
+| MA200 | 697.37 |
+| ATR | 42.25 |
 | Risk | ELEVATED |
-| Stop Loss | 759.12 |
-| Target | 910.51 |
+| Stop Loss | 841.03 |
+| Target | 988.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### KIRLOSIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3472.4 |
+| Price | 3466.1 |
 | Trend | weak_trend |
-| RSI | 29.95 |
-| MACD | -64.36 |
-| MA20 | 3617.78 |
-| MA200 | 3348.8 |
-| ATR | 107.66 |
+| RSI | 32.49 |
+| MACD | -65.44 |
+| MA20 | 3599.67 |
+| MA200 | 3349.78 |
+| ATR | 104.24 |
 | Risk | NORMAL |
-| Stop Loss | 3310.9 |
-| Target | 3687.73 |
+| Stop Loss | 3309.75 |
+| Target | 3674.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15279,16 +15279,16 @@
 ### SHANTIGEAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 542.3 |
+| Price | 553.75 |
 | Trend | weak_trend |
-| RSI | 15.78 |
-| MACD | -5.54 |
-| MA20 | 632.98 |
-| MA200 | 471.63 |
-| ATR | 32.88 |
+| RSI | 21.65 |
+| MACD | -8.09 |
+| MA20 | 624.92 |
+| MA200 | 472.07 |
+| ATR | 31.31 |
 | Risk | ELEVATED |
-| Stop Loss | 492.98 |
-| Target | 608.06 |
+| Stop Loss | 506.78 |
+| Target | 616.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15297,16 +15297,16 @@
 ### SINDHUTRAD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.87 |
+| Price | 21.07 |
 | Trend | downtrend |
-| RSI | 6.91 |
-| MACD | -0.85 |
-| MA20 | 22.91 |
+| RSI | 8.92 |
+| MACD | -0.86 |
+| MA20 | 22.76 |
 | MA200 | 23.62 |
 | ATR | 0.83 |
 | Risk | NORMAL |
-| Stop Loss | 19.63 |
-| Target | 22.53 |
+| Stop Loss | 19.83 |
+| Target | 22.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15333,16 +15333,16 @@
 ### MARATHON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 355.6 |
+| Price | 359.75 |
 | Trend | downtrend |
-| RSI | 13.9 |
-| MACD | -13.54 |
-| MA20 | 395.95 |
-| MA200 | 438.41 |
-| ATR | 14.61 |
+| RSI | 17.73 |
+| MACD | -14.05 |
+| MA20 | 392.21 |
+| MA200 | 437.54 |
+| ATR | 14.58 |
 | Risk | ELEVATED |
-| Stop Loss | 333.68 |
-| Target | 384.82 |
+| Stop Loss | 337.88 |
+| Target | 388.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15351,16 +15351,16 @@
 ### CAMLINFINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.44 |
-| Trend | downtrend |
-| RSI | 30.72 |
-| MACD | -4.11 |
-| MA20 | 95.3 |
-| MA200 | 126.25 |
-| ATR | 3.57 |
+| Price | 90.78 |
+| Trend | weak_trend |
+| RSI | 37.77 |
+| MACD | -3.98 |
+| MA20 | 94.76 |
+| MA200 | 125.93 |
+| ATR | 3.44 |
 | Risk | NORMAL |
-| Stop Loss | 84.09 |
-| Target | 96.57 |
+| Stop Loss | 85.61 |
+| Target | 97.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15369,20 +15369,20 @@
 ### UFLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 633.95 |
+| Price | 628.65 |
 | Trend | weak_trend |
-| RSI | 42.38 |
-| MACD | 2.48 |
-| MA20 | 647.08 |
-| MA200 | 481.82 |
-| ATR | 25.12 |
+| RSI | 43.18 |
+| MACD | 1.41 |
+| MA20 | 645.84 |
+| MA200 | 482.63 |
+| ATR | 23.8 |
 | Risk | NORMAL |
-| Stop Loss | 596.27 |
-| Target | 684.19 |
+| Stop Loss | 592.94 |
+| Target | 676.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VAIBHAVGBL.NS
 | Metric | Value |
@@ -15423,16 +15423,16 @@
 ### RPGLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2863.5 |
+| Price | 2806.6 |
 | Trend | weak_trend |
-| RSI | 53.73 |
-| MACD | 31.28 |
-| MA20 | 2869.76 |
-| MA200 | 2331.1 |
-| ATR | 165.46 |
+| RSI | 52.09 |
+| MACD | 23.93 |
+| MA20 | 2875.16 |
+| MA200 | 2333.53 |
+| ATR | 165.79 |
 | Risk | ELEVATED |
-| Stop Loss | 2615.31 |
-| Target | 3194.41 |
+| Stop Loss | 2557.92 |
+| Target | 3138.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15459,16 +15459,16 @@
 ### ORCHPHARMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 979.35 |
+| Price | 959.95 |
 | Trend | weak_trend |
-| RSI | 31.36 |
-| MACD | -3.35 |
-| MA20 | 1015.74 |
-| MA200 | 805.36 |
-| ATR | 50.76 |
+| RSI | 22.61 |
+| MACD | -6.42 |
+| MA20 | 1013.59 |
+| MA200 | 806.23 |
+| ATR | 48.35 |
 | Risk | ELEVATED |
-| Stop Loss | 903.21 |
-| Target | 1080.86 |
+| Stop Loss | 887.42 |
+| Target | 1056.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15477,16 +15477,16 @@
 ### LUXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1137.0 |
+| Price | 1152.0 |
 | Trend | weak_trend |
-| RSI | 42.61 |
-| MACD | -8.16 |
-| MA20 | 1128.07 |
-| MA200 | 1165.49 |
-| ATR | 52.47 |
+| RSI | 49.23 |
+| MACD | -6.39 |
+| MA20 | 1130.85 |
+| MA200 | 1165.67 |
+| ATR | 51.19 |
 | Risk | ELEVATED |
-| Stop Loss | 1058.29 |
-| Target | 1241.94 |
+| Stop Loss | 1075.22 |
+| Target | 1254.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15495,16 +15495,16 @@
 ### MPSLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2515.9 |
+| Price | 2497.3 |
 | Trend | weak_trend |
-| RSI | 43.1 |
-| MACD | -24.05 |
-| MA20 | 2617.4 |
-| MA200 | 2027.57 |
-| ATR | 109.92 |
+| RSI | 42.84 |
+| MACD | -30.68 |
+| MA20 | 2611.84 |
+| MA200 | 2030.01 |
+| ATR | 116.32 |
 | Risk | ELEVATED |
-| Stop Loss | 2351.02 |
-| Target | 2735.74 |
+| Stop Loss | 2322.82 |
+| Target | 2729.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15513,38 +15513,38 @@
 ### MCLOUD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.31 |
+| Price | 24.11 |
 | Trend | weak_trend |
-| RSI | 43.67 |
+| RSI | 40.22 |
 | MACD | -0.63 |
-| MA20 | 24.87 |
-| MA200 | 25.98 |
-| ATR | 0.93 |
+| MA20 | 24.8 |
+| MA200 | 25.97 |
+| ATR | 0.95 |
 | Risk | NORMAL |
-| Stop Loss | 22.91 |
-| Target | 26.17 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### TRUALT.NS
-| Metric | Value |
-|--------|-------|
-| Price | 443.25 |
-| Trend | weak_trend |
-| RSI | 59.31 |
-| MACD | 1.08 |
-| MA20 | 434.76 |
-| MA200 | 433.35 |
-| ATR | 21.97 |
-| Risk | ELEVATED |
-| Stop Loss | 410.29 |
-| Target | 487.19 |
+| Stop Loss | 22.69 |
+| Target | 26.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### TRUALT.NS
+| Metric | Value |
+|--------|-------|
+| Price | 447.2 |
+| Trend | weak_trend |
+| RSI | 60.57 |
+| MACD | 1.65 |
+| MA20 | 436.3 |
+| MA200 | 433.55 |
+| ATR | 21.67 |
+| Risk | ELEVATED |
+| Stop Loss | 414.69 |
+| Target | 490.55 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### AJMERA.NS
 | Metric | Value |
@@ -15567,16 +15567,16 @@
 ### GOODLUCK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 566.35 |
+| Price | 566.65 |
 | Trend | uptrend |
-| RSI | 62.26 |
-| MACD | 6.85 |
-| MA20 | 515.92 |
-| MA200 | 430.95 |
-| ATR | 24.46 |
+| RSI | 59.06 |
+| MACD | 10.56 |
+| MA20 | 518.46 |
+| MA200 | 432.04 |
+| ATR | 27.71 |
 | Risk | ELEVATED |
-| Stop Loss | 529.66 |
-| Target | 615.27 |
+| Stop Loss | 525.08 |
+| Target | 622.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15621,16 +15621,16 @@
 ### QUESS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 333.6 |
+| Price | 331.45 |
 | Trend | weak_trend |
-| RSI | 29.34 |
-| MACD | -4.71 |
-| MA20 | 342.43 |
-| MA200 | 247.25 |
-| ATR | 14.11 |
+| RSI | 29.55 |
+| MACD | -4.65 |
+| MA20 | 341.6 |
+| MA200 | 247.91 |
+| ATR | 14.01 |
 | Risk | ELEVATED |
-| Stop Loss | 312.44 |
-| Target | 361.81 |
+| Stop Loss | 310.43 |
+| Target | 359.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15639,16 +15639,16 @@
 ### WONDERLA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 505.95 |
+| Price | 508.6 |
 | Trend | weak_trend |
-| RSI | 44.58 |
-| MACD | -0.76 |
-| MA20 | 510.33 |
-| MA200 | 501.06 |
-| ATR | 12.33 |
+| RSI | 47.77 |
+| MACD | -0.69 |
+| MA20 | 509.71 |
+| MA200 | 500.96 |
+| ATR | 12.65 |
 | Risk | NORMAL |
-| Stop Loss | 487.46 |
-| Target | 530.6 |
+| Stop Loss | 489.63 |
+| Target | 533.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15675,16 +15675,16 @@
 ### NEOGEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2534.5 |
+| Price | 2569.7 |
 | Trend | weak_trend |
-| RSI | 62.59 |
-| MACD | 51.87 |
-| MA20 | 2393.33 |
-| MA200 | 1736.99 |
-| ATR | 99.76 |
-| Risk | NORMAL |
-| Stop Loss | 2384.86 |
-| Target | 2734.01 |
+| RSI | 63.42 |
+| MACD | 60.87 |
+| MA20 | 2403.16 |
+| MA200 | 1744.45 |
+| ATR | 110.51 |
+| Risk | ELEVATED |
+| Stop Loss | 2403.94 |
+| Target | 2790.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15711,20 +15711,20 @@
 ### PRECWIRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 485.15 |
+| Price | 476.0 |
 | Trend | weak_trend |
-| RSI | 53.61 |
-| MACD | 10.72 |
-| MA20 | 484.99 |
-| MA200 | 366.19 |
-| ATR | 22.4 |
+| RSI | 44.97 |
+| MACD | 8.57 |
+| MA20 | 485.66 |
+| MA200 | 367.41 |
+| ATR | 22.28 |
 | Risk | ELEVATED |
-| Stop Loss | 451.55 |
-| Target | 529.95 |
+| Stop Loss | 442.58 |
+| Target | 520.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### KOLTEPATIL.NS
 | Metric | Value |
@@ -15783,34 +15783,34 @@
 ### ARSSBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 550.6 |
-| Trend | weak_trend |
-| RSI | 68.19 |
-| MACD | 10.62 |
-| MA20 | 514.48 |
-| MA200 | 539.5 |
-| ATR | 20.73 |
+| Price | 543.7 |
+| Trend | uptrend |
+| RSI | 65.15 |
+| MACD | 10.75 |
+| MA20 | 517.15 |
+| MA200 | 539.3 |
+| ATR | 21.68 |
 | Risk | NORMAL |
-| Stop Loss | 519.51 |
-| Target | 592.05 |
+| Stop Loss | 511.18 |
+| Target | 587.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### MEDIASSIST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 300.3 |
-| Trend | downtrend |
-| RSI | 26.82 |
-| MACD | -9.59 |
-| MA20 | 312.0 |
-| MA200 | 363.26 |
-| ATR | 11.24 |
+| Price | 303.8 |
+| Trend | weak_trend |
+| RSI | 33.2 |
+| MACD | -9.01 |
+| MA20 | 311.37 |
+| MA200 | 362.6 |
+| ATR | 10.59 |
 | Risk | NORMAL |
-| Stop Loss | 283.44 |
-| Target | 322.79 |
+| Stop Loss | 287.91 |
+| Target | 324.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15819,16 +15819,16 @@
 ### NPST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1791.9 |
-| Trend | weak_trend |
-| RSI | 50.15 |
-| MACD | 29.15 |
-| MA20 | 1780.76 |
-| MA200 | 1400.64 |
-| ATR | 103.25 |
+| Price | 1831.7 |
+| Trend | downtrend |
+| RSI | 45.83 |
+| MACD | 30.85 |
+| MA20 | 1788.13 |
+| MA200 | 1402.81 |
+| ATR | 100.25 |
 | Risk | ELEVATED |
-| Stop Loss | 1637.03 |
-| Target | 1998.4 |
+| Stop Loss | 1681.32 |
+| Target | 2032.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15837,16 +15837,16 @@
 ### CENTUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4059.1 |
+| Price | 4100.8 |
 | Trend | weak_trend |
-| RSI | 29.28 |
-| MACD | 63.93 |
-| MA20 | 4493.49 |
-| MA200 | 3181.11 |
-| ATR | 241.66 |
+| RSI | 25.76 |
+| MACD | 37.64 |
+| MA20 | 4488.93 |
+| MA200 | 3190.79 |
+| ATR | 235.63 |
 | Risk | ELEVATED |
-| Stop Loss | 3696.6 |
-| Target | 4542.43 |
+| Stop Loss | 3747.36 |
+| Target | 4572.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15855,16 +15855,16 @@
 ### HARSHA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 452.45 |
+| Price | 441.0 |
 | Trend | weak_trend |
-| RSI | 39.84 |
-| MACD | 2.99 |
-| MA20 | 454.53 |
-| MA200 | 400.49 |
-| ATR | 16.65 |
+| RSI | 35.77 |
+| MACD | 1.6 |
+| MA20 | 454.33 |
+| MA200 | 400.82 |
+| ATR | 16.9 |
 | Risk | NORMAL |
-| Stop Loss | 427.47 |
-| Target | 485.76 |
+| Stop Loss | 415.64 |
+| Target | 474.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15873,16 +15873,16 @@
 ### GOCOLORS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 290.75 |
+| Price | 288.65 |
 | Trend | downtrend |
-| RSI | 38.02 |
-| MACD | -7.8 |
-| MA20 | 305.29 |
-| MA200 | 336.1 |
-| ATR | 12.0 |
+| RSI | 35.73 |
+| MACD | -8.2 |
+| MA20 | 303.48 |
+| MA200 | 335.27 |
+| ATR | 12.41 |
 | Risk | ELEVATED |
-| Stop Loss | 272.76 |
-| Target | 314.74 |
+| Stop Loss | 270.03 |
+| Target | 313.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15909,16 +15909,16 @@
 ### GKENERGY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 109.1 |
+| Price | 109.13 |
 | Trend | downtrend |
-| RSI | 15.69 |
-| MACD | -4.36 |
-| MA20 | 119.63 |
-| MA200 | 126.5 |
-| ATR | 4.54 |
+| RSI | 11.71 |
+| MACD | -4.58 |
+| MA20 | 118.69 |
+| MA200 | 126.29 |
+| ATR | 4.57 |
 | Risk | ELEVATED |
 | Stop Loss | 102.28 |
-| Target | 118.19 |
+| Target | 118.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15927,16 +15927,16 @@
 ### INDOSTAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 194.5 |
+| Price | 200.51 |
 | Trend | downtrend |
-| RSI | 17.79 |
-| MACD | -13.6 |
-| MA20 | 216.44 |
-| MA200 | 229.59 |
-| ATR | 9.63 |
+| RSI | 26.36 |
+| MACD | -12.98 |
+| MA20 | 214.25 |
+| MA200 | 229.35 |
+| ATR | 9.77 |
 | Risk | ELEVATED |
-| Stop Loss | 180.06 |
-| Target | 213.76 |
+| Stop Loss | 185.85 |
+| Target | 220.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -15945,20 +15945,20 @@
 ### KSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 993.2 |
+| Price | 974.15 |
 | Trend | weak_trend |
-| RSI | 58.56 |
-| MACD | 9.5 |
-| MA20 | 954.16 |
-| MA200 | 801.9 |
-| ATR | 40.96 |
+| RSI | 52.6 |
+| MACD | 10.67 |
+| MA20 | 954.43 |
+| MA200 | 803.14 |
+| ATR | 42.43 |
 | Risk | ELEVATED |
-| Stop Loss | 931.76 |
-| Target | 1075.12 |
+| Stop Loss | 910.51 |
+| Target | 1059.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ROLEXRINGS.NS
 | Metric | Value |
@@ -15999,16 +15999,16 @@
 ### SHAREINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 182.91 |
+| Price | 195.23 |
 | Trend | weak_trend |
-| RSI | 11.48 |
-| MACD | 1.12 |
-| MA20 | 206.44 |
-| MA200 | 155.81 |
-| ATR | 9.64 |
+| RSI | 28.69 |
+| MACD | 0.81 |
+| MA20 | 206.25 |
+| MA200 | 155.94 |
+| ATR | 10.15 |
 | Risk | ELEVATED |
-| Stop Loss | 168.44 |
-| Target | 202.2 |
+| Stop Loss | 180.0 |
+| Target | 215.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16035,16 +16035,16 @@
 ### GUFICBIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 418.55 |
+| Price | 412.5 |
 | Trend | weak_trend |
-| RSI | 42.47 |
-| MACD | -2.21 |
-| MA20 | 424.94 |
-| MA200 | 348.24 |
-| ATR | 18.4 |
+| RSI | 36.9 |
+| MACD | -2.65 |
+| MA20 | 424.31 |
+| MA200 | 348.55 |
+| ATR | 18.63 |
 | Risk | ELEVATED |
-| Stop Loss | 390.96 |
-| Target | 455.34 |
+| Stop Loss | 384.56 |
+| Target | 449.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16053,16 +16053,16 @@
 ### UNICHEMLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 529.9 |
+| Price | 526.35 |
 | Trend | weak_trend |
-| RSI | 46.97 |
-| MACD | -1.33 |
-| MA20 | 541.26 |
-| MA200 | 436.17 |
-| ATR | 31.75 |
+| RSI | 46.54 |
+| MACD | -2.25 |
+| MA20 | 540.59 |
+| MA200 | 436.55 |
+| ATR | 30.41 |
 | Risk | ELEVATED |
-| Stop Loss | 482.27 |
-| Target | 593.4 |
+| Stop Loss | 480.74 |
+| Target | 587.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16071,16 +16071,16 @@
 ### MSTCLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 678.0 |
+| Price | 677.7 |
 | Trend | weak_trend |
-| RSI | 34.85 |
-| MACD | -5.71 |
-| MA20 | 711.75 |
-| MA200 | 541.38 |
-| ATR | 26.57 |
+| RSI | 27.57 |
+| MACD | -6.92 |
+| MA20 | 709.13 |
+| MA200 | 542.49 |
+| ATR | 26.04 |
 | Risk | NORMAL |
-| Stop Loss | 638.15 |
-| Target | 731.14 |
+| Stop Loss | 638.64 |
+| Target | 729.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16089,34 +16089,34 @@
 ### ROSSARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 426.0 |
+| Price | 426.7 |
 | Trend | weak_trend |
-| RSI | 42.57 |
-| MACD | -14.15 |
-| MA20 | 433.36 |
-| MA200 | 499.4 |
-| ATR | 15.71 |
+| RSI | 42.25 |
+| MACD | -13.11 |
+| MA20 | 432.39 |
+| MA200 | 498.69 |
+| ATR | 16.09 |
 | Risk | NORMAL |
-| Stop Loss | 402.43 |
-| Target | 457.42 |
+| Stop Loss | 402.57 |
+| Target | 458.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JUBLCPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1870.8 |
+| Price | 1903.6 |
 | Trend | downtrend |
-| RSI | 28.0 |
-| MACD | -53.27 |
-| MA20 | 2056.47 |
-| MA200 | 1954.93 |
-| ATR | 98.22 |
+| RSI | 32.77 |
+| MACD | -57.05 |
+| MA20 | 2046.35 |
+| MA200 | 1953.53 |
+| ATR | 99.19 |
 | Risk | ELEVATED |
-| Stop Loss | 1723.47 |
-| Target | 2067.24 |
+| Stop Loss | 1754.82 |
+| Target | 2101.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16125,20 +16125,20 @@
 ### CYIENTDLM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 979.1 |
-| Trend | weak_trend |
-| RSI | 59.89 |
-| MACD | 37.35 |
-| MA20 | 927.99 |
-| MA200 | 514.85 |
-| ATR | 43.48 |
+| Price | 1011.25 |
+| Trend | uptrend |
+| RSI | 62.9 |
+| MACD | 39.78 |
+| MA20 | 933.34 |
+| MA200 | 517.8 |
+| ATR | 47.23 |
 | Risk | ELEVATED |
-| Stop Loss | 913.89 |
-| Target | 1066.05 |
+| Stop Loss | 940.41 |
+| Target | 1105.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### SUNCLAY.NS
 | Metric | Value |
@@ -16161,16 +16161,16 @@
 ### RPEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1798.5 |
+| Price | 1855.1 |
 | Trend | weak_trend |
-| RSI | 62.33 |
-| MACD | 42.32 |
-| MA20 | 1732.35 |
-| MA200 | 1075.07 |
-| ATR | 92.58 |
+| RSI | 62.89 |
+| MACD | 46.48 |
+| MA20 | 1732.84 |
+| MA200 | 1079.75 |
+| ATR | 94.63 |
 | Risk | ELEVATED |
-| Stop Loss | 1659.63 |
-| Target | 1983.66 |
+| Stop Loss | 1713.16 |
+| Target | 2044.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16179,16 +16179,16 @@
 ### BALMLAWRIE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 157.05 |
+| Price | 157.45 |
 | Trend | downtrend |
-| RSI | 18.72 |
-| MACD | -3.31 |
-| MA20 | 162.26 |
-| MA200 | 170.53 |
-| ATR | 4.21 |
+| RSI | 12.48 |
+| MACD | -3.25 |
+| MA20 | 161.69 |
+| MA200 | 170.48 |
+| ATR | 3.99 |
 | Risk | NORMAL |
-| Stop Loss | 150.74 |
-| Target | 165.47 |
+| Stop Loss | 151.46 |
+| Target | 165.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16197,16 +16197,16 @@
 ### ARTEMISMED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 311.35 |
+| Price | 301.75 |
 | Trend | weak_trend |
-| RSI | 36.46 |
-| MACD | -4.18 |
-| MA20 | 332.85 |
-| MA200 | 270.83 |
-| ATR | 15.27 |
+| RSI | 32.91 |
+| MACD | -5.61 |
+| MA20 | 331.41 |
+| MA200 | 270.96 |
+| ATR | 15.83 |
 | Risk | ELEVATED |
-| Stop Loss | 288.44 |
-| Target | 341.89 |
+| Stop Loss | 278.01 |
+| Target | 333.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16215,34 +16215,34 @@
 ### PRINCEPIPE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 267.15 |
-| Trend | uptrend |
-| RSI | 50.83 |
-| MACD | -5.3 |
-| MA20 | 258.7 |
-| MA200 | 259.87 |
-| ATR | 9.06 |
+| Price | 262.2 |
+| Trend | weak_trend |
+| RSI | 47.73 |
+| MACD | -4.52 |
+| MA20 | 258.48 |
+| MA200 | 259.94 |
+| ATR | 9.46 |
 | Risk | NORMAL |
-| Stop Loss | 253.56 |
-| Target | 285.27 |
+| Stop Loss | 248.0 |
+| Target | 281.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### JISLJALEQS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.81 |
+| Price | 26.91 |
 | Trend | downtrend |
-| RSI | 22.44 |
-| MACD | -0.68 |
-| MA20 | 28.5 |
-| MA200 | 32.6 |
-| ATR | 1.13 |
-| Risk | ELEVATED |
-| Stop Loss | 25.11 |
-| Target | 29.07 |
+| RSI | 31.96 |
+| MACD | -0.69 |
+| MA20 | 28.36 |
+| MA200 | 32.53 |
+| ATR | 1.01 |
+| Risk | NORMAL |
+| Stop Loss | 25.4 |
+| Target | 28.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16251,16 +16251,16 @@
 ### PITTIENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1028.3 |
+| Price | 1023.7 |
 | Trend | weak_trend |
-| RSI | 27.12 |
-| MACD | -8.96 |
-| MA20 | 1120.99 |
-| MA200 | 928.84 |
-| ATR | 44.95 |
+| RSI | 28.08 |
+| MACD | -13.92 |
+| MA20 | 1113.78 |
+| MA200 | 930.03 |
+| ATR | 44.82 |
 | Risk | ELEVATED |
-| Stop Loss | 960.88 |
-| Target | 1118.2 |
+| Stop Loss | 956.47 |
+| Target | 1113.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16269,16 +16269,16 @@
 ### FOSECOIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6305.0 |
+| Price | 6310.5 |
 | Trend | weak_trend |
-| RSI | 34.4 |
-| MACD | 65.65 |
-| MA20 | 6444.45 |
-| MA200 | 5170.28 |
-| ATR | 206.54 |
+| RSI | 37.52 |
+| MACD | 56.9 |
+| MA20 | 6450.25 |
+| MA200 | 5177.0 |
+| ATR | 196.29 |
 | Risk | NORMAL |
-| Stop Loss | 5995.2 |
-| Target | 6718.07 |
+| Stop Loss | 6016.07 |
+| Target | 6703.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16287,16 +16287,16 @@
 ### DPABHUSHAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2370.1 |
+| Price | 2324.0 |
 | Trend | weak_trend |
-| RSI | 91.5 |
-| MACD | 242.95 |
-| MA20 | 1711.65 |
-| MA200 | 1244.81 |
-| ATR | 154.99 |
+| RSI | 87.45 |
+| MACD | 249.41 |
+| MA20 | 1760.82 |
+| MA200 | 1249.23 |
+| ATR | 157.05 |
 | Risk | ELEVATED |
-| Stop Loss | 2137.61 |
-| Target | 2680.09 |
+| Stop Loss | 2088.43 |
+| Target | 2638.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16323,38 +16323,38 @@
 ### BHAGCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 220.51 |
+| Price | 221.66 |
 | Trend | downtrend |
-| RSI | 26.88 |
-| MACD | -10.68 |
-| MA20 | 240.06 |
-| MA200 | 242.5 |
-| ATR | 7.96 |
+| RSI | 29.39 |
+| MACD | -10.83 |
+| MA20 | 238.21 |
+| MA200 | 242.36 |
+| ATR | 7.86 |
 | Risk | NORMAL |
-| Stop Loss | 208.56 |
-| Target | 236.44 |
+| Stop Loss | 209.87 |
+| Target | 237.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BAJAJCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 492.4 |
+| Price | 508.25 |
 | Trend | weak_trend |
-| RSI | 41.27 |
-| MACD | -3.85 |
-| MA20 | 499.2 |
-| MA200 | 456.73 |
-| ATR | 17.65 |
+| RSI | 48.11 |
+| MACD | -2.5 |
+| MA20 | 498.59 |
+| MA200 | 458.0 |
+| ATR | 18.34 |
 | Risk | NORMAL |
-| Stop Loss | 465.92 |
-| Target | 527.7 |
+| Stop Loss | 480.75 |
+| Target | 544.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NAVNETEDUL.NS
 | Metric | Value |
@@ -16395,20 +16395,20 @@
 ### GREENPANEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 153.97 |
+| Price | 150.49 |
 | Trend | downtrend |
-| RSI | 28.36 |
-| MACD | -2.65 |
-| MA20 | 159.25 |
-| MA200 | 195.27 |
-| ATR | 5.32 |
+| RSI | 11.04 |
+| MACD | -3.04 |
+| MA20 | 159.09 |
+| MA200 | 194.89 |
+| ATR | 4.9 |
 | Risk | NORMAL |
-| Stop Loss | 145.99 |
-| Target | 164.61 |
+| Stop Loss | 143.15 |
+| Target | 160.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BBL.NS
 | Metric | Value |
@@ -16449,16 +16449,16 @@
 ### VISHNU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 653.3 |
+| Price | 645.25 |
 | Trend | weak_trend |
-| RSI | 31.81 |
-| MACD | -3.03 |
-| MA20 | 688.66 |
-| MA200 | 583.16 |
-| ATR | 25.36 |
-| Risk | NORMAL |
-| Stop Loss | 615.26 |
-| Target | 704.02 |
+| RSI | 28.67 |
+| MACD | -5.06 |
+| MA20 | 685.23 |
+| MA200 | 583.78 |
+| ATR | 26.3 |
+| Risk | ELEVATED |
+| Stop Loss | 605.81 |
+| Target | 697.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16485,16 +16485,16 @@
 ### BOMDYEING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 96.39 |
+| Price | 96.94 |
 | Trend | downtrend |
-| RSI | 17.0 |
-| MACD | -4.04 |
-| MA20 | 105.75 |
-| MA200 | 117.58 |
-| ATR | 3.34 |
+| RSI | 19.56 |
+| MACD | -4.16 |
+| MA20 | 105.04 |
+| MA200 | 117.41 |
+| ATR | 3.33 |
 | Risk | NORMAL |
-| Stop Loss | 91.38 |
-| Target | 103.06 |
+| Stop Loss | 91.94 |
+| Target | 103.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16503,20 +16503,20 @@
 ### SWANDEF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2931.1 |
-| Trend | uptrend |
-| RSI | 68.58 |
-| MACD | 77.7 |
-| MA20 | 2736.63 |
-| MA200 | 2087.75 |
-| ATR | 139.11 |
+| Price | 2968.2 |
+| Trend | weak_trend |
+| RSI | 70.04 |
+| MACD | 87.8 |
+| MA20 | 2748.64 |
+| MA200 | 2096.3 |
+| ATR | 143.45 |
 | Risk | ELEVATED |
-| Stop Loss | 2722.43 |
-| Target | 3209.33 |
+| Stop Loss | 2753.02 |
+| Target | 3255.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PARAGMILK.NS
 | Metric | Value |
@@ -16539,16 +16539,16 @@
 ### SENORES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1318.7 |
+| Price | 1321.0 |
 | Trend | weak_trend |
-| RSI | 38.95 |
-| MACD | -26.63 |
-| MA20 | 1373.9 |
-| MA200 | 1086.59 |
-| ATR | 56.61 |
+| RSI | 41.15 |
+| MACD | -27.47 |
+| MA20 | 1366.58 |
+| MA200 | 1089.16 |
+| ATR | 57.16 |
 | Risk | ELEVATED |
-| Stop Loss | 1233.78 |
-| Target | 1431.93 |
+| Stop Loss | 1235.25 |
+| Target | 1435.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16575,16 +16575,16 @@
 ### HIKAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 212.83 |
+| Price | 213.12 |
 | Trend | weak_trend |
-| RSI | 39.79 |
-| MACD | -1.5 |
-| MA20 | 220.04 |
-| MA200 | 205.43 |
-| ATR | 10.7 |
+| RSI | 41.11 |
+| MACD | -1.77 |
+| MA20 | 219.45 |
+| MA200 | 205.31 |
+| ATR | 10.5 |
 | Risk | ELEVATED |
-| Stop Loss | 196.77 |
-| Target | 234.24 |
+| Stop Loss | 197.37 |
+| Target | 234.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16593,16 +16593,16 @@
 ### FLAIR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 229.39 |
-| Trend | downtrend |
-| RSI | 38.1 |
-| MACD | -5.12 |
-| MA20 | 232.67 |
-| MA200 | 284.27 |
-| ATR | 7.66 |
+| Price | 232.19 |
+| Trend | weak_trend |
+| RSI | 38.59 |
+| MACD | -4.51 |
+| MA20 | 232.48 |
+| MA200 | 283.97 |
+| ATR | 7.49 |
 | Risk | NORMAL |
-| Stop Loss | 217.9 |
-| Target | 244.71 |
+| Stop Loss | 220.96 |
+| Target | 247.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16629,16 +16629,16 @@
 ### KKCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 456.25 |
+| Price | 452.0 |
 | Trend | downtrend |
-| RSI | 31.53 |
-| MACD | -9.8 |
-| MA20 | 475.72 |
-| MA200 | 480.3 |
-| ATR | 18.2 |
+| RSI | 30.38 |
+| MACD | -10.52 |
+| MA20 | 473.57 |
+| MA200 | 480.16 |
+| ATR | 17.58 |
 | Risk | NORMAL |
-| Stop Loss | 428.94 |
-| Target | 492.66 |
+| Stop Loss | 425.63 |
+| Target | 487.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16683,34 +16683,34 @@
 ### ARKADE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 120.06 |
+| Price | 120.36 |
 | Trend | downtrend |
-| RSI | 43.15 |
-| MACD | -1.71 |
-| MA20 | 121.04 |
-| MA200 | 121.79 |
-| ATR | 4.15 |
+| RSI | 29.92 |
+| MACD | -1.59 |
+| MA20 | 120.96 |
+| MA200 | 121.7 |
+| ATR | 3.96 |
 | Risk | NORMAL |
-| Stop Loss | 113.83 |
-| Target | 128.36 |
+| Stop Loss | 114.42 |
+| Target | 128.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PSPPROJECT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 758.3 |
+| Price | 764.05 |
 | Trend | weak_trend |
-| RSI | 31.39 |
-| MACD | -34.01 |
-| MA20 | 790.77 |
-| MA200 | 834.05 |
-| ATR | 28.05 |
+| RSI | 30.21 |
+| MACD | -32.11 |
+| MA20 | 786.65 |
+| MA200 | 833.61 |
+| ATR | 26.9 |
 | Risk | NORMAL |
-| Stop Loss | 716.23 |
-| Target | 814.39 |
+| Stop Loss | 723.7 |
+| Target | 817.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16719,34 +16719,34 @@
 ### STYLAMIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3230.3 |
+| Price | 3280.9 |
 | Trend | weak_trend |
-| RSI | 52.03 |
-| MACD | -31.2 |
-| MA20 | 3287.68 |
-| MA200 | 2772.59 |
-| ATR | 123.67 |
+| RSI | 48.21 |
+| MACD | -29.35 |
+| MA20 | 3285.23 |
+| MA200 | 2778.12 |
+| ATR | 117.43 |
 | Risk | NORMAL |
-| Stop Loss | 3044.79 |
-| Target | 3477.64 |
+| Stop Loss | 3104.76 |
+| Target | 3515.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### KRISHANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 194.79 |
+| Price | 197.42 |
 | Trend | weak_trend |
-| RSI | 62.79 |
-| MACD | 2.51 |
-| MA20 | 186.51 |
-| MA200 | 136.13 |
-| ATR | 7.51 |
+| RSI | 58.96 |
+| MACD | 2.91 |
+| MA20 | 187.4 |
+| MA200 | 136.6 |
+| ATR | 7.46 |
 | Risk | NORMAL |
-| Stop Loss | 183.53 |
-| Target | 209.8 |
+| Stop Loss | 186.23 |
+| Target | 212.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16755,16 +16755,16 @@
 ### PARKHOTELS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 103.04 |
+| Price | 103.66 |
 | Trend | weak_trend |
-| RSI | 41.82 |
-| MACD | -2.53 |
-| MA20 | 104.89 |
-| MA200 | 118.91 |
-| ATR | 3.87 |
+| RSI | 38.83 |
+| MACD | -2.35 |
+| MA20 | 104.58 |
+| MA200 | 118.76 |
+| ATR | 3.68 |
 | Risk | NORMAL |
-| Stop Loss | 97.23 |
-| Target | 110.79 |
+| Stop Loss | 98.14 |
+| Target | 111.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16791,16 +16791,16 @@
 ### PRABHA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 220.21 |
+| Price | 214.69 |
 | Trend | weak_trend |
-| RSI | 43.02 |
-| MACD | 1.6 |
-| MA20 | 226.18 |
-| MA200 | 172.46 |
-| ATR | 10.87 |
+| RSI | 35.18 |
+| MACD | 0.92 |
+| MA20 | 224.68 |
+| MA200 | 172.61 |
+| ATR | 10.69 |
 | Risk | ELEVATED |
-| Stop Loss | 203.91 |
-| Target | 241.95 |
+| Stop Loss | 198.65 |
+| Target | 236.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16809,16 +16809,16 @@
 ### IMAGICAA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 46.62 |
-| Trend | downtrend |
-| RSI | 21.82 |
-| MACD | -1.19 |
-| MA20 | 50.7 |
-| MA200 | 47.19 |
-| ATR | 2.15 |
+| Price | 47.42 |
+| Trend | weak_trend |
+| RSI | 28.2 |
+| MACD | -1.25 |
+| MA20 | 50.45 |
+| MA200 | 47.18 |
+| ATR | 2.19 |
 | Risk | ELEVATED |
-| Stop Loss | 43.4 |
-| Target | 50.92 |
+| Stop Loss | 44.13 |
+| Target | 51.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16827,38 +16827,38 @@
 ### JASH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 565.85 |
-| Trend | downtrend |
-| RSI | 46.47 |
-| MACD | 17.87 |
-| MA20 | 563.99 |
-| MA200 | 447.66 |
-| ATR | 23.54 |
+| Price | 559.1 |
+| Trend | weak_trend |
+| RSI | 40.85 |
+| MACD | 15.49 |
+| MA20 | 566.29 |
+| MA200 | 448.34 |
+| ATR | 23.1 |
 | Risk | ELEVATED |
-| Stop Loss | 530.55 |
-| Target | 612.92 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### GLOBUSSPR.NS
-| Metric | Value |
-|--------|-------|
-| Price | 779.3 |
-| Trend | downtrend |
-| RSI | 30.84 |
-| MACD | -22.62 |
-| MA20 | 812.02 |
-| MA200 | 909.26 |
-| ATR | 22.6 |
-| Risk | NORMAL |
-| Stop Loss | 745.39 |
-| Target | 824.51 |
+| Stop Loss | 524.45 |
+| Target | 605.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### GLOBUSSPR.NS
+| Metric | Value |
+|--------|-------|
+| Price | 798.1 |
+| Trend | weak_trend |
+| RSI | 41.93 |
+| MACD | -21.05 |
+| MA20 | 809.94 |
+| MA200 | 908.36 |
+| ATR | 23.45 |
+| Risk | NORMAL |
+| Stop Loss | 762.93 |
+| Target | 844.99 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PAISALO.NS
 | Metric | Value |
@@ -16881,20 +16881,20 @@
 ### DDEVPLSTIK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 252.95 |
-| Trend | weak_trend |
-| RSI | 43.48 |
-| MACD | -5.27 |
-| MA20 | 252.42 |
-| MA200 | 264.08 |
-| ATR | 8.35 |
+| Price | 263.18 |
+| Trend | downtrend |
+| RSI | 52.17 |
+| MACD | -3.88 |
+| MA20 | 252.8 |
+| MA200 | 264.0 |
+| ATR | 8.95 |
 | Risk | NORMAL |
-| Stop Loss | 240.43 |
-| Target | 269.65 |
+| Stop Loss | 249.75 |
+| Target | 281.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PATELENG.NS
 | Metric | Value |
@@ -16935,16 +16935,16 @@
 ### WSTCSTPAPR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 873.15 |
+| Price | 828.2 |
 | Trend | uptrend |
-| RSI | 66.41 |
-| MACD | 29.42 |
-| MA20 | 737.85 |
-| MA200 | 512.43 |
-| ATR | 40.05 |
+| RSI | 60.36 |
+| MACD | 33.58 |
+| MA20 | 743.57 |
+| MA200 | 514.58 |
+| ATR | 42.3 |
 | Risk | ELEVATED |
-| Stop Loss | 813.07 |
-| Target | 953.25 |
+| Stop Loss | 764.75 |
+| Target | 912.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16953,34 +16953,34 @@
 ### GANECOS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 991.6 |
+| Price | 999.7 |
 | Trend | weak_trend |
-| RSI | 46.65 |
-| MACD | -15.4 |
-| MA20 | 999.0 |
-| MA200 | 943.98 |
-| ATR | 39.76 |
+| RSI | 50.26 |
+| MACD | -13.46 |
+| MA20 | 998.32 |
+| MA200 | 944.53 |
+| ATR | 41.46 |
 | Risk | ELEVATED |
-| Stop Loss | 931.96 |
-| Target | 1071.11 |
+| Stop Loss | 937.51 |
+| Target | 1082.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KDDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3842.4 |
+| Price | 3831.0 |
 | Trend | weak_trend |
-| RSI | 42.62 |
-| MACD | 5.28 |
-| MA20 | 3934.87 |
-| MA200 | 2893.52 |
-| ATR | 172.39 |
+| RSI | 43.49 |
+| MACD | -1.53 |
+| MA20 | 3932.33 |
+| MA200 | 2901.1 |
+| ATR | 168.03 |
 | Risk | ELEVATED |
-| Stop Loss | 3583.82 |
-| Target | 4187.17 |
+| Stop Loss | 3578.96 |
+| Target | 4167.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -16989,16 +16989,16 @@
 ### MAITHANALL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 888.25 |
+| Price | 899.8 |
 | Trend | downtrend |
-| RSI | 18.06 |
-| MACD | -31.08 |
-| MA20 | 954.24 |
-| MA200 | 982.69 |
-| ATR | 26.31 |
+| RSI | 23.64 |
+| MACD | -30.37 |
+| MA20 | 947.25 |
+| MA200 | 982.57 |
+| ATR | 26.95 |
 | Risk | NORMAL |
-| Stop Loss | 848.79 |
-| Target | 940.86 |
+| Stop Loss | 859.38 |
+| Target | 953.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17007,34 +17007,34 @@
 ### POLYPLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1003.2 |
+| Price | 1013.3 |
 | Trend | weak_trend |
-| RSI | 22.74 |
-| MACD | -34.67 |
-| MA20 | 1063.04 |
-| MA200 | 953.7 |
-| ATR | 36.23 |
+| RSI | 28.92 |
+| MACD | -33.93 |
+| MA20 | 1057.0 |
+| MA200 | 954.72 |
+| ATR | 34.75 |
 | Risk | NORMAL |
-| Stop Loss | 948.86 |
-| Target | 1075.66 |
+| Stop Loss | 961.17 |
+| Target | 1082.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DEEPINDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 759.05 |
+| Price | 770.0 |
 | Trend | weak_trend |
-| RSI | 56.77 |
-| MACD | 14.98 |
-| MA20 | 757.8 |
-| MA200 | 505.69 |
-| ATR | 34.42 |
+| RSI | 51.93 |
+| MACD | 14.57 |
+| MA20 | 757.58 |
+| MA200 | 507.33 |
+| ATR | 34.3 |
 | Risk | ELEVATED |
-| Stop Loss | 707.41 |
-| Target | 827.9 |
+| Stop Loss | 718.56 |
+| Target | 838.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17043,16 +17043,16 @@
 ### SAGCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 141.94 |
+| Price | 140.04 |
 | Trend | downtrend |
-| RSI | 24.72 |
-| MACD | -3.97 |
-| MA20 | 148.35 |
-| MA200 | 178.44 |
-| ATR | 4.7 |
+| RSI | 24.13 |
+| MACD | -4.19 |
+| MA20 | 148.04 |
+| MA200 | 178.09 |
+| ATR | 4.89 |
 | Risk | NORMAL |
-| Stop Loss | 134.88 |
-| Target | 151.35 |
+| Stop Loss | 132.7 |
+| Target | 149.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17062,19 +17062,19 @@
 | Metric | Value |
 |--------|-------|
 | Price | 531.4 |
-| Trend | downtrend |
-| RSI | 50.86 |
-| MACD | -6.7 |
-| MA20 | 535.29 |
-| MA200 | 570.15 |
-| ATR | 14.21 |
+| Trend | weak_trend |
+| RSI | 47.13 |
+| MACD | -6.91 |
+| MA20 | 535.11 |
+| MA200 | 569.71 |
+| ATR | 14.06 |
 | Risk | NORMAL |
-| Stop Loss | 510.08 |
-| Target | 559.83 |
+| Stop Loss | 510.3 |
+| Target | 559.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### EUROPRATIK.NS
 | Metric | Value |
@@ -17117,14 +17117,14 @@
 |--------|-------|
 | Price | 5.76 |
 | Trend | weak_trend |
-| RSI | 48.45 |
+| RSI | 35.06 |
 | MACD | -0.08 |
-| MA20 | 5.83 |
-| MA200 | 7.05 |
-| ATR | 0.17 |
+| MA20 | 5.82 |
+| MA200 | 7.04 |
+| ATR | 0.14 |
 | Risk | NORMAL |
-| Stop Loss | 5.5 |
-| Target | 6.1 |
+| Stop Loss | 5.55 |
+| Target | 6.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17133,16 +17133,16 @@
 ### ASHIANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 374.55 |
+| Price | 370.1 |
 | Trend | weak_trend |
-| RSI | 21.69 |
-| MACD | 3.01 |
-| MA20 | 375.47 |
-| MA200 | 342.58 |
-| ATR | 13.15 |
+| RSI | 30.13 |
+| MACD | 2.17 |
+| MA20 | 376.7 |
+| MA200 | 342.96 |
+| ATR | 11.7 |
 | Risk | NORMAL |
-| Stop Loss | 354.83 |
-| Target | 400.84 |
+| Stop Loss | 352.55 |
+| Target | 393.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17151,16 +17151,16 @@
 ### TCPLPACK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4417.0 |
+| Price | 4361.7 |
 | Trend | weak_trend |
-| RSI | 70.25 |
-| MACD | 99.39 |
-| MA20 | 3990.56 |
-| MA200 | 3017.37 |
-| ATR | 209.04 |
+| RSI | 69.83 |
+| MACD | 113.54 |
+| MA20 | 4015.1 |
+| MA200 | 3024.7 |
+| ATR | 212.54 |
 | Risk | ELEVATED |
-| Stop Loss | 4103.45 |
-| Target | 4835.07 |
+| Stop Loss | 4042.9 |
+| Target | 4786.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17169,16 +17169,16 @@
 ### BRIGHOTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.28 |
+| Price | 55.4 |
 | Trend | weak_trend |
-| RSI | 39.96 |
-| MACD | -0.63 |
-| MA20 | 56.31 |
-| MA200 | 61.72 |
-| ATR | 1.43 |
+| RSI | 40.39 |
+| MACD | -0.65 |
+| MA20 | 56.25 |
+| MA200 | 61.64 |
+| ATR | 1.38 |
 | Risk | NORMAL |
-| Stop Loss | 53.13 |
-| Target | 58.15 |
+| Stop Loss | 53.33 |
+| Target | 58.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17205,20 +17205,20 @@
 ### SHK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 136.87 |
-| Trend | downtrend |
-| RSI | 50.84 |
-| MACD | -2.67 |
-| MA20 | 138.83 |
-| MA200 | 145.81 |
-| ATR | 5.46 |
+| Price | 137.39 |
+| Trend | weak_trend |
+| RSI | 48.72 |
+| MACD | -2.6 |
+| MA20 | 138.63 |
+| MA200 | 145.67 |
+| ATR | 5.44 |
 | Risk | NORMAL |
-| Stop Loss | 128.69 |
-| Target | 147.78 |
+| Stop Loss | 129.23 |
+| Target | 148.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### TFCILTD.NS
 | Metric | Value |
@@ -17241,16 +17241,16 @@
 ### RAMRAT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 583.5 |
+| Price | 585.15 |
 | Trend | weak_trend |
-| RSI | 59.08 |
-| MACD | 23.07 |
-| MA20 | 576.0 |
-| MA200 | 402.0 |
-| ATR | 26.04 |
+| RSI | 56.48 |
+| MACD | 20.61 |
+| MA20 | 578.64 |
+| MA200 | 403.4 |
+| ATR | 26.86 |
 | Risk | ELEVATED |
-| Stop Loss | 544.44 |
-| Target | 635.58 |
+| Stop Loss | 544.86 |
+| Target | 638.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17259,16 +17259,16 @@
 ### SUNDROP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 659.95 |
+| Price | 663.05 |
 | Trend | weak_trend |
-| RSI | 36.78 |
-| MACD | 9.93 |
-| MA20 | 715.11 |
-| MA200 | 659.9 |
-| ATR | 35.6 |
+| RSI | 23.6 |
+| MACD | 4.87 |
+| MA20 | 715.16 |
+| MA200 | 659.68 |
+| ATR | 33.34 |
 | Risk | ELEVATED |
-| Stop Loss | 606.55 |
-| Target | 731.15 |
+| Stop Loss | 613.04 |
+| Target | 729.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17277,52 +17277,52 @@
 ### EFCIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 167.75 |
+| Price | 170.78 |
 | Trend | downtrend |
-| RSI | 34.97 |
-| MACD | -5.31 |
-| MA20 | 175.63 |
-| MA200 | 210.65 |
-| ATR | 5.82 |
+| RSI | 40.55 |
+| MACD | -5.05 |
+| MA20 | 174.91 |
+| MA200 | 209.96 |
+| ATR | 5.76 |
 | Risk | NORMAL |
-| Stop Loss | 159.02 |
-| Target | 179.4 |
+| Stop Loss | 162.13 |
+| Target | 182.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ORISSAMINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3507.8 |
+| Price | 3519.9 |
 | Trend | downtrend |
-| RSI | 30.2 |
-| MACD | -176.03 |
-| MA20 | 3705.75 |
-| MA200 | 4136.1 |
-| ATR | 119.91 |
+| RSI | 25.81 |
+| MACD | -170.65 |
+| MA20 | 3683.99 |
+| MA200 | 4130.35 |
+| ATR | 123.99 |
 | Risk | NORMAL |
-| Stop Loss | 3327.93 |
-| Target | 3747.63 |
+| Stop Loss | 3333.91 |
+| Target | 3767.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VEEDOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1353.2 |
+| Price | 1353.5 |
 | Trend | weak_trend |
-| RSI | 49.08 |
-| MACD | -21.22 |
-| MA20 | 1371.96 |
-| MA200 | 1422.06 |
-| ATR | 30.78 |
+| RSI | 45.79 |
+| MACD | -20.84 |
+| MA20 | 1368.21 |
+| MA200 | 1420.82 |
+| ATR | 31.05 |
 | Risk | NORMAL |
-| Stop Loss | 1307.03 |
-| Target | 1414.76 |
+| Stop Loss | 1306.92 |
+| Target | 1415.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17385,16 +17385,16 @@
 ### EMSLIMITED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 319.8 |
+| Price | 324.8 |
 | Trend | downtrend |
-| RSI | 13.82 |
-| MACD | -15.16 |
-| MA20 | 347.75 |
-| MA200 | 355.77 |
-| ATR | 11.58 |
+| RSI | 19.15 |
+| MACD | -14.8 |
+| MA20 | 344.92 |
+| MA200 | 355.16 |
+| ATR | 11.65 |
 | Risk | NORMAL |
-| Stop Loss | 302.44 |
-| Target | 342.95 |
+| Stop Loss | 307.33 |
+| Target | 348.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17403,34 +17403,34 @@
 ### PREMEXPLN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 685.95 |
+| Price | 689.05 |
 | Trend | weak_trend |
-| RSI | 66.72 |
-| MACD | 5.11 |
-| MA20 | 678.01 |
-| MA200 | 588.43 |
-| ATR | 7.83 |
+| RSI | 71.25 |
+| MACD | 5.22 |
+| MA20 | 679.09 |
+| MA200 | 589.42 |
+| ATR | 7.68 |
 | Risk | LOW |
-| Stop Loss | 674.21 |
-| Target | 701.61 |
+| Stop Loss | 677.53 |
+| Target | 704.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MANINDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 886.75 |
+| Price | 890.6 |
 | Trend | weak_trend |
-| RSI | 52.56 |
-| MACD | 33.32 |
-| MA20 | 894.45 |
-| MA200 | 538.11 |
-| ATR | 64.49 |
+| RSI | 53.9 |
+| MACD | 30.56 |
+| MA20 | 895.68 |
+| MA200 | 540.52 |
+| ATR | 64.94 |
 | Risk | ELEVATED |
-| Stop Loss | 790.01 |
-| Target | 1015.74 |
+| Stop Loss | 793.2 |
+| Target | 1020.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17457,34 +17457,34 @@
 ### SANGHVIMOV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 392.05 |
+| Price | 382.2 |
 | Trend | weak_trend |
-| RSI | 32.99 |
-| MACD | -12.99 |
-| MA20 | 425.16 |
-| MA200 | 362.31 |
-| ATR | 22.09 |
+| RSI | 29.61 |
+| MACD | -14.66 |
+| MA20 | 422.94 |
+| MA200 | 362.59 |
+| ATR | 22.81 |
 | Risk | ELEVATED |
-| Stop Loss | 358.92 |
-| Target | 436.23 |
+| Stop Loss | 347.99 |
+| Target | 427.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FMGOETZE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 456.6 |
+| Price | 452.45 |
 | Trend | weak_trend |
-| RSI | 56.67 |
-| MACD | -1.5 |
-| MA20 | 450.57 |
-| MA200 | 390.61 |
-| ATR | 17.41 |
+| RSI | 52.23 |
+| MACD | -1.11 |
+| MA20 | 450.14 |
+| MA200 | 391.02 |
+| ATR | 17.5 |
 | Risk | NORMAL |
-| Stop Loss | 430.49 |
-| Target | 491.41 |
+| Stop Loss | 426.19 |
+| Target | 487.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17493,20 +17493,20 @@
 ### SBCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1100.7 |
+| Price | 1107.5 |
 | Trend | downtrend |
-| RSI | 43.02 |
-| MACD | 8.98 |
-| MA20 | 1095.24 |
-| MA200 | 679.88 |
-| ATR | 54.89 |
+| RSI | 46.77 |
+| MACD | 10.02 |
+| MA20 | 1096.26 |
+| MA200 | 683.23 |
+| ATR | 56.75 |
 | Risk | ELEVATED |
-| Stop Loss | 1018.37 |
-| Target | 1210.47 |
+| Stop Loss | 1022.37 |
+| Target | 1221.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FCL.NS
 | Metric | Value |
@@ -17529,16 +17529,16 @@
 ### VIMTALABS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 538.3 |
+| Price | 531.6 |
 | Trend | weak_trend |
-| RSI | 18.99 |
-| MACD | -18.84 |
-| MA20 | 589.35 |
-| MA200 | 531.16 |
-| ATR | 21.15 |
-| Risk | NORMAL |
-| Stop Loss | 506.58 |
-| Target | 580.59 |
+| RSI | 18.87 |
+| MACD | -20.57 |
+| MA20 | 584.45 |
+| MA200 | 530.8 |
+| ATR | 22.06 |
+| Risk | ELEVATED |
+| Stop Loss | 498.5 |
+| Target | 575.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17547,16 +17547,16 @@
 ### MUTHOOTMF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 166.14 |
+| Price | 172.28 |
 | Trend | downtrend |
-| RSI | 14.35 |
-| MACD | -9.05 |
-| MA20 | 180.89 |
-| MA200 | 190.81 |
-| ATR | 6.45 |
+| RSI | 28.57 |
+| MACD | -8.61 |
+| MA20 | 179.68 |
+| MA200 | 190.76 |
+| ATR | 6.67 |
 | Risk | NORMAL |
-| Stop Loss | 156.46 |
-| Target | 179.04 |
+| Stop Loss | 162.28 |
+| Target | 185.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17583,16 +17583,16 @@
 ### ARVSMART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 605.4 |
+| Price | 604.75 |
 | Trend | weak_trend |
-| RSI | 59.09 |
-| MACD | -4.29 |
-| MA20 | 593.84 |
-| MA200 | 588.75 |
-| ATR | 26.35 |
+| RSI | 55.26 |
+| MACD | -3.81 |
+| MA20 | 594.17 |
+| MA200 | 588.77 |
+| ATR | 26.06 |
 | Risk | ELEVATED |
-| Stop Loss | 565.88 |
-| Target | 658.1 |
+| Stop Loss | 565.66 |
+| Target | 656.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17637,16 +17637,16 @@
 ### GIPCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 167.34 |
+| Price | 166.75 |
 | Trend | weak_trend |
-| RSI | 22.36 |
-| MACD | -4.59 |
-| MA20 | 181.38 |
-| MA200 | 155.23 |
-| ATR | 6.29 |
+| RSI | 23.45 |
+| MACD | -4.89 |
+| MA20 | 179.73 |
+| MA200 | 155.33 |
+| ATR | 6.32 |
 | Risk | NORMAL |
-| Stop Loss | 157.91 |
-| Target | 179.91 |
+| Stop Loss | 157.27 |
+| Target | 179.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17655,20 +17655,20 @@
 ### ALPEXSOLAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 790.2 |
+| Price | 781.25 |
 | Trend | downtrend |
-| RSI | 20.11 |
-| MACD | -18.16 |
-| MA20 | 855.97 |
-| MA200 | 865.96 |
-| ATR | 31.13 |
+| RSI | 21.09 |
+| MACD | -20.46 |
+| MA20 | 848.32 |
+| MA200 | 865.82 |
+| ATR | 30.88 |
 | Risk | NORMAL |
-| Stop Loss | 743.5 |
-| Target | 852.46 |
+| Stop Loss | 734.93 |
+| Target | 843.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PRAKASH.NS
 | Metric | Value |
@@ -17691,16 +17691,16 @@
 ### RPSGVENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 874.85 |
+| Price | 869.1 |
 | Trend | weak_trend |
-| RSI | 57.59 |
-| MACD | 2.68 |
-| MA20 | 844.18 |
-| MA200 | 829.25 |
-| ATR | 34.63 |
+| RSI | 56.5 |
+| MACD | 3.65 |
+| MA20 | 846.04 |
+| MA200 | 829.9 |
+| ATR | 34.36 |
 | Risk | NORMAL |
-| Stop Loss | 822.91 |
-| Target | 944.11 |
+| Stop Loss | 817.56 |
+| Target | 937.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17709,16 +17709,16 @@
 ### BCG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.98 |
+| Price | 9.03 |
 | Trend | downtrend |
-| RSI | 28.57 |
+| RSI | 32.08 |
 | MACD | -0.15 |
-| MA20 | 9.47 |
+| MA20 | 9.42 |
 | MA200 | 9.86 |
 | ATR | 0.29 |
 | Risk | NORMAL |
-| Stop Loss | 8.54 |
-| Target | 9.57 |
+| Stop Loss | 8.6 |
+| Target | 9.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17781,16 +17781,16 @@
 ### BFUTILITIE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 463.25 |
+| Price | 465.9 |
 | Trend | downtrend |
-| RSI | 7.45 |
-| MACD | -15.92 |
-| MA20 | 511.62 |
-| MA200 | 547.7 |
-| ATR | 15.95 |
+| RSI | 11.02 |
+| MACD | -16.93 |
+| MA20 | 507.47 |
+| MA200 | 546.84 |
+| ATR | 16.26 |
 | Risk | NORMAL |
-| Stop Loss | 439.32 |
-| Target | 495.15 |
+| Stop Loss | 441.51 |
+| Target | 498.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17799,16 +17799,16 @@
 ### RAMCOIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 292.95 |
+| Price | 299.2 |
 | Trend | downtrend |
-| RSI | 17.89 |
-| MACD | -9.92 |
-| MA20 | 311.58 |
-| MA200 | 305.8 |
-| ATR | 10.69 |
+| RSI | 29.44 |
+| MACD | -9.42 |
+| MA20 | 310.43 |
+| MA200 | 305.71 |
+| ATR | 10.81 |
 | Risk | NORMAL |
-| Stop Loss | 276.92 |
-| Target | 314.32 |
+| Stop Loss | 282.98 |
+| Target | 320.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17817,16 +17817,16 @@
 ### TVSSRICHAK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4296.1 |
+| Price | 4336.9 |
 | Trend | weak_trend |
-| RSI | 38.42 |
-| MACD | -137.2 |
-| MA20 | 4554.82 |
-| MA200 | 4098.93 |
-| ATR | 164.67 |
-| Risk | NORMAL |
-| Stop Loss | 4049.09 |
-| Target | 4625.44 |
+| RSI | 37.58 |
+| MACD | -133.93 |
+| MA20 | 4514.36 |
+| MA200 | 4100.14 |
+| ATR | 176.06 |
+| Risk | ELEVATED |
+| Stop Loss | 4072.81 |
+| Target | 4689.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17853,16 +17853,16 @@
 ### POKARNA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 666.65 |
+| Price | 675.85 |
 | Trend | downtrend |
-| RSI | 22.95 |
-| MACD | -39.79 |
-| MA20 | 722.41 |
-| MA200 | 877.67 |
-| ATR | 25.33 |
+| RSI | 28.41 |
+| MACD | -39.08 |
+| MA20 | 716.0 |
+| MA200 | 876.8 |
+| ATR | 25.98 |
 | Risk | NORMAL |
-| Stop Loss | 628.66 |
-| Target | 717.31 |
+| Stop Loss | 636.88 |
+| Target | 727.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17889,16 +17889,16 @@
 ### EVEREADY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 321.25 |
+| Price | 319.95 |
 | Trend | weak_trend |
-| RSI | 49.21 |
-| MACD | -5.43 |
-| MA20 | 326.28 |
-| MA200 | 328.57 |
-| ATR | 9.0 |
+| RSI | 35.91 |
+| MACD | -5.21 |
+| MA20 | 324.13 |
+| MA200 | 328.56 |
+| ATR | 8.83 |
 | Risk | NORMAL |
-| Stop Loss | 307.75 |
-| Target | 339.25 |
+| Stop Loss | 306.71 |
+| Target | 337.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17907,16 +17907,16 @@
 ### CARRARO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 505.2 |
+| Price | 507.45 |
 | Trend | downtrend |
-| RSI | 40.4 |
-| MACD | -4.98 |
-| MA20 | 525.51 |
-| MA200 | 525.9 |
-| ATR | 16.12 |
+| RSI | 33.99 |
+| MACD | -5.63 |
+| MA20 | 523.96 |
+| MA200 | 525.89 |
+| ATR | 15.49 |
 | Risk | NORMAL |
-| Stop Loss | 481.02 |
-| Target | 537.44 |
+| Stop Loss | 484.22 |
+| Target | 538.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -17925,34 +17925,34 @@
 ### NRBBEARING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 524.2 |
-| Trend | downtrend |
-| RSI | 48.2 |
-| MACD | 12.34 |
-| MA20 | 521.97 |
-| MA200 | 359.22 |
-| ATR | 23.39 |
+| Price | 514.0 |
+| Trend | weak_trend |
+| RSI | 47.33 |
+| MACD | 10.5 |
+| MA20 | 521.94 |
+| MA200 | 360.42 |
+| ATR | 23.89 |
 | Risk | ELEVATED |
-| Stop Loss | 489.11 |
-| Target | 570.99 |
+| Stop Loss | 478.17 |
+| Target | 561.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### HONDAPOWER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1857.8 |
-| Trend | downtrend |
-| RSI | 39.0 |
-| MACD | -40.77 |
-| MA20 | 1895.66 |
-| MA200 | 2113.42 |
-| ATR | 54.61 |
+| Price | 1857.1 |
+| Trend | weak_trend |
+| RSI | 39.47 |
+| MACD | -39.14 |
+| MA20 | 1890.87 |
+| MA200 | 2111.41 |
+| ATR | 55.37 |
 | Risk | NORMAL |
-| Stop Loss | 1775.89 |
-| Target | 1967.01 |
+| Stop Loss | 1774.04 |
+| Target | 1967.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18051,16 +18051,16 @@
 ### ALLCARGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.52 |
+| Price | 10.61 |
 | Trend | weak_trend |
-| RSI | 43.75 |
-| MACD | -0.26 |
-| MA20 | 10.77 |
+| RSI | 45.7 |
+| MACD | -0.23 |
+| MA20 | 10.69 |
 | MA200 | 9.48 |
 | ATR | 0.49 |
 | Risk | ELEVATED |
-| Stop Loss | 9.79 |
-| Target | 11.5 |
+| Stop Loss | 9.88 |
+| Target | 11.58 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18087,16 +18087,16 @@
 ### RELTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 138.19 |
+| Price | 138.49 |
 | Trend | downtrend |
-| RSI | 42.31 |
-| MACD | -3.76 |
-| MA20 | 147.16 |
-| MA200 | 149.36 |
-| ATR | 7.29 |
+| RSI | 28.91 |
+| MACD | -4.03 |
+| MA20 | 146.3 |
+| MA200 | 149.23 |
+| ATR | 6.88 |
 | Risk | ELEVATED |
-| Stop Loss | 127.26 |
-| Target | 152.76 |
+| Stop Loss | 128.18 |
+| Target | 152.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18105,16 +18105,16 @@
 ### ALEMBICLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 99.56 |
+| Price | 98.27 |
 | Trend | weak_trend |
-| RSI | 38.6 |
-| MACD | 0.39 |
-| MA20 | 103.77 |
+| RSI | 31.37 |
+| MACD | -0.0 |
+| MA20 | 103.47 |
 | MA200 | 90.79 |
-| ATR | 3.79 |
+| ATR | 3.78 |
 | Risk | NORMAL |
-| Stop Loss | 93.88 |
-| Target | 107.13 |
+| Stop Loss | 92.6 |
+| Target | 105.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18123,34 +18123,34 @@
 ### DIGITIDE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.31 |
-| Trend | downtrend |
-| RSI | 16.25 |
-| MACD | -5.83 |
-| MA20 | 78.23 |
-| MA200 | 97.54 |
-| ATR | 3.85 |
+| Price | 73.26 |
+| Trend | weak_trend |
+| RSI | 31.65 |
+| MACD | -5.5 |
+| MA20 | 77.46 |
+| MA200 | 97.23 |
+| ATR | 4.1 |
 | Risk | ELEVATED |
-| Stop Loss | 63.53 |
-| Target | 77.01 |
+| Stop Loss | 67.11 |
+| Target | 81.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### UTKARSHBNK.NS
 | Metric | Value |
 |--------|-------|
 | Price | 13.68 |
-| Trend | downtrend |
-| RSI | 44.77 |
-| MACD | -0.23 |
-| MA20 | 13.83 |
-| MA200 | 13.92 |
-| ATR | 0.5 |
+| Trend | weak_trend |
+| RSI | 46.6 |
+| MACD | -0.22 |
+| MA20 | 13.79 |
+| MA200 | 13.91 |
+| ATR | 0.48 |
 | Risk | NORMAL |
-| Stop Loss | 12.93 |
-| Target | 14.68 |
+| Stop Loss | 12.95 |
+| Target | 14.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18159,34 +18159,34 @@
 ### NUCLEUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 634.4 |
-| Trend | downtrend |
-| RSI | 25.91 |
-| MACD | -21.87 |
-| MA20 | 664.12 |
-| MA200 | 773.77 |
-| ATR | 19.27 |
+| Price | 655.6 |
+| Trend | weak_trend |
+| RSI | 37.57 |
+| MACD | -19.6 |
+| MA20 | 662.08 |
+| MA200 | 772.57 |
+| ATR | 21.09 |
 | Risk | NORMAL |
-| Stop Loss | 605.5 |
-| Target | 672.94 |
+| Stop Loss | 623.97 |
+| Target | 697.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SERVOTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.81 |
+| Price | 69.51 |
 | Trend | weak_trend |
-| RSI | 40.57 |
-| MACD | -2.62 |
-| MA20 | 71.41 |
-| MA200 | 83.01 |
-| ATR | 2.46 |
+| RSI | 46.33 |
+| MACD | -2.51 |
+| MA20 | 71.02 |
+| MA200 | 82.96 |
+| ATR | 2.4 |
 | Risk | NORMAL |
-| Stop Loss | 65.12 |
-| Target | 73.73 |
+| Stop Loss | 65.91 |
+| Target | 74.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18195,16 +18195,16 @@
 ### AUTOAXLES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1599.7 |
+| Price | 1606.4 |
 | Trend | downtrend |
-| RSI | 32.71 |
-| MACD | -26.9 |
-| MA20 | 1665.71 |
-| MA200 | 1777.39 |
-| ATR | 47.95 |
+| RSI | 38.39 |
+| MACD | -27.88 |
+| MA20 | 1662.13 |
+| MA200 | 1776.36 |
+| ATR | 45.8 |
 | Risk | NORMAL |
-| Stop Loss | 1527.77 |
-| Target | 1695.6 |
+| Stop Loss | 1537.7 |
+| Target | 1698.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18213,20 +18213,20 @@
 ### HMT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 54.8 |
+| Price | 55.01 |
 | Trend | downtrend |
-| RSI | 15.35 |
-| MACD | -1.97 |
-| MA20 | 60.07 |
-| MA200 | 57.68 |
-| ATR | 2.47 |
+| RSI | 15.1 |
+| MACD | -2.07 |
+| MA20 | 59.66 |
+| MA200 | 57.71 |
+| ATR | 2.43 |
 | Risk | ELEVATED |
-| Stop Loss | 51.1 |
-| Target | 59.73 |
+| Stop Loss | 51.36 |
+| Target | 59.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### LAOPALA.NS
 | Metric | Value |
@@ -18249,16 +18249,16 @@
 ### DCXINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.76 |
+| Price | 153.85 |
 | Trend | downtrend |
-| RSI | 30.55 |
-| MACD | -4.84 |
-| MA20 | 159.94 |
-| MA200 | 182.19 |
-| ATR | 5.28 |
+| RSI | 34.21 |
+| MACD | -4.73 |
+| MA20 | 159.3 |
+| MA200 | 182.02 |
+| ATR | 5.06 |
 | Risk | NORMAL |
-| Stop Loss | 142.83 |
-| Target | 161.33 |
+| Stop Loss | 146.26 |
+| Target | 163.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18267,16 +18267,16 @@
 ### HINDWAREAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 169.37 |
+| Price | 171.76 |
 | Trend | weak_trend |
-| RSI | 35.45 |
-| MACD | -5.17 |
-| MA20 | 172.43 |
-| MA200 | 218.83 |
+| RSI | 44.06 |
+| MACD | -4.75 |
+| MA20 | 172.1 |
+| MA200 | 218.37 |
 | ATR | 5.97 |
 | Risk | NORMAL |
-| Stop Loss | 160.42 |
-| Target | 181.3 |
+| Stop Loss | 162.8 |
+| Target | 183.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18321,34 +18321,34 @@
 ### WINDMACHIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 292.55 |
+| Price | 298.2 |
 | Trend | weak_trend |
-| RSI | 47.78 |
-| MACD | -2.4 |
-| MA20 | 297.15 |
-| MA200 | 281.02 |
-| ATR | 12.4 |
+| RSI | 48.81 |
+| MACD | -2.02 |
+| MA20 | 297.02 |
+| MA200 | 281.18 |
+| ATR | 12.6 |
 | Risk | ELEVATED |
-| Stop Loss | 273.95 |
-| Target | 317.35 |
+| Stop Loss | 279.29 |
+| Target | 323.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SOLARWORLD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 126.59 |
+| Price | 127.05 |
 | Trend | weak_trend |
-| RSI | 31.97 |
-| MACD | -6.08 |
-| MA20 | 132.14 |
-| MA200 | 192.59 |
-| ATR | 6.36 |
+| RSI | 33.91 |
+| MACD | -5.85 |
+| MA20 | 131.42 |
+| MA200 | 191.89 |
+| ATR | 6.41 |
 | Risk | ELEVATED |
-| Stop Loss | 117.06 |
-| Target | 139.3 |
+| Stop Loss | 117.44 |
+| Target | 139.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18357,16 +18357,16 @@
 ### TAJGVK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 323.05 |
+| Price | 318.45 |
 | Trend | weak_trend |
-| RSI | 43.18 |
+| RSI | 38.87 |
 | MACD | -4.28 |
-| MA20 | 324.18 |
-| MA200 | 343.73 |
-| ATR | 9.06 |
+| MA20 | 323.36 |
+| MA200 | 343.43 |
+| ATR | 9.23 |
 | Risk | NORMAL |
-| Stop Loss | 309.46 |
-| Target | 341.16 |
+| Stop Loss | 304.61 |
+| Target | 336.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18375,74 +18375,74 @@
 ### NITCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 82.99 |
+| Price | 83.19 |
 | Trend | downtrend |
-| RSI | 39.94 |
-| MACD | -3.47 |
-| MA20 | 86.21 |
-| MA200 | 91.9 |
-| ATR | 3.62 |
+| RSI | 35.49 |
+| MACD | -3.26 |
+| MA20 | 85.68 |
+| MA200 | 91.86 |
+| ATR | 3.58 |
 | Risk | ELEVATED |
-| Stop Loss | 77.55 |
-| Target | 90.24 |
+| Stop Loss | 77.83 |
+| Target | 90.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SIRCA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 408.2 |
+| Price | 411.3 |
 | Trend | downtrend |
-| RSI | 53.07 |
-| MACD | -5.21 |
-| MA20 | 408.38 |
-| MA200 | 432.86 |
-| ATR | 9.77 |
+| RSI | 55.37 |
+| MACD | -4.53 |
+| MA20 | 407.57 |
+| MA200 | 432.52 |
+| ATR | 9.75 |
 | Risk | NORMAL |
-| Stop Loss | 393.54 |
-| Target | 427.75 |
+| Stop Loss | 396.67 |
+| Target | 430.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### VIKRAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.66 |
-| Trend | weak_trend |
-| RSI | 48.8 |
-| MACD | -1.05 |
-| MA20 | 57.32 |
-| MA200 | 71.57 |
-| ATR | 2.71 |
+| Price | 62.76 |
+| Trend | downtrend |
+| RSI | 63.59 |
+| MACD | -0.54 |
+| MA20 | 57.6 |
+| MA200 | 71.44 |
+| ATR | 3.23 |
 | Risk | ELEVATED |
-| Stop Loss | 51.6 |
-| Target | 61.07 |
+| Stop Loss | 57.92 |
+| Target | 69.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KALAMANDIR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 74.53 |
+| Price | 74.17 |
 | Trend | weak_trend |
-| RSI | 37.3 |
-| MACD | -2.47 |
-| MA20 | 77.28 |
-| MA200 | 101.65 |
-| ATR | 2.77 |
+| RSI | 38.8 |
+| MACD | -2.46 |
+| MA20 | 76.86 |
+| MA200 | 101.27 |
+| ATR | 2.73 |
 | Risk | NORMAL |
-| Stop Loss | 70.38 |
-| Target | 80.06 |
+| Stop Loss | 70.08 |
+| Target | 79.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VSSL.NS
 | Metric | Value |
@@ -18465,16 +18465,16 @@
 ### KRSNAA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 532.45 |
+| Price | 532.7 |
 | Trend | downtrend |
-| RSI | 39.0 |
-| MACD | -3.32 |
-| MA20 | 546.85 |
-| MA200 | 595.29 |
-| ATR | 17.63 |
+| RSI | 37.16 |
+| MACD | -4.02 |
+| MA20 | 546.09 |
+| MA200 | 594.37 |
+| ATR | 16.62 |
 | Risk | NORMAL |
-| Stop Loss | 506.01 |
-| Target | 567.7 |
+| Stop Loss | 507.77 |
+| Target | 565.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18483,16 +18483,16 @@
 ### SDBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.74 |
+| Price | 72.46 |
 | Trend | weak_trend |
-| RSI | 56.45 |
-| MACD | 0.23 |
-| MA20 | 71.65 |
-| MA200 | 80.34 |
+| RSI | 58.88 |
+| MACD | 0.2 |
+| MA20 | 71.76 |
+| MA200 | 80.17 |
 | ATR | 3.47 |
 | Risk | ELEVATED |
-| Stop Loss | 66.53 |
-| Target | 78.69 |
+| Stop Loss | 67.26 |
+| Target | 79.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18501,16 +18501,16 @@
 ### CARYSIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1017.3 |
+| Price | 1021.6 |
 | Trend | weak_trend |
-| RSI | 38.48 |
-| MACD | -32.19 |
-| MA20 | 1063.59 |
-| MA200 | 1000.01 |
-| ATR | 35.09 |
+| RSI | 39.62 |
+| MACD | -31.13 |
+| MA20 | 1056.73 |
+| MA200 | 1000.66 |
+| ATR | 35.64 |
 | Risk | NORMAL |
-| Stop Loss | 964.67 |
-| Target | 1087.47 |
+| Stop Loss | 968.15 |
+| Target | 1092.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18519,16 +18519,16 @@
 ### TCIEXP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 465.15 |
+| Price | 475.7 |
 | Trend | downtrend |
-| RSI | 45.34 |
-| MACD | -13.9 |
-| MA20 | 494.54 |
-| MA200 | 530.78 |
-| ATR | 27.84 |
+| RSI | 47.31 |
+| MACD | -14.04 |
+| MA20 | 492.6 |
+| MA200 | 530.32 |
+| ATR | 28.59 |
 | Risk | ELEVATED |
-| Stop Loss | 423.4 |
-| Target | 520.82 |
+| Stop Loss | 432.82 |
+| Target | 532.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18537,16 +18537,16 @@
 ### KCP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 152.13 |
+| Price | 150.65 |
 | Trend | downtrend |
-| RSI | 33.94 |
-| MACD | -2.5 |
-| MA20 | 156.98 |
-| MA200 | 163.16 |
-| ATR | 5.11 |
+| RSI | 34.76 |
+| MACD | -2.66 |
+| MA20 | 156.39 |
+| MA200 | 163.03 |
+| ATR | 5.14 |
 | Risk | NORMAL |
-| Stop Loss | 144.47 |
-| Target | 162.34 |
+| Stop Loss | 142.93 |
+| Target | 160.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18555,20 +18555,20 @@
 ### BEPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 125.35 |
-| Trend | weak_trend |
-| RSI | 43.72 |
-| MACD | 0.03 |
-| MA20 | 126.23 |
-| MA200 | 99.8 |
-| ATR | 4.25 |
+| Price | 127.67 |
+| Trend | downtrend |
+| RSI | 44.2 |
+| MACD | 0.18 |
+| MA20 | 126.21 |
+| MA200 | 100.02 |
+| ATR | 4.27 |
 | Risk | NORMAL |
-| Stop Loss | 118.97 |
-| Target | 133.85 |
+| Stop Loss | 121.27 |
+| Target | 136.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KMEW.NS
 | Metric | Value |
@@ -18591,16 +18591,16 @@
 ### XPROINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1046.9 |
+| Price | 1008.0 |
 | Trend | downtrend |
-| RSI | 21.91 |
-| MACD | -38.51 |
-| MA20 | 1176.86 |
-| MA200 | 1113.91 |
-| ATR | 49.87 |
+| RSI | 17.49 |
+| MACD | -45.46 |
+| MA20 | 1162.52 |
+| MA200 | 1114.09 |
+| ATR | 50.04 |
 | Risk | ELEVATED |
-| Stop Loss | 972.09 |
-| Target | 1146.64 |
+| Stop Loss | 932.94 |
+| Target | 1108.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18645,16 +18645,16 @@
 ### ADFFOODS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 288.4 |
+| Price | 281.15 |
 | Trend | weak_trend |
-| RSI | 69.6 |
-| MACD | 4.95 |
-| MA20 | 274.56 |
-| MA200 | 245.98 |
-| ATR | 9.84 |
+| RSI | 66.42 |
+| MACD | 4.49 |
+| MA20 | 275.14 |
+| MA200 | 246.34 |
+| ATR | 9.97 |
 | Risk | NORMAL |
-| Stop Loss | 273.64 |
-| Target | 308.09 |
+| Stop Loss | 266.2 |
+| Target | 301.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18681,16 +18681,16 @@
 ### PANACEABIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 346.95 |
+| Price | 349.55 |
 | Trend | downtrend |
-| RSI | 33.89 |
-| MACD | -12.94 |
-| MA20 | 367.14 |
-| MA200 | 402.43 |
-| ATR | 13.13 |
+| RSI | 30.91 |
+| MACD | -12.69 |
+| MA20 | 364.74 |
+| MA200 | 402.4 |
+| ATR | 13.0 |
 | Risk | NORMAL |
-| Stop Loss | 327.25 |
-| Target | 373.21 |
+| Stop Loss | 330.06 |
+| Target | 375.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18699,34 +18699,34 @@
 ### GRMOVER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.98 |
-| Trend | downtrend |
-| RSI | 62.95 |
-| MACD | -1.16 |
-| MA20 | 80.9 |
-| MA200 | 129.86 |
-| ATR | 3.1 |
+| Price | 91.0 |
+| Trend | weak_trend |
+| RSI | 73.02 |
+| MACD | -0.31 |
+| MA20 | 81.23 |
+| MA200 | 129.53 |
+| ATR | 3.53 |
 | Risk | NORMAL |
-| Stop Loss | 83.32 |
-| Target | 94.19 |
+| Stop Loss | 85.71 |
+| Target | 98.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### DIAMONDYD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1045.4 |
+| Price | 1041.1 |
 | Trend | downtrend |
-| RSI | 39.15 |
-| MACD | -21.48 |
-| MA20 | 1079.14 |
-| MA200 | 1088.95 |
-| ATR | 42.94 |
+| RSI | 39.9 |
+| MACD | -22.08 |
+| MA20 | 1075.8 |
+| MA200 | 1088.71 |
+| ATR | 43.35 |
 | Risk | ELEVATED |
-| Stop Loss | 980.99 |
-| Target | 1131.29 |
+| Stop Loss | 976.07 |
+| Target | 1127.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18771,16 +18771,16 @@
 ### FILATEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 107.78 |
+| Price | 106.34 |
 | Trend | weak_trend |
-| RSI | 57.24 |
-| MACD | 7.08 |
-| MA20 | 102.76 |
-| MA200 | 58.59 |
-| ATR | 6.09 |
+| RSI | 56.78 |
+| MACD | 6.55 |
+| MA20 | 103.72 |
+| MA200 | 58.87 |
+| ATR | 5.92 |
 | Risk | ELEVATED |
-| Stop Loss | 98.64 |
-| Target | 119.96 |
+| Stop Loss | 97.45 |
+| Target | 118.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18789,16 +18789,16 @@
 ### JINDALPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 644.9 |
+| Price | 643.85 |
 | Trend | weak_trend |
-| RSI | 18.55 |
-| MACD | -9.24 |
-| MA20 | 686.49 |
-| MA200 | 642.63 |
-| ATR | 27.45 |
+| RSI | 21.1 |
+| MACD | -9.95 |
+| MA20 | 685.11 |
+| MA200 | 643.46 |
+| ATR | 25.84 |
 | Risk | ELEVATED |
-| Stop Loss | 603.73 |
-| Target | 699.79 |
+| Stop Loss | 605.09 |
+| Target | 695.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18807,16 +18807,16 @@
 ### SMSPHARMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 441.4 |
+| Price | 438.3 |
 | Trend | weak_trend |
-| RSI | 38.64 |
-| MACD | 13.99 |
-| MA20 | 457.7 |
-| MA200 | 380.82 |
-| ATR | 18.96 |
+| RSI | 26.18 |
+| MACD | 11.5 |
+| MA20 | 456.46 |
+| MA200 | 381.46 |
+| ATR | 18.22 |
 | Risk | ELEVATED |
-| Stop Loss | 412.96 |
-| Target | 479.32 |
+| Stop Loss | 410.97 |
+| Target | 474.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18825,16 +18825,16 @@
 ### MONARCH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 340.5 |
+| Price | 340.4 |
 | Trend | weak_trend |
-| RSI | 37.29 |
-| MACD | -9.47 |
-| MA20 | 354.27 |
-| MA200 | 323.67 |
-| ATR | 13.59 |
-| Risk | NORMAL |
-| Stop Loss | 320.12 |
-| Target | 367.68 |
+| RSI | 33.08 |
+| MACD | -9.21 |
+| MA20 | 352.6 |
+| MA200 | 323.88 |
+| ATR | 13.91 |
+| Risk | ELEVATED |
+| Stop Loss | 319.53 |
+| Target | 368.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18843,20 +18843,20 @@
 ### TASTYBITE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8827.5 |
+| Price | 9255.0 |
 | Trend | weak_trend |
-| RSI | 25.04 |
-| MACD | -226.75 |
-| MA20 | 9623.98 |
-| MA200 | 8190.57 |
-| ATR | 288.36 |
+| RSI | 37.74 |
+| MACD | -214.07 |
+| MA20 | 9573.08 |
+| MA200 | 8196.65 |
+| ATR | 312.36 |
 | Risk | NORMAL |
-| Stop Loss | 8394.96 |
-| Target | 9404.21 |
+| Stop Loss | 8786.46 |
+| Target | 9879.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AEROFLEX.NS
 | Metric | Value |
@@ -18879,16 +18879,16 @@
 ### HGS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 351.95 |
+| Price | 358.6 |
 | Trend | downtrend |
-| RSI | 21.18 |
-| MACD | -9.16 |
-| MA20 | 370.67 |
-| MA200 | 400.22 |
-| ATR | 9.64 |
+| RSI | 28.8 |
+| MACD | -8.92 |
+| MA20 | 369.77 |
+| MA200 | 399.84 |
+| ATR | 9.56 |
 | Risk | NORMAL |
-| Stop Loss | 337.49 |
-| Target | 371.23 |
+| Stop Loss | 344.25 |
+| Target | 377.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18915,52 +18915,52 @@
 ### MOLDTKPAC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 328.85 |
+| Price | 331.0 |
 | Trend | weak_trend |
-| RSI | 54.08 |
-| MACD | -2.79 |
-| MA20 | 330.45 |
-| MA200 | 311.19 |
-| ATR | 12.08 |
+| RSI | 57.03 |
+| MACD | -2.58 |
+| MA20 | 330.09 |
+| MA200 | 311.41 |
+| ATR | 12.62 |
 | Risk | NORMAL |
-| Stop Loss | 310.72 |
-| Target | 353.02 |
+| Stop Loss | 312.07 |
+| Target | 356.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### COSMOFIRST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 847.7 |
+| Price | 832.55 |
 | Trend | weak_trend |
-| RSI | 43.19 |
-| MACD | -19.29 |
-| MA20 | 848.79 |
-| MA200 | 755.55 |
-| ATR | 28.11 |
+| RSI | 39.88 |
+| MACD | -18.27 |
+| MA20 | 846.67 |
+| MA200 | 756.33 |
+| ATR | 27.89 |
 | Risk | NORMAL |
-| Stop Loss | 805.54 |
-| Target | 903.91 |
+| Stop Loss | 790.72 |
+| Target | 888.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PFS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.47 |
+| Price | 26.41 |
 | Trend | downtrend |
-| RSI | 48.17 |
-| MACD | -0.15 |
-| MA20 | 27.04 |
-| MA200 | 29.99 |
-| ATR | 1.37 |
+| RSI | 49.85 |
+| MACD | -0.2 |
+| MA20 | 26.99 |
+| MA200 | 29.95 |
+| ATR | 1.34 |
 | Risk | ELEVATED |
-| Stop Loss | 24.41 |
-| Target | 29.21 |
+| Stop Loss | 24.4 |
+| Target | 29.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -18987,34 +18987,34 @@
 ### BAJEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 156.27 |
+| Price | 156.4 |
 | Trend | downtrend |
-| RSI | 18.84 |
-| MACD | -6.25 |
-| MA20 | 167.78 |
-| MA200 | 174.67 |
-| ATR | 5.49 |
+| RSI | 18.1 |
+| MACD | -6.35 |
+| MA20 | 166.61 |
+| MA200 | 174.62 |
+| ATR | 5.56 |
 | Risk | NORMAL |
-| Stop Loss | 148.04 |
-| Target | 167.25 |
+| Stop Loss | 148.06 |
+| Target | 167.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### INSECTICID.NS
 | Metric | Value |
 |--------|-------|
-| Price | 572.95 |
+| Price | 580.9 |
 | Trend | downtrend |
-| RSI | 37.82 |
-| MACD | -9.31 |
-| MA20 | 592.26 |
-| MA200 | 646.64 |
-| ATR | 16.23 |
+| RSI | 34.95 |
+| MACD | -8.89 |
+| MA20 | 590.83 |
+| MA200 | 646.05 |
+| ATR | 15.62 |
 | Risk | NORMAL |
-| Stop Loss | 548.6 |
-| Target | 605.41 |
+| Stop Loss | 557.46 |
+| Target | 612.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19023,16 +19023,16 @@
 ### SHALBY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 132.83 |
+| Price | 132.32 |
 | Trend | downtrend |
-| RSI | 43.28 |
-| MACD | -4.67 |
-| MA20 | 138.16 |
-| MA200 | 161.69 |
-| ATR | 5.99 |
+| RSI | 44.49 |
+| MACD | -4.62 |
+| MA20 | 137.53 |
+| MA200 | 161.36 |
+| ATR | 5.71 |
 | Risk | ELEVATED |
-| Stop Loss | 123.84 |
-| Target | 144.82 |
+| Stop Loss | 123.75 |
+| Target | 143.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19041,16 +19041,16 @@
 ### NDRAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 682.8 |
+| Price | 687.65 |
 | Trend | downtrend |
-| RSI | 36.43 |
-| MACD | -14.24 |
-| MA20 | 713.93 |
-| MA200 | 763.47 |
-| ATR | 29.29 |
+| RSI | 30.24 |
+| MACD | -14.58 |
+| MA20 | 713.67 |
+| MA200 | 762.86 |
+| ATR | 28.35 |
 | Risk | ELEVATED |
-| Stop Loss | 638.87 |
-| Target | 741.37 |
+| Stop Loss | 645.12 |
+| Target | 744.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19095,20 +19095,20 @@
 ### STYLEBAAZA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 379.3 |
+| Price | 379.95 |
 | Trend | weak_trend |
-| RSI | 44.66 |
-| MACD | -0.73 |
-| MA20 | 380.04 |
-| MA200 | 329.11 |
-| ATR | 19.11 |
+| RSI | 51.95 |
+| MACD | -0.54 |
+| MA20 | 379.63 |
+| MA200 | 329.69 |
+| ATR | 18.12 |
 | Risk | ELEVATED |
-| Stop Loss | 350.63 |
-| Target | 417.53 |
+| Stop Loss | 352.77 |
+| Target | 416.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SCILAL.NS
 | Metric | Value |
@@ -19149,16 +19149,16 @@
 ### LANDMARK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 461.9 |
+| Price | 454.8 |
 | Trend | weak_trend |
-| RSI | 32.46 |
-| MACD | -9.16 |
-| MA20 | 482.65 |
-| MA200 | 441.67 |
-| ATR | 21.96 |
+| RSI | 25.42 |
+| MACD | -10.12 |
+| MA20 | 481.07 |
+| MA200 | 441.47 |
+| ATR | 22.01 |
 | Risk | ELEVATED |
-| Stop Loss | 428.95 |
-| Target | 505.83 |
+| Stop Loss | 421.78 |
+| Target | 498.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19167,16 +19167,16 @@
 ### EIHAHOTELS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 290.25 |
+| Price | 292.15 |
 | Trend | downtrend |
-| RSI | 39.54 |
+| RSI | 42.26 |
 | MACD | -1.45 |
-| MA20 | 293.43 |
-| MA200 | 314.56 |
-| ATR | 8.86 |
+| MA20 | 293.67 |
+| MA200 | 314.26 |
+| ATR | 9.04 |
 | Risk | NORMAL |
-| Stop Loss | 276.96 |
-| Target | 307.96 |
+| Stop Loss | 278.6 |
+| Target | 310.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19221,16 +19221,16 @@
 ### SEAMECLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1626.3 |
+| Price | 1634.0 |
 | Trend | weak_trend |
-| RSI | 39.83 |
-| MACD | -22.96 |
-| MA20 | 1671.89 |
-| MA200 | 1445.4 |
-| ATR | 63.51 |
+| RSI | 34.66 |
+| MACD | -20.68 |
+| MA20 | 1664.17 |
+| MA200 | 1448.5 |
+| ATR | 64.26 |
 | Risk | NORMAL |
-| Stop Loss | 1531.03 |
-| Target | 1753.33 |
+| Stop Loss | 1537.61 |
+| Target | 1762.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19239,20 +19239,20 @@
 ### MAYURUNIQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 806.1 |
-| Trend | uptrend |
-| RSI | 62.18 |
-| MACD | 7.23 |
-| MA20 | 742.4 |
-| MA200 | 650.84 |
-| ATR | 29.48 |
+| Price | 783.95 |
+| Trend | weak_trend |
+| RSI | 63.01 |
+| MACD | 8.98 |
+| MA20 | 744.6 |
+| MA200 | 652.38 |
+| ATR | 30.57 |
 | Risk | NORMAL |
-| Stop Loss | 761.88 |
-| Target | 865.06 |
+| Stop Loss | 738.09 |
+| Target | 845.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### RML.NS
 | Metric | Value |
@@ -19293,16 +19293,16 @@
 ### STEELCAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 359.25 |
+| Price | 361.5 |
 | Trend | weak_trend |
-| RSI | 65.81 |
-| MACD | 8.45 |
-| MA20 | 349.05 |
-| MA200 | 278.37 |
-| ATR | 19.82 |
+| RSI | 55.58 |
+| MACD | 7.98 |
+| MA20 | 350.86 |
+| MA200 | 279.16 |
+| ATR | 17.38 |
 | Risk | ELEVATED |
-| Stop Loss | 329.51 |
-| Target | 398.9 |
+| Stop Loss | 335.43 |
+| Target | 396.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19311,16 +19311,16 @@
 ### GENESYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 265.85 |
+| Price | 252.55 |
 | Trend | downtrend |
-| RSI | 41.99 |
-| MACD | 7.24 |
-| MA20 | 283.46 |
-| MA200 | 287.61 |
-| ATR | 15.33 |
+| RSI | 35.49 |
+| MACD | 4.51 |
+| MA20 | 280.7 |
+| MA200 | 286.74 |
+| ATR | 15.97 |
 | Risk | ELEVATED |
-| Stop Loss | 242.86 |
-| Target | 296.51 |
+| Stop Loss | 228.6 |
+| Target | 284.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19329,16 +19329,16 @@
 ### GVPIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 640.25 |
+| Price | 637.6 |
 | Trend | weak_trend |
-| RSI | 41.14 |
-| MACD | -2.51 |
-| MA20 | 666.54 |
-| MA200 | 601.0 |
-| ATR | 37.9 |
+| RSI | 43.21 |
+| MACD | -5.02 |
+| MA20 | 665.79 |
+| MA200 | 602.62 |
+| ATR | 36.19 |
 | Risk | ELEVATED |
-| Stop Loss | 583.4 |
-| Target | 716.05 |
+| Stop Loss | 583.31 |
+| Target | 709.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19365,38 +19365,38 @@
 ### KICL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4797.8 |
+| Price | 4867.3 |
 | Trend | weak_trend |
-| RSI | 42.79 |
-| MACD | -97.96 |
-| MA20 | 4862.63 |
-| MA200 | 4969.04 |
-| ATR | 160.71 |
+| RSI | 43.73 |
+| MACD | -87.34 |
+| MA20 | 4853.97 |
+| MA200 | 4969.07 |
+| ATR | 159.6 |
 | Risk | NORMAL |
-| Stop Loss | 4556.73 |
-| Target | 5119.23 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### SPECTRUM.NS
-| Metric | Value |
-|--------|-------|
-| Price | 3631.5 |
-| Trend | weak_trend |
-| RSI | 67.7 |
-| MACD | 319.67 |
-| MA20 | 3494.97 |
-| MA200 | 1794.34 |
-| ATR | 248.12 |
-| Risk | ELEVATED |
-| Stop Loss | 3259.32 |
-| Target | 4127.74 |
+| Stop Loss | 4627.9 |
+| Target | 5186.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### SPECTRUM.NS
+| Metric | Value |
+|--------|-------|
+| Price | 3682.4 |
+| Trend | weak_trend |
+| RSI | 64.81 |
+| MACD | 297.84 |
+| MA20 | 3527.97 |
+| MA200 | 1806.8 |
+| ATR | 249.8 |
+| Risk | ELEVATED |
+| Stop Loss | 3307.7 |
+| Target | 4182.0 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SULA.NS
 | Metric | Value |
@@ -19419,16 +19419,16 @@
 ### SIMPLEXINF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 246.35 |
+| Price | 248.81 |
 | Trend | weak_trend |
-| RSI | 46.3 |
-| MACD | -1.88 |
-| MA20 | 249.56 |
-| MA200 | 233.37 |
-| ATR | 11.36 |
+| RSI | 43.27 |
+| MACD | -1.76 |
+| MA20 | 249.25 |
+| MA200 | 233.34 |
+| ATR | 11.12 |
 | Risk | ELEVATED |
-| Stop Loss | 229.31 |
-| Target | 269.07 |
+| Stop Loss | 232.12 |
+| Target | 271.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19437,52 +19437,52 @@
 ### SGFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 688.55 |
-| Trend | uptrend |
-| RSI | 64.94 |
-| MACD | 3.06 |
-| MA20 | 633.82 |
-| MA200 | 537.71 |
+| Price | 680.0 |
+| Trend | weak_trend |
+| RSI | 62.27 |
+| MACD | 5.08 |
+| MA20 | 634.78 |
+| MA200 | 539.08 |
 | ATR | 30.5 |
 | Risk | ELEVATED |
-| Stop Loss | 642.81 |
-| Target | 749.54 |
+| Stop Loss | 634.25 |
+| Target | 741.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CANTABIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 236.56 |
-| Trend | weak_trend |
-| RSI | 44.14 |
-| MACD | -1.76 |
-| MA20 | 235.43 |
-| MA200 | 247.94 |
-| ATR | 6.22 |
+| Price | 239.83 |
+| Trend | downtrend |
+| RSI | 51.24 |
+| MACD | -1.13 |
+| MA20 | 235.42 |
+| MA200 | 247.86 |
+| ATR | 6.36 |
 | Risk | NORMAL |
-| Stop Loss | 227.22 |
-| Target | 249.01 |
+| Stop Loss | 230.29 |
+| Target | 252.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SYSTMTXC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 74.46 |
+| Price | 73.01 |
 | Trend | downtrend |
-| RSI | 45.08 |
-| MACD | 2.19 |
-| MA20 | 74.45 |
-| MA200 | 74.72 |
-| ATR | 1.36 |
+| RSI | 36.66 |
+| MACD | 1.97 |
+| MA20 | 74.48 |
+| MA200 | 74.31 |
+| ATR | 1.4 |
 | Risk | LOW |
-| Stop Loss | 72.42 |
-| Target | 77.18 |
+| Stop Loss | 70.9 |
+| Target | 75.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19491,16 +19491,16 @@
 ### DELTACORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 80.17 |
+| Price | 80.3 |
 | Trend | weak_trend |
-| RSI | 65.9 |
-| MACD | 5.89 |
-| MA20 | 70.8 |
-| MA200 | 64.6 |
-| ATR | 7.91 |
+| RSI | 65.87 |
+| MACD | 5.7 |
+| MA20 | 72.11 |
+| MA200 | 64.65 |
+| ATR | 8.0 |
 | Risk | ELEVATED |
 | Stop Loss | 68.3 |
-| Target | 96.0 |
+| Target | 96.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19509,16 +19509,16 @@
 ### STUDDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 422.3 |
+| Price | 419.8 |
 | Trend | weak_trend |
-| RSI | 44.68 |
-| MACD | -3.41 |
-| MA20 | 410.32 |
-| MA200 | 469.65 |
-| ATR | 18.5 |
+| RSI | 48.83 |
+| MACD | -2.57 |
+| MA20 | 410.38 |
+| MA200 | 469.09 |
+| ATR | 18.28 |
 | Risk | ELEVATED |
-| Stop Loss | 394.54 |
-| Target | 459.31 |
+| Stop Loss | 392.38 |
+| Target | 456.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19527,16 +19527,16 @@
 ### SASKEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1557.2 |
+| Price | 1604.2 |
 | Trend | downtrend |
-| RSI | 31.75 |
-| MACD | -64.13 |
-| MA20 | 1688.12 |
-| MA200 | 1617.88 |
-| ATR | 77.09 |
+| RSI | 31.98 |
+| MACD | -63.08 |
+| MA20 | 1679.15 |
+| MA200 | 1620.12 |
+| ATR | 79.33 |
 | Risk | ELEVATED |
-| Stop Loss | 1441.56 |
-| Target | 1711.39 |
+| Stop Loss | 1485.21 |
+| Target | 1762.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19545,20 +19545,20 @@
 ### SANGAMIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 602.65 |
+| Price | 596.0 |
 | Trend | weak_trend |
-| RSI | 57.06 |
-| MACD | 8.54 |
-| MA20 | 601.66 |
-| MA200 | 518.72 |
-| ATR | 28.83 |
+| RSI | 58.04 |
+| MACD | 6.64 |
+| MA20 | 602.74 |
+| MA200 | 519.57 |
+| ATR | 28.27 |
 | Risk | ELEVATED |
-| Stop Loss | 559.41 |
-| Target | 660.31 |
+| Stop Loss | 553.59 |
+| Target | 652.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RANEHOLDIN.NS
 | Metric | Value |
@@ -19599,34 +19599,34 @@
 ### STOVEKRAFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 799.9 |
-| Trend | weak_trend |
-| RSI | 43.99 |
-| MACD | -1.84 |
-| MA20 | 813.65 |
-| MA200 | 640.7 |
-| ATR | 24.48 |
+| Price | 814.25 |
+| Trend | downtrend |
+| RSI | 44.71 |
+| MACD | -1.26 |
+| MA20 | 813.62 |
+| MA200 | 641.91 |
+| ATR | 25.97 |
 | Risk | NORMAL |
-| Stop Loss | 763.18 |
-| Target | 848.86 |
+| Stop Loss | 775.29 |
+| Target | 866.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GEOJITFSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.67 |
+| Price | 76.2 |
 | Trend | weak_trend |
-| RSI | 38.05 |
-| MACD | -1.09 |
-| MA20 | 78.39 |
+| RSI | 39.54 |
+| MACD | -1.1 |
+| MA20 | 78.27 |
 | MA200 | 71.84 |
-| ATR | 2.75 |
+| ATR | 2.71 |
 | Risk | NORMAL |
-| Stop Loss | 72.55 |
-| Target | 82.16 |
+| Stop Loss | 72.13 |
+| Target | 81.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19635,34 +19635,34 @@
 ### IDEAFORGE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 735.45 |
-| Trend | weak_trend |
-| RSI | 44.2 |
-| MACD | -20.61 |
-| MA20 | 718.63 |
-| MA200 | 653.32 |
-| ATR | 34.29 |
+| Price | 756.05 |
+| Trend | uptrend |
+| RSI | 52.82 |
+| MACD | -15.56 |
+| MA20 | 719.73 |
+| MA200 | 654.98 |
+| ATR | 34.7 |
 | Risk | ELEVATED |
-| Stop Loss | 684.02 |
-| Target | 804.03 |
+| Stop Loss | 703.99 |
+| Target | 825.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### RPTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 907.35 |
+| Price | 890.35 |
 | Trend | weak_trend |
-| RSI | 65.85 |
-| MACD | 25.1 |
-| MA20 | 882.01 |
-| MA200 | 580.66 |
-| ATR | 45.13 |
+| RSI | 51.38 |
+| MACD | 21.9 |
+| MA20 | 885.54 |
+| MA200 | 583.39 |
+| ATR | 42.94 |
 | Risk | ELEVATED |
-| Stop Loss | 839.66 |
-| Target | 997.61 |
+| Stop Loss | 825.94 |
+| Target | 976.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19671,16 +19671,16 @@
 ### ACCELYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1012.7 |
+| Price | 1056.7 |
 | Trend | downtrend |
-| RSI | 20.52 |
-| MACD | -12.02 |
-| MA20 | 1069.94 |
-| MA200 | 1128.14 |
-| ATR | 27.46 |
+| RSI | 41.98 |
+| MACD | -11.28 |
+| MA20 | 1068.65 |
+| MA200 | 1127.27 |
+| ATR | 30.91 |
 | Risk | NORMAL |
-| Stop Loss | 971.52 |
-| Target | 1067.61 |
+| Stop Loss | 1010.34 |
+| Target | 1118.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19689,16 +19689,16 @@
 ### VENKEYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1593.2 |
+| Price | 1600.0 |
 | Trend | weak_trend |
-| RSI | 43.54 |
-| MACD | -1.51 |
-| MA20 | 1652.81 |
-| MA200 | 1488.06 |
-| ATR | 64.46 |
-| Risk | ELEVATED |
-| Stop Loss | 1496.5 |
-| Target | 1722.13 |
+| RSI | 38.7 |
+| MACD | -3.78 |
+| MA20 | 1643.45 |
+| MA200 | 1489.05 |
+| ATR | 63.13 |
+| Risk | NORMAL |
+| Stop Loss | 1505.31 |
+| Target | 1726.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19707,16 +19707,16 @@
 ### TIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 228.6 |
+| Price | 237.6 |
 | Trend | weak_trend |
-| RSI | 29.81 |
-| MACD | -2.49 |
-| MA20 | 247.14 |
-| MA200 | 223.1 |
-| ATR | 11.94 |
+| RSI | 42.52 |
+| MACD | -2.56 |
+| MA20 | 246.26 |
+| MA200 | 222.97 |
+| ATR | 11.92 |
 | Risk | ELEVATED |
-| Stop Loss | 210.69 |
-| Target | 252.48 |
+| Stop Loss | 219.72 |
+| Target | 261.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19743,16 +19743,16 @@
 ### WEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 75.73 |
+| Price | 75.18 |
 | Trend | weak_trend |
-| RSI | 47.58 |
-| MACD | -5.11 |
-| MA20 | 73.8 |
-| MA200 | 113.16 |
-| ATR | 2.76 |
+| RSI | 31.72 |
+| MACD | -4.72 |
+| MA20 | 73.95 |
+| MA200 | 112.84 |
+| ATR | 2.56 |
 | Risk | NORMAL |
-| Stop Loss | 71.59 |
-| Target | 81.25 |
+| Stop Loss | 71.34 |
+| Target | 80.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19761,20 +19761,20 @@
 ### DOLLAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 279.55 |
+| Price | 278.65 |
 | Trend | downtrend |
-| RSI | 54.03 |
-| MACD | 2.21 |
-| MA20 | 273.38 |
-| MA200 | 280.45 |
-| ATR | 9.63 |
+| RSI | 55.64 |
+| MACD | 2.3 |
+| MA20 | 273.63 |
+| MA200 | 280.06 |
+| ATR | 9.77 |
 | Risk | NORMAL |
-| Stop Loss | 265.11 |
-| Target | 298.81 |
+| Stop Loss | 263.99 |
+| Target | 298.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### INDIANHUME.NS
 | Metric | Value |
@@ -19797,16 +19797,16 @@
 ### DREDGECORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 899.6 |
+| Price | 908.2 |
 | Trend | downtrend |
-| RSI | 30.46 |
-| MACD | -42.07 |
-| MA20 | 955.61 |
-| MA200 | 1013.67 |
-| ATR | 39.62 |
+| RSI | 32.96 |
+| MACD | -40.43 |
+| MA20 | 949.04 |
+| MA200 | 1013.51 |
+| ATR | 37.6 |
 | Risk | ELEVATED |
-| Stop Loss | 840.17 |
-| Target | 978.84 |
+| Stop Loss | 851.81 |
+| Target | 983.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19815,16 +19815,16 @@
 ### MOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.79 |
+| Price | 58.5 |
 | Trend | weak_trend |
-| RSI | 38.55 |
-| MACD | -0.77 |
-| MA20 | 59.1 |
-| MA200 | 54.15 |
-| ATR | 2.96 |
+| RSI | 42.3 |
+| MACD | -0.72 |
+| MA20 | 58.9 |
+| MA200 | 54.13 |
+| ATR | 3.02 |
 | Risk | ELEVATED |
-| Stop Loss | 53.36 |
-| Target | 63.7 |
+| Stop Loss | 53.97 |
+| Target | 64.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19833,16 +19833,16 @@
 ### DCW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 44.93 |
+| Price | 44.87 |
 | Trend | downtrend |
-| RSI | 48.29 |
-| MACD | -0.33 |
-| MA20 | 46.01 |
-| MA200 | 47.41 |
-| ATR | 2.05 |
+| RSI | 38.17 |
+| MACD | -0.36 |
+| MA20 | 45.93 |
+| MA200 | 47.34 |
+| ATR | 1.9 |
 | Risk | ELEVATED |
-| Stop Loss | 41.85 |
-| Target | 49.04 |
+| Stop Loss | 42.01 |
+| Target | 48.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19851,16 +19851,16 @@
 ### UGROCAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 80.87 |
+| Price | 79.88 |
 | Trend | weak_trend |
-| RSI | 45.74 |
-| MACD | -1.63 |
-| MA20 | 82.26 |
-| MA200 | 108.21 |
-| ATR | 2.66 |
+| RSI | 41.69 |
+| MACD | -1.65 |
+| MA20 | 82.08 |
+| MA200 | 107.76 |
+| ATR | 2.68 |
 | Risk | NORMAL |
-| Stop Loss | 76.88 |
-| Target | 86.19 |
+| Stop Loss | 75.85 |
+| Target | 85.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19869,16 +19869,16 @@
 ### THEJO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2026.2 |
+| Price | 2032.7 |
 | Trend | weak_trend |
-| RSI | 35.59 |
-| MACD | -15.45 |
-| MA20 | 2133.41 |
-| MA200 | 1821.54 |
-| ATR | 64.97 |
+| RSI | 32.28 |
+| MACD | -19.02 |
+| MA20 | 2125.42 |
+| MA200 | 1823.71 |
+| ATR | 65.03 |
 | Risk | NORMAL |
-| Stop Loss | 1928.74 |
-| Target | 2156.14 |
+| Stop Loss | 1935.16 |
+| Target | 2162.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19905,34 +19905,34 @@
 ### MANGLMCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 973.35 |
+| Price | 980.35 |
 | Trend | weak_trend |
-| RSI | 38.72 |
-| MACD | -13.13 |
-| MA20 | 998.73 |
-| MA200 | 886.8 |
-| ATR | 33.9 |
+| RSI | 42.19 |
+| MACD | -12.42 |
+| MA20 | 996.35 |
+| MA200 | 887.94 |
+| ATR | 33.89 |
 | Risk | NORMAL |
-| Stop Loss | 922.49 |
-| Target | 1041.16 |
+| Stop Loss | 929.51 |
+| Target | 1048.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AMRUTANJAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 501.65 |
+| Price | 509.05 |
 | Trend | downtrend |
-| RSI | 53.74 |
-| MACD | 1.54 |
-| MA20 | 504.76 |
-| MA200 | 552.66 |
-| ATR | 14.9 |
+| RSI | 55.75 |
+| MACD | 1.43 |
+| MA20 | 505.66 |
+| MA200 | 551.81 |
+| ATR | 15.43 |
 | Risk | NORMAL |
-| Stop Loss | 479.3 |
-| Target | 531.45 |
+| Stop Loss | 485.9 |
+| Target | 539.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19941,16 +19941,16 @@
 ### SHRINGARMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 265.35 |
+| Price | 310.85 |
 | Trend | weak_trend |
-| RSI | 85.18 |
-| MACD | 4.31 |
-| MA20 | 217.99 |
-| MA200 | 217.48 |
-| ATR | 10.33 |
-| Risk | NORMAL |
-| Stop Loss | 249.86 |
-| Target | 286.01 |
+| RSI | 90.43 |
+| MACD | 10.77 |
+| MA20 | 222.67 |
+| MA200 | 217.95 |
+| ATR | 13.8 |
+| Risk | ELEVATED |
+| Stop Loss | 290.15 |
+| Target | 338.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19959,16 +19959,16 @@
 ### WHEELS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2336.6 |
+| Price | 2326.3 |
 | Trend | weak_trend |
-| RSI | 60.71 |
-| MACD | 117.77 |
-| MA20 | 2217.9 |
-| MA200 | 1320.82 |
-| ATR | 135.49 |
+| RSI | 59.96 |
+| MACD | 116.4 |
+| MA20 | 2222.71 |
+| MA200 | 1328.24 |
+| ATR | 136.6 |
 | Risk | ELEVATED |
-| Stop Loss | 2133.37 |
-| Target | 2607.57 |
+| Stop Loss | 2121.4 |
+| Target | 2599.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19977,16 +19977,16 @@
 ### APCOTEXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 602.55 |
-| Trend | downtrend |
-| RSI | 47.55 |
-| MACD | -4.83 |
+| Price | 601.3 |
+| Trend | weak_trend |
+| RSI | 46.77 |
+| MACD | -3.9 |
 | MA20 | 595.61 |
-| MA200 | 471.72 |
-| ATR | 22.37 |
+| MA200 | 472.92 |
+| ATR | 22.57 |
 | Risk | NORMAL |
-| Stop Loss | 569.0 |
-| Target | 647.29 |
+| Stop Loss | 567.44 |
+| Target | 646.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -19995,16 +19995,16 @@
 ### GMBREW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 877.9 |
+| Price | 869.55 |
 | Trend | downtrend |
-| RSI | 34.07 |
-| MACD | -1.12 |
-| MA20 | 942.17 |
-| MA200 | 961.6 |
-| ATR | 35.46 |
+| RSI | 32.49 |
+| MACD | -5.89 |
+| MA20 | 940.11 |
+| MA200 | 960.98 |
+| ATR | 35.27 |
 | Risk | ELEVATED |
-| Stop Loss | 824.71 |
-| Target | 948.82 |
+| Stop Loss | 816.64 |
+| Target | 940.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20013,16 +20013,16 @@
 ### VERANDA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.1 |
+| Price | 37.9 |
 | Trend | downtrend |
-| RSI | 6.81 |
-| MACD | -50.6 |
-| MA20 | 176.32 |
-| MA200 | 205.35 |
-| ATR | 21.32 |
+| RSI | 7.16 |
+| MACD | -53.1 |
+| MA20 | 166.96 |
+| MA200 | 204.64 |
+| ATR | 20.92 |
 | Risk | ELEVATED |
-| Stop Loss | 4.12 |
-| Target | 78.74 |
+| Stop Loss | 6.53 |
+| Target | 79.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20031,20 +20031,20 @@
 ### PIXTRANS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1749.7 |
-| Trend | weak_trend |
-| RSI | 53.68 |
-| MACD | -1.68 |
-| MA20 | 1750.79 |
-| MA200 | 1585.8 |
-| ATR | 58.75 |
-| Risk | NORMAL |
-| Stop Loss | 1661.57 |
-| Target | 1867.2 |
+| Price | 1888.7 |
+| Trend | uptrend |
+| RSI | 69.71 |
+| MACD | 8.45 |
+| MA20 | 1759.12 |
+| MA200 | 1588.03 |
+| ATR | 77.04 |
+| Risk | ELEVATED |
+| Stop Loss | 1773.15 |
+| Target | 2042.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### MOBIKWIK.NS
 | Metric | Value |
@@ -20067,16 +20067,16 @@
 ### UNIPARTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 774.25 |
+| Price | 770.45 |
 | Trend | weak_trend |
-| RSI | 24.59 |
-| MACD | -15.38 |
-| MA20 | 834.85 |
-| MA200 | 606.6 |
-| ATR | 29.3 |
+| RSI | 24.49 |
+| MACD | -17.38 |
+| MA20 | 828.5 |
+| MA200 | 608.07 |
+| ATR | 29.77 |
 | Risk | NORMAL |
-| Stop Loss | 730.3 |
-| Target | 832.85 |
+| Stop Loss | 725.79 |
+| Target | 830.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20103,34 +20103,34 @@
 ### RAJRATAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 455.95 |
+| Price | 454.2 |
 | Trend | weak_trend |
-| RSI | 51.28 |
-| MACD | -9.38 |
-| MA20 | 462.17 |
-| MA200 | 450.73 |
-| ATR | 18.06 |
+| RSI | 51.61 |
+| MACD | -9.09 |
+| MA20 | 459.97 |
+| MA200 | 450.75 |
+| ATR | 17.85 |
 | Risk | NORMAL |
-| Stop Loss | 428.86 |
-| Target | 492.06 |
+| Stop Loss | 427.43 |
+| Target | 489.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### EXICOM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 149.37 |
+| Price | 147.59 |
 | Trend | weak_trend |
-| RSI | 36.16 |
-| MACD | -4.4 |
-| MA20 | 158.44 |
-| MA200 | 131.57 |
-| ATR | 6.65 |
+| RSI | 34.89 |
+| MACD | -4.53 |
+| MA20 | 156.71 |
+| MA200 | 131.71 |
+| ATR | 6.89 |
 | Risk | ELEVATED |
-| Stop Loss | 139.39 |
-| Target | 162.68 |
+| Stop Loss | 137.26 |
+| Target | 161.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20175,16 +20175,16 @@
 ### MUKANDLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 177.58 |
+| Price | 176.53 |
 | Trend | weak_trend |
-| RSI | 74.51 |
-| MACD | 10.94 |
-| MA20 | 160.48 |
-| MA200 | 134.33 |
-| ATR | 11.0 |
+| RSI | 71.84 |
+| MACD | 10.49 |
+| MA20 | 162.34 |
+| MA200 | 134.57 |
+| ATR | 11.03 |
 | Risk | ELEVATED |
-| Stop Loss | 161.08 |
-| Target | 199.58 |
+| Stop Loss | 159.98 |
+| Target | 198.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20193,16 +20193,16 @@
 ### SOMANYCERA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 611.5 |
+| Price | 599.85 |
 | Trend | weak_trend |
-| RSI | 59.57 |
-| MACD | 15.06 |
-| MA20 | 596.82 |
-| MA200 | 470.71 |
-| ATR | 21.27 |
+| RSI | 52.1 |
+| MACD | 13.52 |
+| MA20 | 598.55 |
+| MA200 | 471.7 |
+| ATR | 21.69 |
 | Risk | NORMAL |
-| Stop Loss | 579.59 |
-| Target | 654.04 |
+| Stop Loss | 567.32 |
+| Target | 643.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20211,16 +20211,16 @@
 ### DYCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 422.2 |
+| Price | 420.2 |
 | Trend | weak_trend |
-| RSI | 36.09 |
-| MACD | -7.67 |
-| MA20 | 443.11 |
-| MA200 | 356.8 |
-| ATR | 19.21 |
+| RSI | 36.65 |
+| MACD | -8.36 |
+| MA20 | 441.35 |
+| MA200 | 357.24 |
+| ATR | 18.88 |
 | Risk | ELEVATED |
-| Stop Loss | 393.38 |
-| Target | 460.62 |
+| Stop Loss | 391.88 |
+| Target | 457.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20229,16 +20229,16 @@
 ### NELCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 852.6 |
+| Price | 852.3 |
 | Trend | weak_trend |
-| RSI | 27.13 |
-| MACD | -22.71 |
-| MA20 | 935.68 |
-| MA200 | 770.6 |
-| ATR | 41.6 |
+| RSI | 20.17 |
+| MACD | -24.95 |
+| MA20 | 930.93 |
+| MA200 | 771.18 |
+| ATR | 40.19 |
 | Risk | ELEVATED |
-| Stop Loss | 790.2 |
-| Target | 935.8 |
+| Stop Loss | 792.02 |
+| Target | 932.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20247,16 +20247,16 @@
 ### DIVGIITTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1010.9 |
+| Price | 985.9 |
 | Trend | weak_trend |
-| RSI | 34.14 |
-| MACD | -28.48 |
-| MA20 | 1126.65 |
-| MA200 | 839.3 |
-| ATR | 61.89 |
+| RSI | 32.38 |
+| MACD | -34.98 |
+| MA20 | 1116.53 |
+| MA200 | 841.27 |
+| ATR | 60.6 |
 | Risk | ELEVATED |
-| Stop Loss | 918.07 |
-| Target | 1134.67 |
+| Stop Loss | 895.0 |
+| Target | 1107.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20265,20 +20265,20 @@
 ### MSPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.13 |
+| Price | 30.57 |
 | Trend | downtrend |
-| RSI | 35.04 |
-| MACD | -1.12 |
-| MA20 | 32.84 |
-| MA200 | 35.39 |
-| ATR | 1.59 |
+| RSI | 37.02 |
+| MACD | -1.13 |
+| MA20 | 32.67 |
+| MA200 | 35.36 |
+| ATR | 1.58 |
 | Risk | ELEVATED |
-| Stop Loss | 27.74 |
-| Target | 33.32 |
+| Stop Loss | 28.2 |
+| Target | 33.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### KERNEX.NS
 | Metric | Value |
@@ -20301,52 +20301,52 @@
 ### NITINSPIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 614.95 |
+| Price | 609.5 |
 | Trend | weak_trend |
-| RSI | 51.62 |
-| MACD | -0.06 |
-| MA20 | 613.27 |
-| MA200 | 470.76 |
-| ATR | 18.42 |
+| RSI | 50.42 |
+| MACD | -0.05 |
+| MA20 | 611.2 |
+| MA200 | 472.21 |
+| ATR | 19.14 |
 | Risk | NORMAL |
-| Stop Loss | 587.32 |
-| Target | 651.79 |
+| Stop Loss | 580.79 |
+| Target | 647.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BGRENERGY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 286.05 |
+| Price | 272.69 |
 | Trend | downtrend |
-| RSI | 56.87 |
-| MACD | 3.42 |
-| MA20 | 252.45 |
-| MA200 | 299.48 |
-| ATR | 14.45 |
+| RSI | 50.41 |
+| MACD | 4.26 |
+| MA20 | 254.45 |
+| MA200 | 299.27 |
+| ATR | 14.79 |
 | Risk | ELEVATED |
-| Stop Loss | 264.37 |
-| Target | 314.96 |
+| Stop Loss | 250.51 |
+| Target | 302.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### WINDLAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 949.2 |
+| Price | 935.2 |
 | Trend | weak_trend |
-| RSI | 16.25 |
-| MACD | -16.18 |
-| MA20 | 1068.68 |
-| MA200 | 857.04 |
-| ATR | 46.72 |
+| RSI | 17.09 |
+| MACD | -22.2 |
+| MA20 | 1058.98 |
+| MA200 | 857.85 |
+| ATR | 47.53 |
 | Risk | ELEVATED |
-| Stop Loss | 879.12 |
-| Target | 1042.64 |
+| Stop Loss | 863.9 |
+| Target | 1030.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20355,16 +20355,16 @@
 ### RAMCOSYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 539.1 |
+| Price | 552.8 |
 | Trend | weak_trend |
-| RSI | 42.23 |
-| MACD | -12.79 |
-| MA20 | 565.01 |
-| MA200 | 536.29 |
-| ATR | 21.58 |
+| RSI | 36.54 |
+| MACD | -12.13 |
+| MA20 | 562.92 |
+| MA200 | 536.09 |
+| ATR | 21.0 |
 | Risk | NORMAL |
-| Stop Loss | 506.74 |
-| Target | 582.25 |
+| Stop Loss | 521.3 |
+| Target | 594.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20373,16 +20373,16 @@
 ### SPAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 936.15 |
+| Price | 931.55 |
 | Trend | weak_trend |
-| RSI | 41.67 |
-| MACD | -18.55 |
-| MA20 | 963.04 |
-| MA200 | 846.02 |
-| ATR | 33.29 |
+| RSI | 39.05 |
+| MACD | -18.41 |
+| MA20 | 958.47 |
+| MA200 | 847.14 |
+| ATR | 33.75 |
 | Risk | NORMAL |
-| Stop Loss | 886.22 |
-| Target | 1002.73 |
+| Stop Loss | 880.92 |
+| Target | 999.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20393,9 +20393,9 @@
 |--------|-------|
 | Price | 1.05 |
 | Trend | downtrend |
-| RSI | 31.82 |
+| RSI | 33.33 |
 | MACD | -0.03 |
-| MA20 | 1.1 |
+| MA20 | 1.09 |
 | MA200 | 1.21 |
 | ATR | 0.04 |
 | Risk | NORMAL |
@@ -20404,21 +20404,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NIBE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1219.2 |
+| Price | 1214.5 |
 | Trend | downtrend |
-| RSI | 21.33 |
-| MACD | -35.46 |
-| MA20 | 1261.57 |
-| MA200 | 1247.1 |
-| ATR | 51.61 |
+| RSI | 20.92 |
+| MACD | -35.29 |
+| MA20 | 1258.23 |
+| MA200 | 1247.55 |
+| ATR | 52.24 |
 | Risk | ELEVATED |
-| Stop Loss | 1141.79 |
-| Target | 1322.41 |
+| Stop Loss | 1136.14 |
+| Target | 1318.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20427,16 +20427,16 @@
 ### SPIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 59.98 |
+| Price | 60.51 |
 | Trend | downtrend |
-| RSI | 23.39 |
-| MACD | -1.42 |
-| MA20 | 64.15 |
-| MA200 | 67.28 |
-| ATR | 1.9 |
+| RSI | 27.82 |
+| MACD | -1.49 |
+| MA20 | 63.82 |
+| MA200 | 67.2 |
+| ATR | 1.93 |
 | Risk | NORMAL |
-| Stop Loss | 57.12 |
-| Target | 63.79 |
+| Stop Loss | 57.62 |
+| Target | 64.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20445,16 +20445,16 @@
 ### LAXMIDENTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 195.71 |
+| Price | 195.94 |
 | Trend | downtrend |
-| RSI | 51.13 |
-| MACD | -1.66 |
-| MA20 | 195.2 |
-| MA200 | 209.43 |
-| ATR | 6.37 |
+| RSI | 54.02 |
+| MACD | -1.42 |
+| MA20 | 194.86 |
+| MA200 | 209.1 |
+| ATR | 6.35 |
 | Risk | NORMAL |
-| Stop Loss | 186.15 |
-| Target | 208.45 |
+| Stop Loss | 186.41 |
+| Target | 208.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20463,16 +20463,16 @@
 ### ASALCBR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 586.3 |
+| Price | 579.15 |
 | Trend | downtrend |
-| RSI | 21.7 |
-| MACD | -32.12 |
-| MA20 | 628.96 |
-| MA200 | 799.0 |
-| ATR | 20.21 |
+| RSI | 20.46 |
+| MACD | -31.87 |
+| MA20 | 624.08 |
+| MA200 | 797.23 |
+| ATR | 20.55 |
 | Risk | NORMAL |
-| Stop Loss | 555.98 |
-| Target | 626.72 |
+| Stop Loss | 548.33 |
+| Target | 620.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20481,16 +20481,16 @@
 ### SPANDANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 209.63 |
+| Price | 211.7 |
 | Trend | downtrend |
-| RSI | 30.02 |
-| MACD | -7.63 |
-| MA20 | 222.77 |
-| MA200 | 246.88 |
-| ATR | 7.43 |
+| RSI | 33.79 |
+| MACD | -7.53 |
+| MA20 | 221.59 |
+| MA200 | 246.62 |
+| ATR | 7.47 |
 | Risk | NORMAL |
-| Stop Loss | 198.48 |
-| Target | 224.5 |
+| Stop Loss | 200.5 |
+| Target | 226.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20499,16 +20499,16 @@
 ### PANAMAPET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 513.0 |
+| Price | 498.85 |
 | Trend | weak_trend |
-| RSI | 62.0 |
-| MACD | 8.44 |
-| MA20 | 482.96 |
-| MA200 | 361.83 |
-| ATR | 22.41 |
+| RSI | 55.31 |
+| MACD | 8.02 |
+| MA20 | 483.75 |
+| MA200 | 362.94 |
+| ATR | 24.11 |
 | Risk | ELEVATED |
-| Stop Loss | 479.38 |
-| Target | 557.82 |
+| Stop Loss | 462.68 |
+| Target | 547.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20517,16 +20517,16 @@
 ### INDOTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3100.6 |
+| Price | 3188.9 |
 | Trend | weak_trend |
-| RSI | 36.88 |
-| MACD | -93.29 |
-| MA20 | 3274.22 |
-| MA200 | 2432.03 |
-| ATR | 151.46 |
+| RSI | 44.79 |
+| MACD | -89.82 |
+| MA20 | 3258.04 |
+| MA200 | 2440.29 |
+| ATR | 162.99 |
 | Risk | ELEVATED |
-| Stop Loss | 2873.41 |
-| Target | 3403.51 |
+| Stop Loss | 2944.41 |
+| Target | 3514.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20535,16 +20535,16 @@
 ### ALLTIME.NS
 | Metric | Value |
 |--------|-------|
-| Price | 181.1 |
+| Price | 187.02 |
 | Trend | downtrend |
-| RSI | 20.45 |
-| MACD | -8.13 |
-| MA20 | 196.83 |
-| MA200 | 228.44 |
-| ATR | 8.42 |
+| RSI | 31.86 |
+| MACD | -7.59 |
+| MA20 | 195.13 |
+| MA200 | 228.06 |
+| ATR | 8.71 |
 | Risk | ELEVATED |
-| Stop Loss | 168.46 |
-| Target | 197.95 |
+| Stop Loss | 173.96 |
+| Target | 204.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20553,16 +20553,16 @@
 ### VIDHIING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 341.0 |
+| Price | 332.05 |
 | Trend | weak_trend |
-| RSI | 41.51 |
-| MACD | 0.56 |
-| MA20 | 346.9 |
-| MA200 | 314.03 |
-| ATR | 14.19 |
+| RSI | 33.13 |
+| MACD | -0.52 |
+| MA20 | 346.78 |
+| MA200 | 314.04 |
+| ATR | 14.78 |
 | Risk | ELEVATED |
-| Stop Loss | 319.72 |
-| Target | 369.38 |
+| Stop Loss | 309.88 |
+| Target | 361.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20571,16 +20571,16 @@
 ### RHETAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.67 |
+| Price | 17.49 |
 | Trend | weak_trend |
-| RSI | 41.62 |
-| MACD | -1.58 |
-| MA20 | 18.09 |
-| MA200 | 25.63 |
+| RSI | 49.21 |
+| MACD | -1.46 |
+| MA20 | 17.76 |
+| MA200 | 25.59 |
 | ATR | 0.97 |
 | Risk | ELEVATED |
-| Stop Loss | 15.21 |
-| Target | 18.61 |
+| Stop Loss | 16.03 |
+| Target | 19.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20589,16 +20589,16 @@
 ### WENDT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7685.0 |
+| Price | 7791.0 |
 | Trend | weak_trend |
-| RSI | 18.87 |
-| MACD | -144.59 |
-| MA20 | 8363.9 |
-| MA200 | 7440.64 |
-| ATR | 275.5 |
+| RSI | 24.31 |
+| MACD | -155.33 |
+| MA20 | 8312.83 |
+| MA200 | 7439.16 |
+| ATR | 260.43 |
 | Risk | NORMAL |
-| Stop Loss | 7271.75 |
-| Target | 8236.0 |
+| Stop Loss | 7400.36 |
+| Target | 8311.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20607,16 +20607,16 @@
 ### UNITECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.98 |
+| Price | 3.96 |
 | Trend | downtrend |
-| RSI | 42.27 |
+| RSI | 43.16 |
 | MACD | -0.03 |
-| MA20 | 4.09 |
-| MA200 | 4.66 |
+| MA20 | 4.08 |
+| MA200 | 4.65 |
 | ATR | 0.16 |
 | Risk | NORMAL |
-| Stop Loss | 3.74 |
-| Target | 4.3 |
+| Stop Loss | 3.72 |
+| Target | 4.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20625,16 +20625,16 @@
 ### RMDRIP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.96 |
+| Price | 20.71 |
 | Trend | downtrend |
-| RSI | 27.12 |
-| MACD | 0.2 |
-| MA20 | 23.02 |
-| MA200 | 29.83 |
-| ATR | 1.0 |
+| RSI | 14.35 |
+| MACD | 0.04 |
+| MA20 | 22.88 |
+| MA200 | 29.7 |
+| ATR | 0.94 |
 | Risk | ELEVATED |
-| Stop Loss | 19.47 |
-| Target | 22.95 |
+| Stop Loss | 19.3 |
+| Target | 22.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20661,16 +20661,16 @@
 ### DEEDEV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 614.75 |
+| Price | 606.65 |
 | Trend | weak_trend |
-| RSI | 35.19 |
-| MACD | -8.9 |
-| MA20 | 650.01 |
-| MA200 | 470.73 |
-| ATR | 31.29 |
+| RSI | 30.77 |
+| MACD | -10.62 |
+| MA20 | 648.43 |
+| MA200 | 472.68 |
+| ATR | 32.92 |
 | Risk | ELEVATED |
-| Stop Loss | 567.82 |
-| Target | 677.33 |
+| Stop Loss | 557.27 |
+| Target | 672.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20697,34 +20697,34 @@
 ### ADOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1540.2 |
+| Price | 1529.0 |
 | Trend | weak_trend |
-| RSI | 45.02 |
-| MACD | -18.15 |
-| MA20 | 1567.82 |
-| MA200 | 1203.53 |
-| ATR | 61.99 |
+| RSI | 40.76 |
+| MACD | -18.23 |
+| MA20 | 1564.08 |
+| MA200 | 1206.12 |
+| ATR | 61.78 |
 | Risk | ELEVATED |
-| Stop Loss | 1447.21 |
-| Target | 1664.19 |
+| Stop Loss | 1436.33 |
+| Target | 1652.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GARUDA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 165.17 |
+| Price | 168.31 |
 | Trend | downtrend |
-| RSI | 34.94 |
-| MACD | -3.25 |
-| MA20 | 174.78 |
-| MA200 | 175.78 |
-| ATR | 5.48 |
+| RSI | 32.02 |
+| MACD | -3.23 |
+| MA20 | 174.1 |
+| MA200 | 175.62 |
+| ATR | 5.31 |
 | Risk | NORMAL |
-| Stop Loss | 156.96 |
-| Target | 176.12 |
+| Stop Loss | 160.35 |
+| Target | 178.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20733,20 +20733,20 @@
 ### VINDHYATEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2942.2 |
-| Trend | uptrend |
-| RSI | 54.94 |
+| Price | 2829.7 |
+| Trend | weak_trend |
+| RSI | 48.22 |
 | MACD | 64.63 |
-| MA20 | 2733.13 |
-| MA200 | 1774.72 |
-| ATR | 134.97 |
+| MA20 | 2733.94 |
+| MA200 | 1781.92 |
+| ATR | 136.85 |
 | Risk | ELEVATED |
-| Stop Loss | 2739.74 |
-| Target | 3212.14 |
+| Stop Loss | 2624.42 |
+| Target | 3103.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PRECAM.NS
 | Metric | Value |
@@ -20769,16 +20769,16 @@
 ### ASTEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 730.85 |
-| Trend | weak_trend |
-| RSI | 51.68 |
-| MACD | 19.36 |
-| MA20 | 721.82 |
-| MA200 | 668.07 |
-| ATR | 48.21 |
+| Price | 725.4 |
+| Trend | downtrend |
+| RSI | 37.2 |
+| MACD | 18.31 |
+| MA20 | 723.1 |
+| MA200 | 668.1 |
+| ATR | 41.91 |
 | Risk | ELEVATED |
-| Stop Loss | 658.53 |
-| Target | 827.28 |
+| Stop Loss | 662.53 |
+| Target | 809.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20787,16 +20787,16 @@
 ### BETA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1844.3 |
-| Trend | weak_trend |
-| RSI | 32.59 |
-| MACD | -73.86 |
-| MA20 | 2045.95 |
-| MA200 | 1705.84 |
-| ATR | 106.16 |
+| Price | 1677.7 |
+| Trend | downtrend |
+| RSI | 23.22 |
+| MACD | -93.38 |
+| MA20 | 2023.91 |
+| MA200 | 1706.58 |
+| ATR | 112.79 |
 | Risk | ELEVATED |
-| Stop Loss | 1685.05 |
-| Target | 2056.63 |
+| Stop Loss | 1508.51 |
+| Target | 1903.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20805,16 +20805,16 @@
 ### FUSION.NS
 | Metric | Value |
 |--------|-------|
-| Price | 163.98 |
+| Price | 165.63 |
 | Trend | downtrend |
-| RSI | 20.42 |
-| MACD | -8.22 |
-| MA20 | 176.19 |
-| MA200 | 184.46 |
-| ATR | 6.67 |
+| RSI | 24.73 |
+| MACD | -7.99 |
+| MA20 | 174.98 |
+| MA200 | 184.54 |
+| ATR | 6.66 |
 | Risk | ELEVATED |
-| Stop Loss | 153.98 |
-| Target | 177.32 |
+| Stop Loss | 155.63 |
+| Target | 178.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20823,16 +20823,16 @@
 ### TALBROAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 403.95 |
+| Price | 395.5 |
 | Trend | weak_trend |
-| RSI | 20.98 |
-| MACD | -4.61 |
-| MA20 | 435.18 |
-| MA200 | 336.73 |
-| ATR | 19.37 |
+| RSI | 13.59 |
+| MACD | -6.31 |
+| MA20 | 433.76 |
+| MA200 | 337.32 |
+| ATR | 19.2 |
 | Risk | ELEVATED |
-| Stop Loss | 374.9 |
-| Target | 442.69 |
+| Stop Loss | 366.71 |
+| Target | 433.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20841,16 +20841,16 @@
 ### IFGLEXPOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 180.9 |
+| Price | 181.09 |
 | Trend | downtrend |
-| RSI | 28.33 |
-| MACD | -6.93 |
-| MA20 | 191.75 |
-| MA200 | 187.17 |
-| ATR | 8.15 |
+| RSI | 31.25 |
+| MACD | -6.84 |
+| MA20 | 190.5 |
+| MA200 | 187.04 |
+| ATR | 8.24 |
 | Risk | ELEVATED |
-| Stop Loss | 168.68 |
-| Target | 197.19 |
+| Stop Loss | 168.74 |
+| Target | 197.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20879,14 +20879,14 @@
 |--------|-------|
 | Price | 430.5 |
 | Trend | weak_trend |
-| RSI | 38.67 |
-| MACD | -5.26 |
-| MA20 | 437.6 |
-| MA200 | 416.83 |
-| ATR | 10.15 |
+| RSI | 39.15 |
+| MACD | -5.21 |
+| MA20 | 436.71 |
+| MA200 | 416.99 |
+| ATR | 10.52 |
 | Risk | NORMAL |
-| Stop Loss | 415.28 |
-| Target | 450.8 |
+| Stop Loss | 414.71 |
+| Target | 451.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20895,16 +20895,16 @@
 ### NAVKARCORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 84.31 |
+| Price | 85.14 |
 | Trend | weak_trend |
-| RSI | 31.55 |
-| MACD | -2.81 |
-| MA20 | 87.08 |
-| MA200 | 97.2 |
-| ATR | 3.08 |
+| RSI | 31.72 |
+| MACD | -2.66 |
+| MA20 | 86.65 |
+| MA200 | 97.14 |
+| ATR | 3.1 |
 | Risk | NORMAL |
-| Stop Loss | 79.69 |
-| Target | 90.47 |
+| Stop Loss | 80.49 |
+| Target | 91.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20913,34 +20913,34 @@
 ### SPMLINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 151.67 |
+| Price | 151.26 |
 | Trend | downtrend |
-| RSI | 24.16 |
-| MACD | -6.68 |
-| MA20 | 163.38 |
-| MA200 | 185.79 |
-| ATR | 7.1 |
+| RSI | 25.07 |
+| MACD | -6.81 |
+| MA20 | 162.36 |
+| MA200 | 185.67 |
+| ATR | 7.22 |
 | Risk | ELEVATED |
-| Stop Loss | 141.02 |
-| Target | 165.86 |
+| Stop Loss | 140.43 |
+| Target | 165.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JYOTISTRUC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.01 |
+| Price | 9.08 |
 | Trend | weak_trend |
-| RSI | 48.57 |
-| MACD | -0.31 |
-| MA20 | 9.05 |
-| MA200 | 10.98 |
-| ATR | 0.38 |
+| RSI | 47.72 |
+| MACD | -0.28 |
+| MA20 | 9.02 |
+| MA200 | 10.97 |
+| ATR | 0.39 |
 | Risk | ELEVATED |
-| Stop Loss | 8.43 |
-| Target | 9.78 |
+| Stop Loss | 8.49 |
+| Target | 9.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -20949,34 +20949,34 @@
 ### JGCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 644.0 |
+| Price | 632.8 |
 | Trend | weak_trend |
-| RSI | 55.44 |
-| MACD | 13.69 |
-| MA20 | 619.14 |
-| MA200 | 440.06 |
-| ATR | 39.81 |
+| RSI | 54.66 |
+| MACD | 12.67 |
+| MA20 | 621.23 |
+| MA200 | 441.45 |
+| ATR | 39.5 |
 | Risk | ELEVATED |
-| Stop Loss | 584.29 |
-| Target | 723.62 |
+| Stop Loss | 573.55 |
+| Target | 711.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GOCLCORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 349.15 |
+| Price | 354.5 |
 | Trend | weak_trend |
-| RSI | 21.75 |
-| MACD | -9.65 |
-| MA20 | 383.12 |
-| MA200 | 318.59 |
-| ATR | 17.06 |
+| RSI | 27.28 |
+| MACD | -9.88 |
+| MA20 | 380.23 |
+| MA200 | 318.99 |
+| ATR | 16.88 |
 | Risk | ELEVATED |
-| Stop Loss | 323.55 |
-| Target | 383.28 |
+| Stop Loss | 329.18 |
+| Target | 388.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21039,16 +21039,16 @@
 ### JINDRILL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 574.3 |
+| Price | 572.35 |
 | Trend | weak_trend |
-| RSI | 49.3 |
-| MACD | -10.82 |
-| MA20 | 593.46 |
-| MA200 | 562.04 |
-| ATR | 21.37 |
+| RSI | 44.81 |
+| MACD | -11.34 |
+| MA20 | 590.42 |
+| MA200 | 562.38 |
+| ATR | 21.12 |
 | Risk | NORMAL |
-| Stop Loss | 542.24 |
-| Target | 617.04 |
+| Stop Loss | 540.67 |
+| Target | 614.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21075,16 +21075,16 @@
 ### BLISSGVS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 669.75 |
+| Price | 671.05 |
 | Trend | weak_trend |
-| RSI | 51.79 |
-| MACD | 11.79 |
-| MA20 | 687.44 |
-| MA200 | 375.49 |
-| ATR | 33.78 |
+| RSI | 44.04 |
+| MACD | 10.4 |
+| MA20 | 684.95 |
+| MA200 | 377.99 |
+| ATR | 32.41 |
 | Risk | ELEVATED |
-| Stop Loss | 619.09 |
-| Target | 737.3 |
+| Stop Loss | 622.43 |
+| Target | 735.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21093,16 +21093,16 @@
 ### SANSTAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 99.01 |
+| Price | 100.37 |
 | Trend | downtrend |
-| RSI | 24.95 |
-| MACD | -2.64 |
-| MA20 | 107.57 |
-| MA200 | 100.54 |
-| ATR | 3.96 |
-| Risk | NORMAL |
-| Stop Loss | 93.08 |
-| Target | 106.92 |
+| RSI | 27.91 |
+| MACD | -2.72 |
+| MA20 | 107.06 |
+| MA200 | 100.59 |
+| ATR | 4.11 |
+| Risk | ELEVATED |
+| Stop Loss | 94.2 |
+| Target | 108.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21111,34 +21111,34 @@
 ### EXPLEOSOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 866.25 |
+| Price | 881.15 |
 | Trend | weak_trend |
-| RSI | 43.47 |
-| MACD | -0.58 |
-| MA20 | 870.98 |
-| MA200 | 771.36 |
-| ATR | 24.1 |
+| RSI | 51.43 |
+| MACD | 0.71 |
+| MA20 | 870.57 |
+| MA200 | 771.19 |
+| ATR | 25.35 |
 | Risk | NORMAL |
-| Stop Loss | 830.11 |
-| Target | 914.44 |
+| Stop Loss | 843.13 |
+| Target | 931.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SESHAPAPER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 221.94 |
+| Price | 223.59 |
 | Trend | downtrend |
-| RSI | 9.06 |
-| MACD | -3.05 |
-| MA20 | 240.39 |
-| MA200 | 240.44 |
-| ATR | 6.91 |
+| RSI | 13.89 |
+| MACD | -3.59 |
+| MA20 | 239.01 |
+| MA200 | 240.38 |
+| ATR | 7.13 |
 | Risk | NORMAL |
-| Stop Loss | 211.58 |
-| Target | 235.76 |
+| Stop Loss | 212.9 |
+| Target | 237.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21147,34 +21147,34 @@
 ### DEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.34 |
+| Price | 27.36 |
 | Trend | downtrend |
-| RSI | 39.53 |
-| MACD | -0.48 |
-| MA20 | 26.13 |
-| MA200 | 28.0 |
-| ATR | 0.89 |
+| RSI | 57.83 |
+| MACD | -0.33 |
+| MA20 | 26.15 |
+| MA200 | 27.98 |
+| ATR | 1.02 |
 | Risk | NORMAL |
-| Stop Loss | 24.01 |
-| Target | 27.12 |
+| Stop Loss | 25.83 |
+| Target | 29.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### TTKHLTCARE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1016.6 |
+| Price | 1025.5 |
 | Trend | weak_trend |
-| RSI | 35.57 |
-| MACD | -18.84 |
-| MA20 | 1040.82 |
-| MA200 | 958.19 |
-| ATR | 36.49 |
+| RSI | 43.23 |
+| MACD | -17.76 |
+| MA20 | 1036.33 |
+| MA200 | 958.15 |
+| ATR | 34.85 |
 | Risk | NORMAL |
-| Stop Loss | 961.86 |
-| Target | 1089.59 |
+| Stop Loss | 973.22 |
+| Target | 1095.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21201,16 +21201,16 @@
 ### ARMANFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1672.5 |
+| Price | 1676.5 |
 | Trend | downtrend |
-| RSI | 16.64 |
-| MACD | -71.67 |
-| MA20 | 1832.18 |
-| MA200 | 1698.66 |
-| ATR | 72.51 |
+| RSI | 15.7 |
+| MACD | -72.97 |
+| MA20 | 1815.44 |
+| MA200 | 1699.64 |
+| ATR | 73.66 |
 | Risk | ELEVATED |
-| Stop Loss | 1563.74 |
-| Target | 1817.51 |
+| Stop Loss | 1566.01 |
+| Target | 1823.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21219,16 +21219,16 @@
 ### ARIHANTSUP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 215.89 |
+| Price | 220.83 |
 | Trend | downtrend |
-| RSI | 40.44 |
-| MACD | -5.67 |
-| MA20 | 226.49 |
-| MA200 | 259.39 |
-| ATR | 13.0 |
+| RSI | 39.87 |
+| MACD | -5.49 |
+| MA20 | 226.61 |
+| MA200 | 258.98 |
+| ATR | 13.1 |
 | Risk | ELEVATED |
-| Stop Loss | 196.38 |
-| Target | 241.9 |
+| Stop Loss | 201.18 |
+| Target | 247.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21237,34 +21237,34 @@
 ### SATIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 226.42 |
+| Price | 231.87 |
 | Trend | weak_trend |
-| RSI | 53.56 |
-| MACD | -0.16 |
-| MA20 | 224.44 |
-| MA200 | 196.8 |
-| ATR | 11.7 |
+| RSI | 55.57 |
+| MACD | 0.41 |
+| MA20 | 225.2 |
+| MA200 | 197.26 |
+| ATR | 11.97 |
 | Risk | ELEVATED |
-| Stop Loss | 208.87 |
-| Target | 249.82 |
+| Stop Loss | 213.92 |
+| Target | 255.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### RAMASTEEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.05 |
+| Price | 4.0 |
 | Trend | downtrend |
-| RSI | 36.36 |
-| MACD | -0.02 |
+| RSI | 25.45 |
+| MACD | -0.04 |
 | MA20 | 4.29 |
-| MA200 | 5.7 |
-| ATR | 0.11 |
+| MA200 | 5.67 |
+| ATR | 0.1 |
 | Risk | NORMAL |
-| Stop Loss | 3.88 |
-| Target | 4.28 |
+| Stop Loss | 3.86 |
+| Target | 4.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21273,16 +21273,16 @@
 ### DOLPHIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 644.95 |
+| Price | 637.65 |
 | Trend | weak_trend |
-| RSI | 41.97 |
-| MACD | 7.33 |
-| MA20 | 658.27 |
-| MA200 | 456.85 |
-| ATR | 45.76 |
+| RSI | 29.37 |
+| MACD | 6.13 |
+| MA20 | 657.71 |
+| MA200 | 458.01 |
+| ATR | 41.21 |
 | Risk | ELEVATED |
-| Stop Loss | 576.3 |
-| Target | 736.48 |
+| Stop Loss | 575.83 |
+| Target | 720.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21291,34 +21291,34 @@
 ### RAJOOENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 62.2 |
-| Trend | uptrend |
-| RSI | 67.8 |
-| MACD | 2.12 |
-| MA20 | 55.45 |
-| MA200 | 57.61 |
-| ATR | 3.21 |
+| Price | 61.14 |
+| Trend | weak_trend |
+| RSI | 66.83 |
+| MACD | 2.26 |
+| MA20 | 55.76 |
+| MA200 | 57.59 |
+| ATR | 3.29 |
 | Risk | ELEVATED |
-| Stop Loss | 57.38 |
-| Target | 68.63 |
+| Stop Loss | 56.21 |
+| Target | 67.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### STANLEY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 127.34 |
+| Price | 127.75 |
 | Trend | downtrend |
-| RSI | 40.07 |
-| MACD | -2.49 |
-| MA20 | 135.22 |
-| MA200 | 155.73 |
-| ATR | 6.22 |
+| RSI | 40.2 |
+| MACD | -2.72 |
+| MA20 | 134.83 |
+| MA200 | 155.3 |
+| ATR | 6.28 |
 | Risk | ELEVATED |
-| Stop Loss | 118.01 |
-| Target | 139.78 |
+| Stop Loss | 118.33 |
+| Target | 140.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21345,16 +21345,16 @@
 ### JNKINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 431.75 |
+| Price | 426.1 |
 | Trend | weak_trend |
-| RSI | 60.58 |
-| MACD | -0.12 |
-| MA20 | 424.82 |
-| MA200 | 354.35 |
-| ATR | 21.19 |
+| RSI | 55.61 |
+| MACD | -0.48 |
+| MA20 | 425.02 |
+| MA200 | 355.4 |
+| ATR | 21.26 |
 | Risk | ELEVATED |
-| Stop Loss | 399.97 |
-| Target | 474.13 |
+| Stop Loss | 394.21 |
+| Target | 468.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21363,34 +21363,34 @@
 ### TARSONS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 330.5 |
-| Trend | downtrend |
-| RSI | 44.58 |
-| MACD | 1.34 |
-| MA20 | 325.67 |
-| MA200 | 250.11 |
-| ATR | 16.12 |
+| Price | 336.75 |
+| Trend | weak_trend |
+| RSI | 52.73 |
+| MACD | 1.82 |
+| MA20 | 326.95 |
+| MA200 | 250.64 |
+| ATR | 16.25 |
 | Risk | ELEVATED |
-| Stop Loss | 306.32 |
-| Target | 362.74 |
+| Stop Loss | 312.38 |
+| Target | 369.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### HIMATSEIDE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 59.26 |
+| Price | 59.88 |
 | Trend | downtrend |
-| RSI | 42.17 |
-| MACD | -2.52 |
-| MA20 | 64.56 |
-| MA200 | 85.97 |
-| ATR | 3.21 |
+| RSI | 42.6 |
+| MACD | -2.6 |
+| MA20 | 64.18 |
+| MA200 | 85.69 |
+| ATR | 3.15 |
 | Risk | ELEVATED |
-| Stop Loss | 54.45 |
-| Target | 65.68 |
+| Stop Loss | 55.15 |
+| Target | 66.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21399,16 +21399,16 @@
 ### SOLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 635.55 |
+| Price | 644.15 |
 | Trend | weak_trend |
-| RSI | 36.47 |
-| MACD | -29.35 |
-| MA20 | 682.16 |
-| MA200 | 1018.63 |
-| ATR | 35.34 |
+| RSI | 41.48 |
+| MACD | -29.32 |
+| MA20 | 679.47 |
+| MA200 | 1014.67 |
+| ATR | 34.25 |
 | Risk | ELEVATED |
-| Stop Loss | 582.54 |
-| Target | 706.23 |
+| Stop Loss | 592.78 |
+| Target | 712.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21417,16 +21417,16 @@
 ### MMFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 561.6 |
+| Price | 557.25 |
 | Trend | weak_trend |
-| RSI | 34.81 |
-| MACD | -15.55 |
-| MA20 | 594.61 |
-| MA200 | 490.13 |
-| ATR | 25.94 |
+| RSI | 35.9 |
+| MACD | -15.98 |
+| MA20 | 590.88 |
+| MA200 | 491.1 |
+| ATR | 25.84 |
 | Risk | ELEVATED |
-| Stop Loss | 522.69 |
-| Target | 613.49 |
+| Stop Loss | 518.49 |
+| Target | 608.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21435,20 +21435,20 @@
 ### UDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 207.9 |
-| Trend | uptrend |
-| RSI | 58.77 |
-| MACD | -0.29 |
-| MA20 | 203.99 |
-| MA200 | 179.42 |
-| ATR | 8.42 |
+| Price | 209.32 |
+| Trend | weak_trend |
+| RSI | 60.2 |
+| MACD | -0.17 |
+| MA20 | 204.08 |
+| MA200 | 179.55 |
+| ATR | 8.59 |
 | Risk | ELEVATED |
-| Stop Loss | 195.27 |
-| Target | 224.74 |
+| Stop Loss | 196.44 |
+| Target | 226.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SYNCOMF.NS
 | Metric | Value |
@@ -21489,16 +21489,16 @@
 ### TINNARUBR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 882.65 |
+| Price | 891.25 |
 | Trend | weak_trend |
-| RSI | 15.88 |
-| MACD | -33.95 |
-| MA20 | 963.96 |
-| MA200 | 836.7 |
-| ATR | 38.21 |
+| RSI | 21.13 |
+| MACD | -34.55 |
+| MA20 | 956.82 |
+| MA200 | 837.22 |
+| ATR | 37.7 |
 | Risk | ELEVATED |
-| Stop Loss | 825.34 |
-| Target | 959.06 |
+| Stop Loss | 834.71 |
+| Target | 966.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21525,16 +21525,16 @@
 ### PUNJABCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1014.2 |
+| Price | 1019.6 |
 | Trend | downtrend |
-| RSI | 34.36 |
-| MACD | -19.4 |
-| MA20 | 1049.95 |
-| MA200 | 1078.61 |
-| ATR | 37.26 |
+| RSI | 35.95 |
+| MACD | -19.42 |
+| MA20 | 1047.67 |
+| MA200 | 1077.64 |
+| ATR | 37.47 |
 | Risk | NORMAL |
-| Stop Loss | 958.31 |
-| Target | 1088.71 |
+| Stop Loss | 963.39 |
+| Target | 1094.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21543,16 +21543,16 @@
 ### SURAKSHA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 308.6 |
+| Price | 314.4 |
 | Trend | weak_trend |
-| RSI | 28.11 |
-| MACD | -1.24 |
-| MA20 | 336.09 |
-| MA200 | 283.44 |
-| ATR | 16.75 |
+| RSI | 29.26 |
+| MACD | -2.26 |
+| MA20 | 335.64 |
+| MA200 | 283.64 |
+| ATR | 16.59 |
 | Risk | ELEVATED |
-| Stop Loss | 283.48 |
-| Target | 342.1 |
+| Stop Loss | 289.52 |
+| Target | 347.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21561,16 +21561,16 @@
 ### AIMTRON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1749.55 |
+| Price | 1758.15 |
 | Trend | weak_trend |
-| RSI | 47.29 |
-| MACD | 39.79 |
-| MA20 | 1791.96 |
-| MA200 | 1178.81 |
-| ATR | 95.64 |
+| RSI | 45.14 |
+| MACD | 32.92 |
+| MA20 | 1791.22 |
+| MA200 | 1183.62 |
+| ATR | 93.73 |
 | Risk | ELEVATED |
-| Stop Loss | 1606.09 |
-| Target | 1940.83 |
+| Stop Loss | 1617.55 |
+| Target | 1945.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21579,20 +21579,20 @@
 ### APOLLOPIPE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 532.95 |
+| Price | 543.1 |
 | Trend | weak_trend |
-| RSI | 47.46 |
-| MACD | -10.33 |
-| MA20 | 523.22 |
-| MA200 | 445.74 |
-| ATR | 21.49 |
-| Risk | ELEVATED |
-| Stop Loss | 500.72 |
-| Target | 575.93 |
+| RSI | 56.75 |
+| MACD | -8.05 |
+| MA20 | 522.63 |
+| MA200 | 446.93 |
+| ATR | 21.62 |
+| Risk | NORMAL |
+| Stop Loss | 510.67 |
+| Target | 586.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SHANTIGOLD.NS
 | Metric | Value |
@@ -21651,16 +21651,16 @@
 ### AWHCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 331.05 |
+| Price | 333.75 |
 | Trend | downtrend |
-| RSI | 31.55 |
-| MACD | -11.72 |
-| MA20 | 359.87 |
-| MA200 | 454.79 |
-| ATR | 13.87 |
+| RSI | 33.62 |
+| MACD | -12.2 |
+| MA20 | 358.23 |
+| MA200 | 453.89 |
+| ATR | 14.12 |
 | Risk | ELEVATED |
-| Stop Loss | 310.24 |
-| Target | 358.79 |
+| Stop Loss | 312.57 |
+| Target | 361.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21669,52 +21669,52 @@
 ### STALLION.NS
 | Metric | Value |
 |--------|-------|
-| Price | 208.65 |
+| Price | 214.59 |
 | Trend | weak_trend |
-| RSI | 32.75 |
-| MACD | -1.38 |
-| MA20 | 222.12 |
-| MA200 | 186.76 |
-| ATR | 10.86 |
+| RSI | 41.3 |
+| MACD | -1.76 |
+| MA20 | 221.6 |
+| MA200 | 186.85 |
+| ATR | 10.52 |
 | Risk | ELEVATED |
-| Stop Loss | 192.35 |
-| Target | 230.38 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### LGHL.NS
-| Metric | Value |
-|--------|-------|
-| Price | 219.34 |
-| Trend | weak_trend |
-| RSI | 81.8 |
-| MACD | 8.95 |
-| MA20 | 194.49 |
-| MA200 | 239.23 |
-| ATR | 14.18 |
-| Risk | ELEVATED |
-| Stop Loss | 198.07 |
-| Target | 247.7 |
+| Stop Loss | 198.8 |
+| Target | 235.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### LGHL.NS
+| Metric | Value |
+|--------|-------|
+| Price | 219.95 |
+| Trend | weak_trend |
+| RSI | 81.92 |
+| MACD | 9.4 |
+| MA20 | 196.28 |
+| MA200 | 238.94 |
+| ATR | 13.56 |
+| Risk | ELEVATED |
+| Stop Loss | 199.6 |
+| Target | 247.08 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### ECOSMOBLTY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 105.74 |
+| Price | 107.22 |
 | Trend | weak_trend |
-| RSI | 39.92 |
-| MACD | -2.01 |
-| MA20 | 107.37 |
-| MA200 | 138.32 |
-| ATR | 4.65 |
+| RSI | 46.44 |
+| MACD | -1.84 |
+| MA20 | 107.15 |
+| MA200 | 137.79 |
+| ATR | 4.62 |
 | Risk | ELEVATED |
-| Stop Loss | 98.76 |
-| Target | 115.04 |
+| Stop Loss | 100.29 |
+| Target | 116.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21723,16 +21723,16 @@
 ### JAGRAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 61.56 |
+| Price | 61.91 |
 | Trend | weak_trend |
-| RSI | 40.69 |
-| MACD | -0.15 |
-| MA20 | 62.04 |
-| MA200 | 60.3 |
-| ATR | 1.0 |
+| RSI | 45.16 |
+| MACD | -0.13 |
+| MA20 | 62.03 |
+| MA200 | 60.31 |
+| ATR | 1.01 |
 | Risk | LOW |
-| Stop Loss | 60.05 |
-| Target | 63.57 |
+| Stop Loss | 60.4 |
+| Target | 63.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21759,34 +21759,34 @@
 ### VINYAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1569.8 |
-| Trend | uptrend |
-| RSI | 56.43 |
-| MACD | -3.74 |
-| MA20 | 1480.9 |
-| MA200 | 1214.27 |
-| ATR | 75.81 |
+| Price | 1576.85 |
+| Trend | weak_trend |
+| RSI | 48.61 |
+| MACD | 4.56 |
+| MA20 | 1482.34 |
+| MA200 | 1216.44 |
+| ATR | 72.31 |
 | Risk | ELEVATED |
-| Stop Loss | 1456.08 |
-| Target | 1721.43 |
+| Stop Loss | 1468.39 |
+| Target | 1721.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### OMAXE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 99.83 |
+| Price | 100.84 |
 | Trend | weak_trend |
-| RSI | 31.74 |
-| MACD | -3.2 |
-| MA20 | 112.19 |
-| MA200 | 86.34 |
-| ATR | 5.73 |
+| RSI | 29.02 |
+| MACD | -3.44 |
+| MA20 | 111.04 |
+| MA200 | 86.51 |
+| ATR | 5.62 |
 | Risk | ELEVATED |
-| Stop Loss | 91.24 |
-| Target | 111.29 |
+| Stop Loss | 92.41 |
+| Target | 112.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21795,52 +21795,52 @@
 ### SHRIRAMPPS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 67.92 |
+| Price | 67.82 |
 | Trend | weak_trend |
-| RSI | 35.92 |
-| MACD | -2.37 |
-| MA20 | 69.76 |
-| MA200 | 80.37 |
-| ATR | 2.35 |
+| RSI | 37.66 |
+| MACD | -2.25 |
+| MA20 | 69.56 |
+| MA200 | 80.29 |
+| ATR | 2.3 |
 | Risk | NORMAL |
-| Stop Loss | 64.39 |
-| Target | 72.62 |
+| Stop Loss | 64.37 |
+| Target | 72.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### IVALUE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 232.27 |
+| Price | 233.27 |
 | Trend | downtrend |
-| RSI | 58.91 |
-| MACD | -4.71 |
-| MA20 | 226.85 |
-| MA200 | 251.33 |
-| ATR | 10.49 |
+| RSI | 56.69 |
+| MACD | -4.02 |
+| MA20 | 227.35 |
+| MA200 | 251.15 |
+| ATR | 10.43 |
 | Risk | ELEVATED |
-| Stop Loss | 216.53 |
-| Target | 253.25 |
+| Stop Loss | 217.63 |
+| Target | 254.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### HESTERBIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2095.6 |
+| Price | 2127.0 |
 | Trend | weak_trend |
-| RSI | 40.44 |
-| MACD | -53.21 |
-| MA20 | 2168.26 |
-| MA200 | 1873.98 |
-| ATR | 76.36 |
+| RSI | 44.92 |
+| MACD | -49.98 |
+| MA20 | 2161.36 |
+| MA200 | 1876.77 |
+| ATR | 76.63 |
 | Risk | NORMAL |
-| Stop Loss | 1981.06 |
-| Target | 2248.31 |
+| Stop Loss | 2012.06 |
+| Target | 2280.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21849,16 +21849,16 @@
 ### FINKURVE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.21 |
+| Price | 68.38 |
 | Trend | downtrend |
-| RSI | 42.92 |
-| MACD | -0.51 |
-| MA20 | 70.3 |
-| MA200 | 72.29 |
-| ATR | 2.98 |
+| RSI | 42.37 |
+| MACD | -0.54 |
+| MA20 | 70.09 |
+| MA200 | 72.11 |
+| ATR | 3.08 |
 | Risk | ELEVATED |
-| Stop Loss | 64.74 |
-| Target | 75.16 |
+| Stop Loss | 63.76 |
+| Target | 74.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21885,16 +21885,16 @@
 ### HMAAGRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.99 |
+| Price | 24.02 |
 | Trend | weak_trend |
-| RSI | 50.32 |
-| MACD | 0.56 |
-| MA20 | 23.54 |
-| MA200 | 24.06 |
-| ATR | 1.06 |
+| RSI | 52.48 |
+| MACD | 0.54 |
+| MA20 | 23.74 |
+| MA200 | 24.03 |
+| ATR | 1.03 |
 | Risk | ELEVATED |
-| Stop Loss | 22.4 |
-| Target | 26.12 |
+| Stop Loss | 22.48 |
+| Target | 26.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21903,16 +21903,16 @@
 ### JAGSNPHARM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 225.58 |
+| Price | 222.52 |
 | Trend | weak_trend |
-| RSI | 48.9 |
-| MACD | -0.7 |
-| MA20 | 231.68 |
-| MA200 | 203.43 |
-| ATR | 10.09 |
+| RSI | 47.26 |
+| MACD | -1.36 |
+| MA20 | 231.16 |
+| MA200 | 203.56 |
+| ATR | 10.38 |
 | Risk | ELEVATED |
-| Stop Loss | 210.44 |
-| Target | 245.77 |
+| Stop Loss | 206.95 |
+| Target | 243.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21957,16 +21957,16 @@
 ### EKC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 103.17 |
+| Price | 103.59 |
 | Trend | weak_trend |
-| RSI | 54.62 |
-| MACD | -0.62 |
-| MA20 | 104.48 |
-| MA200 | 111.33 |
-| ATR | 4.69 |
+| RSI | 54.17 |
+| MACD | -0.67 |
+| MA20 | 104.6 |
+| MA200 | 111.27 |
+| ATR | 4.76 |
 | Risk | ELEVATED |
-| Stop Loss | 96.14 |
-| Target | 112.55 |
+| Stop Loss | 96.46 |
+| Target | 113.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -21975,20 +21975,20 @@
 ### ANDHRAPAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.34 |
+| Price | 72.89 |
 | Trend | weak_trend |
-| RSI | 46.06 |
-| MACD | 0.78 |
-| MA20 | 71.66 |
-| MA200 | 64.32 |
-| ATR | 3.49 |
+| RSI | 54.19 |
+| MACD | 0.93 |
+| MA20 | 71.64 |
+| MA200 | 64.35 |
+| ATR | 3.63 |
 | Risk | ELEVATED |
-| Stop Loss | 66.1 |
-| Target | 78.33 |
+| Stop Loss | 67.45 |
+| Target | 80.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SALASAR.NS
 | Metric | Value |
@@ -22029,16 +22029,16 @@
 ### CONFIPET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 84.18 |
+| Price | 83.36 |
 | Trend | weak_trend |
-| RSI | 42.45 |
-| MACD | 0.85 |
-| MA20 | 87.18 |
-| MA200 | 58.93 |
-| ATR | 4.21 |
+| RSI | 44.42 |
+| MACD | 0.56 |
+| MA20 | 86.9 |
+| MA200 | 59.18 |
+| ATR | 4.16 |
 | Risk | ELEVATED |
-| Stop Loss | 77.87 |
-| Target | 92.6 |
+| Stop Loss | 77.11 |
+| Target | 91.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22047,16 +22047,16 @@
 ### SMCGLOBAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 114.27 |
+| Price | 117.39 |
 | Trend | weak_trend |
-| RSI | 76.37 |
-| MACD | 8.41 |
-| MA20 | 94.56 |
-| MA200 | 75.67 |
-| ATR | 9.75 |
+| RSI | 77.19 |
+| MACD | 8.85 |
+| MA20 | 96.13 |
+| MA200 | 75.84 |
+| ATR | 10.26 |
 | Risk | ELEVATED |
-| Stop Loss | 99.64 |
-| Target | 133.77 |
+| Stop Loss | 102.01 |
+| Target | 137.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22065,16 +22065,16 @@
 ### CENTRUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.36 |
+| Price | 19.09 |
 | Trend | downtrend |
-| RSI | 25.15 |
-| MACD | -0.86 |
-| MA20 | 20.78 |
-| MA200 | 24.23 |
-| ATR | 1.17 |
+| RSI | 25.93 |
+| MACD | -0.88 |
+| MA20 | 20.62 |
+| MA200 | 24.18 |
+| ATR | 1.15 |
 | Risk | ELEVATED |
-| Stop Loss | 17.61 |
-| Target | 21.69 |
+| Stop Loss | 17.36 |
+| Target | 21.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22083,16 +22083,16 @@
 ### DOLATALGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 59.86 |
+| Price | 60.17 |
 | Trend | downtrend |
-| RSI | 23.41 |
-| MACD | -2.63 |
-| MA20 | 65.14 |
-| MA200 | 74.93 |
-| ATR | 2.48 |
-| Risk | ELEVATED |
-| Stop Loss | 56.14 |
-| Target | 64.81 |
+| RSI | 16.62 |
+| MACD | -2.65 |
+| MA20 | 64.69 |
+| MA200 | 74.81 |
+| ATR | 2.34 |
+| Risk | NORMAL |
+| Stop Loss | 56.66 |
+| Target | 64.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22119,16 +22119,16 @@
 ### NIITLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 82.33 |
-| Trend | downtrend |
-| RSI | 28.8 |
-| MACD | -3.1 |
-| MA20 | 87.02 |
-| MA200 | 82.37 |
-| ATR | 2.87 |
+| Price | 84.23 |
+| Trend | weak_trend |
+| RSI | 36.95 |
+| MACD | -2.95 |
+| MA20 | 86.61 |
+| MA200 | 82.36 |
+| ATR | 2.9 |
 | Risk | NORMAL |
-| Stop Loss | 78.03 |
-| Target | 88.07 |
+| Stop Loss | 79.88 |
+| Target | 90.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22137,16 +22137,16 @@
 ### GPTINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 120.47 |
+| Price | 121.99 |
 | Trend | weak_trend |
-| RSI | 53.06 |
-| MACD | 2.2 |
-| MA20 | 117.64 |
-| MA200 | 114.0 |
-| ATR | 5.78 |
+| RSI | 55.51 |
+| MACD | 2.19 |
+| MA20 | 118.13 |
+| MA200 | 114.08 |
+| ATR | 5.95 |
 | Risk | ELEVATED |
-| Stop Loss | 111.8 |
-| Target | 132.02 |
+| Stop Loss | 113.06 |
+| Target | 133.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22155,15 +22155,15 @@
 ### SURYODAY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 146.71 |
-| Trend | weak_trend |
-| RSI | 49.7 |
-| MACD | -1.32 |
-| MA20 | 147.13 |
-| MA200 | 150.31 |
-| ATR | 5.6 |
+| Price | 146.51 |
+| Trend | downtrend |
+| RSI | 50.14 |
+| MACD | -1.36 |
+| MA20 | 147.06 |
+| MA200 | 150.38 |
+| ATR | 5.7 |
 | Risk | NORMAL |
-| Stop Loss | 138.31 |
+| Stop Loss | 137.96 |
 | Target | 157.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -22173,16 +22173,16 @@
 ### BIRLANU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1300.4 |
+| Price | 1309.2 |
 | Trend | downtrend |
-| RSI | 35.27 |
-| MACD | -32.73 |
-| MA20 | 1383.64 |
-| MA200 | 1447.21 |
-| ATR | 70.6 |
+| RSI | 37.5 |
+| MACD | -34.02 |
+| MA20 | 1376.68 |
+| MA200 | 1446.21 |
+| ATR | 70.91 |
 | Risk | ELEVATED |
-| Stop Loss | 1194.5 |
-| Target | 1441.6 |
+| Stop Loss | 1202.83 |
+| Target | 1451.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22191,16 +22191,16 @@
 ### RISHABH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 679.55 |
+| Price | 688.85 |
 | Trend | weak_trend |
-| RSI | 31.55 |
-| MACD | -14.51 |
-| MA20 | 722.04 |
-| MA200 | 531.87 |
-| ATR | 36.66 |
+| RSI | 37.0 |
+| MACD | -13.8 |
+| MA20 | 715.01 |
+| MA200 | 533.4 |
+| ATR | 36.63 |
 | Risk | ELEVATED |
-| Stop Loss | 624.56 |
-| Target | 752.87 |
+| Stop Loss | 633.9 |
+| Target | 762.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22263,16 +22263,16 @@
 ### EXCELINDUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 915.5 |
+| Price | 916.0 |
 | Trend | downtrend |
-| RSI | 38.13 |
-| MACD | -18.44 |
-| MA20 | 939.78 |
-| MA200 | 933.81 |
-| ATR | 28.11 |
+| RSI | 38.54 |
+| MACD | -18.18 |
+| MA20 | 937.23 |
+| MA200 | 933.85 |
+| ATR | 28.32 |
 | Risk | NORMAL |
-| Stop Loss | 873.33 |
-| Target | 971.73 |
+| Stop Loss | 873.52 |
+| Target | 972.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22281,16 +22281,16 @@
 ### BAJAJHCARE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 330.65 |
+| Price | 328.55 |
 | Trend | downtrend |
-| RSI | 46.87 |
-| MACD | -1.81 |
-| MA20 | 330.32 |
-| MA200 | 334.33 |
-| ATR | 12.04 |
+| RSI | 45.33 |
+| MACD | -1.51 |
+| MA20 | 330.05 |
+| MA200 | 333.89 |
+| ATR | 12.75 |
 | Risk | NORMAL |
-| Stop Loss | 312.59 |
-| Target | 354.73 |
+| Stop Loss | 309.42 |
+| Target | 354.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22299,16 +22299,16 @@
 ### ALICON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 862.25 |
+| Price | 865.8 |
 | Trend | weak_trend |
-| RSI | 69.99 |
-| MACD | 44.74 |
-| MA20 | 780.11 |
-| MA200 | 707.74 |
-| ATR | 43.65 |
+| RSI | 69.73 |
+| MACD | 44.35 |
+| MA20 | 786.88 |
+| MA200 | 708.02 |
+| ATR | 44.06 |
 | Risk | ELEVATED |
-| Stop Loss | 796.77 |
-| Target | 949.55 |
+| Stop Loss | 799.7 |
+| Target | 953.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22317,16 +22317,16 @@
 ### DCMSRIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.03 |
+| Price | 40.68 |
 | Trend | downtrend |
-| RSI | 62.64 |
-| MACD | -0.9 |
-| MA20 | 38.93 |
-| MA200 | 43.24 |
-| ATR | 2.29 |
+| RSI | 62.0 |
+| MACD | -0.73 |
+| MA20 | 38.94 |
+| MA200 | 42.63 |
+| ATR | 2.3 |
 | Risk | ELEVATED |
-| Stop Loss | 37.59 |
-| Target | 45.62 |
+| Stop Loss | 37.23 |
+| Target | 45.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22335,16 +22335,16 @@
 ### CLSEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 287.75 |
+| Price | 284.3 |
 | Trend | weak_trend |
-| RSI | 44.15 |
-| MACD | -0.97 |
-| MA20 | 289.53 |
-| MA200 | 271.33 |
-| ATR | 9.78 |
+| RSI | 40.95 |
+| MACD | -1.27 |
+| MA20 | 289.07 |
+| MA200 | 271.43 |
+| ATR | 10.02 |
 | Risk | NORMAL |
-| Stop Loss | 273.08 |
-| Target | 307.31 |
+| Stop Loss | 269.27 |
+| Target | 304.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22353,20 +22353,20 @@
 ### RAJRILTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.64 |
+| Price | 22.07 |
 | Trend | weak_trend |
-| RSI | 63.1 |
-| MACD | -0.19 |
-| MA20 | 20.61 |
+| RSI | 71.43 |
+| MACD | -0.07 |
+| MA20 | 20.66 |
 | MA200 | 21.52 |
-| ATR | 0.58 |
+| ATR | 0.56 |
 | Risk | NORMAL |
-| Stop Loss | 20.77 |
-| Target | 22.8 |
+| Stop Loss | 21.23 |
+| Target | 23.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### INDORAMA.NS
 | Metric | Value |
@@ -22389,16 +22389,16 @@
 ### PARACABLES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.01 |
+| Price | 55.87 |
 | Trend | weak_trend |
-| RSI | 35.27 |
-| MACD | -2.02 |
-| MA20 | 59.03 |
-| MA200 | 50.92 |
-| ATR | 2.67 |
+| RSI | 32.14 |
+| MACD | -2.0 |
+| MA20 | 58.58 |
+| MA200 | 51.03 |
+| ATR | 2.69 |
 | Risk | ELEVATED |
-| Stop Loss | 52.0 |
-| Target | 61.36 |
+| Stop Loss | 51.84 |
+| Target | 61.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22407,16 +22407,16 @@
 ### VPRPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.87 |
+| Price | 26.94 |
 | Trend | downtrend |
-| RSI | 11.76 |
-| MACD | -1.64 |
-| MA20 | 30.97 |
-| MA200 | 37.92 |
-| ATR | 1.5 |
+| RSI | 12.98 |
+| MACD | -1.69 |
+| MA20 | 30.51 |
+| MA200 | 37.74 |
+| ATR | 1.48 |
 | Risk | ELEVATED |
-| Stop Loss | 24.63 |
-| Target | 29.86 |
+| Stop Loss | 24.72 |
+| Target | 29.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22425,16 +22425,16 @@
 ### SALZERELEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 501.15 |
+| Price | 506.65 |
 | Trend | downtrend |
-| RSI | 15.74 |
-| MACD | -13.02 |
-| MA20 | 534.05 |
-| MA200 | 604.71 |
-| ATR | 14.7 |
+| RSI | 22.4 |
+| MACD | -13.24 |
+| MA20 | 531.86 |
+| MA200 | 603.83 |
+| ATR | 14.6 |
 | Risk | NORMAL |
-| Stop Loss | 479.1 |
-| Target | 530.55 |
+| Stop Loss | 484.75 |
+| Target | 535.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22443,16 +22443,16 @@
 ### MANAKCOAT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 126.3 |
+| Price | 127.7 |
 | Trend | weak_trend |
-| RSI | 28.92 |
-| MACD | 0.72 |
-| MA20 | 128.49 |
-| MA200 | 117.9 |
-| ATR | 4.69 |
+| RSI | 37.56 |
+| MACD | 0.68 |
+| MA20 | 128.45 |
+| MA200 | 117.89 |
+| ATR | 4.61 |
 | Risk | NORMAL |
-| Stop Loss | 119.26 |
-| Target | 135.68 |
+| Stop Loss | 120.79 |
+| Target | 136.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22497,16 +22497,16 @@
 ### ALLDIGI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 801.4 |
+| Price | 848.7 |
 | Trend | weak_trend |
-| RSI | 56.74 |
-| MACD | -3.89 |
-| MA20 | 780.24 |
-| MA200 | 788.6 |
-| ATR | 20.71 |
+| RSI | 72.23 |
+| MACD | 1.76 |
+| MA20 | 782.81 |
+| MA200 | 788.97 |
+| ATR | 23.4 |
 | Risk | NORMAL |
-| Stop Loss | 770.34 |
-| Target | 842.81 |
+| Stop Loss | 813.61 |
+| Target | 895.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22533,16 +22533,16 @@
 ### SPORTKING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 204.04 |
-| Trend | weak_trend |
-| RSI | 47.89 |
-| MACD | -3.4 |
-| MA20 | 205.59 |
-| MA200 | 155.56 |
-| ATR | 9.66 |
+| Price | 209.62 |
+| Trend | downtrend |
+| RSI | 46.25 |
+| MACD | -2.66 |
+| MA20 | 205.33 |
+| MA200 | 156.18 |
+| ATR | 9.58 |
 | Risk | ELEVATED |
-| Stop Loss | 189.55 |
-| Target | 223.36 |
+| Stop Loss | 195.24 |
+| Target | 228.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22551,16 +22551,16 @@
 ### GODAVARIB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 223.66 |
+| Price | 221.28 |
 | Trend | downtrend |
-| RSI | 30.13 |
-| MACD | -5.6 |
-| MA20 | 232.64 |
-| MA200 | 276.11 |
-| ATR | 7.32 |
+| RSI | 27.33 |
+| MACD | -5.72 |
+| MA20 | 232.02 |
+| MA200 | 275.86 |
+| ATR | 7.4 |
 | Risk | NORMAL |
-| Stop Loss | 212.68 |
-| Target | 238.31 |
+| Stop Loss | 210.18 |
+| Target | 236.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22569,16 +22569,16 @@
 ### JARO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 401.95 |
+| Price | 409.35 |
 | Trend | downtrend |
-| RSI | 12.65 |
-| MACD | -14.66 |
-| MA20 | 437.23 |
-| MA200 | 469.43 |
-| ATR | 13.52 |
+| RSI | 21.81 |
+| MACD | -14.28 |
+| MA20 | 435.0 |
+| MA200 | 468.77 |
+| ATR | 12.61 |
 | Risk | NORMAL |
-| Stop Loss | 381.67 |
-| Target | 428.99 |
+| Stop Loss | 390.44 |
+| Target | 434.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22587,16 +22587,16 @@
 ### SURAJEST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 202.98 |
+| Price | 203.05 |
 | Trend | downtrend |
-| RSI | 38.86 |
-| MACD | 2.78 |
-| MA20 | 201.81 |
-| MA200 | 212.13 |
-| ATR | 10.57 |
+| RSI | 38.33 |
+| MACD | 2.5 |
+| MA20 | 203.24 |
+| MA200 | 211.94 |
+| ATR | 10.11 |
 | Risk | ELEVATED |
-| Stop Loss | 187.13 |
-| Target | 224.12 |
+| Stop Loss | 187.89 |
+| Target | 223.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22623,52 +22623,52 @@
 ### UNIECOM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.74 |
-| Trend | downtrend |
-| RSI | 55.7 |
-| MACD | -0.75 |
-| MA20 | 82.75 |
-| MA200 | 94.12 |
-| ATR | 3.41 |
-| Risk | ELEVATED |
-| Stop Loss | 78.63 |
-| Target | 90.56 |
+| Price | 84.07 |
+| Trend | weak_trend |
+| RSI | 43.82 |
+| MACD | -0.58 |
+| MA20 | 82.78 |
+| MA200 | 93.96 |
+| ATR | 2.86 |
+| Risk | NORMAL |
+| Stop Loss | 79.79 |
+| Target | 89.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MONTECARLO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 524.4 |
-| Trend | downtrend |
-| RSI | 44.98 |
-| MACD | -1.65 |
-| MA20 | 524.57 |
-| MA200 | 537.7 |
-| ATR | 13.8 |
+| Price | 525.0 |
+| Trend | weak_trend |
+| RSI | 50.35 |
+| MACD | -1.24 |
+| MA20 | 524.05 |
+| MA200 | 536.94 |
+| ATR | 13.22 |
 | Risk | NORMAL |
-| Stop Loss | 503.71 |
-| Target | 551.99 |
+| Stop Loss | 505.16 |
+| Target | 551.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MADRASFERT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.53 |
+| Price | 57.22 |
 | Trend | downtrend |
-| RSI | 21.58 |
-| MACD | -1.81 |
-| MA20 | 59.56 |
-| MA200 | 67.9 |
-| ATR | 1.62 |
+| RSI | 27.63 |
+| MACD | -1.78 |
+| MA20 | 59.33 |
+| MA200 | 67.82 |
+| ATR | 1.59 |
 | Risk | NORMAL |
-| Stop Loss | 54.1 |
-| Target | 59.77 |
+| Stop Loss | 54.83 |
+| Target | 60.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22695,16 +22695,16 @@
 ### DECCANCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 544.25 |
+| Price | 545.8 |
 | Trend | downtrend |
-| RSI | 40.7 |
-| MACD | -5.42 |
-| MA20 | 556.0 |
-| MA200 | 621.29 |
-| ATR | 19.77 |
+| RSI | 43.01 |
+| MACD | -5.33 |
+| MA20 | 554.63 |
+| MA200 | 620.21 |
+| ATR | 19.3 |
 | Risk | NORMAL |
-| Stop Loss | 514.6 |
-| Target | 583.79 |
+| Stop Loss | 516.85 |
+| Target | 584.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22713,34 +22713,34 @@
 ### SHANKARA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 118.21 |
-| Trend | downtrend |
-| RSI | 23.0 |
-| MACD | -7.19 |
-| MA20 | 133.44 |
-| MA200 | 122.15 |
-| ATR | 7.39 |
+| Price | 122.48 |
+| Trend | weak_trend |
+| RSI | 31.95 |
+| MACD | -6.84 |
+| MA20 | 132.15 |
+| MA200 | 122.24 |
+| ATR | 7.32 |
 | Risk | ELEVATED |
-| Stop Loss | 107.13 |
-| Target | 132.99 |
+| Stop Loss | 111.5 |
+| Target | 137.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GNA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 538.55 |
+| Price | 536.5 |
 | Trend | weak_trend |
-| RSI | 44.11 |
-| MACD | 4.19 |
-| MA20 | 573.63 |
-| MA200 | 442.86 |
-| ATR | 32.3 |
+| RSI | 44.34 |
+| MACD | 1.02 |
+| MA20 | 572.9 |
+| MA200 | 444.0 |
+| ATR | 32.58 |
 | Risk | ELEVATED |
-| Stop Loss | 490.09 |
-| Target | 603.16 |
+| Stop Loss | 487.63 |
+| Target | 601.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22767,16 +22767,16 @@
 ### VMARCIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 321.3 |
+| Price | 316.5 |
 | Trend | weak_trend |
-| RSI | 49.57 |
-| MACD | -8.44 |
-| MA20 | 328.81 |
-| MA200 | 672.33 |
-| ATR | 15.3 |
+| RSI | 41.49 |
+| MACD | -8.45 |
+| MA20 | 326.72 |
+| MA200 | 670.55 |
+| ATR | 14.85 |
 | Risk | ELEVATED |
-| Stop Loss | 298.35 |
-| Target | 351.9 |
+| Stop Loss | 294.23 |
+| Target | 346.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22785,16 +22785,16 @@
 ### SUMEETINDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.75 |
+| Price | 11.43 |
 | Trend | downtrend |
-| RSI | 63.19 |
-| MACD | -0.47 |
-| MA20 | 10.92 |
-| MA200 | 24.58 |
-| ATR | 0.62 |
+| RSI | 57.1 |
+| MACD | -0.43 |
+| MA20 | 10.95 |
+| MA200 | 24.49 |
+| ATR | 0.63 |
 | Risk | ELEVATED |
-| Stop Loss | 10.82 |
-| Target | 13.0 |
+| Stop Loss | 10.49 |
+| Target | 12.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22803,16 +22803,16 @@
 ### IMPAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1005.1 |
+| Price | 1017.3 |
 | Trend | downtrend |
-| RSI | 28.16 |
-| MACD | -23.56 |
-| MA20 | 1046.77 |
-| MA200 | 1041.17 |
-| ATR | 36.08 |
+| RSI | 33.52 |
+| MACD | -22.51 |
+| MA20 | 1041.97 |
+| MA200 | 1041.2 |
+| ATR | 33.69 |
 | Risk | NORMAL |
-| Stop Loss | 950.98 |
-| Target | 1077.26 |
+| Stop Loss | 966.77 |
+| Target | 1084.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22821,34 +22821,34 @@
 ### IGPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 580.0 |
+| Price | 561.65 |
 | Trend | weak_trend |
-| RSI | 50.99 |
-| MACD | 12.33 |
-| MA20 | 568.95 |
-| MA200 | 432.18 |
-| ATR | 25.03 |
+| RSI | 49.48 |
+| MACD | 10.46 |
+| MA20 | 569.68 |
+| MA200 | 433.03 |
+| ATR | 24.78 |
 | Risk | ELEVATED |
-| Stop Loss | 542.46 |
-| Target | 630.06 |
+| Stop Loss | 524.48 |
+| Target | 611.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### TAC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 393.6 |
+| Price | 399.45 |
 | Trend | downtrend |
-| RSI | 29.86 |
-| MACD | -15.5 |
-| MA20 | 442.3 |
-| MA200 | 498.28 |
-| ATR | 25.27 |
+| RSI | 23.15 |
+| MACD | -15.64 |
+| MA20 | 438.93 |
+| MA200 | 496.35 |
+| ATR | 24.85 |
 | Risk | ELEVATED |
-| Stop Loss | 355.69 |
-| Target | 444.14 |
+| Stop Loss | 362.17 |
+| Target | 449.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22857,16 +22857,16 @@
 ### RGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 164.29 |
+| Price | 167.78 |
 | Trend | weak_trend |
-| RSI | 52.22 |
-| MACD | 5.36 |
-| MA20 | 160.93 |
-| MA200 | 119.27 |
-| ATR | 8.32 |
+| RSI | 59.09 |
+| MACD | 5.44 |
+| MA20 | 161.54 |
+| MA200 | 119.46 |
+| ATR | 8.23 |
 | Risk | ELEVATED |
-| Stop Loss | 151.81 |
-| Target | 180.93 |
+| Stop Loss | 155.43 |
+| Target | 184.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22875,16 +22875,16 @@
 ### BSHSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.51 |
+| Price | 90.88 |
 | Trend | downtrend |
-| RSI | 59.25 |
-| MACD | -1.36 |
-| MA20 | 84.96 |
-| MA200 | 91.61 |
-| ATR | 4.21 |
+| RSI | 60.31 |
+| MACD | -0.72 |
+| MA20 | 85.06 |
+| MA200 | 91.57 |
+| ATR | 4.25 |
 | Risk | ELEVATED |
-| Stop Loss | 83.19 |
-| Target | 97.93 |
+| Stop Loss | 84.51 |
+| Target | 99.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22911,16 +22911,16 @@
 ### SIGNPOST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 252.5 |
+| Price | 250.75 |
 | Trend | downtrend |
-| RSI | 34.79 |
-| MACD | -2.15 |
-| MA20 | 264.99 |
-| MA200 | 256.15 |
-| ATR | 9.7 |
+| RSI | 35.02 |
+| MACD | -2.85 |
+| MA20 | 263.71 |
+| MA200 | 256.3 |
+| ATR | 10.03 |
 | Risk | NORMAL |
-| Stop Loss | 237.94 |
-| Target | 271.91 |
+| Stop Loss | 235.7 |
+| Target | 270.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22947,16 +22947,16 @@
 ### HITECHGEAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 568.0 |
+| Price | 561.65 |
 | Trend | weak_trend |
-| RSI | 56.26 |
-| MACD | 2.93 |
-| MA20 | 574.27 |
-| MA200 | 610.36 |
+| RSI | 56.12 |
+| MACD | 1.41 |
+| MA20 | 574.18 |
+| MA200 | 609.93 |
 | ATR | 30.98 |
 | Risk | ELEVATED |
-| Stop Loss | 521.53 |
-| Target | 629.96 |
+| Stop Loss | 515.18 |
+| Target | 623.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22965,16 +22965,16 @@
 ### ATULAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 416.1 |
+| Price | 418.1 |
 | Trend | downtrend |
-| RSI | 32.48 |
-| MACD | -13.37 |
-| MA20 | 436.55 |
-| MA200 | 460.94 |
-| ATR | 13.98 |
+| RSI | 34.76 |
+| MACD | -13.18 |
+| MA20 | 435.18 |
+| MA200 | 460.9 |
+| ATR | 14.33 |
 | Risk | NORMAL |
-| Stop Loss | 395.13 |
-| Target | 444.06 |
+| Stop Loss | 396.61 |
+| Target | 446.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -22983,52 +22983,52 @@
 ### AGARIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 373.6 |
-| Trend | downtrend |
-| RSI | 28.31 |
-| MACD | -19.21 |
-| MA20 | 397.29 |
-| MA200 | 509.09 |
-| ATR | 15.06 |
-| Risk | ELEVATED |
-| Stop Loss | 351.01 |
-| Target | 403.72 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### YUKEN.NS
-| Metric | Value |
-|--------|-------|
-| Price | 1109.4 |
+| Price | 374.7 |
 | Trend | weak_trend |
-| RSI | 47.54 |
-| MACD | 38.96 |
-| MA20 | 1134.68 |
-| MA200 | 802.24 |
-| ATR | 70.39 |
+| RSI | 30.29 |
+| MACD | -18.84 |
+| MA20 | 394.61 |
+| MA200 | 507.42 |
+| ATR | 15.31 |
 | Risk | ELEVATED |
-| Stop Loss | 1003.81 |
-| Target | 1250.19 |
+| Stop Loss | 351.74 |
+| Target | 405.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### YUKEN.NS
+| Metric | Value |
+|--------|-------|
+| Price | 1137.3 |
+| Trend | downtrend |
+| RSI | 49.91 |
+| MACD | 36.3 |
+| MA20 | 1135.86 |
+| MA200 | 803.73 |
+| ATR | 68.98 |
+| Risk | ELEVATED |
+| Stop Loss | 1033.83 |
+| Target | 1275.26 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### DIFFNKG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 432.85 |
+| Price | 421.65 |
 | Trend | weak_trend |
-| RSI | 45.38 |
-| MACD | 2.01 |
-| MA20 | 440.59 |
-| MA200 | 341.57 |
-| ATR | 21.97 |
+| RSI | 42.32 |
+| MACD | 0.37 |
+| MA20 | 439.19 |
+| MA200 | 342.15 |
+| ATR | 22.8 |
 | Risk | ELEVATED |
-| Stop Loss | 399.9 |
-| Target | 476.79 |
+| Stop Loss | 387.44 |
+| Target | 467.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23055,16 +23055,16 @@
 ### CAPITALSFB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 272.85 |
+| Price | 270.5 |
 | Trend | weak_trend |
-| RSI | 43.53 |
-| MACD | -2.98 |
-| MA20 | 276.94 |
-| MA200 | 269.3 |
-| ATR | 11.56 |
+| RSI | 42.54 |
+| MACD | -3.1 |
+| MA20 | 276.9 |
+| MA200 | 269.34 |
+| ATR | 11.65 |
 | Risk | ELEVATED |
-| Stop Loss | 255.51 |
-| Target | 295.97 |
+| Stop Loss | 253.03 |
+| Target | 293.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23109,34 +23109,34 @@
 ### AURUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 228.12 |
-| Trend | weak_trend |
-| RSI | 58.09 |
-| MACD | 1.4 |
-| MA20 | 224.11 |
-| MA200 | 197.37 |
-| ATR | 8.7 |
-| Risk | NORMAL |
-| Stop Loss | 215.08 |
-| Target | 245.51 |
+| Price | 236.43 |
+| Trend | uptrend |
+| RSI | 61.57 |
+| MACD | 2.05 |
+| MA20 | 224.73 |
+| MA200 | 197.65 |
+| ATR | 9.75 |
+| Risk | ELEVATED |
+| Stop Loss | 221.81 |
+| Target | 255.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### ADVENTHTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 122.29 |
-| Trend | downtrend |
-| RSI | 40.49 |
-| MACD | -3.6 |
-| MA20 | 125.06 |
-| MA200 | 161.46 |
-| ATR | 4.99 |
+| Price | 122.77 |
+| Trend | weak_trend |
+| RSI | 41.41 |
+| MACD | -3.37 |
+| MA20 | 124.77 |
+| MA200 | 160.94 |
+| ATR | 5.23 |
 | Risk | ELEVATED |
-| Stop Loss | 114.81 |
-| Target | 132.27 |
+| Stop Loss | 114.92 |
+| Target | 133.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23145,34 +23145,34 @@
 ### BUTTERFLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 546.6 |
-| Trend | downtrend |
-| RSI | 26.82 |
-| MACD | -21.6 |
-| MA20 | 561.87 |
-| MA200 | 638.47 |
-| ATR | 17.68 |
+| Price | 558.9 |
+| Trend | weak_trend |
+| RSI | 47.17 |
+| MACD | -19.53 |
+| MA20 | 560.5 |
+| MA200 | 638.0 |
+| ATR | 17.14 |
 | Risk | NORMAL |
-| Stop Loss | 520.08 |
-| Target | 581.96 |
+| Stop Loss | 533.19 |
+| Target | 593.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### FAZE3Q.NS
 | Metric | Value |
 |--------|-------|
-| Price | 393.4 |
+| Price | 399.75 |
 | Trend | downtrend |
-| RSI | 40.37 |
-| MACD | -18.69 |
-| MA20 | 435.29 |
-| MA200 | 483.29 |
-| ATR | 24.54 |
+| RSI | 43.6 |
+| MACD | -19.51 |
+| MA20 | 430.8 |
+| MA200 | 483.11 |
+| ATR | 23.71 |
 | Risk | ELEVATED |
-| Stop Loss | 356.59 |
-| Target | 442.48 |
+| Stop Loss | 364.18 |
+| Target | 447.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23181,16 +23181,16 @@
 ### MICEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.08 |
+| Price | 35.22 |
 | Trend | downtrend |
-| RSI | 63.3 |
-| MACD | -0.4 |
-| MA20 | 34.89 |
-| MA200 | 39.18 |
-| ATR | 0.79 |
+| RSI | 55.73 |
+| MACD | -0.36 |
+| MA20 | 34.88 |
+| MA200 | 39.14 |
+| ATR | 0.9 |
 | Risk | NORMAL |
-| Stop Loss | 34.89 |
-| Target | 37.66 |
+| Stop Loss | 33.87 |
+| Target | 37.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23199,20 +23199,20 @@
 ### BHARATWIRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 162.82 |
-| Trend | weak_trend |
-| RSI | 41.37 |
-| MACD | -4.04 |
-| MA20 | 167.28 |
-| MA200 | 189.78 |
-| ATR | 7.07 |
+| Price | 169.54 |
+| Trend | downtrend |
+| RSI | 51.7 |
+| MACD | -3.49 |
+| MA20 | 167.13 |
+| MA200 | 189.76 |
+| ATR | 7.38 |
 | Risk | ELEVATED |
-| Stop Loss | 152.21 |
-| Target | 176.96 |
+| Stop Loss | 158.48 |
+| Target | 184.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VASCONEQ.NS
 | Metric | Value |
@@ -23253,16 +23253,16 @@
 ### TEXINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 115.08 |
+| Price | 120.99 |
 | Trend | weak_trend |
-| RSI | 51.36 |
-| MACD | 1.34 |
-| MA20 | 117.77 |
-| MA200 | 103.59 |
+| RSI | 57.02 |
+| MACD | 1.44 |
+| MA20 | 118.05 |
+| MA200 | 103.67 |
 | ATR | 5.94 |
 | Risk | ELEVATED |
-| Stop Loss | 106.17 |
-| Target | 126.96 |
+| Stop Loss | 112.07 |
+| Target | 132.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23289,16 +23289,16 @@
 ### HERANBA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 163.98 |
+| Price | 163.91 |
 | Trend | downtrend |
-| RSI | 47.05 |
-| MACD | -1.88 |
-| MA20 | 169.98 |
-| MA200 | 193.87 |
-| ATR | 8.45 |
+| RSI | 47.54 |
+| MACD | -2.1 |
+| MA20 | 169.6 |
+| MA200 | 193.47 |
+| ATR | 8.33 |
 | Risk | ELEVATED |
-| Stop Loss | 151.31 |
-| Target | 180.87 |
+| Stop Loss | 151.42 |
+| Target | 180.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23307,16 +23307,16 @@
 ### BOROSCI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 109.86 |
+| Price | 106.76 |
 | Trend | downtrend |
-| RSI | 29.9 |
-| MACD | -5.04 |
-| MA20 | 115.55 |
-| MA200 | 126.52 |
-| ATR | 4.79 |
+| RSI | 24.32 |
+| MACD | -5.16 |
+| MA20 | 114.62 |
+| MA200 | 126.46 |
+| ATR | 4.51 |
 | Risk | ELEVATED |
-| Stop Loss | 102.67 |
-| Target | 119.44 |
+| Stop Loss | 99.99 |
+| Target | 115.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23343,16 +23343,16 @@
 ### IRMENERGY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 257.1 |
+| Price | 257.35 |
 | Trend | downtrend |
-| RSI | 32.54 |
-| MACD | -5.13 |
-| MA20 | 265.37 |
-| MA200 | 258.88 |
-| ATR | 8.89 |
+| RSI | 35.82 |
+| MACD | -5.1 |
+| MA20 | 264.22 |
+| MA200 | 258.79 |
+| ATR | 9.1 |
 | Risk | NORMAL |
-| Stop Loss | 243.77 |
-| Target | 274.87 |
+| Stop Loss | 243.71 |
+| Target | 275.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23361,16 +23361,16 @@
 ### SHREEPUSHK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 492.95 |
+| Price | 494.9 |
 | Trend | weak_trend |
-| RSI | 42.27 |
-| MACD | 8.72 |
-| MA20 | 499.21 |
-| MA200 | 382.3 |
-| ATR | 21.74 |
+| RSI | 45.65 |
+| MACD | 7.96 |
+| MA20 | 499.71 |
+| MA200 | 382.89 |
+| ATR | 21.67 |
 | Risk | ELEVATED |
-| Stop Loss | 460.35 |
-| Target | 536.42 |
+| Stop Loss | 462.4 |
+| Target | 538.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23397,52 +23397,52 @@
 ### GTPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.77 |
+| Price | 58.81 |
 | Trend | downtrend |
-| RSI | 56.48 |
-| MACD | 0.08 |
-| MA20 | 55.32 |
-| MA200 | 64.4 |
-| ATR | 2.12 |
-| Risk | NORMAL |
-| Stop Loss | 53.59 |
-| Target | 61.01 |
+| RSI | 62.31 |
+| MACD | 0.35 |
+| MA20 | 55.38 |
+| MA200 | 64.2 |
+| ATR | 2.39 |
+| Risk | ELEVATED |
+| Stop Loss | 55.23 |
+| Target | 63.58 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ROHLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 282.0 |
+| Price | 280.3 |
 | Trend | downtrend |
-| RSI | 30.82 |
-| MACD | -3.89 |
-| MA20 | 300.08 |
-| MA200 | 333.21 |
-| ATR | 10.44 |
+| RSI | 31.19 |
+| MACD | -4.83 |
+| MA20 | 298.78 |
+| MA200 | 332.7 |
+| ATR | 10.29 |
 | Risk | NORMAL |
-| Stop Loss | 266.35 |
-| Target | 302.87 |
+| Stop Loss | 264.86 |
+| Target | 300.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3627.6 |
+| Price | 3618.1 |
 | Trend | weak_trend |
-| RSI | 77.2 |
-| MACD | 37.86 |
-| MA20 | 3441.91 |
-| MA200 | 3417.66 |
-| ATR | 115.09 |
+| RSI | 75.68 |
+| MACD | 42.61 |
+| MA20 | 3450.42 |
+| MA200 | 3417.88 |
+| ATR | 114.19 |
 | Risk | NORMAL |
-| Stop Loss | 3454.96 |
-| Target | 3857.79 |
+| Stop Loss | 3446.82 |
+| Target | 3846.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23541,34 +23541,34 @@
 ### CONTROLPR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 605.3 |
+| Price | 587.75 |
 | Trend | downtrend |
-| RSI | 54.2 |
-| MACD | 5.74 |
-| MA20 | 601.53 |
-| MA200 | 624.69 |
-| ATR | 17.44 |
+| RSI | 49.16 |
+| MACD | 3.66 |
+| MA20 | 601.48 |
+| MA200 | 624.17 |
+| ATR | 18.23 |
 | Risk | NORMAL |
-| Stop Loss | 579.15 |
-| Target | 640.17 |
+| Stop Loss | 560.4 |
+| Target | 624.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JINDALPHOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1021.4 |
+| Price | 1026.2 |
 | Trend | downtrend |
-| RSI | 7.91 |
-| MACD | -9.81 |
-| MA20 | 1060.99 |
-| MA200 | 1166.25 |
-| ATR | 36.0 |
+| RSI | 13.63 |
+| MACD | -9.89 |
+| MA20 | 1061.75 |
+| MA200 | 1163.8 |
+| ATR | 33.86 |
 | Risk | NORMAL |
-| Stop Loss | 967.4 |
-| Target | 1093.4 |
+| Stop Loss | 975.4 |
+| Target | 1093.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23577,16 +23577,16 @@
 ### ELECTHERM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 686.2 |
+| Price | 690.0 |
 | Trend | downtrend |
-| RSI | 14.07 |
-| MACD | -76.05 |
-| MA20 | 824.85 |
-| MA200 | 869.36 |
-| ATR | 45.52 |
+| RSI | 14.69 |
+| MACD | -75.54 |
+| MA20 | 811.53 |
+| MA200 | 868.88 |
+| ATR | 45.45 |
 | Risk | ELEVATED |
-| Stop Loss | 617.92 |
-| Target | 777.24 |
+| Stop Loss | 621.82 |
+| Target | 780.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23595,34 +23595,34 @@
 ### ABINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.5 |
-| Trend | weak_trend |
-| RSI | 56.54 |
-| MACD | 0.25 |
-| MA20 | 12.13 |
-| MA200 | 14.36 |
-| ATR | 0.64 |
+| Price | 12.76 |
+| Trend | downtrend |
+| RSI | 58.59 |
+| MACD | 0.26 |
+| MA20 | 12.2 |
+| MA200 | 14.33 |
+| ATR | 0.63 |
 | Risk | ELEVATED |
-| Stop Loss | 11.55 |
-| Target | 13.77 |
+| Stop Loss | 11.81 |
+| Target | 14.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SRM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 394.4 |
+| Price | 402.6 |
 | Trend | weak_trend |
-| RSI | 34.05 |
-| MACD | -13.75 |
-| MA20 | 414.68 |
-| MA200 | 469.39 |
-| ATR | 14.23 |
+| RSI | 40.49 |
+| MACD | -13.35 |
+| MA20 | 412.84 |
+| MA200 | 468.72 |
+| ATR | 15.12 |
 | Risk | NORMAL |
-| Stop Loss | 373.06 |
-| Target | 422.86 |
+| Stop Loss | 379.92 |
+| Target | 432.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23667,16 +23667,16 @@
 ### AMNPLST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 169.08 |
+| Price | 169.44 |
 | Trend | weak_trend |
-| RSI | 49.18 |
-| MACD | -1.59 |
-| MA20 | 168.28 |
-| MA200 | 177.62 |
-| ATR | 13.27 |
+| RSI | 49.88 |
+| MACD | -1.54 |
+| MA20 | 168.49 |
+| MA200 | 177.46 |
+| ATR | 12.81 |
 | Risk | ELEVATED |
-| Stop Loss | 149.18 |
-| Target | 195.61 |
+| Stop Loss | 150.23 |
+| Target | 195.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23685,52 +23685,52 @@
 ### ZUARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 207.24 |
+| Price | 206.43 |
 | Trend | downtrend |
-| RSI | 34.39 |
-| MACD | -4.01 |
-| MA20 | 216.57 |
-| MA200 | 236.17 |
-| ATR | 6.96 |
+| RSI | 29.87 |
+| MACD | -4.31 |
+| MA20 | 215.87 |
+| MA200 | 235.62 |
+| ATR | 7.2 |
 | Risk | NORMAL |
-| Stop Loss | 196.81 |
-| Target | 221.15 |
+| Stop Loss | 195.63 |
+| Target | 220.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### STEELXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.45 |
+| Price | 10.48 |
 | Trend | weak_trend |
-| RSI | 40.4 |
-| MACD | -0.18 |
-| MA20 | 11.21 |
-| MA200 | 10.11 |
-| ATR | 0.65 |
+| RSI | 41.25 |
+| MACD | -0.2 |
+| MA20 | 11.13 |
+| MA200 | 10.12 |
+| ATR | 0.67 |
 | Risk | ELEVATED |
 | Stop Loss | 9.48 |
-| Target | 11.75 |
+| Target | 11.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ICEMAKE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 682.3 |
+| Price | 674.0 |
 | Trend | weak_trend |
-| RSI | 47.29 |
-| MACD | -18.5 |
-| MA20 | 667.26 |
-| MA200 | 764.38 |
-| ATR | 26.77 |
+| RSI | 42.37 |
+| MACD | -16.15 |
+| MA20 | 664.58 |
+| MA200 | 763.68 |
+| ATR | 26.51 |
 | Risk | NORMAL |
-| Stop Loss | 642.14 |
-| Target | 735.85 |
+| Stop Loss | 634.24 |
+| Target | 727.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23739,16 +23739,16 @@
 ### KELLTONTEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.97 |
+| Price | 12.31 |
 | Trend | downtrend |
-| RSI | 16.92 |
-| MACD | -0.5 |
-| MA20 | 13.01 |
-| MA200 | 15.55 |
-| ATR | 0.42 |
+| RSI | 26.28 |
+| MACD | -0.48 |
+| MA20 | 12.93 |
+| MA200 | 15.52 |
+| ATR | 0.45 |
 | Risk | NORMAL |
-| Stop Loss | 11.34 |
-| Target | 12.82 |
+| Stop Loss | 11.64 |
+| Target | 13.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23757,16 +23757,16 @@
 ### RACLGEAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1504.9 |
+| Price | 1498.7 |
 | Trend | weak_trend |
-| RSI | 29.6 |
-| MACD | -17.39 |
-| MA20 | 1651.01 |
-| MA200 | 1324.99 |
-| ATR | 81.07 |
+| RSI | 23.22 |
+| MACD | -21.46 |
+| MA20 | 1638.11 |
+| MA200 | 1327.43 |
+| ATR | 77.43 |
 | Risk | ELEVATED |
-| Stop Loss | 1383.29 |
-| Target | 1667.04 |
+| Stop Loss | 1382.56 |
+| Target | 1653.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23775,16 +23775,16 @@
 ### BLUSPRING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 157.01 |
+| Price | 157.29 |
 | Trend | weak_trend |
-| RSI | 73.17 |
-| MACD | 5.86 |
-| MA20 | 137.35 |
-| MA200 | 87.35 |
-| ATR | 10.72 |
+| RSI | 71.94 |
+| MACD | 6.54 |
+| MA20 | 138.64 |
+| MA200 | 87.81 |
+| ATR | 11.03 |
 | Risk | ELEVATED |
-| Stop Loss | 140.93 |
-| Target | 178.44 |
+| Stop Loss | 140.75 |
+| Target | 179.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23793,20 +23793,20 @@
 ### PASHUPATI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.57 |
+| Price | 72.89 |
 | Trend | downtrend |
-| RSI | 38.83 |
-| MACD | -3.5 |
-| MA20 | 77.32 |
-| MA200 | 87.34 |
-| ATR | 7.45 |
+| RSI | 43.53 |
+| MACD | -3.31 |
+| MA20 | 76.93 |
+| MA200 | 87.29 |
+| ATR | 7.73 |
 | Risk | ELEVATED |
-| Stop Loss | 57.39 |
-| Target | 83.47 |
+| Stop Loss | 61.3 |
+| Target | 88.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MANALIPETC.NS
 | Metric | Value |
@@ -23829,34 +23829,34 @@
 ### DVL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 272.6 |
+| Price | 286.3 |
 | Trend | weak_trend |
-| RSI | 42.81 |
-| MACD | -1.12 |
-| MA20 | 281.74 |
-| MA200 | 251.49 |
-| ATR | 10.89 |
+| RSI | 51.71 |
+| MACD | -0.41 |
+| MA20 | 281.75 |
+| MA200 | 251.57 |
+| ATR | 11.43 |
 | Risk | NORMAL |
-| Stop Loss | 256.27 |
-| Target | 294.38 |
+| Stop Loss | 269.15 |
+| Target | 309.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KRISHNADEF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1222.0 |
+| Price | 1201.0 |
 | Trend | weak_trend |
-| RSI | 67.5 |
-| MACD | 44.54 |
-| MA20 | 1087.27 |
-| MA200 | 1070.21 |
-| ATR | 71.32 |
+| RSI | 66.36 |
+| MACD | 44.62 |
+| MA20 | 1094.05 |
+| MA200 | 1072.86 |
+| ATR | 70.69 |
 | Risk | ELEVATED |
-| Stop Loss | 1115.02 |
-| Target | 1364.64 |
+| Stop Loss | 1094.96 |
+| Target | 1342.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23885,10 +23885,10 @@
 |--------|-------|
 | Price | 6.04 |
 | Trend | downtrend |
-| RSI | 9.84 |
-| MACD | -0.25 |
-| MA20 | 6.83 |
-| MA200 | 8.31 |
+| RSI | 1.79 |
+| MACD | -0.27 |
+| MA20 | 6.77 |
+| MA200 | 8.29 |
 | ATR | 0.31 |
 | Risk | ELEVATED |
 | Stop Loss | 5.58 |
@@ -23901,16 +23901,16 @@
 ### NELCAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 139.11 |
+| Price | 137.07 |
 | Trend | weak_trend |
-| RSI | 76.34 |
-| MACD | 6.4 |
-| MA20 | 118.99 |
-| MA200 | 122.22 |
-| ATR | 9.05 |
+| RSI | 73.25 |
+| MACD | 6.53 |
+| MA20 | 120.41 |
+| MA200 | 122.4 |
+| ATR | 9.24 |
 | Risk | ELEVATED |
-| Stop Loss | 125.54 |
-| Target | 157.21 |
+| Stop Loss | 123.21 |
+| Target | 155.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23919,16 +23919,16 @@
 ### EIMCOELECO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2281.1 |
-| Trend | downtrend |
-| RSI | 49.28 |
-| MACD | 26.82 |
-| MA20 | 2275.59 |
-| MA200 | 1764.55 |
-| ATR | 90.5 |
-| Risk | NORMAL |
-| Stop Loss | 2145.35 |
-| Target | 2462.1 |
+| Price | 2239.4 |
+| Trend | weak_trend |
+| RSI | 48.28 |
+| MACD | 22.28 |
+| MA20 | 2271.28 |
+| MA200 | 1768.05 |
+| ATR | 97.7 |
+| Risk | ELEVATED |
+| Stop Loss | 2092.85 |
+| Target | 2434.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23937,16 +23937,16 @@
 ### OAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 518.1 |
+| Price | 510.95 |
 | Trend | weak_trend |
-| RSI | 36.29 |
-| MACD | 13.99 |
-| MA20 | 528.01 |
-| MA200 | 338.45 |
-| ATR | 25.61 |
+| RSI | 29.35 |
+| MACD | 12.1 |
+| MA20 | 526.95 |
+| MA200 | 339.51 |
+| ATR | 25.19 |
 | Risk | ELEVATED |
-| Stop Loss | 479.68 |
-| Target | 569.33 |
+| Stop Loss | 473.17 |
+| Target | 561.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -23955,34 +23955,34 @@
 ### STERTOOLS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 220.92 |
+| Price | 217.92 |
 | Trend | downtrend |
-| RSI | 51.33 |
-| MACD | 0.4 |
-| MA20 | 221.14 |
-| MA200 | 230.31 |
-| ATR | 12.17 |
+| RSI | 46.75 |
+| MACD | -0.02 |
+| MA20 | 221.3 |
+| MA200 | 230.08 |
+| ATR | 11.96 |
 | Risk | ELEVATED |
-| Stop Loss | 202.66 |
-| Target | 245.27 |
+| Stop Loss | 199.99 |
+| Target | 241.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GRPLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1700.8 |
+| Price | 1792.4 |
 | Trend | downtrend |
-| RSI | 18.54 |
-| MACD | -58.9 |
-| MA20 | 1917.41 |
-| MA200 | 1851.73 |
-| ATR | 77.23 |
+| RSI | 31.07 |
+| MACD | -58.76 |
+| MA20 | 1910.78 |
+| MA200 | 1852.31 |
+| ATR | 89.01 |
 | Risk | ELEVATED |
-| Stop Loss | 1584.96 |
-| Target | 1855.26 |
+| Stop Loss | 1658.89 |
+| Target | 1970.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24027,16 +24027,16 @@
 ### PROSTARM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 127.84 |
-| Trend | downtrend |
-| RSI | 49.16 |
-| MACD | -1.3 |
-| MA20 | 132.16 |
-| MA200 | 143.95 |
-| ATR | 6.55 |
+| Price | 129.13 |
+| Trend | weak_trend |
+| RSI | 51.9 |
+| MACD | -1.37 |
+| MA20 | 131.93 |
+| MA200 | 143.73 |
+| ATR | 6.66 |
 | Risk | ELEVATED |
-| Stop Loss | 118.01 |
-| Target | 140.94 |
+| Stop Loss | 119.13 |
+| Target | 142.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24045,16 +24045,16 @@
 ### IZMO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 853.05 |
-| Trend | weak_trend |
-| RSI | 29.73 |
-| MACD | -15.2 |
-| MA20 | 891.09 |
-| MA200 | 832.99 |
-| ATR | 37.25 |
+| Price | 829.2 |
+| Trend | downtrend |
+| RSI | 25.91 |
+| MACD | -17.7 |
+| MA20 | 887.21 |
+| MA200 | 833.16 |
+| ATR | 36.62 |
 | Risk | ELEVATED |
-| Stop Loss | 797.17 |
-| Target | 927.55 |
+| Stop Loss | 774.27 |
+| Target | 902.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24063,16 +24063,16 @@
 ### ANTELOPUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1108.9 |
+| Price | 1074.0 |
 | Trend | weak_trend |
-| RSI | 50.89 |
-| MACD | 36.13 |
-| MA20 | 1128.68 |
-| MA200 | 725.62 |
-| ATR | 77.59 |
+| RSI | 46.21 |
+| MACD | 30.17 |
+| MA20 | 1125.41 |
+| MA200 | 728.93 |
+| ATR | 78.32 |
 | Risk | ELEVATED |
-| Stop Loss | 992.52 |
-| Target | 1264.08 |
+| Stop Loss | 956.52 |
+| Target | 1230.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24081,16 +24081,16 @@
 ### MATRIMONY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 532.1 |
-| Trend | downtrend |
-| RSI | 41.79 |
-| MACD | 2.05 |
-| MA20 | 525.65 |
-| MA200 | 464.94 |
-| ATR | 22.84 |
+| Price | 542.35 |
+| Trend | weak_trend |
+| RSI | 46.41 |
+| MACD | 3.46 |
+| MA20 | 527.03 |
+| MA200 | 465.1 |
+| ATR | 23.5 |
 | Risk | ELEVATED |
-| Stop Loss | 497.84 |
-| Target | 577.79 |
+| Stop Loss | 507.09 |
+| Target | 589.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24135,16 +24135,16 @@
 ### AYMSYNTEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 271.7 |
+| Price | 276.2 |
 | Trend | weak_trend |
-| RSI | 39.68 |
-| MACD | -1.0 |
-| MA20 | 282.89 |
-| MA200 | 220.46 |
-| ATR | 14.84 |
+| RSI | 37.71 |
+| MACD | -1.26 |
+| MA20 | 282.62 |
+| MA200 | 221.07 |
+| ATR | 14.64 |
 | Risk | ELEVATED |
-| Stop Loss | 249.44 |
-| Target | 301.38 |
+| Stop Loss | 254.24 |
+| Target | 305.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24153,16 +24153,16 @@
 ### OMINFRAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.4 |
+| Price | 69.96 |
 | Trend | downtrend |
-| RSI | 11.31 |
-| MACD | -3.21 |
-| MA20 | 76.5 |
-| MA200 | 86.1 |
+| RSI | 15.31 |
+| MACD | -3.26 |
+| MA20 | 76.02 |
+| MA200 | 85.97 |
 | ATR | 3.15 |
 | Risk | ELEVATED |
-| Stop Loss | 64.67 |
-| Target | 75.7 |
+| Stop Loss | 65.24 |
+| Target | 76.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24171,16 +24171,16 @@
 ### RNBDENIMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.47 |
+| Price | 8.56 |
 | Trend | downtrend |
-| RSI | 30.16 |
-| MACD | -0.2 |
-| MA20 | 9.03 |
-| MA200 | 23.06 |
-| ATR | 0.36 |
+| RSI | 35.07 |
+| MACD | -0.21 |
+| MA20 | 8.98 |
+| MA200 | 22.91 |
+| ATR | 0.35 |
 | Risk | ELEVATED |
-| Stop Loss | 7.93 |
-| Target | 9.19 |
+| Stop Loss | 8.04 |
+| Target | 9.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24189,16 +24189,16 @@
 ### VIDYAWIRES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 96.8 |
+| Price | 93.48 |
 | Trend | weak_trend |
-| RSI | 67.6 |
-| MACD | 2.33 |
-| MA20 | 90.84 |
-| MA200 | 76.29 |
-| ATR | 4.65 |
+| RSI | 62.48 |
+| MACD | 2.08 |
+| MA20 | 91.1 |
+| MA200 | 76.5 |
+| ATR | 4.93 |
 | Risk | ELEVATED |
-| Stop Loss | 89.83 |
-| Target | 106.1 |
+| Stop Loss | 86.08 |
+| Target | 103.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24207,16 +24207,16 @@
 ### 5PAISA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 340.5 |
+| Price | 348.7 |
 | Trend | weak_trend |
-| RSI | 63.29 |
-| MACD | -0.71 |
-| MA20 | 323.33 |
-| MA200 | 336.23 |
-| ATR | 15.65 |
+| RSI | 65.71 |
+| MACD | 0.56 |
+| MA20 | 324.44 |
+| MA200 | 336.42 |
+| ATR | 16.15 |
 | Risk | ELEVATED |
-| Stop Loss | 317.02 |
-| Target | 371.81 |
+| Stop Loss | 324.48 |
+| Target | 381.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24225,16 +24225,16 @@
 ### PENINLAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.31 |
+| Price | 14.41 |
 | Trend | downtrend |
-| RSI | 30.5 |
-| MACD | -0.41 |
-| MA20 | 15.41 |
-| MA200 | 17.81 |
-| ATR | 0.97 |
+| RSI | 17.89 |
+| MACD | -0.42 |
+| MA20 | 15.35 |
+| MA200 | 17.75 |
+| ATR | 0.86 |
 | Risk | ELEVATED |
-| Stop Loss | 12.86 |
-| Target | 16.25 |
+| Stop Loss | 13.12 |
+| Target | 16.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24243,16 +24243,16 @@
 ### BIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1075.85 |
+| Price | 1054.85 |
 | Trend | weak_trend |
-| RSI | 56.06 |
-| MACD | 35.1 |
-| MA20 | 1037.0 |
-| MA200 | 793.93 |
-| ATR | 45.06 |
+| RSI | 50.79 |
+| MACD | 33.43 |
+| MA20 | 1036.09 |
+| MA200 | 795.58 |
+| ATR | 44.38 |
 | Risk | ELEVATED |
-| Stop Loss | 1008.26 |
-| Target | 1165.96 |
+| Stop Loss | 988.28 |
+| Target | 1143.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24261,16 +24261,16 @@
 ### MAMATA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 391.5 |
+| Price | 390.6 |
 | Trend | downtrend |
-| RSI | 42.82 |
-| MACD | -4.11 |
-| MA20 | 400.1 |
-| MA200 | 399.44 |
-| ATR | 14.3 |
+| RSI | 42.75 |
+| MACD | -4.29 |
+| MA20 | 399.23 |
+| MA200 | 399.34 |
+| ATR | 14.0 |
 | Risk | NORMAL |
-| Stop Loss | 370.04 |
-| Target | 420.11 |
+| Stop Loss | 369.61 |
+| Target | 418.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24279,16 +24279,16 @@
 ### AFSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 201.14 |
+| Price | 201.06 |
 | Trend | downtrend |
-| RSI | 50.75 |
-| MACD | -0.57 |
+| RSI | 50.4 |
+| MACD | -0.54 |
 | MA20 | 201.32 |
-| MA200 | 202.09 |
-| ATR | 1.92 |
+| MA200 | 202.07 |
+| ATR | 1.93 |
 | Risk | LOW |
-| Stop Loss | 198.26 |
-| Target | 204.98 |
+| Stop Loss | 198.17 |
+| Target | 204.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24333,16 +24333,16 @@
 ### GANESHCP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 155.7 |
-| Trend | downtrend |
-| RSI | 35.07 |
-| MACD | -4.04 |
-| MA20 | 158.61 |
-| MA200 | 183.85 |
-| ATR | 7.0 |
+| Price | 161.12 |
+| Trend | weak_trend |
+| RSI | 44.86 |
+| MACD | -3.23 |
+| MA20 | 158.3 |
+| MA200 | 183.54 |
+| ATR | 7.56 |
 | Risk | ELEVATED |
-| Stop Loss | 145.2 |
-| Target | 169.7 |
+| Stop Loss | 149.78 |
+| Target | 176.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24351,34 +24351,34 @@
 ### AVTNPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 97.5 |
-| Trend | uptrend |
-| RSI | 57.62 |
-| MACD | 1.66 |
-| MA20 | 90.37 |
-| MA200 | 70.93 |
-| ATR | 6.29 |
+| Price | 97.06 |
+| Trend | weak_trend |
+| RSI | 48.54 |
+| MACD | 2.0 |
+| MA20 | 90.72 |
+| MA200 | 71.09 |
+| ATR | 5.96 |
 | Risk | ELEVATED |
-| Stop Loss | 88.07 |
-| Target | 110.08 |
+| Stop Loss | 88.12 |
+| Target | 108.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KOKUYOCMLN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 73.53 |
-| Trend | downtrend |
-| RSI | 38.09 |
-| MACD | -1.67 |
-| MA20 | 75.47 |
-| MA200 | 83.88 |
-| ATR | 2.37 |
+| Price | 74.2 |
+| Trend | weak_trend |
+| RSI | 43.46 |
+| MACD | -1.57 |
+| MA20 | 75.28 |
+| MA200 | 83.81 |
+| ATR | 2.29 |
 | Risk | NORMAL |
-| Stop Loss | 69.98 |
-| Target | 78.27 |
+| Stop Loss | 70.77 |
+| Target | 78.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24387,34 +24387,34 @@
 ### MAXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 155.67 |
-| Trend | downtrend |
-| RSI | 53.15 |
-| MACD | 1.68 |
-| MA20 | 152.76 |
-| MA200 | 159.66 |
-| ATR | 8.48 |
+| Price | 162.96 |
+| Trend | uptrend |
+| RSI | 58.48 |
+| MACD | 2.08 |
+| MA20 | 153.61 |
+| MA200 | 159.55 |
+| ATR | 9.18 |
 | Risk | ELEVATED |
-| Stop Loss | 142.95 |
-| Target | 172.63 |
+| Stop Loss | 149.19 |
+| Target | 181.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### ANDHRSUGAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 90.99 |
+| Price | 92.59 |
 | Trend | weak_trend |
-| RSI | 40.64 |
-| MACD | -1.06 |
-| MA20 | 93.2 |
-| MA200 | 82.84 |
-| ATR | 3.48 |
+| RSI | 43.91 |
+| MACD | -0.95 |
+| MA20 | 93.07 |
+| MA200 | 82.93 |
+| ATR | 3.37 |
 | Risk | NORMAL |
-| Stop Loss | 85.77 |
-| Target | 97.95 |
+| Stop Loss | 87.53 |
+| Target | 99.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24423,16 +24423,16 @@
 ### CREST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 349.2 |
+| Price | 346.2 |
 | Trend | downtrend |
-| RSI | 35.78 |
-| MACD | -2.51 |
-| MA20 | 361.08 |
-| MA200 | 363.11 |
-| ATR | 12.65 |
+| RSI | 35.98 |
+| MACD | -3.32 |
+| MA20 | 360.62 |
+| MA200 | 363.02 |
+| ATR | 11.93 |
 | Risk | NORMAL |
-| Stop Loss | 330.23 |
-| Target | 374.5 |
+| Stop Loss | 328.31 |
+| Target | 370.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24441,34 +24441,34 @@
 ### LINCOLN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 543.5 |
+| Price | 548.7 |
 | Trend | downtrend |
-| RSI | 22.42 |
-| MACD | -14.11 |
-| MA20 | 585.68 |
-| MA200 | 588.65 |
-| ATR | 18.62 |
+| RSI | 27.89 |
+| MACD | -14.92 |
+| MA20 | 581.94 |
+| MA200 | 589.02 |
+| ATR | 18.05 |
 | Risk | NORMAL |
-| Stop Loss | 515.57 |
-| Target | 580.74 |
+| Stop Loss | 521.62 |
+| Target | 584.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### THEMISMED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 107.02 |
+| Price | 106.72 |
 | Trend | weak_trend |
-| RSI | 20.47 |
-| MACD | -2.77 |
-| MA20 | 117.3 |
-| MA200 | 100.52 |
-| ATR | 5.67 |
+| RSI | 21.24 |
+| MACD | -3.1 |
+| MA20 | 116.25 |
+| MA200 | 100.54 |
+| ATR | 5.83 |
 | Risk | ELEVATED |
-| Stop Loss | 98.52 |
-| Target | 118.35 |
+| Stop Loss | 97.98 |
+| Target | 118.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24477,16 +24477,16 @@
 ### CENTENKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 567.65 |
+| Price | 559.05 |
 | Trend | weak_trend |
-| RSI | 48.44 |
-| MACD | -2.54 |
-| MA20 | 561.08 |
-| MA200 | 483.71 |
-| ATR | 20.06 |
+| RSI | 47.02 |
+| MACD | -2.5 |
+| MA20 | 560.76 |
+| MA200 | 484.35 |
+| ATR | 20.52 |
 | Risk | NORMAL |
-| Stop Loss | 537.56 |
-| Target | 607.76 |
+| Stop Loss | 528.27 |
+| Target | 600.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24495,20 +24495,20 @@
 ### ARIHANTCAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 96.63 |
+| Price | 96.31 |
 | Trend | weak_trend |
-| RSI | 72.22 |
-| MACD | 4.46 |
-| MA20 | 89.1 |
-| MA200 | 76.19 |
-| ATR | 5.24 |
+| RSI | 60.75 |
+| MACD | 4.42 |
+| MA20 | 89.99 |
+| MA200 | 76.22 |
+| ATR | 4.57 |
 | Risk | ELEVATED |
-| Stop Loss | 88.78 |
-| Target | 107.1 |
+| Stop Loss | 89.46 |
+| Target | 105.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### DHANBANK.NS
 | Metric | Value |
@@ -24531,34 +24531,34 @@
 ### UNIENTER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.32 |
+| Price | 86.56 |
 | Trend | downtrend |
-| RSI | 22.56 |
-| MACD | -1.84 |
-| MA20 | 89.08 |
-| MA200 | 104.26 |
-| ATR | 2.92 |
+| RSI | 22.32 |
+| MACD | -1.82 |
+| MA20 | 88.84 |
+| MA200 | 104.02 |
+| ATR | 2.93 |
 | Risk | NORMAL |
-| Stop Loss | 82.95 |
-| Target | 93.15 |
+| Stop Loss | 82.16 |
+| Target | 92.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SCODATUBES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 118.13 |
+| Price | 123.03 |
 | Trend | downtrend |
-| RSI | 35.67 |
-| MACD | -3.16 |
-| MA20 | 126.88 |
-| MA200 | 138.68 |
-| ATR | 5.96 |
+| RSI | 43.29 |
+| MACD | -3.0 |
+| MA20 | 126.54 |
+| MA200 | 138.52 |
+| ATR | 6.45 |
 | Risk | ELEVATED |
-| Stop Loss | 109.19 |
-| Target | 130.05 |
+| Stop Loss | 113.36 |
+| Target | 135.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24603,20 +24603,20 @@
 ### GGBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 210.3 |
-| Trend | downtrend |
-| RSI | 52.49 |
-| MACD | -2.97 |
-| MA20 | 214.23 |
-| MA200 | 275.68 |
-| ATR | 9.14 |
+| Price | 211.55 |
+| Trend | weak_trend |
+| RSI | 46.35 |
+| MACD | -3.07 |
+| MA20 | 214.04 |
+| MA200 | 275.13 |
+| ATR | 8.55 |
 | Risk | ELEVATED |
-| Stop Loss | 196.59 |
-| Target | 228.59 |
+| Stop Loss | 198.73 |
+| Target | 228.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CEWATER.NS
 | Metric | Value |
@@ -24639,16 +24639,16 @@
 ### RADHIKAJWE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 67.13 |
+| Price | 66.64 |
 | Trend | weak_trend |
-| RSI | 26.31 |
-| MACD | -1.45 |
-| MA20 | 70.7 |
-| MA200 | 66.01 |
-| ATR | 2.83 |
+| RSI | 29.21 |
+| MACD | -1.55 |
+| MA20 | 69.88 |
+| MA200 | 65.98 |
+| ATR | 2.68 |
 | Risk | ELEVATED |
-| Stop Loss | 62.88 |
-| Target | 72.79 |
+| Stop Loss | 62.63 |
+| Target | 71.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24659,32 +24659,32 @@
 |--------|-------|
 | Price | 1554.5 |
 | Trend | weak_trend |
-| RSI | 46.24 |
-| MACD | -12.07 |
-| MA20 | 1562.01 |
-| MA200 | 1655.88 |
-| ATR | 43.85 |
+| RSI | 47.51 |
+| MACD | -11.12 |
+| MA20 | 1560.49 |
+| MA200 | 1655.11 |
+| ATR | 42.84 |
 | Risk | NORMAL |
-| Stop Loss | 1488.72 |
-| Target | 1642.2 |
+| Stop Loss | 1490.25 |
+| Target | 1640.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### NDTV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 65.18 |
+| Price | 65.91 |
 | Trend | downtrend |
-| RSI | 21.24 |
-| MACD | -2.2 |
-| MA20 | 68.97 |
-| MA200 | 79.19 |
-| ATR | 2.19 |
+| RSI | 21.17 |
+| MACD | -2.13 |
+| MA20 | 68.67 |
+| MA200 | 79.07 |
+| ATR | 2.2 |
 | Risk | NORMAL |
-| Stop Loss | 61.9 |
-| Target | 69.56 |
+| Stop Loss | 62.61 |
+| Target | 70.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24693,20 +24693,20 @@
 ### INNOVANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 300.95 |
-| Trend | weak_trend |
-| RSI | 47.84 |
-| MACD | -3.88 |
-| MA20 | 298.6 |
-| MA200 | 352.37 |
-| ATR | 14.0 |
+| Price | 306.4 |
+| Trend | downtrend |
+| RSI | 57.09 |
+| MACD | -2.78 |
+| MA20 | 297.57 |
+| MA200 | 351.78 |
+| ATR | 14.15 |
 | Risk | ELEVATED |
-| Stop Loss | 279.96 |
-| Target | 328.94 |
+| Stop Loss | 285.17 |
+| Target | 334.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KHAICHEM.NS
 | Metric | Value |
@@ -24729,16 +24729,16 @@
 ### FAIRCHEMOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 751.65 |
+| Price | 806.55 |
 | Trend | weak_trend |
-| RSI | 80.56 |
-| MACD | 17.1 |
-| MA20 | 666.0 |
-| MA200 | 639.43 |
-| ATR | 36.56 |
+| RSI | 86.18 |
+| MACD | 24.44 |
+| MA20 | 675.13 |
+| MA200 | 640.09 |
+| ATR | 40.44 |
 | Risk | ELEVATED |
-| Stop Loss | 696.81 |
-| Target | 824.76 |
+| Stop Loss | 745.89 |
+| Target | 887.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24783,16 +24783,16 @@
 ### DHARMAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 256.9 |
-| Trend | downtrend |
-| RSI | 33.6 |
-| MACD | -3.12 |
-| MA20 | 274.6 |
-| MA200 | 258.31 |
-| ATR | 12.32 |
+| Price | 260.35 |
+| Trend | weak_trend |
+| RSI | 36.26 |
+| MACD | -3.52 |
+| MA20 | 274.15 |
+| MA200 | 258.39 |
+| ATR | 12.26 |
 | Risk | ELEVATED |
-| Stop Loss | 238.42 |
-| Target | 281.54 |
+| Stop Loss | 241.95 |
+| Target | 284.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24801,16 +24801,16 @@
 ### BHARATSE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 210.98 |
+| Price | 211.15 |
 | Trend | weak_trend |
-| RSI | 48.5 |
-| MACD | -3.59 |
-| MA20 | 210.86 |
-| MA200 | 191.74 |
-| ATR | 9.35 |
+| RSI | 38.71 |
+| MACD | -3.16 |
+| MA20 | 210.54 |
+| MA200 | 191.95 |
+| ATR | 8.6 |
 | Risk | ELEVATED |
-| Stop Loss | 196.95 |
-| Target | 229.68 |
+| Stop Loss | 198.26 |
+| Target | 228.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24819,34 +24819,34 @@
 ### GALAPREC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1093.1 |
+| Price | 1097.0 |
 | Trend | weak_trend |
-| RSI | 56.04 |
-| MACD | 17.23 |
-| MA20 | 1098.35 |
-| MA200 | 912.62 |
-| ATR | 64.21 |
+| RSI | 54.78 |
+| MACD | 14.37 |
+| MA20 | 1101.65 |
+| MA200 | 914.35 |
+| ATR | 68.29 |
 | Risk | ELEVATED |
-| Stop Loss | 996.78 |
-| Target | 1221.53 |
+| Stop Loss | 994.56 |
+| Target | 1233.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### OSWALGREEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.73 |
+| Price | 18.98 |
 | Trend | downtrend |
-| RSI | 37.91 |
+| RSI | 37.02 |
 | MACD | -0.39 |
-| MA20 | 19.5 |
-| MA200 | 24.73 |
-| ATR | 0.79 |
+| MA20 | 19.45 |
+| MA200 | 24.66 |
+| ATR | 0.78 |
 | Risk | ELEVATED |
-| Stop Loss | 17.54 |
-| Target | 20.31 |
+| Stop Loss | 17.81 |
+| Target | 20.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24855,16 +24855,16 @@
 ### DENTALKART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 470.7 |
+| Price | 460.05 |
 | Trend | weak_trend |
-| RSI | 69.93 |
-| MACD | 17.49 |
-| MA20 | 431.96 |
-| MA200 | 440.69 |
-| ATR | 24.8 |
+| RSI | 68.89 |
+| MACD | 16.77 |
+| MA20 | 435.46 |
+| MA200 | 440.12 |
+| ATR | 25.44 |
 | Risk | ELEVATED |
-| Stop Loss | 433.51 |
-| Target | 520.29 |
+| Stop Loss | 421.89 |
+| Target | 510.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24873,16 +24873,16 @@
 ### DENTA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 256.65 |
+| Price | 255.65 |
 | Trend | downtrend |
-| RSI | 28.82 |
-| MACD | -7.4 |
-| MA20 | 269.61 |
-| MA200 | 283.75 |
-| ATR | 8.93 |
+| RSI | 30.41 |
+| MACD | -7.51 |
+| MA20 | 268.13 |
+| MA200 | 283.36 |
+| ATR | 8.89 |
 | Risk | NORMAL |
-| Stop Loss | 243.26 |
-| Target | 274.5 |
+| Stop Loss | 242.31 |
+| Target | 273.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24909,16 +24909,16 @@
 ### LEMERITE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.79 |
+| Price | 20.29 |
 | Trend | downtrend |
-| RSI | 53.07 |
-| MACD | -0.58 |
-| MA20 | 19.56 |
-| MA200 | 57.96 |
-| ATR | 1.32 |
+| RSI | 58.36 |
+| MACD | -0.47 |
+| MA20 | 19.52 |
+| MA200 | 57.56 |
+| ATR | 1.4 |
 | Risk | ELEVATED |
-| Stop Loss | 16.8 |
-| Target | 21.44 |
+| Stop Loss | 18.2 |
+| Target | 23.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24927,16 +24927,16 @@
 ### SRHHYPOLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 541.3 |
+| Price | 541.55 |
 | Trend | weak_trend |
-| RSI | 24.96 |
-| MACD | 6.71 |
-| MA20 | 553.64 |
-| MA200 | 489.79 |
-| ATR | 32.45 |
+| RSI | 30.01 |
+| MACD | 5.68 |
+| MA20 | 554.68 |
+| MA200 | 489.84 |
+| ATR | 27.64 |
 | Risk | ELEVATED |
-| Stop Loss | 492.62 |
-| Target | 606.21 |
+| Stop Loss | 500.09 |
+| Target | 596.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24945,34 +24945,34 @@
 ### GANDHITUBE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 947.25 |
-| Trend | weak_trend |
-| RSI | 57.24 |
-| MACD | 15.25 |
-| MA20 | 947.46 |
-| MA200 | 839.73 |
-| ATR | 39.58 |
-| Risk | ELEVATED |
-| Stop Loss | 887.89 |
-| Target | 1026.4 |
+| Price | 951.9 |
+| Trend | downtrend |
+| RSI | 35.17 |
+| MACD | 13.68 |
+| MA20 | 950.66 |
+| MA200 | 840.82 |
+| ATR | 30.9 |
+| Risk | NORMAL |
+| Stop Loss | 905.55 |
+| Target | 1013.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### CNL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1055.5 |
+| Price | 1086.1 |
 | Trend | weak_trend |
-| RSI | 33.7 |
-| MACD | -21.95 |
-| MA20 | 1088.12 |
-| MA200 | 806.36 |
-| ATR | 48.44 |
+| RSI | 45.79 |
+| MACD | -19.54 |
+| MA20 | 1086.61 |
+| MA200 | 808.1 |
+| ATR | 47.91 |
 | Risk | ELEVATED |
-| Stop Loss | 982.84 |
-| Target | 1152.38 |
+| Stop Loss | 1014.23 |
+| Target | 1181.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -24981,20 +24981,20 @@
 ### FABTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 131.24 |
+| Price | 137.03 |
 | Trend | downtrend |
-| RSI | 23.02 |
-| MACD | -3.1 |
-| MA20 | 143.86 |
-| MA200 | 156.37 |
-| ATR | 4.81 |
-| Risk | NORMAL |
-| Stop Loss | 124.02 |
-| Target | 140.86 |
+| RSI | 35.81 |
+| MACD | -3.13 |
+| MA20 | 143.36 |
+| MA200 | 155.95 |
+| ATR | 5.85 |
+| Risk | ELEVATED |
+| Stop Loss | 128.25 |
+| Target | 148.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### UTTAMSUGAR.NS
 | Metric | Value |
@@ -25017,16 +25017,16 @@
 ### XCHANGING.NS
 | Metric | Value |
 |--------|-------|
-| Price | 60.76 |
+| Price | 60.12 |
 | Trend | weak_trend |
-| RSI | 48.56 |
+| RSI | 49.47 |
 | MACD | -0.56 |
-| MA20 | 61.07 |
-| MA200 | 64.12 |
-| ATR | 2.21 |
+| MA20 | 60.96 |
+| MA200 | 64.03 |
+| ATR | 2.22 |
 | Risk | NORMAL |
-| Stop Loss | 57.44 |
-| Target | 65.18 |
+| Stop Loss | 56.78 |
+| Target | 64.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25035,16 +25035,16 @@
 ### KRISHIVAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 380.7 |
+| Price | 385.45 |
 | Trend | weak_trend |
-| RSI | 23.7 |
-| MACD | -5.88 |
-| MA20 | 406.39 |
-| MA200 | 368.3 |
-| ATR | 11.59 |
+| RSI | 29.15 |
+| MACD | -6.31 |
+| MA20 | 404.68 |
+| MA200 | 368.11 |
+| ATR | 11.63 |
 | Risk | NORMAL |
-| Stop Loss | 363.32 |
-| Target | 403.88 |
+| Stop Loss | 368.01 |
+| Target | 408.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25053,34 +25053,34 @@
 ### JPOLYINVST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 961.25 |
+| Price | 960.75 |
 | Trend | weak_trend |
-| RSI | 47.98 |
-| MACD | -20.1 |
-| MA20 | 947.48 |
-| MA200 | 1059.46 |
-| ATR | 43.19 |
+| RSI | 48.2 |
+| MACD | -16.34 |
+| MA20 | 946.04 |
+| MA200 | 1059.08 |
+| ATR | 43.49 |
 | Risk | ELEVATED |
-| Stop Loss | 896.47 |
-| Target | 1047.62 |
+| Stop Loss | 895.52 |
+| Target | 1047.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### OSWALAGRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.61 |
+| Price | 31.68 |
 | Trend | downtrend |
-| RSI | 26.03 |
-| MACD | -1.17 |
-| MA20 | 33.66 |
-| MA200 | 44.17 |
-| ATR | 1.54 |
+| RSI | 22.61 |
+| MACD | -1.19 |
+| MA20 | 33.47 |
+| MA200 | 44.03 |
+| ATR | 1.55 |
 | Risk | ELEVATED |
-| Stop Loss | 29.3 |
-| Target | 34.69 |
+| Stop Loss | 29.36 |
+| Target | 34.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25107,16 +25107,16 @@
 ### KODYTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1559.25 |
+| Price | 1524.5 |
 | Trend | weak_trend |
-| RSI | 56.12 |
-| MACD | 24.44 |
-| MA20 | 1510.42 |
-| MA200 | 1034.37 |
-| ATR | 59.92 |
+| RSI | 51.94 |
+| MACD | 22.18 |
+| MA20 | 1513.14 |
+| MA200 | 1037.35 |
+| ATR | 58.23 |
 | Risk | NORMAL |
-| Stop Loss | 1469.37 |
-| Target | 1679.09 |
+| Stop Loss | 1437.15 |
+| Target | 1640.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25125,16 +25125,16 @@
 ### ADSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 108.68 |
+| Price | 107.84 |
 | Trend | downtrend |
-| RSI | 60.71 |
-| MACD | 0.45 |
-| MA20 | 102.94 |
-| MA200 | 116.83 |
-| ATR | 7.29 |
+| RSI | 60.33 |
+| MACD | 0.63 |
+| MA20 | 103.32 |
+| MA200 | 116.61 |
+| ATR | 7.46 |
 | Risk | ELEVATED |
-| Stop Loss | 97.74 |
-| Target | 123.26 |
+| Stop Loss | 96.65 |
+| Target | 122.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25143,16 +25143,16 @@
 ### HEXATRADEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 154.8 |
-| Trend | downtrend |
-| RSI | 37.68 |
-| MACD | -0.7 |
-| MA20 | 156.53 |
-| MA200 | 160.68 |
-| ATR | 5.07 |
+| Price | 157.96 |
+| Trend | weak_trend |
+| RSI | 48.12 |
+| MACD | -0.49 |
+| MA20 | 156.63 |
+| MA200 | 160.67 |
+| ATR | 5.04 |
 | Risk | NORMAL |
-| Stop Loss | 147.19 |
-| Target | 164.95 |
+| Stop Loss | 150.39 |
+| Target | 168.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25161,16 +25161,16 @@
 ### SARTELE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.65 |
+| Price | 84.95 |
 | Trend | downtrend |
-| RSI | 59.46 |
-| MACD | -0.59 |
-| MA20 | 86.84 |
-| MA200 | 154.6 |
-| ATR | 8.52 |
+| RSI | 56.02 |
+| MACD | -1.0 |
+| MA20 | 87.09 |
+| MA200 | 153.9 |
+| ATR | 8.56 |
 | Risk | ELEVATED |
-| Stop Loss | 74.87 |
-| Target | 104.69 |
+| Stop Loss | 72.11 |
+| Target | 102.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25197,16 +25197,16 @@
 ### SILVERTUC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 128.72 |
+| Price | 125.32 |
 | Trend | downtrend |
-| RSI | 13.22 |
-| MACD | -10.63 |
-| MA20 | 143.85 |
-| MA200 | 188.01 |
-| ATR | 8.25 |
+| RSI | 13.67 |
+| MACD | -10.82 |
+| MA20 | 142.5 |
+| MA200 | 184.39 |
+| ATR | 8.02 |
 | Risk | ELEVATED |
-| Stop Loss | 116.35 |
-| Target | 145.21 |
+| Stop Loss | 113.29 |
+| Target | 141.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25215,20 +25215,20 @@
 ### JAYBARMARU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 122.66 |
+| Price | 121.27 |
 | Trend | weak_trend |
-| RSI | 65.05 |
-| MACD | 0.81 |
-| MA20 | 121.26 |
-| MA200 | 116.52 |
-| ATR | 7.03 |
+| RSI | 62.36 |
+| MACD | 0.4 |
+| MA20 | 121.5 |
+| MA200 | 116.69 |
+| ATR | 7.2 |
 | Risk | ELEVATED |
-| Stop Loss | 112.12 |
-| Target | 136.72 |
+| Stop Loss | 110.46 |
+| Target | 135.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KUANTUM.NS
 | Metric | Value |
@@ -25251,16 +25251,16 @@
 ### TNPETRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 115.97 |
+| Price | 114.89 |
 | Trend | weak_trend |
-| RSI | 28.98 |
-| MACD | -0.25 |
-| MA20 | 125.25 |
-| MA200 | 97.98 |
-| ATR | 6.6 |
+| RSI | 29.21 |
+| MACD | -0.85 |
+| MA20 | 124.63 |
+| MA200 | 98.04 |
+| ATR | 6.72 |
 | Risk | ELEVATED |
-| Stop Loss | 106.08 |
-| Target | 129.16 |
+| Stop Loss | 104.81 |
+| Target | 128.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25287,106 +25287,106 @@
 ### PRIMESECU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 312.2 |
-| Trend | uptrend |
-| RSI | 63.47 |
-| MACD | 4.51 |
-| MA20 | 296.31 |
-| MA200 | 282.86 |
-| ATR | 12.56 |
-| Risk | ELEVATED |
-| Stop Loss | 293.35 |
-| Target | 337.33 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
-
-### KARNIKA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 135.15 |
+| Price | 299.7 |
 | Trend | weak_trend |
-| RSI | 79.8 |
-| MACD | 2.37 |
-| MA20 | 121.99 |
-| MA200 | 122.59 |
-| ATR | 5.25 |
-| Risk | NORMAL |
-| Stop Loss | 127.27 |
-| Target | 145.65 |
+| RSI | 58.78 |
+| MACD | 4.19 |
+| MA20 | 297.14 |
+| MA200 | 282.92 |
+| ATR | 12.6 |
+| Risk | ELEVATED |
+| Stop Loss | 280.8 |
+| Target | 324.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
-### IFBAGRO.NS
+### KARNIKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 864.0 |
+| Price | 132.0 |
 | Trend | weak_trend |
-| RSI | 48.02 |
-| MACD | -13.08 |
-| MA20 | 869.97 |
-| MA200 | 992.21 |
-| ATR | 34.41 |
-| Risk | NORMAL |
-| Stop Loss | 812.39 |
-| Target | 932.81 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### BIRLAMONEY.NS
-| Metric | Value |
-|--------|-------|
-| Price | 112.6 |
-| Trend | weak_trend |
-| RSI | 37.0 |
-| MACD | -3.08 |
-| MA20 | 117.07 |
-| MA200 | 131.77 |
-| ATR | 4.85 |
+| RSI | 70.14 |
+| MACD | 2.81 |
+| MA20 | 122.62 |
+| MA200 | 122.66 |
+| ATR | 5.69 |
 | Risk | ELEVATED |
-| Stop Loss | 105.33 |
-| Target | 122.3 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### APS.NS
-| Metric | Value |
-|--------|-------|
-| Price | 215.3 |
-| Trend | downtrend |
-| RSI | 26.71 |
-| MACD | -6.64 |
-| MA20 | 230.13 |
-| MA200 | 307.9 |
-| ATR | 8.73 |
-| Risk | ELEVATED |
-| Stop Loss | 202.2 |
-| Target | 232.76 |
+| Stop Loss | 123.47 |
+| Target | 143.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### IFBAGRO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 874.1 |
+| Trend | downtrend |
+| RSI | 52.67 |
+| MACD | -11.84 |
+| MA20 | 869.45 |
+| MA200 | 989.98 |
+| ATR | 35.1 |
+| Risk | ELEVATED |
+| Stop Loss | 821.44 |
+| Target | 944.31 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
+### BIRLAMONEY.NS
+| Metric | Value |
+|--------|-------|
+| Price | 117.8 |
+| Trend | weak_trend |
+| RSI | 49.07 |
+| MACD | -2.68 |
+| MA20 | 116.9 |
+| MA200 | 131.63 |
+| ATR | 4.99 |
+| Risk | ELEVATED |
+| Stop Loss | 110.31 |
+| Target | 127.78 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### APS.NS
+| Metric | Value |
+|--------|-------|
+| Price | 215.55 |
+| Trend | downtrend |
+| RSI | 22.19 |
+| MACD | -7.05 |
+| MA20 | 228.95 |
+| MA200 | 307.14 |
+| ATR | 8.83 |
+| Risk | ELEVATED |
+| Stop Loss | 202.31 |
+| Target | 233.21 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### PVSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 92.21 |
-| Trend | downtrend |
-| RSI | 33.21 |
-| MACD | -3.02 |
-| MA20 | 96.39 |
-| MA200 | 102.38 |
-| ATR | 4.26 |
+| Price | 94.4 |
+| Trend | weak_trend |
+| RSI | 38.0 |
+| MACD | -2.78 |
+| MA20 | 96.05 |
+| MA200 | 102.24 |
+| ATR | 4.4 |
 | Risk | ELEVATED |
-| Stop Loss | 85.82 |
-| Target | 100.73 |
+| Stop Loss | 87.8 |
+| Target | 103.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25395,16 +25395,16 @@
 ### NCLIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 162.79 |
+| Price | 163.54 |
 | Trend | downtrend |
-| RSI | 30.2 |
-| MACD | -3.0 |
-| MA20 | 171.8 |
-| MA200 | 179.39 |
-| ATR | 5.23 |
+| RSI | 31.93 |
+| MACD | -3.15 |
+| MA20 | 171.23 |
+| MA200 | 179.23 |
+| ATR | 5.28 |
 | Risk | NORMAL |
-| Stop Loss | 154.94 |
-| Target | 173.25 |
+| Stop Loss | 155.62 |
+| Target | 174.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25413,34 +25413,34 @@
 ### BASILIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 211.2 |
-| Trend | downtrend |
-| RSI | 68.94 |
-| MACD | 6.45 |
-| MA20 | 185.26 |
-| MA200 | 224.04 |
-| ATR | 14.07 |
+| Price | 212.9 |
+| Trend | weak_trend |
+| RSI | 71.3 |
+| MACD | 7.22 |
+| MA20 | 186.35 |
+| MA200 | 223.49 |
+| ATR | 14.51 |
 | Risk | ELEVATED |
-| Stop Loss | 190.1 |
-| Target | 239.34 |
+| Stop Loss | 191.13 |
+| Target | 241.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### COOLCAPS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.8 |
+| Price | 20.65 |
 | Trend | downtrend |
-| RSI | 12.17 |
-| MACD | -0.75 |
-| MA20 | 23.41 |
-| MA200 | 31.2 |
-| ATR | 1.5 |
+| RSI | 22.47 |
+| MACD | -0.79 |
+| MA20 | 23.17 |
+| MA200 | 30.94 |
+| ATR | 1.42 |
 | Risk | ELEVATED |
-| Stop Loss | 17.54 |
-| Target | 22.81 |
+| Stop Loss | 18.52 |
+| Target | 23.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25449,16 +25449,16 @@
 ### ELIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 75.4 |
+| Price | 78.26 |
 | Trend | downtrend |
-| RSI | 9.78 |
-| MACD | -5.27 |
-| MA20 | 84.71 |
-| MA200 | 117.24 |
-| ATR | 3.48 |
+| RSI | 17.08 |
+| MACD | -5.07 |
+| MA20 | 84.07 |
+| MA200 | 116.8 |
+| ATR | 3.64 |
 | Risk | ELEVATED |
-| Stop Loss | 70.18 |
-| Target | 82.36 |
+| Stop Loss | 72.8 |
+| Target | 85.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25485,16 +25485,16 @@
 ### REMUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 932.1 |
+| Price | 925.0 |
 | Trend | weak_trend |
-| RSI | 43.09 |
-| MACD | 8.56 |
-| MA20 | 922.48 |
-| MA200 | 750.09 |
-| ATR | 53.92 |
+| RSI | 46.53 |
+| MACD | 8.33 |
+| MA20 | 924.75 |
+| MA200 | 751.03 |
+| ATR | 50.56 |
 | Risk | ELEVATED |
-| Stop Loss | 851.22 |
-| Target | 1039.94 |
+| Stop Loss | 849.15 |
+| Target | 1026.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25505,14 +25505,14 @@
 |--------|-------|
 | Price | 5.03 |
 | Trend | weak_trend |
-| RSI | 40.58 |
+| RSI | 30.51 |
 | MACD | -0.15 |
-| MA20 | 5.2 |
-| MA200 | 6.33 |
-| ATR | 0.19 |
+| MA20 | 5.19 |
+| MA200 | 6.31 |
+| ATR | 0.18 |
 | Risk | NORMAL |
 | Stop Loss | 4.75 |
-| Target | 5.41 |
+| Target | 5.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25521,34 +25521,34 @@
 ### ZUARIIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 277.05 |
+| Price | 273.7 |
 | Trend | weak_trend |
-| RSI | 53.11 |
-| MACD | 1.79 |
-| MA20 | 275.28 |
-| MA200 | 265.04 |
-| ATR | 11.31 |
+| RSI | 49.03 |
+| MACD | 1.38 |
+| MA20 | 275.31 |
+| MA200 | 264.84 |
+| ATR | 11.35 |
 | Risk | ELEVATED |
-| Stop Loss | 260.09 |
-| Target | 299.66 |
+| Stop Loss | 256.68 |
+| Target | 296.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SAURASHCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.65 |
+| Price | 50.71 |
 | Trend | downtrend |
-| RSI | 37.44 |
-| MACD | -1.65 |
-| MA20 | 52.58 |
-| MA200 | 62.29 |
-| ATR | 2.08 |
+| RSI | 41.97 |
+| MACD | -1.59 |
+| MA20 | 52.38 |
+| MA200 | 62.14 |
+| ATR | 2.16 |
 | Risk | ELEVATED |
-| Stop Loss | 46.54 |
-| Target | 53.8 |
+| Stop Loss | 47.48 |
+| Target | 55.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25557,34 +25557,34 @@
 ### EVERESTIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 485.3 |
-| Trend | uptrend |
-| RSI | 66.18 |
-| MACD | 14.85 |
-| MA20 | 444.91 |
-| MA200 | 422.5 |
-| ATR | 29.14 |
+| Price | 491.4 |
+| Trend | weak_trend |
+| RSI | 65.21 |
+| MACD | 15.57 |
+| MA20 | 449.08 |
+| MA200 | 422.48 |
+| ATR | 29.6 |
 | Risk | ELEVATED |
-| Stop Loss | 441.59 |
-| Target | 543.59 |
+| Stop Loss | 446.99 |
+| Target | 550.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### LIKHITHA.NS
 | Metric | Value |
 |--------|-------|
 | Price | 224.19 |
 | Trend | weak_trend |
-| RSI | 54.28 |
-| MACD | 2.32 |
-| MA20 | 225.81 |
-| MA200 | 203.21 |
-| ATR | 11.89 |
+| RSI | 46.63 |
+| MACD | 2.01 |
+| MA20 | 226.17 |
+| MA200 | 203.41 |
+| ATR | 11.4 |
 | Risk | ELEVATED |
-| Stop Loss | 206.36 |
-| Target | 247.97 |
+| Stop Loss | 207.08 |
+| Target | 247.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25593,34 +25593,34 @@
 ### REGAAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 85.27 |
-| Trend | weak_trend |
-| RSI | 53.04 |
-| MACD | -0.72 |
-| MA20 | 86.23 |
-| MA200 | 78.1 |
-| ATR | 5.08 |
+| Price | 90.26 |
+| Trend | downtrend |
+| RSI | 33.66 |
+| MACD | -0.32 |
+| MA20 | 86.57 |
+| MA200 | 78.19 |
+| ATR | 4.36 |
 | Risk | ELEVATED |
-| Stop Loss | 77.65 |
-| Target | 95.43 |
+| Stop Loss | 83.73 |
+| Target | 98.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### UFBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 685.95 |
+| Price | 677.5 |
 | Trend | weak_trend |
-| RSI | 42.84 |
-| MACD | -10.96 |
-| MA20 | 693.3 |
-| MA200 | 463.16 |
-| ATR | 35.41 |
+| RSI | 40.06 |
+| MACD | -11.02 |
+| MA20 | 692.23 |
+| MA200 | 465.68 |
+| ATR | 33.85 |
 | Risk | ELEVATED |
-| Stop Loss | 632.84 |
-| Target | 756.76 |
+| Stop Loss | 626.73 |
+| Target | 745.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25629,16 +25629,16 @@
 ### TVSELECT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 383.0 |
+| Price | 377.05 |
 | Trend | weak_trend |
-| RSI | 44.85 |
-| MACD | -10.39 |
-| MA20 | 394.04 |
-| MA200 | 437.09 |
-| ATR | 18.42 |
+| RSI | 44.46 |
+| MACD | -10.82 |
+| MA20 | 392.2 |
+| MA200 | 436.56 |
+| ATR | 18.72 |
 | Risk | ELEVATED |
-| Stop Loss | 355.37 |
-| Target | 419.84 |
+| Stop Loss | 348.97 |
+| Target | 414.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25647,16 +25647,16 @@
 ### ABCOTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 191.17 |
+| Price | 191.1 |
 | Trend | downtrend |
-| RSI | 28.06 |
-| MACD | -4.01 |
-| MA20 | 199.92 |
-| MA200 | 294.47 |
-| ATR | 8.11 |
+| RSI | 30.18 |
+| MACD | -4.07 |
+| MA20 | 199.32 |
+| MA200 | 293.36 |
+| ATR | 8.22 |
 | Risk | ELEVATED |
-| Stop Loss | 179.0 |
-| Target | 207.39 |
+| Stop Loss | 178.76 |
+| Target | 207.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25665,16 +25665,16 @@
 ### MACPOWER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2000.2 |
+| Price | 1944.3 |
 | Trend | weak_trend |
-| RSI | 52.67 |
-| MACD | 40.32 |
-| MA20 | 2031.5 |
-| MA200 | 1260.97 |
-| ATR | 132.5 |
+| RSI | 39.91 |
+| MACD | 30.35 |
+| MA20 | 2036.64 |
+| MA200 | 1265.86 |
+| ATR | 130.6 |
 | Risk | ELEVATED |
-| Stop Loss | 1801.45 |
-| Target | 2265.2 |
+| Stop Loss | 1748.4 |
+| Target | 2205.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25701,16 +25701,16 @@
 ### TEMBO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.56 |
+| Price | 55.01 |
 | Trend | downtrend |
-| RSI | 41.86 |
-| MACD | -0.48 |
-| MA20 | 56.99 |
-| MA200 | 57.15 |
-| ATR | 2.87 |
+| RSI | 41.53 |
+| MACD | -0.57 |
+| MA20 | 56.94 |
+| MA200 | 57.07 |
+| ATR | 2.86 |
 | Risk | ELEVATED |
-| Stop Loss | 51.26 |
-| Target | 61.29 |
+| Stop Loss | 50.72 |
+| Target | 60.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25719,34 +25719,34 @@
 ### VALIANTORG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 471.85 |
+| Price | 452.1 |
 | Trend | weak_trend |
-| RSI | 62.25 |
-| MACD | 34.88 |
-| MA20 | 433.49 |
-| MA200 | 287.27 |
-| ATR | 30.52 |
+| RSI | 57.86 |
+| MACD | 32.3 |
+| MA20 | 436.28 |
+| MA200 | 288.24 |
+| ATR | 30.32 |
 | Risk | ELEVATED |
-| Stop Loss | 426.07 |
-| Target | 532.89 |
+| Stop Loss | 406.62 |
+| Target | 512.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KABRAEXTRU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 811.0 |
+| Price | 798.75 |
 | Trend | weak_trend |
-| RSI | 65.34 |
-| MACD | 54.53 |
-| MA20 | 755.34 |
-| MA200 | 340.81 |
-| ATR | 50.11 |
+| RSI | 64.99 |
+| MACD | 51.63 |
+| MA20 | 759.12 |
+| MA200 | 343.71 |
+| ATR | 50.8 |
 | Risk | ELEVATED |
-| Stop Loss | 735.84 |
-| Target | 911.21 |
+| Stop Loss | 722.55 |
+| Target | 900.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25755,16 +25755,16 @@
 ### ARROWGREEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 844.95 |
+| Price | 836.35 |
 | Trend | weak_trend |
-| RSI | 43.21 |
-| MACD | 19.19 |
-| MA20 | 875.69 |
-| MA200 | 585.19 |
-| ATR | 45.94 |
+| RSI | 30.89 |
+| MACD | 15.51 |
+| MA20 | 877.11 |
+| MA200 | 586.83 |
+| ATR | 43.99 |
 | Risk | ELEVATED |
-| Stop Loss | 776.04 |
-| Target | 936.84 |
+| Stop Loss | 770.37 |
+| Target | 924.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25773,16 +25773,16 @@
 ### DISHTV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.08 |
+| Price | 2.04 |
 | Trend | downtrend |
-| RSI | 27.71 |
+| RSI | 21.95 |
 | MACD | -0.16 |
-| MA20 | 2.31 |
-| MA200 | 3.06 |
+| MA20 | 2.29 |
+| MA200 | 3.05 |
 | ATR | 0.1 |
 | Risk | ELEVATED |
-| Stop Loss | 1.93 |
-| Target | 2.27 |
+| Stop Loss | 1.89 |
+| Target | 2.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25791,16 +25791,16 @@
 ### CCCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.82 |
-| Trend | downtrend |
-| RSI | 34.06 |
-| MACD | -0.43 |
-| MA20 | 13.4 |
-| MA200 | 15.81 |
-| ATR | 0.64 |
+| Price | 12.99 |
+| Trend | weak_trend |
+| RSI | 37.34 |
+| MACD | -0.41 |
+| MA20 | 13.35 |
+| MA200 | 15.78 |
+| ATR | 0.67 |
 | Risk | ELEVATED |
-| Stop Loss | 11.86 |
-| Target | 14.1 |
+| Stop Loss | 11.99 |
+| Target | 14.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25809,16 +25809,16 @@
 ### TVTODAY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.17 |
-| Trend | downtrend |
-| RSI | 23.78 |
-| MACD | -2.48 |
-| MA20 | 104.97 |
-| MA200 | 116.73 |
-| ATR | 3.92 |
+| Price | 103.37 |
+| Trend | weak_trend |
+| RSI | 31.47 |
+| MACD | -2.3 |
+| MA20 | 104.67 |
+| MA200 | 116.59 |
+| ATR | 3.86 |
 | Risk | NORMAL |
-| Stop Loss | 96.29 |
-| Target | 110.01 |
+| Stop Loss | 97.57 |
+| Target | 111.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25845,16 +25845,16 @@
 ### CHEMFAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 333.9 |
+| Price | 337.2 |
 | Trend | downtrend |
-| RSI | 34.4 |
-| MACD | -9.02 |
-| MA20 | 347.48 |
-| MA200 | 382.64 |
-| ATR | 20.26 |
+| RSI | 39.42 |
+| MACD | -8.4 |
+| MA20 | 345.37 |
+| MA200 | 382.07 |
+| ATR | 20.18 |
 | Risk | ELEVATED |
-| Stop Loss | 303.5 |
-| Target | 374.43 |
+| Stop Loss | 306.93 |
+| Target | 377.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25863,34 +25863,34 @@
 ### SANDESH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 988.55 |
+| Price | 991.0 |
 | Trend | downtrend |
-| RSI | 35.53 |
-| MACD | -9.33 |
-| MA20 | 1018.27 |
-| MA200 | 1004.37 |
-| ATR | 31.81 |
+| RSI | 38.03 |
+| MACD | -10.08 |
+| MA20 | 1017.09 |
+| MA200 | 1003.99 |
+| ATR | 31.52 |
 | Risk | NORMAL |
-| Stop Loss | 940.84 |
-| Target | 1052.16 |
+| Stop Loss | 943.72 |
+| Target | 1054.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DHAMPURSUG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 194.6 |
+| Price | 202.64 |
 | Trend | weak_trend |
-| RSI | 77.36 |
-| MACD | 6.11 |
-| MA20 | 170.92 |
-| MA200 | 141.01 |
-| ATR | 9.21 |
+| RSI | 79.51 |
+| MACD | 7.45 |
+| MA20 | 172.87 |
+| MA200 | 141.41 |
+| ATR | 9.38 |
 | Risk | ELEVATED |
-| Stop Loss | 180.78 |
-| Target | 213.03 |
+| Stop Loss | 188.57 |
+| Target | 221.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25899,16 +25899,16 @@
 ### ANUHPHR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 81.18 |
+| Price | 81.27 |
 | Trend | weak_trend |
-| RSI | 19.14 |
-| MACD | -0.77 |
-| MA20 | 88.9 |
-| MA200 | 78.41 |
-| ATR | 3.52 |
+| RSI | 19.67 |
+| MACD | -1.05 |
+| MA20 | 88.22 |
+| MA200 | 78.43 |
+| ATR | 3.65 |
 | Risk | ELEVATED |
-| Stop Loss | 75.9 |
-| Target | 88.22 |
+| Stop Loss | 75.79 |
+| Target | 88.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25917,34 +25917,34 @@
 ### BLAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 155.96 |
+| Price | 155.08 |
 | Trend | downtrend |
-| RSI | 27.84 |
-| MACD | -2.53 |
-| MA20 | 160.61 |
-| MA200 | 181.73 |
-| ATR | 5.35 |
+| RSI | 28.0 |
+| MACD | -2.62 |
+| MA20 | 160.29 |
+| MA200 | 181.47 |
+| ATR | 5.54 |
 | Risk | NORMAL |
-| Stop Loss | 147.94 |
-| Target | 166.66 |
+| Stop Loss | 146.77 |
+| Target | 166.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MAHASTEEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1110.7 |
+| Price | 1065.6 |
 | Trend | weak_trend |
-| RSI | 48.11 |
-| MACD | -20.06 |
-| MA20 | 1176.94 |
-| MA200 | 931.96 |
-| ATR | 59.88 |
+| RSI | 44.92 |
+| MACD | -25.23 |
+| MA20 | 1166.42 |
+| MA200 | 933.19 |
+| ATR | 59.26 |
 | Risk | ELEVATED |
-| Stop Loss | 1020.88 |
-| Target | 1230.46 |
+| Stop Loss | 976.7 |
+| Target | 1184.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25953,34 +25953,34 @@
 ### SVLL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 811.0 |
-| Trend | weak_trend |
-| RSI | 49.06 |
-| MACD | 4.82 |
-| MA20 | 816.6 |
-| MA200 | 670.42 |
-| ATR | 48.13 |
+| Price | 844.75 |
+| Trend | downtrend |
+| RSI | 45.36 |
+| MACD | 7.0 |
+| MA20 | 819.59 |
+| MA200 | 671.12 |
+| ATR | 46.2 |
 | Risk | ELEVATED |
-| Stop Loss | 738.81 |
-| Target | 907.26 |
+| Stop Loss | 775.45 |
+| Target | 937.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VIVIANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 847.85 |
+| Price | 811.75 |
 | Trend | weak_trend |
-| RSI | 71.7 |
-| MACD | 26.27 |
-| MA20 | 754.04 |
-| MA200 | 751.21 |
-| ATR | 49.32 |
+| RSI | 62.89 |
+| MACD | 25.86 |
+| MA20 | 757.07 |
+| MA200 | 751.74 |
+| ATR | 49.05 |
 | Risk | ELEVATED |
-| Stop Loss | 773.87 |
-| Target | 946.49 |
+| Stop Loss | 738.18 |
+| Target | 909.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -25989,16 +25989,16 @@
 ### SUYOG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 645.9 |
-| Trend | weak_trend |
-| RSI | 49.38 |
-| MACD | -19.49 |
-| MA20 | 659.78 |
-| MA200 | 719.3 |
-| ATR | 42.13 |
+| Price | 647.75 |
+| Trend | downtrend |
+| RSI | 50.85 |
+| MACD | -19.14 |
+| MA20 | 659.64 |
+| MA200 | 719.32 |
+| ATR | 42.15 |
 | Risk | ELEVATED |
-| Stop Loss | 582.71 |
-| Target | 730.15 |
+| Stop Loss | 584.52 |
+| Target | 732.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26007,16 +26007,16 @@
 ### MUNJALAU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 104.19 |
+| Price | 103.66 |
 | Trend | weak_trend |
-| RSI | 47.86 |
+| RSI | 48.38 |
 | MACD | -1.42 |
-| MA20 | 105.35 |
-| MA200 | 90.25 |
-| ATR | 4.86 |
+| MA20 | 105.2 |
+| MA200 | 90.38 |
+| ATR | 4.78 |
 | Risk | ELEVATED |
-| Stop Loss | 96.9 |
-| Target | 113.91 |
+| Stop Loss | 96.49 |
+| Target | 113.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26025,16 +26025,16 @@
 ### AVADHSUGAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 987.25 |
+| Price | 998.2 |
 | Trend | weak_trend |
-| RSI | 84.12 |
-| MACD | 52.61 |
-| MA20 | 804.35 |
-| MA200 | 509.33 |
-| ATR | 47.32 |
+| RSI | 84.57 |
+| MACD | 58.61 |
+| MA20 | 815.78 |
+| MA200 | 512.51 |
+| ATR | 48.24 |
 | Risk | ELEVATED |
-| Stop Loss | 916.27 |
-| Target | 1081.89 |
+| Stop Loss | 925.84 |
+| Target | 1094.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26043,16 +26043,16 @@
 ### NGLFINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2901.3 |
+| Price | 2877.4 |
 | Trend | weak_trend |
-| RSI | 58.11 |
-| MACD | 27.12 |
-| MA20 | 2856.14 |
-| MA200 | 2501.51 |
-| ATR | 159.61 |
+| RSI | 50.96 |
+| MACD | 20.3 |
+| MA20 | 2867.15 |
+| MA200 | 2509.51 |
+| ATR | 153.01 |
 | Risk | ELEVATED |
-| Stop Loss | 2661.88 |
-| Target | 3220.53 |
+| Stop Loss | 2647.89 |
+| Target | 3183.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26061,16 +26061,16 @@
 ### SNOWMAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.33 |
+| Price | 34.38 |
 | Trend | weak_trend |
-| RSI | 39.0 |
-| MACD | -0.62 |
-| MA20 | 34.7 |
-| MA200 | 37.91 |
-| ATR | 1.16 |
+| RSI | 43.63 |
+| MACD | -0.58 |
+| MA20 | 34.62 |
+| MA200 | 37.89 |
+| ATR | 1.14 |
 | Risk | NORMAL |
-| Stop Loss | 32.58 |
-| Target | 36.66 |
+| Stop Loss | 32.68 |
+| Target | 36.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26079,34 +26079,34 @@
 ### DHUNINV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 888.05 |
+| Price | 899.95 |
 | Trend | downtrend |
-| RSI | 24.63 |
-| MACD | -16.56 |
-| MA20 | 969.16 |
-| MA200 | 943.11 |
-| ATR | 34.59 |
+| RSI | 28.49 |
+| MACD | -19.26 |
+| MA20 | 964.41 |
+| MA200 | 941.92 |
+| ATR | 34.35 |
 | Risk | NORMAL |
-| Stop Loss | 836.16 |
-| Target | 957.24 |
+| Stop Loss | 848.43 |
+| Target | 968.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JITFINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 264.35 |
+| Price | 269.1 |
 | Trend | weak_trend |
-| RSI | 34.41 |
-| MACD | -9.87 |
-| MA20 | 277.96 |
-| MA200 | 309.04 |
-| ATR | 13.99 |
+| RSI | 38.98 |
+| MACD | -9.56 |
+| MA20 | 276.9 |
+| MA200 | 309.03 |
+| ATR | 13.84 |
 | Risk | ELEVATED |
-| Stop Loss | 243.37 |
-| Target | 292.33 |
+| Stop Loss | 248.34 |
+| Target | 296.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26115,34 +26115,34 @@
 ### KRYSTAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 639.3 |
-| Trend | downtrend |
-| RSI | 45.8 |
-| MACD | 0.31 |
-| MA20 | 636.78 |
-| MA200 | 595.39 |
-| ATR | 25.93 |
+| Price | 629.75 |
+| Trend | weak_trend |
+| RSI | 46.98 |
+| MACD | -0.25 |
+| MA20 | 637.55 |
+| MA200 | 595.98 |
+| ATR | 25.98 |
 | Risk | ELEVATED |
-| Stop Loss | 600.4 |
-| Target | 691.16 |
+| Stop Loss | 590.79 |
+| Target | 681.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ORICONENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.75 |
-| Trend | downtrend |
-| RSI | 34.93 |
-| MACD | -0.65 |
-| MA20 | 51.99 |
-| MA200 | 59.84 |
-| ATR | 2.97 |
+| Price | 51.78 |
+| Trend | weak_trend |
+| RSI | 35.36 |
+| MACD | -0.59 |
+| MA20 | 52.02 |
+| MA200 | 59.8 |
+| ATR | 2.94 |
 | Risk | ELEVATED |
-| Stop Loss | 46.3 |
-| Target | 56.68 |
+| Stop Loss | 47.38 |
+| Target | 57.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26151,16 +26151,16 @@
 ### STEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 520.6 |
+| Price | 569.25 |
 | Trend | weak_trend |
-| RSI | 7.78 |
-| MACD | -15.67 |
-| MA20 | 600.3 |
-| MA200 | 518.58 |
-| ATR | 33.84 |
+| RSI | 28.19 |
+| MACD | -14.79 |
+| MA20 | 598.2 |
+| MA200 | 518.7 |
+| ATR | 36.71 |
 | Risk | ELEVATED |
-| Stop Loss | 469.84 |
-| Target | 588.28 |
+| Stop Loss | 514.18 |
+| Target | 642.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26169,16 +26169,16 @@
 ### SGIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 615.35 |
+| Price | 601.15 |
 | Trend | weak_trend |
-| RSI | 54.37 |
-| MACD | 3.97 |
-| MA20 | 618.78 |
-| MA200 | 552.13 |
-| ATR | 34.42 |
+| RSI | 39.69 |
+| MACD | 2.35 |
+| MA20 | 619.22 |
+| MA200 | 552.47 |
+| ATR | 32.87 |
 | Risk | ELEVATED |
-| Stop Loss | 563.72 |
-| Target | 684.19 |
+| Stop Loss | 551.85 |
+| Target | 666.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26205,52 +26205,52 @@
 ### CHEMCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 224.72 |
+| Price | 220.95 |
 | Trend | downtrend |
-| RSI | 48.97 |
-| MACD | 3.54 |
-| MA20 | 219.18 |
-| MA200 | 180.15 |
-| ATR | 10.29 |
+| RSI | 44.11 |
+| MACD | 3.51 |
+| MA20 | 219.37 |
+| MA200 | 180.3 |
+| ATR | 10.3 |
 | Risk | ELEVATED |
-| Stop Loss | 209.28 |
-| Target | 245.31 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### VLSFINANCE.NS
-| Metric | Value |
-|--------|-------|
-| Price | 222.01 |
-| Trend | downtrend |
-| RSI | 25.6 |
-| MACD | -5.12 |
-| MA20 | 234.63 |
-| MA200 | 248.15 |
-| ATR | 8.07 |
-| Risk | NORMAL |
-| Stop Loss | 209.9 |
-| Target | 238.16 |
+| Stop Loss | 205.49 |
+| Target | 241.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### VLSFINANCE.NS
+| Metric | Value |
+|--------|-------|
+| Price | 220.29 |
+| Trend | downtrend |
+| RSI | 25.57 |
+| MACD | -5.55 |
+| MA20 | 233.52 |
+| MA200 | 247.77 |
+| ATR | 8.08 |
+| Risk | NORMAL |
+| Stop Loss | 208.17 |
+| Target | 236.45 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### BHAGERIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 380.35 |
+| Price | 387.9 |
 | Trend | weak_trend |
-| RSI | 54.2 |
-| MACD | 26.02 |
-| MA20 | 359.43 |
-| MA200 | 201.58 |
-| ATR | 28.7 |
+| RSI | 59.82 |
+| MACD | 25.52 |
+| MA20 | 362.98 |
+| MA200 | 202.62 |
+| ATR | 28.75 |
 | Risk | ELEVATED |
-| Stop Loss | 337.29 |
-| Target | 437.76 |
+| Stop Loss | 344.77 |
+| Target | 445.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26259,34 +26259,34 @@
 ### ASAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 410.15 |
+| Price | 415.25 |
 | Trend | downtrend |
-| RSI | 28.21 |
-| MACD | -17.5 |
-| MA20 | 434.17 |
-| MA200 | 475.45 |
-| ATR | 14.26 |
+| RSI | 32.38 |
+| MACD | -16.79 |
+| MA20 | 431.81 |
+| MA200 | 475.11 |
+| ATR | 14.71 |
 | Risk | NORMAL |
-| Stop Loss | 388.76 |
-| Target | 438.67 |
+| Stop Loss | 393.18 |
+| Target | 444.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ARFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 106.07 |
+| Price | 108.27 |
 | Trend | weak_trend |
-| RSI | 71.14 |
-| MACD | 4.31 |
-| MA20 | 91.92 |
-| MA200 | 84.69 |
-| ATR | 5.28 |
+| RSI | 76.68 |
+| MACD | 4.86 |
+| MA20 | 93.04 |
+| MA200 | 84.9 |
+| ATR | 5.42 |
 | Risk | ELEVATED |
-| Stop Loss | 98.14 |
-| Target | 116.64 |
+| Stop Loss | 100.14 |
+| Target | 119.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26295,20 +26295,20 @@
 ### SARLAPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 94.79 |
+| Price | 97.54 |
 | Trend | weak_trend |
-| RSI | 41.53 |
-| MACD | -1.25 |
-| MA20 | 96.87 |
-| MA200 | 91.24 |
-| ATR | 3.36 |
+| RSI | 46.58 |
+| MACD | -1.04 |
+| MA20 | 96.73 |
+| MA200 | 91.31 |
+| ATR | 3.35 |
 | Risk | NORMAL |
-| Stop Loss | 89.74 |
-| Target | 101.52 |
+| Stop Loss | 92.52 |
+| Target | 104.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### COFFEEDAY.NS
 | Metric | Value |
@@ -26331,34 +26331,34 @@
 ### BIGBLOC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.92 |
+| Price | 34.12 |
 | Trend | downtrend |
-| RSI | 29.45 |
-| MACD | -1.76 |
-| MA20 | 38.63 |
-| MA200 | 50.84 |
-| ATR | 1.95 |
+| RSI | 22.5 |
+| MACD | -1.88 |
+| MA20 | 38.3 |
+| MA200 | 50.68 |
+| ATR | 2.0 |
 | Risk | ELEVATED |
-| Stop Loss | 32.0 |
-| Target | 38.81 |
+| Stop Loss | 31.12 |
+| Target | 38.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### OWAIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 64.15 |
+| Price | 61.1 |
 | Trend | downtrend |
-| RSI | 15.52 |
-| MACD | -3.74 |
-| MA20 | 71.62 |
-| MA200 | 142.39 |
-| ATR | 2.45 |
-| Risk | NORMAL |
-| Stop Loss | 60.47 |
-| Target | 69.06 |
+| RSI | 6.52 |
+| MACD | -4.05 |
+| MA20 | 70.85 |
+| MA200 | 141.33 |
+| ATR | 2.47 |
+| Risk | ELEVATED |
+| Stop Loss | 57.4 |
+| Target | 66.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26367,34 +26367,34 @@
 ### ZTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 471.0 |
-| Trend | weak_trend |
-| RSI | 73.26 |
-| MACD | -0.56 |
-| MA20 | 438.32 |
-| MA200 | 552.84 |
-| ATR | 20.68 |
+| Price | 469.0 |
+| Trend | downtrend |
+| RSI | 65.36 |
+| MACD | 0.48 |
+| MA20 | 440.02 |
+| MA200 | 552.18 |
+| ATR | 19.12 |
 | Risk | ELEVATED |
-| Stop Loss | 439.99 |
-| Target | 512.35 |
+| Stop Loss | 440.32 |
+| Target | 507.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AMBIKCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1511.7 |
+| Price | 1514.5 |
 | Trend | weak_trend |
-| RSI | 36.34 |
-| MACD | -25.94 |
-| MA20 | 1536.7 |
-| MA200 | 1465.44 |
-| ATR | 41.99 |
+| RSI | 37.69 |
+| MACD | -24.37 |
+| MA20 | 1534.59 |
+| MA200 | 1466.82 |
+| ATR | 42.11 |
 | Risk | NORMAL |
-| Stop Loss | 1448.72 |
-| Target | 1595.67 |
+| Stop Loss | 1451.34 |
+| Target | 1598.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26403,16 +26403,16 @@
 ### UNITEDPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.92 |
+| Price | 49.43 |
 | Trend | weak_trend |
-| RSI | 65.69 |
-| MACD | 2.56 |
-| MA20 | 46.42 |
-| MA200 | 31.87 |
-| ATR | 2.76 |
+| RSI | 65.64 |
+| MACD | 2.5 |
+| MA20 | 46.73 |
+| MA200 | 31.97 |
+| ATR | 2.97 |
 | Risk | ELEVATED |
-| Stop Loss | 45.79 |
-| Target | 55.43 |
+| Stop Loss | 44.98 |
+| Target | 55.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26421,16 +26421,16 @@
 ### VHLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.04 |
+| Price | 148.11 |
 | Trend | weak_trend |
-| RSI | 75.7 |
-| MACD | 4.58 |
-| MA20 | 129.51 |
-| MA200 | 134.69 |
-| ATR | 5.73 |
-| Risk | NORMAL |
-| Stop Loss | 141.44 |
-| Target | 161.5 |
+| RSI | 76.08 |
+| MACD | 5.37 |
+| MA20 | 130.97 |
+| MA200 | 134.77 |
+| ATR | 6.21 |
+| Risk | ELEVATED |
+| Stop Loss | 138.8 |
+| Target | 160.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26457,16 +26457,16 @@
 ### INDOBORAX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 489.1 |
+| Price | 479.15 |
 | Trend | weak_trend |
-| RSI | 58.74 |
-| MACD | 3.06 |
-| MA20 | 472.31 |
-| MA200 | 322.95 |
-| ATR | 25.26 |
+| RSI | 55.06 |
+| MACD | 2.89 |
+| MA20 | 472.04 |
+| MA200 | 324.1 |
+| ATR | 26.59 |
 | Risk | ELEVATED |
-| Stop Loss | 451.2 |
-| Target | 539.63 |
+| Stop Loss | 439.26 |
+| Target | 532.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26511,15 +26511,15 @@
 ### ELDEHSG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 776.05 |
+| Price | 777.05 |
 | Trend | weak_trend |
-| RSI | 48.04 |
-| MACD | -0.55 |
-| MA20 | 771.29 |
-| MA200 | 820.57 |
-| ATR | 26.22 |
+| RSI | 49.01 |
+| MACD | -0.17 |
+| MA20 | 771.41 |
+| MA200 | 819.62 |
+| ATR | 25.72 |
 | Risk | NORMAL |
-| Stop Loss | 736.71 |
+| Stop Loss | 738.46 |
 | Target | 828.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -26529,16 +26529,16 @@
 ### NINSYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 799.2 |
+| Price | 804.6 |
 | Trend | weak_trend |
-| RSI | 70.67 |
-| MACD | 24.12 |
-| MA20 | 751.53 |
-| MA200 | 576.5 |
-| ATR | 33.0 |
+| RSI | 72.4 |
+| MACD | 23.84 |
+| MA20 | 756.23 |
+| MA200 | 578.49 |
+| ATR | 34.51 |
 | Risk | ELEVATED |
-| Stop Loss | 749.7 |
-| Target | 865.2 |
+| Stop Loss | 752.83 |
+| Target | 873.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26547,16 +26547,16 @@
 ### MALLCOM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 896.85 |
+| Price | 905.0 |
 | Trend | downtrend |
-| RSI | 21.44 |
-| MACD | -19.94 |
-| MA20 | 932.48 |
-| MA200 | 1046.15 |
-| ATR | 26.43 |
+| RSI | 29.52 |
+| MACD | -19.55 |
+| MA20 | 930.27 |
+| MA200 | 1044.99 |
+| ATR | 25.25 |
 | Risk | NORMAL |
-| Stop Loss | 857.2 |
-| Target | 949.71 |
+| Stop Loss | 867.13 |
+| Target | 955.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26565,16 +26565,16 @@
 ### BODALCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 177.77 |
+| Price | 176.41 |
 | Trend | weak_trend |
-| RSI | 37.94 |
-| MACD | 11.04 |
-| MA20 | 187.07 |
-| MA200 | 78.0 |
-| ATR | 13.16 |
+| RSI | 39.6 |
+| MACD | 9.75 |
+| MA20 | 187.27 |
+| MA200 | 78.62 |
+| ATR | 12.72 |
 | Risk | ELEVATED |
-| Stop Loss | 158.03 |
-| Target | 204.08 |
+| Stop Loss | 157.34 |
+| Target | 201.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26583,52 +26583,52 @@
 ### MUKKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.31 |
+| Price | 27.44 |
 | Trend | weak_trend |
-| RSI | 31.63 |
-| MACD | -0.3 |
-| MA20 | 27.5 |
-| MA200 | 23.99 |
+| RSI | 50.63 |
+| MACD | -0.22 |
+| MA20 | 27.26 |
+| MA200 | 24.0 |
 | ATR | 1.23 |
 | Risk | ELEVATED |
-| Stop Loss | 24.47 |
-| Target | 28.77 |
+| Stop Loss | 25.59 |
+| Target | 29.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TECHLABS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 111.65 |
+| Price | 104.8 |
 | Trend | downtrend |
-| RSI | 27.89 |
-| MACD | -2.6 |
-| MA20 | 117.28 |
-| MA200 | 181.84 |
-| ATR | 6.61 |
+| RSI | 27.24 |
+| MACD | -3.13 |
+| MA20 | 116.06 |
+| MA200 | 180.87 |
+| ATR | 6.35 |
 | Risk | ELEVATED |
-| Stop Loss | 101.73 |
-| Target | 124.88 |
+| Stop Loss | 95.27 |
+| Target | 117.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MUFTI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.62 |
+| Price | 69.27 |
 | Trend | downtrend |
-| RSI | 33.96 |
-| MACD | -1.69 |
-| MA20 | 71.23 |
-| MA200 | 81.37 |
-| ATR | 2.29 |
+| RSI | 34.16 |
+| MACD | -1.62 |
+| MA20 | 71.06 |
+| MA200 | 81.24 |
+| ATR | 2.31 |
 | Risk | NORMAL |
-| Stop Loss | 65.19 |
-| Target | 73.19 |
+| Stop Loss | 65.81 |
+| Target | 73.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26637,34 +26637,34 @@
 ### KAMATHOTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 247.39 |
+| Price | 246.2 |
 | Trend | weak_trend |
-| RSI | 59.25 |
-| MACD | 9.82 |
-| MA20 | 236.97 |
-| MA200 | 193.95 |
-| ATR | 10.16 |
+| RSI | 57.66 |
+| MACD | 9.15 |
+| MA20 | 238.07 |
+| MA200 | 194.0 |
+| ATR | 10.35 |
 | Risk | ELEVATED |
-| Stop Loss | 232.16 |
-| Target | 267.7 |
+| Stop Loss | 230.68 |
+| Target | 266.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SATIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.47 |
+| Price | 67.97 |
 | Trend | weak_trend |
-| RSI | 60.93 |
-| MACD | 1.55 |
-| MA20 | 67.97 |
-| MA200 | 62.08 |
-| ATR | 2.15 |
+| RSI | 54.26 |
+| MACD | 1.41 |
+| MA20 | 67.99 |
+| MA200 | 62.09 |
+| ATR | 2.27 |
 | Risk | NORMAL |
-| Stop Loss | 66.25 |
-| Target | 73.77 |
+| Stop Loss | 64.57 |
+| Target | 72.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26691,20 +26691,20 @@
 ### KECL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 121.6 |
+| Price | 118.77 |
 | Trend | weak_trend |
-| RSI | 54.58 |
-| MACD | -0.92 |
-| MA20 | 122.3 |
-| MA200 | 110.88 |
-| ATR | 6.41 |
+| RSI | 46.48 |
+| MACD | -1.21 |
+| MA20 | 122.02 |
+| MA200 | 110.98 |
+| ATR | 6.27 |
 | Risk | ELEVATED |
-| Stop Loss | 111.98 |
-| Target | 134.43 |
+| Stop Loss | 109.37 |
+| Target | 131.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### NAHARSPING.NS
 | Metric | Value |
@@ -26727,16 +26727,16 @@
 ### KAMDHENU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 37.35 |
+| Price | 36.86 |
 | Trend | weak_trend |
-| RSI | 23.25 |
-| MACD | -0.07 |
-| MA20 | 38.82 |
-| MA200 | 27.69 |
-| ATR | 2.04 |
+| RSI | 24.48 |
+| MACD | -0.14 |
+| MA20 | 38.73 |
+| MA200 | 27.77 |
+| ATR | 1.95 |
 | Risk | ELEVATED |
-| Stop Loss | 34.28 |
-| Target | 41.44 |
+| Stop Loss | 33.94 |
+| Target | 40.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26745,16 +26745,16 @@
 ### RITCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 272.1 |
+| Price | 272.7 |
 | Trend | weak_trend |
-| RSI | 38.24 |
-| MACD | -6.74 |
-| MA20 | 284.8 |
-| MA200 | 256.07 |
-| ATR | 10.58 |
+| RSI | 34.2 |
+| MACD | -6.84 |
+| MA20 | 283.4 |
+| MA200 | 256.04 |
+| ATR | 10.61 |
 | Risk | NORMAL |
-| Stop Loss | 256.23 |
-| Target | 293.26 |
+| Stop Loss | 256.79 |
+| Target | 293.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26763,16 +26763,16 @@
 ### APEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 336.45 |
+| Price | 338.05 |
 | Trend | weak_trend |
-| RSI | 41.71 |
-| MACD | -10.31 |
-| MA20 | 344.69 |
-| MA200 | 379.36 |
-| ATR | 13.3 |
+| RSI | 39.3 |
+| MACD | -9.64 |
+| MA20 | 343.16 |
+| MA200 | 379.63 |
+| ATR | 13.45 |
 | Risk | NORMAL |
-| Stop Loss | 316.51 |
-| Target | 363.04 |
+| Stop Loss | 317.88 |
+| Target | 364.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26781,16 +26781,16 @@
 ### KOPRAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 261.5 |
+| Price | 264.35 |
 | Trend | weak_trend |
-| RSI | 41.39 |
-| MACD | 8.83 |
-| MA20 | 269.86 |
-| MA200 | 173.29 |
-| ATR | 16.67 |
+| RSI | 45.0 |
+| MACD | 8.03 |
+| MA20 | 271.32 |
+| MA200 | 173.98 |
+| ATR | 17.28 |
 | Risk | ELEVATED |
-| Stop Loss | 236.49 |
-| Target | 294.85 |
+| Stop Loss | 238.43 |
+| Target | 298.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26817,52 +26817,52 @@
 ### ATL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.7 |
-| Trend | uptrend |
-| RSI | 63.52 |
-| MACD | 0.26 |
-| MA20 | 24.89 |
+| Price | 26.72 |
+| Trend | weak_trend |
+| RSI | 63.36 |
+| MACD | 0.35 |
+| MA20 | 24.97 |
 | MA200 | 24.76 |
-| ATR | 1.29 |
+| ATR | 1.3 |
 | Risk | ELEVATED |
 | Stop Loss | 24.77 |
-| Target | 29.27 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
-
-### PATELRMART.NS
-| Metric | Value |
-|--------|-------|
-| Price | 245.46 |
-| Trend | weak_trend |
-| RSI | 85.11 |
-| MACD | 4.84 |
-| MA20 | 214.68 |
-| MA200 | 203.47 |
-| ATR | 8.74 |
-| Risk | NORMAL |
-| Stop Loss | 232.36 |
-| Target | 262.93 |
+| Target | 29.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
+### PATELRMART.NS
+| Metric | Value |
+|--------|-------|
+| Price | 240.3 |
+| Trend | weak_trend |
+| RSI | 77.69 |
+| MACD | 5.7 |
+| MA20 | 216.15 |
+| MA200 | 203.64 |
+| ATR | 9.17 |
+| Risk | NORMAL |
+| Stop Loss | 226.54 |
+| Target | 258.65 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### 20MICRONS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 198.59 |
+| Price | 197.19 |
 | Trend | weak_trend |
-| RSI | 29.35 |
-| MACD | -2.72 |
-| MA20 | 208.39 |
-| MA200 | 187.8 |
-| ATR | 8.03 |
+| RSI | 30.69 |
+| MACD | -3.12 |
+| MA20 | 207.85 |
+| MA200 | 187.83 |
+| ATR | 8.05 |
 | Risk | ELEVATED |
-| Stop Loss | 186.55 |
-| Target | 214.64 |
+| Stop Loss | 185.12 |
+| Target | 213.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26871,16 +26871,16 @@
 ### RUBYMILLS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 484.05 |
+| Price | 492.05 |
 | Trend | weak_trend |
-| RSI | 57.34 |
-| MACD | 18.43 |
-| MA20 | 481.63 |
-| MA200 | 297.04 |
-| ATR | 32.59 |
+| RSI | 60.43 |
+| MACD | 17.38 |
+| MA20 | 483.6 |
+| MA200 | 298.39 |
+| ATR | 33.17 |
 | Risk | ELEVATED |
-| Stop Loss | 435.17 |
-| Target | 549.23 |
+| Stop Loss | 442.3 |
+| Target | 558.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26907,34 +26907,34 @@
 ### ESFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 120.0 |
-| Trend | downtrend |
-| RSI | 39.91 |
-| MACD | -1.76 |
+| Price | 119.9 |
+| Trend | weak_trend |
+| RSI | 41.26 |
+| MACD | -1.34 |
 | MA20 | 118.84 |
-| MA200 | 131.47 |
-| ATR | 4.53 |
+| MA200 | 131.31 |
+| ATR | 4.45 |
 | Risk | NORMAL |
-| Stop Loss | 113.21 |
-| Target | 129.06 |
+| Stop Loss | 113.22 |
+| Target | 128.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PROZONER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.0 |
+| Price | 52.95 |
 | Trend | weak_trend |
-| RSI | 50.26 |
-| MACD | 1.34 |
-| MA20 | 53.54 |
-| MA200 | 50.06 |
-| ATR | 3.29 |
+| RSI | 51.97 |
+| MACD | 1.22 |
+| MA20 | 53.55 |
+| MA200 | 50.07 |
+| ATR | 3.23 |
 | Risk | ELEVATED |
-| Stop Loss | 48.06 |
-| Target | 59.58 |
+| Stop Loss | 48.1 |
+| Target | 59.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26961,16 +26961,16 @@
 ### TREL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.71 |
+| Price | 25.42 |
 | Trend | downtrend |
-| RSI | 42.6 |
-| MACD | -0.23 |
-| MA20 | 27.4 |
-| MA200 | 25.89 |
-| ATR | 1.55 |
+| RSI | 34.78 |
+| MACD | -0.32 |
+| MA20 | 27.33 |
+| MA200 | 25.86 |
+| ATR | 1.51 |
 | Risk | ELEVATED |
-| Stop Loss | 23.38 |
-| Target | 28.81 |
+| Stop Loss | 23.15 |
+| Target | 28.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -26979,52 +26979,52 @@
 ### LINC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 82.3 |
+| Price | 84.12 |
 | Trend | downtrend |
-| RSI | 27.66 |
-| MACD | -3.02 |
-| MA20 | 89.6 |
-| MA200 | 101.11 |
-| ATR | 3.5 |
+| RSI | 31.05 |
+| MACD | -3.01 |
+| MA20 | 89.03 |
+| MA200 | 100.99 |
+| ATR | 3.58 |
 | Risk | ELEVATED |
-| Stop Loss | 77.05 |
-| Target | 89.3 |
+| Stop Loss | 78.75 |
+| Target | 91.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MVKAGRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 237.55 |
+| Price | 249.4 |
 | Trend | downtrend |
-| RSI | 52.29 |
-| MACD | -3.31 |
-| MA20 | 241.9 |
-| MA200 | 453.82 |
-| ATR | 13.64 |
+| RSI | 62.13 |
+| MACD | -2.0 |
+| MA20 | 239.38 |
+| MA200 | 451.47 |
+| ATR | 13.68 |
 | Risk | ELEVATED |
-| Stop Loss | 217.09 |
-| Target | 264.83 |
+| Stop Loss | 228.88 |
+| Target | 276.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KSOLVES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 245.11 |
+| Price | 246.65 |
 | Trend | weak_trend |
-| RSI | 43.33 |
-| MACD | -6.09 |
-| MA20 | 249.66 |
-| MA200 | 279.93 |
-| ATR | 9.17 |
+| RSI | 46.12 |
+| MACD | -5.68 |
+| MA20 | 249.09 |
+| MA200 | 279.78 |
+| ATR | 9.39 |
 | Risk | NORMAL |
-| Stop Loss | 231.35 |
-| Target | 263.45 |
+| Stop Loss | 232.56 |
+| Target | 265.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27033,16 +27033,16 @@
 ### LAXMIINDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 111.04 |
+| Price | 109.2 |
 | Trend | downtrend |
-| RSI | 30.8 |
-| MACD | -4.65 |
-| MA20 | 118.77 |
-| MA200 | 111.86 |
-| ATR | 5.65 |
+| RSI | 30.59 |
+| MACD | -4.7 |
+| MA20 | 117.78 |
+| MA200 | 111.78 |
+| ATR | 5.43 |
 | Risk | ELEVATED |
-| Stop Loss | 102.56 |
-| Target | 122.34 |
+| Stop Loss | 101.06 |
+| Target | 120.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27051,34 +27051,34 @@
 ### GEECEE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 365.4 |
+| Price | 365.2 |
 | Trend | weak_trend |
-| RSI | 45.19 |
-| MACD | -2.1 |
-| MA20 | 366.62 |
-| MA200 | 322.82 |
-| ATR | 20.3 |
+| RSI | 46.05 |
+| MACD | -1.75 |
+| MA20 | 366.66 |
+| MA200 | 322.97 |
+| ATR | 20.7 |
 | Risk | ELEVATED |
-| Stop Loss | 334.96 |
-| Target | 405.99 |
+| Stop Loss | 334.16 |
+| Target | 406.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RUSHIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.27 |
+| Price | 15.17 |
 | Trend | downtrend |
-| RSI | 37.02 |
-| MACD | -0.3 |
-| MA20 | 15.91 |
-| MA200 | 17.32 |
-| ATR | 0.77 |
+| RSI | 28.57 |
+| MACD | -0.31 |
+| MA20 | 15.88 |
+| MA200 | 17.28 |
+| ATR | 0.7 |
 | Risk | ELEVATED |
 | Stop Loss | 14.12 |
-| Target | 16.8 |
+| Target | 16.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27087,16 +27087,16 @@
 ### NBIFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1840.0 |
+| Price | 1823.1 |
 | Trend | downtrend |
-| RSI | 32.64 |
+| RSI | 30.26 |
 | MACD | -46.32 |
-| MA20 | 1908.92 |
-| MA200 | 1986.63 |
-| ATR | 52.36 |
+| MA20 | 1899.08 |
+| MA200 | 1984.52 |
+| ATR | 51.08 |
 | Risk | NORMAL |
-| Stop Loss | 1761.45 |
-| Target | 1944.73 |
+| Stop Loss | 1746.48 |
+| Target | 1925.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27123,16 +27123,16 @@
 ### THEINVEST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.41 |
+| Price | 89.44 |
 | Trend | downtrend |
-| RSI | 32.14 |
-| MACD | -1.73 |
-| MA20 | 92.82 |
-| MA200 | 101.27 |
-| ATR | 3.73 |
+| RSI | 32.53 |
+| MACD | -1.75 |
+| MA20 | 92.45 |
+| MA200 | 101.13 |
+| ATR | 3.7 |
 | Risk | ELEVATED |
-| Stop Loss | 83.81 |
-| Target | 96.87 |
+| Stop Loss | 83.9 |
+| Target | 96.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27141,16 +27141,16 @@
 ### PVP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 48.43 |
+| Price | 49.05 |
 | Trend | weak_trend |
-| RSI | 31.73 |
-| MACD | -1.48 |
-| MA20 | 57.19 |
-| MA200 | 35.17 |
-| ATR | 3.54 |
+| RSI | 26.91 |
+| MACD | -1.7 |
+| MA20 | 56.4 |
+| MA200 | 35.24 |
+| ATR | 3.6 |
 | Risk | ELEVATED |
-| Stop Loss | 43.12 |
-| Target | 55.51 |
+| Stop Loss | 43.65 |
+| Target | 56.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27159,16 +27159,16 @@
 ### PPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 245.95 |
+| Price | 243.8 |
 | Trend | weak_trend |
-| RSI | 31.43 |
-| MACD | -5.62 |
-| MA20 | 260.37 |
-| MA200 | 231.54 |
-| ATR | 13.32 |
+| RSI | 27.16 |
+| MACD | -5.89 |
+| MA20 | 258.4 |
+| MA200 | 231.57 |
+| ATR | 12.77 |
 | Risk | ELEVATED |
-| Stop Loss | 225.97 |
-| Target | 272.59 |
+| Stop Loss | 224.65 |
+| Target | 269.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27177,16 +27177,16 @@
 ### RSWM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 194.12 |
+| Price | 195.62 |
 | Trend | weak_trend |
-| RSI | 11.93 |
-| MACD | -3.8 |
-| MA20 | 211.44 |
-| MA200 | 175.35 |
-| ATR | 8.66 |
+| RSI | 15.93 |
+| MACD | -4.2 |
+| MA20 | 210.31 |
+| MA200 | 175.58 |
+| ATR | 8.4 |
 | Risk | ELEVATED |
-| Stop Loss | 181.13 |
-| Target | 211.43 |
+| Stop Loss | 183.01 |
+| Target | 212.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27195,16 +27195,16 @@
 ### DMCC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 357.25 |
+| Price | 342.2 |
 | Trend | weak_trend |
-| RSI | 76.1 |
-| MACD | 16.36 |
-| MA20 | 306.15 |
-| MA200 | 260.09 |
-| ATR | 21.62 |
+| RSI | 67.48 |
+| MACD | 16.3 |
+| MA20 | 308.89 |
+| MA200 | 260.54 |
+| ATR | 22.5 |
 | Risk | ELEVATED |
-| Stop Loss | 324.82 |
-| Target | 400.49 |
+| Stop Loss | 308.46 |
+| Target | 387.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27213,16 +27213,16 @@
 ### SHIVALIK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 355.05 |
+| Price | 356.45 |
 | Trend | weak_trend |
-| RSI | 35.29 |
-| MACD | 8.89 |
-| MA20 | 385.53 |
-| MA200 | 285.45 |
-| ATR | 25.06 |
+| RSI | 27.21 |
+| MACD | 6.89 |
+| MA20 | 385.27 |
+| MA200 | 285.43 |
+| ATR | 23.4 |
 | Risk | ELEVATED |
-| Stop Loss | 317.45 |
-| Target | 405.18 |
+| Stop Loss | 321.34 |
+| Target | 403.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27231,16 +27231,16 @@
 ### RKSWAMY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 86.32 |
+| Price | 87.42 |
 | Trend | weak_trend |
-| RSI | 43.54 |
-| MACD | -1.77 |
-| MA20 | 88.86 |
-| MA200 | 96.3 |
-| ATR | 4.0 |
+| RSI | 49.01 |
+| MACD | -1.69 |
+| MA20 | 88.58 |
+| MA200 | 96.17 |
+| ATR | 3.93 |
 | Risk | ELEVATED |
-| Stop Loss | 80.32 |
-| Target | 94.33 |
+| Stop Loss | 81.52 |
+| Target | 95.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27249,16 +27249,16 @@
 ### NAHARPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 219.45 |
+| Price | 222.4 |
 | Trend | weak_trend |
-| RSI | 46.02 |
-| MACD | -4.75 |
-| MA20 | 225.28 |
-| MA200 | 242.54 |
-| ATR | 10.03 |
+| RSI | 37.95 |
+| MACD | -4.52 |
+| MA20 | 224.81 |
+| MA200 | 242.44 |
+| ATR | 9.41 |
 | Risk | ELEVATED |
-| Stop Loss | 204.41 |
-| Target | 239.5 |
+| Stop Loss | 208.28 |
+| Target | 241.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27285,16 +27285,16 @@
 ### SUBEXLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.75 |
+| Price | 19.21 |
 | Trend | weak_trend |
-| RSI | 45.71 |
-| MACD | 0.3 |
-| MA20 | 19.9 |
-| MA200 | 12.18 |
-| ATR | 1.3 |
+| RSI | 49.22 |
+| MACD | 0.26 |
+| MA20 | 19.82 |
+| MA200 | 12.21 |
+| ATR | 1.32 |
 | Risk | ELEVATED |
-| Stop Loss | 16.8 |
-| Target | 21.36 |
+| Stop Loss | 17.22 |
+| Target | 21.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27339,15 +27339,15 @@
 ### ZEEMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.12 |
+| Price | 7.19 |
 | Trend | weak_trend |
-| RSI | 42.75 |
-| MACD | -0.24 |
-| MA20 | 7.29 |
-| MA200 | 8.18 |
-| ATR | 0.29 |
-| Risk | ELEVATED |
-| Stop Loss | 6.68 |
+| RSI | 33.63 |
+| MACD | -0.23 |
+| MA20 | 7.28 |
+| MA200 | 8.17 |
+| ATR | 0.26 |
+| Risk | NORMAL |
+| Stop Loss | 6.8 |
 | Target | 7.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -27357,34 +27357,34 @@
 ### SEJALLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 695.7 |
-| Trend | downtrend |
-| RSI | 54.0 |
-| MACD | -0.13 |
-| MA20 | 670.86 |
-| MA200 | 696.0 |
-| ATR | 40.17 |
+| Price | 730.0 |
+| Trend | weak_trend |
+| RSI | 63.76 |
+| MACD | 4.28 |
+| MA20 | 675.05 |
+| MA200 | 695.46 |
+| ATR | 41.83 |
 | Risk | ELEVATED |
-| Stop Loss | 635.44 |
-| Target | 776.04 |
+| Stop Loss | 667.25 |
+| Target | 813.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### GLOSTERLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 541.0 |
+| Price | 532.55 |
 | Trend | weak_trend |
-| RSI | 31.83 |
-| MACD | -16.47 |
-| MA20 | 559.48 |
-| MA200 | 606.8 |
-| ATR | 16.61 |
+| RSI | 31.2 |
+| MACD | -16.6 |
+| MA20 | 556.95 |
+| MA200 | 606.3 |
+| ATR | 15.62 |
 | Risk | NORMAL |
-| Stop Loss | 516.08 |
-| Target | 574.23 |
+| Stop Loss | 509.12 |
+| Target | 563.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27393,20 +27393,20 @@
 ### MINDTECK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 140.27 |
+| Price | 144.72 |
 | Trend | downtrend |
-| RSI | 29.01 |
-| MACD | -7.83 |
-| MA20 | 151.44 |
-| MA200 | 193.68 |
-| ATR | 6.77 |
+| RSI | 33.07 |
+| MACD | -7.37 |
+| MA20 | 150.74 |
+| MA200 | 193.41 |
+| ATR | 7.16 |
 | Risk | ELEVATED |
-| Stop Loss | 130.12 |
-| Target | 153.8 |
+| Stop Loss | 133.99 |
+| Target | 159.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AHCL.NS
 | Metric | Value |
@@ -27429,20 +27429,20 @@
 ### NRAIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 706.1 |
-| Trend | weak_trend |
-| RSI | 65.53 |
-| MACD | 28.15 |
-| MA20 | 650.25 |
-| MA200 | 480.15 |
-| ATR | 45.87 |
+| Price | 754.1 |
+| Trend | uptrend |
+| RSI | 68.4 |
+| MACD | 33.78 |
+| MA20 | 656.56 |
+| MA200 | 481.56 |
+| ATR | 51.01 |
 | Risk | ELEVATED |
-| Stop Loss | 637.3 |
-| Target | 797.84 |
+| Stop Loss | 677.58 |
+| Target | 856.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### HARDWYN.NS
 | Metric | Value |
@@ -27465,16 +27465,16 @@
 ### DREAMFOLKS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 61.65 |
+| Price | 60.66 |
 | Trend | downtrend |
-| RSI | 39.61 |
-| MACD | -1.67 |
-| MA20 | 62.75 |
-| MA200 | 77.27 |
-| ATR | 1.97 |
+| RSI | 37.29 |
+| MACD | -1.61 |
+| MA20 | 62.48 |
+| MA200 | 77.02 |
+| ATR | 2.08 |
 | Risk | NORMAL |
-| Stop Loss | 58.69 |
-| Target | 65.6 |
+| Stop Loss | 57.54 |
+| Target | 64.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27483,16 +27483,16 @@
 ### CELLECOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.4 |
-| Trend | downtrend |
-| RSI | 51.23 |
-| MACD | -0.69 |
-| MA20 | 29.7 |
+| Price | 28.95 |
+| Trend | weak_trend |
+| RSI | 40.14 |
+| MACD | -0.68 |
+| MA20 | 29.62 |
 | MA200 | 31.77 |
-| ATR | 1.18 |
-| Risk | ELEVATED |
-| Stop Loss | 27.63 |
-| Target | 31.76 |
+| ATR | 1.11 |
+| Risk | NORMAL |
+| Stop Loss | 27.28 |
+| Target | 31.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27501,16 +27501,16 @@
 ### ONWARDTEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 332.45 |
+| Price | 326.95 |
 | Trend | weak_trend |
-| RSI | 78.34 |
-| MACD | 6.19 |
-| MA20 | 291.86 |
-| MA200 | 271.51 |
-| ATR | 11.17 |
+| RSI | 76.25 |
+| MACD | 7.92 |
+| MA20 | 294.02 |
+| MA200 | 271.87 |
+| ATR | 11.57 |
 | Risk | NORMAL |
-| Stop Loss | 315.69 |
-| Target | 354.79 |
+| Stop Loss | 309.59 |
+| Target | 350.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27519,16 +27519,16 @@
 ### SHREERAMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 42.03 |
+| Price | 41.03 |
 | Trend | downtrend |
-| RSI | 45.22 |
-| MACD | -0.28 |
-| MA20 | 43.79 |
-| MA200 | 48.27 |
-| ATR | 2.06 |
+| RSI | 39.92 |
+| MACD | -0.42 |
+| MA20 | 43.48 |
+| MA200 | 48.19 |
+| ATR | 2.07 |
 | Risk | ELEVATED |
-| Stop Loss | 38.94 |
-| Target | 46.16 |
+| Stop Loss | 37.92 |
+| Target | 45.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27537,34 +27537,34 @@
 ### ACL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.1 |
+| Price | 38.51 |
 | Trend | downtrend |
-| RSI | 18.71 |
-| MACD | -1.37 |
-| MA20 | 41.02 |
-| MA200 | 52.64 |
-| ATR | 1.37 |
+| RSI | 13.67 |
+| MACD | -1.39 |
+| MA20 | 40.81 |
+| MA200 | 52.48 |
+| ATR | 1.42 |
 | Risk | NORMAL |
-| Stop Loss | 37.04 |
-| Target | 41.84 |
+| Stop Loss | 36.37 |
+| Target | 41.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### JAYAGROGN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 210.75 |
+| Price | 222.03 |
 | Trend | weak_trend |
-| RSI | 30.72 |
-| MACD | -5.03 |
-| MA20 | 224.71 |
-| MA200 | 203.3 |
-| ATR | 7.98 |
+| RSI | 42.15 |
+| MACD | -4.34 |
+| MA20 | 223.61 |
+| MA200 | 203.42 |
+| ATR | 8.14 |
 | Risk | NORMAL |
-| Stop Loss | 198.77 |
-| Target | 226.72 |
+| Stop Loss | 209.83 |
+| Target | 238.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27573,34 +27573,34 @@
 ### ACCENTMIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 661.75 |
+| Price | 678.35 |
 | Trend | weak_trend |
-| RSI | 35.68 |
-| MACD | 8.92 |
-| MA20 | 672.88 |
-| MA200 | 458.18 |
-| ATR | 18.74 |
+| RSI | 51.05 |
+| MACD | 9.52 |
+| MA20 | 670.51 |
+| MA200 | 459.88 |
+| ATR | 19.84 |
 | Risk | NORMAL |
-| Stop Loss | 633.64 |
-| Target | 699.24 |
+| Stop Loss | 648.6 |
+| Target | 718.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### APTECHT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 86.28 |
+| Price | 87.16 |
 | Trend | downtrend |
-| RSI | 20.98 |
-| MACD | -1.46 |
-| MA20 | 88.77 |
-| MA200 | 91.11 |
-| ATR | 2.97 |
+| RSI | 31.49 |
+| MACD | -1.38 |
+| MA20 | 88.72 |
+| MA200 | 91.1 |
+| ATR | 2.95 |
 | Risk | NORMAL |
-| Stop Loss | 81.83 |
-| Target | 92.21 |
+| Stop Loss | 82.73 |
+| Target | 93.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27609,16 +27609,16 @@
 ### MANBA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 142.08 |
+| Price | 140.67 |
 | Trend | weak_trend |
-| RSI | 60.7 |
-| MACD | 2.76 |
-| MA20 | 137.89 |
-| MA200 | 125.8 |
-| ATR | 5.82 |
+| RSI | 58.17 |
+| MACD | 2.6 |
+| MA20 | 138.31 |
+| MA200 | 125.81 |
+| ATR | 5.76 |
 | Risk | ELEVATED |
-| Stop Loss | 133.35 |
-| Target | 153.71 |
+| Stop Loss | 132.03 |
+| Target | 152.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27627,52 +27627,52 @@
 ### MAANALU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.72 |
+| Price | 99.09 |
 | Trend | weak_trend |
-| RSI | 40.89 |
-| MACD | -3.29 |
-| MA20 | 103.07 |
-| MA200 | 132.06 |
-| ATR | 4.84 |
+| RSI | 38.77 |
+| MACD | -3.33 |
+| MA20 | 102.51 |
+| MA200 | 131.71 |
+| ATR | 4.47 |
 | Risk | ELEVATED |
-| Stop Loss | 93.46 |
-| Target | 110.4 |
+| Stop Loss | 92.38 |
+| Target | 108.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### EMKAY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 265.1 |
+| Price | 269.45 |
 | Trend | weak_trend |
-| RSI | 55.17 |
-| MACD | 5.62 |
-| MA20 | 267.68 |
-| MA200 | 247.34 |
-| ATR | 15.97 |
+| RSI | 52.65 |
+| MACD | 4.95 |
+| MA20 | 268.61 |
+| MA200 | 247.38 |
+| ATR | 15.04 |
 | Risk | ELEVATED |
-| Stop Loss | 241.14 |
-| Target | 297.04 |
+| Stop Loss | 246.9 |
+| Target | 299.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### URJA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.34 |
+| Price | 8.39 |
 | Trend | downtrend |
-| RSI | 20.49 |
+| RSI | 24.0 |
 | MACD | -0.21 |
-| MA20 | 8.79 |
-| MA200 | 9.86 |
+| MA20 | 8.76 |
+| MA200 | 9.84 |
 | ATR | 0.25 |
 | Risk | NORMAL |
-| Stop Loss | 7.97 |
-| Target | 8.83 |
+| Stop Loss | 8.02 |
+| Target | 8.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27681,16 +27681,16 @@
 ### IRIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 211.77 |
+| Price | 215.91 |
 | Trend | downtrend |
-| RSI | 23.29 |
-| MACD | -8.15 |
-| MA20 | 229.36 |
-| MA200 | 252.18 |
-| ATR | 10.39 |
+| RSI | 32.34 |
+| MACD | -8.07 |
+| MA20 | 227.89 |
+| MA200 | 251.78 |
+| ATR | 10.69 |
 | Risk | ELEVATED |
-| Stop Loss | 196.19 |
-| Target | 232.55 |
+| Stop Loss | 199.87 |
+| Target | 237.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27699,16 +27699,16 @@
 ### VISAKAIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.59 |
+| Price | 85.05 |
 | Trend | weak_trend |
-| RSI | 28.58 |
-| MACD | -2.25 |
-| MA20 | 88.16 |
-| MA200 | 73.14 |
-| ATR | 4.45 |
+| RSI | 33.25 |
+| MACD | -2.09 |
+| MA20 | 87.89 |
+| MA200 | 73.25 |
+| ATR | 4.57 |
 | Risk | ELEVATED |
-| Stop Loss | 76.91 |
-| Target | 92.49 |
+| Stop Loss | 78.19 |
+| Target | 94.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27717,16 +27717,16 @@
 ### MODIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 417.25 |
+| Price | 415.3 |
 | Trend | weak_trend |
-| RSI | 87.01 |
-| MACD | 5.49 |
-| MA20 | 367.36 |
-| MA200 | 348.38 |
-| ATR | 16.22 |
-| Risk | NORMAL |
-| Stop Loss | 392.92 |
-| Target | 449.69 |
+| RSI | 85.16 |
+| MACD | 7.78 |
+| MA20 | 369.85 |
+| MA200 | 348.77 |
+| ATR | 17.05 |
+| Risk | ELEVATED |
+| Stop Loss | 389.72 |
+| Target | 449.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27735,16 +27735,16 @@
 ### MMP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 494.85 |
+| Price | 486.8 |
 | Trend | weak_trend |
-| RSI | 54.47 |
-| MACD | 21.76 |
-| MA20 | 469.28 |
-| MA200 | 294.79 |
-| ATR | 28.03 |
+| RSI | 56.96 |
+| MACD | 20.89 |
+| MA20 | 470.12 |
+| MA200 | 295.98 |
+| ATR | 26.37 |
 | Risk | ELEVATED |
-| Stop Loss | 452.81 |
-| Target | 550.9 |
+| Stop Loss | 447.25 |
+| Target | 539.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27753,34 +27753,34 @@
 ### HINDCOMPOS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 435.85 |
+| Price | 439.45 |
 | Trend | weak_trend |
-| RSI | 80.74 |
-| MACD | 6.5 |
-| MA20 | 389.26 |
-| MA200 | 416.4 |
-| ATR | 18.09 |
+| RSI | 82.03 |
+| MACD | 8.79 |
+| MA20 | 392.51 |
+| MA200 | 416.51 |
+| ATR | 19.01 |
 | Risk | ELEVATED |
-| Stop Loss | 408.72 |
-| Target | 472.03 |
+| Stop Loss | 410.94 |
+| Target | 477.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PARSVNATH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.37 |
+| Price | 2.41 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 0.16 |
-| MA20 | 2.02 |
-| MA200 | 5.19 |
+| MACD | 0.17 |
+| MA20 | 2.06 |
+| MA200 | 5.15 |
 | ATR | 0.04 |
 | Risk | LOW |
-| Stop Loss | 2.32 |
-| Target | 2.44 |
+| Stop Loss | 2.35 |
+| Target | 2.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27789,16 +27789,16 @@
 ### ENIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.57 |
+| Price | 89.03 |
 | Trend | downtrend |
-| RSI | 10.2 |
-| MACD | -2.6 |
-| MA20 | 96.14 |
-| MA200 | 106.22 |
-| ATR | 3.36 |
+| RSI | 10.08 |
+| MACD | -2.74 |
+| MA20 | 95.63 |
+| MA200 | 106.08 |
+| ATR | 3.34 |
 | Risk | NORMAL |
-| Stop Loss | 84.53 |
-| Target | 96.29 |
+| Stop Loss | 84.03 |
+| Target | 95.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27807,34 +27807,34 @@
 ### PAKKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.37 |
+| Price | 71.17 |
 | Trend | downtrend |
-| RSI | 26.02 |
-| MACD | -1.69 |
-| MA20 | 74.17 |
-| MA200 | 85.46 |
-| ATR | 2.94 |
-| Risk | ELEVATED |
+| RSI | 28.76 |
+| MACD | -1.66 |
+| MA20 | 73.9 |
+| MA200 | 85.31 |
+| ATR | 2.8 |
+| Risk | NORMAL |
 | Stop Loss | 66.96 |
-| Target | 77.25 |
+| Target | 76.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GFLLIMITED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.36 |
-| Trend | downtrend |
-| RSI | 47.83 |
-| MACD | 0.19 |
+| Price | 58.25 |
+| Trend | weak_trend |
+| RSI | 53.93 |
+| MACD | 0.36 |
 | MA20 | 56.0 |
 | MA200 | 49.47 |
-| ATR | 2.71 |
+| ATR | 2.82 |
 | Risk | ELEVATED |
-| Stop Loss | 52.3 |
-| Target | 61.77 |
+| Stop Loss | 54.01 |
+| Target | 63.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27861,16 +27861,16 @@
 ### CSLFINANCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 203.43 |
+| Price | 209.15 |
 | Trend | downtrend |
-| RSI | 20.28 |
-| MACD | -4.33 |
-| MA20 | 212.32 |
-| MA200 | 231.79 |
-| ATR | 6.87 |
+| RSI | 33.76 |
+| MACD | -3.96 |
+| MA20 | 211.73 |
+| MA200 | 231.31 |
+| ATR | 7.25 |
 | Risk | NORMAL |
-| Stop Loss | 193.13 |
-| Target | 217.16 |
+| Stop Loss | 198.27 |
+| Target | 223.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27879,34 +27879,34 @@
 ### GCSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 723.45 |
+| Price | 736.65 |
 | Trend | weak_trend |
-| RSI | 88.07 |
-| MACD | 36.17 |
-| MA20 | 654.48 |
-| MA200 | 431.47 |
-| ATR | 17.4 |
+| RSI | 88.93 |
+| MACD | 37.93 |
+| MA20 | 661.28 |
+| MA200 | 433.4 |
+| ATR | 16.54 |
 | Risk | NORMAL |
-| Stop Loss | 697.34 |
-| Target | 758.26 |
+| Stop Loss | 711.84 |
+| Target | 769.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CHEVIOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1142.5 |
+| Price | 1141.5 |
 | Trend | weak_trend |
-| RSI | 38.49 |
-| MACD | -5.48 |
-| MA20 | 1167.7 |
-| MA200 | 1085.11 |
-| ATR | 26.59 |
+| RSI | 37.04 |
+| MACD | -6.25 |
+| MA20 | 1164.38 |
+| MA200 | 1085.64 |
+| ATR | 24.92 |
 | Risk | NORMAL |
-| Stop Loss | 1102.62 |
-| Target | 1195.67 |
+| Stop Loss | 1104.12 |
+| Target | 1191.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27915,16 +27915,16 @@
 ### SCHAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 138.18 |
+| Price | 137.13 |
 | Trend | weak_trend |
-| RSI | 55.33 |
-| MACD | 1.07 |
-| MA20 | 139.8 |
-| MA200 | 149.56 |
-| ATR | 6.63 |
+| RSI | 54.55 |
+| MACD | 0.65 |
+| MA20 | 139.77 |
+| MA200 | 149.45 |
+| ATR | 6.71 |
 | Risk | ELEVATED |
-| Stop Loss | 128.23 |
-| Target | 151.45 |
+| Stop Loss | 127.07 |
+| Target | 150.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27933,16 +27933,16 @@
 ### KILITCH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 239.14 |
+| Price | 235.26 |
 | Trend | weak_trend |
-| RSI | 67.03 |
-| MACD | 15.78 |
-| MA20 | 218.09 |
-| MA200 | 174.18 |
-| ATR | 16.6 |
+| RSI | 61.44 |
+| MACD | 14.86 |
+| MA20 | 220.55 |
+| MA200 | 174.51 |
+| ATR | 17.36 |
 | Risk | ELEVATED |
-| Stop Loss | 214.24 |
-| Target | 272.34 |
+| Stop Loss | 209.22 |
+| Target | 269.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27951,16 +27951,16 @@
 ### KRITI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.55 |
+| Price | 55.81 |
 | Trend | downtrend |
-| RSI | 43.29 |
-| MACD | -1.53 |
-| MA20 | 60.13 |
-| MA200 | 73.49 |
-| ATR | 3.5 |
+| RSI | 39.25 |
+| MACD | -1.67 |
+| MA20 | 59.85 |
+| MA200 | 73.34 |
+| ATR | 3.56 |
 | Risk | ELEVATED |
-| Stop Loss | 51.3 |
-| Target | 63.55 |
+| Stop Loss | 50.48 |
+| Target | 62.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27969,16 +27969,16 @@
 ### DBEIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.35 |
+| Price | 6.26 |
 | Trend | downtrend |
-| RSI | 24.19 |
-| MACD | -0.13 |
-| MA20 | 6.68 |
-| MA200 | 8.02 |
+| RSI | 21.97 |
+| MACD | -0.15 |
+| MA20 | 6.64 |
+| MA200 | 8.0 |
 | ATR | 0.43 |
 | Risk | ELEVATED |
-| Stop Loss | 5.71 |
-| Target | 7.21 |
+| Stop Loss | 5.62 |
+| Target | 7.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -27987,16 +27987,16 @@
 ### INDSWFTLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 361.05 |
+| Price | 361.35 |
 | Trend | weak_trend |
-| RSI | 43.3 |
-| MACD | 6.43 |
-| MA20 | 387.28 |
-| MA200 | 197.58 |
-| ATR | 24.54 |
+| RSI | 30.09 |
+| MACD | 4.38 |
+| MA20 | 386.08 |
+| MA200 | 198.91 |
+| ATR | 23.44 |
 | Risk | ELEVATED |
-| Stop Loss | 324.25 |
-| Target | 410.12 |
+| Stop Loss | 326.19 |
+| Target | 408.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28005,16 +28005,16 @@
 ### VERTOZ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.91 |
+| Price | 32.26 |
 | Trend | downtrend |
-| RSI | 1.14 |
-| MACD | -1.43 |
-| MA20 | 35.56 |
-| MA200 | 45.35 |
-| ATR | 2.28 |
+| RSI | 19.01 |
+| MACD | -1.46 |
+| MA20 | 35.26 |
+| MA200 | 45.14 |
+| ATR | 2.32 |
 | Risk | ELEVATED |
-| Stop Loss | 27.49 |
-| Target | 35.47 |
+| Stop Loss | 28.78 |
+| Target | 36.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28023,16 +28023,16 @@
 ### FOODSIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.54 |
+| Price | 49.05 |
 | Trend | downtrend |
-| RSI | 34.24 |
+| RSI | 28.77 |
 | MACD | -1.46 |
-| MA20 | 51.81 |
-| MA200 | 57.88 |
-| ATR | 1.77 |
+| MA20 | 51.52 |
+| MA200 | 57.77 |
+| ATR | 1.83 |
 | Risk | NORMAL |
-| Stop Loss | 46.88 |
-| Target | 53.08 |
+| Stop Loss | 46.31 |
+| Target | 52.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28041,16 +28041,16 @@
 ### SICALLOG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 85.28 |
+| Price | 84.77 |
 | Trend | weak_trend |
-| RSI | 26.64 |
-| MACD | -3.76 |
-| MA20 | 90.77 |
-| MA200 | 84.18 |
-| ATR | 3.97 |
+| RSI | 26.7 |
+| MACD | -3.8 |
+| MA20 | 90.11 |
+| MA200 | 84.11 |
+| ATR | 3.86 |
 | Risk | ELEVATED |
-| Stop Loss | 79.33 |
-| Target | 93.22 |
+| Stop Loss | 78.98 |
+| Target | 92.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28059,16 +28059,16 @@
 ### MWL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.23 |
+| Price | 40.65 |
 | Trend | weak_trend |
-| RSI | 43.3 |
-| MACD | 0.37 |
+| RSI | 43.09 |
+| MACD | 0.24 |
 | MA20 | 42.12 |
-| MA200 | 33.65 |
-| ATR | 1.59 |
+| MA200 | 33.72 |
+| ATR | 1.57 |
 | Risk | NORMAL |
-| Stop Loss | 38.84 |
-| Target | 44.42 |
+| Stop Loss | 38.3 |
+| Target | 43.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28077,20 +28077,20 @@
 ### ASIANHOTNR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 340.4 |
+| Price | 327.1 |
 | Trend | weak_trend |
-| RSI | 32.67 |
-| MACD | -5.74 |
-| MA20 | 363.58 |
-| MA200 | 312.58 |
-| ATR | 18.55 |
+| RSI | 21.95 |
+| MACD | -6.92 |
+| MA20 | 360.99 |
+| MA200 | 312.61 |
+| ATR | 18.37 |
 | Risk | ELEVATED |
-| Stop Loss | 312.58 |
-| Target | 377.49 |
+| Stop Loss | 299.54 |
+| Target | 363.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GANESHBE.NS
 | Metric | Value |
@@ -28114,33 +28114,33 @@
 | Metric | Value |
 |--------|-------|
 | Price | 56.91 |
-| Trend | downtrend |
-| RSI | 29.41 |
-| MACD | -3.78 |
-| MA20 | 60.53 |
-| MA200 | 67.06 |
-| ATR | 3.68 |
+| Trend | weak_trend |
+| RSI | 30.42 |
+| MACD | -3.58 |
+| MA20 | 60.0 |
+| MA200 | 66.94 |
+| ATR | 3.63 |
 | Risk | ELEVATED |
-| Stop Loss | 51.39 |
-| Target | 64.27 |
+| Stop Loss | 51.47 |
+| Target | 64.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BORANA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 264.5 |
+| Price | 267.4 |
 | Trend | downtrend |
-| RSI | 26.94 |
-| MACD | -12.6 |
-| MA20 | 285.86 |
-| MA200 | 328.61 |
-| ATR | 12.58 |
+| RSI | 31.78 |
+| MACD | -12.23 |
+| MA20 | 283.56 |
+| MA200 | 328.56 |
+| ATR | 12.4 |
 | Risk | ELEVATED |
-| Stop Loss | 245.64 |
-| Target | 289.65 |
+| Stop Loss | 248.79 |
+| Target | 292.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28152,9 +28152,9 @@
 | Price | 277.9 |
 | Trend | weak_trend |
 | RSI | 32.48 |
-| MACD | -13.61 |
-| MA20 | 291.3 |
-| MA200 | 475.72 |
+| MACD | -13.04 |
+| MA20 | 289.8 |
+| MA200 | 473.55 |
 | ATR | 3.08 |
 | Risk | LOW |
 | Stop Loss | 273.28 |
@@ -28167,20 +28167,20 @@
 ### SHALPAINTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 78.6 |
-| Trend | weak_trend |
-| RSI | 47.12 |
-| MACD | -0.83 |
-| MA20 | 78.69 |
-| MA200 | 61.93 |
-| ATR | 4.56 |
+| Price | 81.63 |
+| Trend | uptrend |
+| RSI | 57.22 |
+| MACD | -0.46 |
+| MA20 | 78.49 |
+| MA200 | 62.06 |
+| ATR | 4.39 |
 | Risk | ELEVATED |
-| Stop Loss | 71.76 |
-| Target | 87.72 |
+| Stop Loss | 75.04 |
+| Target | 90.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### SBGLP.NS
 | Metric | Value |
@@ -28203,38 +28203,38 @@
 ### TOLINS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 85.58 |
+| Price | 89.56 |
 | Trend | weak_trend |
-| RSI | 40.5 |
-| MACD | -1.8 |
-| MA20 | 87.84 |
-| MA200 | 106.58 |
-| ATR | 3.66 |
+| RSI | 49.92 |
+| MACD | -1.5 |
+| MA20 | 87.85 |
+| MA200 | 106.36 |
+| ATR | 3.75 |
 | Risk | ELEVATED |
-| Stop Loss | 80.09 |
-| Target | 92.9 |
+| Stop Loss | 83.94 |
+| Target | 97.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ONMOBILE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.44 |
-| Trend | downtrend |
-| RSI | 56.28 |
-| MACD | -0.62 |
-| MA20 | 50.73 |
-| MA200 | 54.34 |
-| ATR | 2.71 |
+| Price | 55.0 |
+| Trend | uptrend |
+| RSI | 55.04 |
+| MACD | -0.25 |
+| MA20 | 51.13 |
+| MA200 | 54.31 |
+| ATR | 2.82 |
 | Risk | ELEVATED |
-| Stop Loss | 49.37 |
-| Target | 58.86 |
+| Stop Loss | 50.77 |
+| Target | 60.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### GLOTTIS.NS
 | Metric | Value |
@@ -28257,16 +28257,16 @@
 ### IRISDOREME.NS
 | Metric | Value |
 |--------|-------|
-| Price | 58.99 |
+| Price | 58.27 |
 | Trend | weak_trend |
-| RSI | 27.92 |
-| MACD | -0.04 |
-| MA20 | 61.83 |
-| MA200 | 41.98 |
-| ATR | 3.43 |
+| RSI | 18.04 |
+| MACD | -0.21 |
+| MA20 | 61.67 |
+| MA200 | 42.09 |
+| ATR | 3.25 |
 | Risk | ELEVATED |
-| Stop Loss | 53.84 |
-| Target | 65.85 |
+| Stop Loss | 53.4 |
+| Target | 64.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28275,16 +28275,16 @@
 ### NILASPACES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.2 |
+| Price | 11.16 |
 | Trend | downtrend |
-| RSI | 31.75 |
-| MACD | -0.33 |
-| MA20 | 11.58 |
-| MA200 | 13.17 |
-| ATR | 0.52 |
+| RSI | 32.52 |
+| MACD | -0.32 |
+| MA20 | 11.52 |
+| MA200 | 13.15 |
+| ATR | 0.51 |
 | Risk | ELEVATED |
-| Stop Loss | 10.42 |
-| Target | 12.24 |
+| Stop Loss | 10.39 |
+| Target | 12.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28293,16 +28293,16 @@
 ### GIRIRAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.25 |
+| Price | 50.1 |
 | Trend | downtrend |
-| RSI | 8.4 |
-| MACD | -7.57 |
-| MA20 | 68.08 |
-| MA200 | 138.81 |
-| ATR | 5.75 |
+| RSI | 9.15 |
+| MACD | -7.75 |
+| MA20 | 66.36 |
+| MA200 | 138.09 |
+| ATR | 5.57 |
 | Risk | ELEVATED |
-| Stop Loss | 41.62 |
-| Target | 61.76 |
+| Stop Loss | 41.74 |
+| Target | 61.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28311,16 +28311,16 @@
 ### SILINV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 456.9 |
+| Price | 467.85 |
 | Trend | weak_trend |
-| RSI | 56.52 |
-| MACD | 1.27 |
-| MA20 | 448.52 |
-| MA200 | 442.31 |
-| ATR | 19.34 |
+| RSI | 61.73 |
+| MACD | 2.28 |
+| MA20 | 448.72 |
+| MA200 | 442.08 |
+| ATR | 18.83 |
 | Risk | ELEVATED |
-| Stop Loss | 427.9 |
-| Target | 495.57 |
+| Stop Loss | 439.61 |
+| Target | 505.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28329,16 +28329,16 @@
 ### SPECIALITY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 143.2 |
+| Price | 143.98 |
 | Trend | weak_trend |
-| RSI | 48.77 |
-| MACD | 2.02 |
-| MA20 | 148.0 |
-| MA200 | 117.36 |
-| ATR | 6.66 |
+| RSI | 40.01 |
+| MACD | 1.49 |
+| MA20 | 148.11 |
+| MA200 | 117.51 |
+| ATR | 6.51 |
 | Risk | ELEVATED |
-| Stop Loss | 133.22 |
-| Target | 156.51 |
+| Stop Loss | 134.21 |
+| Target | 157.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28347,16 +28347,16 @@
 ### GPECO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 417.0 |
+| Price | 411.7 |
 | Trend | weak_trend |
-| RSI | 54.73 |
-| MACD | 6.53 |
+| RSI | 52.43 |
+| MACD | 5.31 |
 | MA20 | 410.81 |
-| MA200 | 391.38 |
-| ATR | 19.89 |
+| MA200 | 391.26 |
+| ATR | 19.79 |
 | Risk | ELEVATED |
-| Stop Loss | 387.16 |
-| Target | 456.79 |
+| Stop Loss | 382.02 |
+| Target | 451.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28383,16 +28383,16 @@
 ### MOS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.8 |
+| Price | 6.0 |
 | Trend | weak_trend |
-| RSI | 47.42 |
-| MACD | -0.66 |
+| RSI | 42.7 |
+| MACD | -0.64 |
 | MA20 | 6.41 |
-| MA200 | 14.41 |
-| ATR | 0.46 |
+| MA200 | 14.32 |
+| ATR | 0.44 |
 | Risk | ELEVATED |
-| Stop Loss | 5.1 |
-| Target | 6.73 |
+| Stop Loss | 5.34 |
+| Target | 6.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28401,16 +28401,16 @@
 ### SUTLEJTEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.84 |
+| Price | 34.98 |
 | Trend | weak_trend |
-| RSI | 32.0 |
-| MACD | -0.96 |
-| MA20 | 37.33 |
-| MA200 | 34.83 |
-| ATR | 1.85 |
+| RSI | 28.77 |
+| MACD | -0.99 |
+| MA20 | 37.11 |
+| MA200 | 34.84 |
+| ATR | 1.81 |
 | Risk | ELEVATED |
-| Stop Loss | 32.06 |
-| Target | 38.55 |
+| Stop Loss | 32.27 |
+| Target | 38.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28419,16 +28419,16 @@
 ### RPPINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.59 |
-| Trend | downtrend |
-| RSI | 40.09 |
-| MACD | -1.48 |
-| MA20 | 53.23 |
-| MA200 | 70.76 |
-| ATR | 2.49 |
+| Price | 51.53 |
+| Trend | weak_trend |
+| RSI | 38.11 |
+| MACD | -1.43 |
+| MA20 | 52.79 |
+| MA200 | 70.54 |
+| ATR | 2.43 |
 | Risk | ELEVATED |
-| Stop Loss | 46.86 |
-| Target | 55.57 |
+| Stop Loss | 47.89 |
+| Target | 56.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28437,16 +28437,16 @@
 ### PYRAMID.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.63 |
+| Price | 150.75 |
 | Trend | downtrend |
 | RSI | 38.24 |
-| MACD | -2.1 |
-| MA20 | 156.08 |
-| MA200 | 160.14 |
-| ATR | 6.17 |
+| MACD | -2.22 |
+| MA20 | 155.73 |
+| MA200 | 160.09 |
+| ATR | 6.16 |
 | Risk | ELEVATED |
-| Stop Loss | 141.38 |
-| Target | 162.96 |
+| Stop Loss | 141.51 |
+| Target | 163.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28455,16 +28455,16 @@
 ### PRIMO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.49 |
+| Price | 26.09 |
 | Trend | weak_trend |
-| RSI | 63.35 |
-| MACD | 1.06 |
-| MA20 | 24.45 |
-| MA200 | 22.53 |
-| ATR | 2.07 |
+| RSI | 60.84 |
+| MACD | 1.03 |
+| MA20 | 24.57 |
+| MA200 | 22.55 |
+| ATR | 2.01 |
 | Risk | ELEVATED |
-| Stop Loss | 23.39 |
-| Target | 30.63 |
+| Stop Loss | 23.08 |
+| Target | 30.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28473,16 +28473,16 @@
 ### FOCUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.83 |
+| Price | 52.44 |
 | Trend | downtrend |
-| RSI | 31.3 |
-| MACD | -2.89 |
-| MA20 | 57.78 |
-| MA200 | 72.7 |
-| ATR | 2.73 |
+| RSI | 28.22 |
+| MACD | -2.95 |
+| MA20 | 57.31 |
+| MA200 | 72.59 |
+| ATR | 2.96 |
 | Risk | ELEVATED |
-| Stop Loss | 49.74 |
-| Target | 59.29 |
+| Stop Loss | 48.0 |
+| Target | 58.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28491,16 +28491,16 @@
 ### SJLOGISTIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 312.0 |
+| Price | 310.2 |
 | Trend | downtrend |
-| RSI | 49.16 |
-| MACD | -3.53 |
-| MA20 | 313.32 |
-| MA200 | 321.51 |
-| ATR | 10.51 |
+| RSI | 47.18 |
+| MACD | -3.37 |
+| MA20 | 312.97 |
+| MA200 | 321.31 |
+| ATR | 10.31 |
 | Risk | NORMAL |
-| Stop Loss | 296.23 |
-| Target | 333.03 |
+| Stop Loss | 294.74 |
+| Target | 330.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28509,16 +28509,16 @@
 ### TARACHAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 45.48 |
+| Price | 45.34 |
 | Trend | downtrend |
-| RSI | 39.03 |
-| MACD | -0.68 |
-| MA20 | 46.78 |
-| MA200 | 58.73 |
+| RSI | 38.93 |
+| MACD | -0.72 |
+| MA20 | 46.7 |
+| MA200 | 58.59 |
 | ATR | 1.78 |
 | Risk | NORMAL |
-| Stop Loss | 42.82 |
-| Target | 49.03 |
+| Stop Loss | 42.68 |
+| Target | 48.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28527,16 +28527,16 @@
 ### CONSOFINVT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 282.55 |
+| Price | 283.1 |
 | Trend | weak_trend |
-| RSI | 37.89 |
-| MACD | -0.91 |
-| MA20 | 291.52 |
-| MA200 | 235.28 |
-| ATR | 11.09 |
+| RSI | 39.07 |
+| MACD | -1.08 |
+| MA20 | 290.6 |
+| MA200 | 235.85 |
+| ATR | 10.75 |
 | Risk | NORMAL |
-| Stop Loss | 265.92 |
-| Target | 304.73 |
+| Stop Loss | 266.98 |
+| Target | 304.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28545,34 +28545,34 @@
 ### KRONOX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 208.13 |
+| Price | 214.02 |
 | Trend | weak_trend |
-| RSI | 66.3 |
-| MACD | 7.8 |
-| MA20 | 194.55 |
-| MA200 | 144.97 |
-| ATR | 13.09 |
+| RSI | 66.39 |
+| MACD | 8.18 |
+| MA20 | 196.45 |
+| MA200 | 145.34 |
+| ATR | 12.77 |
 | Risk | ELEVATED |
-| Stop Loss | 188.5 |
-| Target | 234.3 |
+| Stop Loss | 194.87 |
+| Target | 239.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### RADIANTCMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 33.67 |
+| Price | 33.98 |
 | Trend | downtrend |
-| RSI | 29.82 |
-| MACD | -0.62 |
-| MA20 | 35.32 |
-| MA200 | 38.13 |
-| ATR | 1.14 |
+| RSI | 35.0 |
+| MACD | -0.63 |
+| MA20 | 35.22 |
+| MA200 | 38.05 |
+| ATR | 1.18 |
 | Risk | NORMAL |
-| Stop Loss | 31.95 |
-| Target | 35.96 |
+| Stop Loss | 32.21 |
+| Target | 36.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28581,34 +28581,34 @@
 ### BAHETI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 710.0 |
+| Price | 728.0 |
 | Trend | weak_trend |
-| RSI | 28.04 |
-| MACD | -22.97 |
-| MA20 | 747.95 |
-| MA200 | 653.15 |
-| ATR | 27.41 |
+| RSI | 36.98 |
+| MACD | -21.41 |
+| MA20 | 743.31 |
+| MA200 | 653.65 |
+| ATR | 28.2 |
 | Risk | NORMAL |
-| Stop Loss | 668.88 |
-| Target | 764.82 |
+| Stop Loss | 685.71 |
+| Target | 784.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### HMVL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.11 |
+| Price | 77.9 |
 | Trend | weak_trend |
-| RSI | 38.95 |
-| MACD | -2.61 |
-| MA20 | 76.62 |
-| MA200 | 75.92 |
-| ATR | 4.55 |
+| RSI | 43.05 |
+| MACD | -2.25 |
+| MA20 | 76.52 |
+| MA200 | 75.94 |
+| ATR | 4.66 |
 | Risk | ELEVATED |
-| Stop Loss | 69.28 |
-| Target | 85.21 |
+| Stop Loss | 70.91 |
+| Target | 87.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28635,34 +28635,34 @@
 ### ESSARSHPNG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.14 |
-| Trend | weak_trend |
-| RSI | 49.94 |
-| MACD | -0.17 |
-| MA20 | 16.4 |
-| MA200 | 22.87 |
-| ATR | 1.26 |
+| Price | 16.02 |
+| Trend | downtrend |
+| RSI | 52.43 |
+| MACD | -0.19 |
+| MA20 | 16.38 |
+| MA200 | 22.81 |
+| ATR | 1.23 |
 | Risk | ELEVATED |
-| Stop Loss | 14.25 |
-| Target | 18.66 |
+| Stop Loss | 14.18 |
+| Target | 18.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### INTLCONV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 80.28 |
+| Price | 80.15 |
 | Trend | weak_trend |
-| RSI | 65.91 |
-| MACD | 0.58 |
-| MA20 | 78.67 |
-| MA200 | 78.09 |
-| ATR | 2.69 |
+| RSI | 58.73 |
+| MACD | 0.6 |
+| MA20 | 78.79 |
+| MA200 | 78.04 |
+| ATR | 2.56 |
 | Risk | NORMAL |
-| Stop Loss | 76.24 |
-| Target | 85.66 |
+| Stop Loss | 76.31 |
+| Target | 85.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28671,16 +28671,16 @@
 ### EMAMIPAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 116.04 |
+| Price | 117.96 |
 | Trend | weak_trend |
-| RSI | 52.75 |
-| MACD | 0.85 |
-| MA20 | 115.22 |
-| MA200 | 88.8 |
-| ATR | 5.21 |
+| RSI | 57.59 |
+| MACD | 0.97 |
+| MA20 | 115.32 |
+| MA200 | 88.97 |
+| ATR | 5.22 |
 | Risk | ELEVATED |
-| Stop Loss | 108.23 |
-| Target | 126.45 |
+| Stop Loss | 110.12 |
+| Target | 128.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28689,16 +28689,16 @@
 ### ZODIAC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 204.69 |
+| Price | 206.23 |
 | Trend | downtrend |
-| RSI | 28.31 |
-| MACD | -8.04 |
-| MA20 | 217.59 |
-| MA200 | 264.34 |
-| ATR | 11.07 |
+| RSI | 27.38 |
+| MACD | -7.96 |
+| MA20 | 216.86 |
+| MA200 | 263.85 |
+| ATR | 11.06 |
 | Risk | ELEVATED |
-| Stop Loss | 188.08 |
-| Target | 226.83 |
+| Stop Loss | 189.63 |
+| Target | 228.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28707,16 +28707,16 @@
 ### EIFFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 255.95 |
-| Trend | downtrend |
-| RSI | 45.45 |
-| MACD | -4.53 |
-| MA20 | 266.21 |
-| MA200 | 263.31 |
-| ATR | 6.55 |
+| Price | 258.95 |
+| Trend | weak_trend |
+| RSI | 52.61 |
+| MACD | -4.56 |
+| MA20 | 265.09 |
+| MA200 | 263.43 |
+| ATR | 6.86 |
 | Risk | NORMAL |
-| Stop Loss | 246.13 |
-| Target | 269.04 |
+| Stop Loss | 248.66 |
+| Target | 272.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28725,16 +28725,16 @@
 ### DIGISPICE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.88 |
+| Price | 15.97 |
 | Trend | weak_trend |
 | RSI | 44.14 |
-| MACD | -0.42 |
-| MA20 | 15.87 |
-| MA200 | 19.08 |
+| MACD | -0.35 |
+| MA20 | 15.82 |
+| MA200 | 19.03 |
 | ATR | 0.82 |
 | Risk | ELEVATED |
-| Stop Loss | 14.66 |
-| Target | 17.51 |
+| Stop Loss | 14.74 |
+| Target | 17.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28743,20 +28743,20 @@
 ### SURAJLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 204.81 |
+| Price | 208.04 |
 | Trend | downtrend |
-| RSI | 55.78 |
-| MACD | -2.95 |
-| MA20 | 196.03 |
-| MA200 | 226.69 |
-| ATR | 8.37 |
-| Risk | ELEVATED |
-| Stop Loss | 192.26 |
-| Target | 221.54 |
+| RSI | 54.87 |
+| MACD | -1.71 |
+| MA20 | 196.43 |
+| MA200 | 226.45 |
+| ATR | 7.96 |
+| Risk | NORMAL |
+| Stop Loss | 196.1 |
+| Target | 223.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### MBLINFRA.NS
 | Metric | Value |
@@ -28779,16 +28779,16 @@
 ### COMSYN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 262.4 |
+| Price | 258.95 |
 | Trend | weak_trend |
-| RSI | 22.68 |
-| MACD | -5.85 |
-| MA20 | 279.93 |
-| MA200 | 190.69 |
-| ATR | 15.51 |
+| RSI | 22.35 |
+| MACD | -6.17 |
+| MA20 | 277.95 |
+| MA200 | 191.27 |
+| ATR | 15.55 |
 | Risk | ELEVATED |
-| Stop Loss | 239.13 |
-| Target | 293.42 |
+| Stop Loss | 235.63 |
+| Target | 290.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28797,34 +28797,34 @@
 ### PRECOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 585.2 |
+| Price | 582.3 |
 | Trend | downtrend |
-| RSI | 23.46 |
-| MACD | -28.01 |
-| MA20 | 634.05 |
-| MA200 | 601.08 |
-| ATR | 39.43 |
+| RSI | 25.03 |
+| MACD | -28.5 |
+| MA20 | 630.25 |
+| MA200 | 601.81 |
+| ATR | 37.43 |
 | Risk | ELEVATED |
-| Stop Loss | 526.06 |
-| Target | 664.06 |
+| Stop Loss | 526.16 |
+| Target | 657.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VINSYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 582.5 |
-| Trend | downtrend |
-| RSI | 46.0 |
-| MACD | -0.1 |
-| MA20 | 580.45 |
-| MA200 | 418.02 |
-| ATR | 13.97 |
+| Price | 590.0 |
+| Trend | weak_trend |
+| RSI | 53.91 |
+| MACD | 0.67 |
+| MA20 | 581.02 |
+| MA200 | 419.07 |
+| ATR | 13.93 |
 | Risk | NORMAL |
-| Stop Loss | 561.55 |
-| Target | 610.44 |
+| Stop Loss | 569.11 |
+| Target | 617.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28833,34 +28833,34 @@
 ### TPLPLASTEH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 67.32 |
-| Trend | downtrend |
-| RSI | 55.99 |
-| MACD | -0.69 |
-| MA20 | 66.65 |
-| MA200 | 67.64 |
-| ATR | 3.26 |
+| Price | 68.96 |
+| Trend | weak_trend |
+| RSI | 59.34 |
+| MACD | -0.53 |
+| MA20 | 66.74 |
+| MA200 | 67.65 |
+| ATR | 3.4 |
 | Risk | ELEVATED |
-| Stop Loss | 62.43 |
-| Target | 73.84 |
+| Stop Loss | 63.86 |
+| Target | 75.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ALLETEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 117.4 |
+| Price | 119.15 |
 | Trend | downtrend |
-| RSI | 43.15 |
-| MACD | -2.58 |
-| MA20 | 123.49 |
-| MA200 | 154.19 |
-| ATR | 5.23 |
+| RSI | 30.06 |
+| MACD | -2.55 |
+| MA20 | 122.93 |
+| MA200 | 153.77 |
+| ATR | 4.85 |
 | Risk | ELEVATED |
-| Stop Loss | 109.56 |
-| Target | 127.86 |
+| Stop Loss | 111.87 |
+| Target | 128.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28869,16 +28869,16 @@
 ### RBZJEWEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 188.46 |
+| Price | 188.97 |
 | Trend | weak_trend |
-| RSI | 59.23 |
-| MACD | 7.94 |
-| MA20 | 183.64 |
-| MA200 | 143.06 |
-| ATR | 11.74 |
+| RSI | 56.58 |
+| MACD | 7.28 |
+| MA20 | 184.37 |
+| MA200 | 143.32 |
+| ATR | 11.64 |
 | Risk | ELEVATED |
-| Stop Loss | 170.85 |
-| Target | 211.94 |
+| Stop Loss | 171.51 |
+| Target | 212.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28887,16 +28887,16 @@
 ### HILINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 51.8 |
+| Price | 52.06 |
 | Trend | weak_trend |
-| RSI | 79.54 |
-| MACD | 1.23 |
-| MA20 | 44.58 |
-| MA200 | 49.38 |
-| ATR | 2.35 |
+| RSI | 80.51 |
+| MACD | 1.58 |
+| MA20 | 45.11 |
+| MA200 | 49.36 |
+| ATR | 2.44 |
 | Risk | ELEVATED |
-| Stop Loss | 48.28 |
-| Target | 56.49 |
+| Stop Loss | 48.4 |
+| Target | 56.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28905,16 +28905,16 @@
 ### RAMAPHO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 109.84 |
+| Price | 109.58 |
 | Trend | downtrend |
-| RSI | 19.96 |
-| MACD | -2.85 |
-| MA20 | 118.29 |
-| MA200 | 132.14 |
-| ATR | 4.98 |
+| RSI | 20.58 |
+| MACD | -3.12 |
+| MA20 | 117.63 |
+| MA200 | 131.92 |
+| ATR | 4.86 |
 | Risk | ELEVATED |
-| Stop Loss | 102.37 |
-| Target | 119.8 |
+| Stop Loss | 102.3 |
+| Target | 119.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28923,34 +28923,34 @@
 ### ORIENTPPR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.19 |
+| Price | 16.0 |
 | Trend | downtrend |
-| RSI | 27.14 |
+| RSI | 26.76 |
 | MACD | -0.36 |
-| MA20 | 16.61 |
-| MA200 | 18.25 |
-| ATR | 0.41 |
+| MA20 | 16.52 |
+| MA200 | 18.22 |
+| ATR | 0.39 |
 | Risk | NORMAL |
-| Stop Loss | 15.58 |
-| Target | 17.01 |
+| Stop Loss | 15.41 |
+| Target | 16.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GVKPIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.26 |
+| Price | 2.22 |
 | Trend | downtrend |
-| RSI | 34.43 |
-| MACD | 0.01 |
+| RSI | 27.87 |
+| MACD | -0.0 |
 | MA20 | 2.44 |
-| MA200 | 2.74 |
+| MA200 | 2.73 |
 | ATR | 0.05 |
 | Risk | NORMAL |
-| Stop Loss | 2.18 |
-| Target | 2.37 |
+| Stop Loss | 2.14 |
+| Target | 2.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28977,16 +28977,16 @@
 ### KNAGRI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 198.36 |
+| Price | 198.96 |
 | Trend | weak_trend |
-| RSI | 45.33 |
-| MACD | -1.1 |
-| MA20 | 200.85 |
-| MA200 | 195.22 |
-| ATR | 9.55 |
+| RSI | 44.46 |
+| MACD | -1.25 |
+| MA20 | 201.11 |
+| MA200 | 195.25 |
+| ATR | 9.33 |
 | Risk | ELEVATED |
-| Stop Loss | 184.04 |
-| Target | 217.46 |
+| Stop Loss | 184.97 |
+| Target | 217.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -28995,16 +28995,16 @@
 ### ANNAPURNA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 124.7 |
+| Price | 124.05 |
 | Trend | downtrend |
-| RSI | 37.92 |
-| MACD | -3.91 |
-| MA20 | 130.66 |
-| MA200 | 158.46 |
-| ATR | 6.47 |
+| RSI | 33.88 |
+| MACD | -3.98 |
+| MA20 | 129.96 |
+| MA200 | 158.0 |
+| ATR | 6.41 |
 | Risk | ELEVATED |
-| Stop Loss | 114.99 |
-| Target | 137.64 |
+| Stop Loss | 114.43 |
+| Target | 136.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29013,16 +29013,16 @@
 ### BELLACASA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 250.0 |
+| Price | 249.88 |
 | Trend | downtrend |
-| RSI | 36.68 |
-| MACD | -0.3 |
-| MA20 | 257.56 |
-| MA200 | 271.1 |
-| ATR | 17.38 |
+| RSI | 31.98 |
+| MACD | -0.42 |
+| MA20 | 257.23 |
+| MA200 | 270.46 |
+| ATR | 17.17 |
 | Risk | ELEVATED |
-| Stop Loss | 223.93 |
-| Target | 284.76 |
+| Stop Loss | 224.13 |
+| Target | 284.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29031,16 +29031,16 @@
 ### BMWVENTLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 63.25 |
+| Price | 65.77 |
 | Trend | weak_trend |
-| RSI | 81.73 |
-| MACD | 0.22 |
-| MA20 | 52.21 |
-| MA200 | 57.38 |
-| ATR | 2.55 |
-| Risk | ELEVATED |
-| Stop Loss | 59.42 |
-| Target | 68.36 |
+| RSI | 82.65 |
+| MACD | 1.16 |
+| MA20 | 52.8 |
+| MA200 | 57.42 |
+| ATR | 2.61 |
+| Risk | NORMAL |
+| Stop Loss | 61.86 |
+| Target | 70.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29049,16 +29049,16 @@
 ### PARIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 695.4 |
+| Price | 691.15 |
 | Trend | weak_trend |
-| RSI | 47.91 |
-| MACD | -3.44 |
-| MA20 | 704.83 |
-| MA200 | 673.35 |
-| ATR | 31.41 |
+| RSI | 46.75 |
+| MACD | -4.08 |
+| MA20 | 705.03 |
+| MA200 | 673.87 |
+| ATR | 31.74 |
 | Risk | ELEVATED |
-| Stop Loss | 648.28 |
-| Target | 758.23 |
+| Stop Loss | 643.55 |
+| Target | 754.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29067,16 +29067,16 @@
 ### KAPSTON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 522.0 |
+| Price | 529.3 |
 | Trend | weak_trend |
-| RSI | 29.9 |
-| MACD | -3.87 |
-| MA20 | 558.49 |
-| MA200 | 397.27 |
-| ATR | 24.84 |
+| RSI | 35.17 |
+| MACD | -4.9 |
+| MA20 | 555.54 |
+| MA200 | 398.43 |
+| ATR | 24.14 |
 | Risk | ELEVATED |
-| Stop Loss | 484.74 |
-| Target | 571.69 |
+| Stop Loss | 493.1 |
+| Target | 577.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29085,16 +29085,16 @@
 ### ADVANIHOTR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 47.54 |
+| Price | 47.7 |
 | Trend | weak_trend |
-| RSI | 46.53 |
-| MACD | -0.49 |
-| MA20 | 47.71 |
-| MA200 | 52.2 |
-| ATR | 1.22 |
+| RSI | 49.23 |
+| MACD | -0.45 |
+| MA20 | 47.63 |
+| MA200 | 52.16 |
+| ATR | 1.19 |
 | Risk | NORMAL |
-| Stop Loss | 45.7 |
-| Target | 49.99 |
+| Stop Loss | 45.92 |
+| Target | 50.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29121,34 +29121,34 @@
 ### TRACXN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32.27 |
-| Trend | downtrend |
-| RSI | 51.1 |
-| MACD | 0.8 |
-| MA20 | 32.39 |
-| MA200 | 32.61 |
+| Price | 32.87 |
+| Trend | weak_trend |
+| RSI | 50.69 |
+| MACD | 0.75 |
+| MA20 | 32.43 |
+| MA200 | 32.57 |
 | ATR | 1.75 |
 | Risk | ELEVATED |
-| Stop Loss | 29.65 |
-| Target | 35.76 |
+| Stop Loss | 30.24 |
+| Target | 36.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MUNJALSHOW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 121.54 |
+| Price | 122.59 |
 | Trend | downtrend |
-| RSI | 36.84 |
-| MACD | -2.06 |
-| MA20 | 126.01 |
-| MA200 | 125.32 |
-| ATR | 4.83 |
+| RSI | 26.48 |
+| MACD | -2.05 |
+| MA20 | 125.76 |
+| MA200 | 125.34 |
+| ATR | 4.03 |
 | Risk | NORMAL |
-| Stop Loss | 114.3 |
-| Target | 131.2 |
+| Stop Loss | 116.54 |
+| Target | 130.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29157,16 +29157,16 @@
 ### SREEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 285.2 |
+| Price | 284.95 |
 | Trend | weak_trend |
-| RSI | 55.05 |
-| MACD | 2.82 |
-| MA20 | 292.15 |
-| MA200 | 217.35 |
-| ATR | 15.65 |
+| RSI | 53.98 |
+| MACD | 2.49 |
+| MA20 | 289.79 |
+| MA200 | 217.7 |
+| ATR | 16.27 |
 | Risk | ELEVATED |
-| Stop Loss | 261.72 |
-| Target | 316.5 |
+| Stop Loss | 260.55 |
+| Target | 317.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29175,16 +29175,16 @@
 ### ORBTEXP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 252.15 |
+| Price | 259.75 |
 | Trend | weak_trend |
-| RSI | 61.81 |
-| MACD | 3.0 |
-| MA20 | 237.34 |
-| MA200 | 197.81 |
-| ATR | 17.2 |
+| RSI | 65.75 |
+| MACD | 4.14 |
+| MA20 | 238.48 |
+| MA200 | 198.17 |
+| ATR | 17.67 |
 | Risk | ELEVATED |
-| Stop Loss | 226.36 |
-| Target | 286.54 |
+| Stop Loss | 233.24 |
+| Target | 295.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29193,16 +29193,16 @@
 ### MAZDA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 292.25 |
+| Price | 310.9 |
 | Trend | weak_trend |
-| RSI | 65.3 |
-| MACD | 9.21 |
-| MA20 | 272.47 |
-| MA200 | 219.26 |
-| ATR | 17.15 |
+| RSI | 75.65 |
+| MACD | 10.98 |
+| MA20 | 275.25 |
+| MA200 | 219.77 |
+| ATR | 18.93 |
 | Risk | ELEVATED |
-| Stop Loss | 266.52 |
-| Target | 326.56 |
+| Stop Loss | 282.51 |
+| Target | 348.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29211,16 +29211,16 @@
 ### GUJAPOLLO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 340.1 |
+| Price | 333.65 |
 | Trend | weak_trend |
-| RSI | 48.01 |
-| MACD | -2.19 |
-| MA20 | 336.05 |
-| MA200 | 379.99 |
-| ATR | 15.78 |
+| RSI | 48.18 |
+| MACD | -2.2 |
+| MA20 | 335.43 |
+| MA200 | 379.52 |
+| ATR | 15.73 |
 | Risk | ELEVATED |
-| Stop Loss | 316.43 |
-| Target | 371.66 |
+| Stop Loss | 310.06 |
+| Target | 365.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29229,16 +29229,16 @@
 ### TRANSWORLD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 153.98 |
+| Price | 152.32 |
 | Trend | downtrend |
-| RSI | 21.2 |
-| MACD | -3.88 |
-| MA20 | 160.91 |
-| MA200 | 162.88 |
-| ATR | 4.16 |
+| RSI | 19.69 |
+| MACD | -3.99 |
+| MA20 | 160.28 |
+| MA200 | 162.65 |
+| ATR | 4.36 |
 | Risk | NORMAL |
-| Stop Loss | 147.75 |
-| Target | 162.29 |
+| Stop Loss | 145.78 |
+| Target | 161.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29265,16 +29265,16 @@
 ### DPEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 604.9 |
+| Price | 605.0 |
 | Trend | weak_trend |
-| RSI | 26.51 |
-| MACD | 2.08 |
-| MA20 | 623.94 |
-| MA200 | 458.78 |
-| ATR | 13.49 |
+| RSI | 18.81 |
+| MACD | 1.26 |
+| MA20 | 622.44 |
+| MA200 | 460.48 |
+| ATR | 13.43 |
 | Risk | NORMAL |
-| Stop Loss | 584.67 |
-| Target | 631.87 |
+| Stop Loss | 584.86 |
+| Target | 631.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29283,56 +29283,56 @@
 ### EFFWA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 349.0 |
+| Price | 348.55 |
 | Trend | weak_trend |
-| RSI | 46.78 |
-| MACD | -1.4 |
-| MA20 | 355.51 |
-| MA200 | 282.43 |
-| ATR | 15.73 |
+| RSI | 41.97 |
+| MACD | -1.56 |
+| MA20 | 354.24 |
+| MA200 | 283.05 |
+| ATR | 15.71 |
 | Risk | ELEVATED |
-| Stop Loss | 325.4 |
-| Target | 380.46 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### MEGATHERM.NS
-| Metric | Value |
-|--------|-------|
-| Price | 249.0 |
-| Trend | weak_trend |
-| RSI | 47.06 |
-| MACD | 4.34 |
-| MA20 | 252.22 |
-| MA200 | 223.31 |
-| ATR | 11.98 |
-| Risk | ELEVATED |
-| Stop Loss | 231.03 |
-| Target | 272.96 |
+| Stop Loss | 324.98 |
+| Target | 379.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### AVONMORE.NS
+### MEGATHERM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.76 |
-| Trend | downtrend |
-| RSI | 46.99 |
-| MACD | -0.1 |
-| MA20 | 12.89 |
-| MA200 | 12.93 |
-| ATR | 0.81 |
+| Price | 249.3 |
+| Trend | weak_trend |
+| RSI | 41.37 |
+| MACD | 4.17 |
+| MA20 | 252.13 |
+| MA200 | 223.48 |
+| ATR | 12.46 |
 | Risk | ELEVATED |
-| Stop Loss | 11.55 |
-| Target | 14.37 |
+| Stop Loss | 230.61 |
+| Target | 274.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### AVONMORE.NS
+| Metric | Value |
+|--------|-------|
+| Price | 12.44 |
+| Trend | downtrend |
+| RSI | 45.03 |
+| MACD | -0.12 |
+| MA20 | 12.81 |
+| MA200 | 12.91 |
+| ATR | 0.84 |
+| Risk | ELEVATED |
+| Stop Loss | 11.19 |
+| Target | 14.11 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### WSI.NS
 | Metric | Value |
@@ -29373,16 +29373,16 @@
 ### SUKHJITS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 144.15 |
+| Price | 146.98 |
 | Trend | downtrend |
-| RSI | 15.24 |
-| MACD | -3.86 |
-| MA20 | 155.92 |
-| MA200 | 170.11 |
-| ATR | 4.82 |
+| RSI | 25.04 |
+| MACD | -3.9 |
+| MA20 | 155.28 |
+| MA200 | 170.13 |
+| ATR | 4.84 |
 | Risk | NORMAL |
-| Stop Loss | 136.92 |
-| Target | 153.79 |
+| Stop Loss | 139.72 |
+| Target | 156.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29391,34 +29391,34 @@
 ### MGEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.79 |
+| Price | 16.13 |
 | Trend | weak_trend |
-| RSI | 50.2 |
-| MACD | 0.15 |
-| MA20 | 15.73 |
-| MA200 | 13.99 |
-| ATR | 0.63 |
-| Risk | ELEVATED |
-| Stop Loss | 14.84 |
-| Target | 17.06 |
+| RSI | 61.6 |
+| MACD | 0.17 |
+| MA20 | 15.75 |
+| MA200 | 14.0 |
+| ATR | 0.62 |
+| Risk | NORMAL |
+| Stop Loss | 15.19 |
+| Target | 17.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CGRAPHICS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 157.95 |
+| Price | 153.45 |
 | Trend | weak_trend |
-| RSI | 68.75 |
-| MACD | 3.3 |
-| MA20 | 145.49 |
-| MA200 | 153.55 |
-| ATR | 7.35 |
+| RSI | 62.83 |
+| MACD | 3.23 |
+| MA20 | 145.93 |
+| MA200 | 153.34 |
+| ATR | 7.41 |
 | Risk | ELEVATED |
-| Stop Loss | 146.92 |
-| Target | 172.66 |
+| Stop Loss | 142.33 |
+| Target | 168.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29445,16 +29445,16 @@
 ### TERASOFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 226.93 |
+| Price | 223.8 |
 | Trend | weak_trend |
-| RSI | 39.86 |
-| MACD | -17.25 |
-| MA20 | 226.89 |
-| MA200 | 356.82 |
-| ATR | 17.27 |
+| RSI | 41.3 |
+| MACD | -16.15 |
+| MA20 | 225.7 |
+| MA200 | 355.64 |
+| ATR | 16.88 |
 | Risk | ELEVATED |
-| Stop Loss | 201.03 |
-| Target | 261.47 |
+| Stop Loss | 198.47 |
+| Target | 257.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29463,52 +29463,52 @@
 ### MODISONLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 494.85 |
-| Trend | weak_trend |
-| RSI | 58.98 |
-| MACD | 14.09 |
-| MA20 | 467.36 |
-| MA200 | 249.18 |
-| ATR | 26.72 |
+| Price | 519.55 |
+| Trend | uptrend |
+| RSI | 61.27 |
+| MACD | 16.72 |
+| MA20 | 468.18 |
+| MA200 | 251.12 |
+| ATR | 26.54 |
 | Risk | ELEVATED |
-| Stop Loss | 454.76 |
-| Target | 548.3 |
+| Stop Loss | 479.74 |
+| Target | 572.64 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+
+### VINYLINDIA.NS
+| Metric | Value |
+|--------|-------|
+| Price | 200.56 |
+| Trend | downtrend |
+| RSI | 24.02 |
+| MACD | -6.44 |
+| MA20 | 214.62 |
+| MA200 | 231.08 |
+| ATR | 7.74 |
+| Risk | NORMAL |
+| Stop Loss | 188.96 |
+| Target | 216.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### VINYLINDIA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 202.34 |
-| Trend | downtrend |
-| RSI | 31.85 |
-| MACD | -5.98 |
-| MA20 | 215.59 |
-| MA200 | 231.25 |
-| ATR | 7.51 |
-| Risk | NORMAL |
-| Stop Loss | 191.08 |
-| Target | 217.35 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
 ### DICIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 581.45 |
+| Price | 596.65 |
 | Trend | weak_trend |
-| RSI | 39.51 |
-| MACD | 1.03 |
-| MA20 | 621.77 |
-| MA200 | 533.25 |
-| ATR | 29.65 |
+| RSI | 36.3 |
+| MACD | -0.16 |
+| MA20 | 621.5 |
+| MA200 | 533.83 |
+| ATR | 28.83 |
 | Risk | ELEVATED |
-| Stop Loss | 536.97 |
-| Target | 640.76 |
+| Stop Loss | 553.41 |
+| Target | 654.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29517,88 +29517,88 @@
 ### CPEDU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 180.81 |
-| Trend | weak_trend |
-| RSI | 48.03 |
-| MACD | -1.99 |
-| MA20 | 178.0 |
-| MA200 | 198.7 |
-| ATR | 7.22 |
+| Price | 182.0 |
+| Trend | downtrend |
+| RSI | 56.93 |
+| MACD | -1.68 |
+| MA20 | 178.21 |
+| MA200 | 198.3 |
+| ATR | 6.92 |
 | Risk | NORMAL |
-| Stop Loss | 169.97 |
-| Target | 195.26 |
+| Stop Loss | 171.61 |
+| Target | 195.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### EUROBOND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 140.94 |
+| Price | 139.82 |
 | Trend | downtrend |
-| RSI | 31.81 |
-| MACD | -4.03 |
-| MA20 | 146.54 |
-| MA200 | 166.16 |
-| ATR | 7.6 |
+| RSI | 31.01 |
+| MACD | -3.96 |
+| MA20 | 146.01 |
+| MA200 | 165.96 |
+| ATR | 7.69 |
 | Risk | ELEVATED |
-| Stop Loss | 129.54 |
-| Target | 156.14 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### MIRZAINT.NS
-| Metric | Value |
-|--------|-------|
-| Price | 27.28 |
-| Trend | downtrend |
-| RSI | 18.87 |
-| MACD | -1.0 |
-| MA20 | 28.55 |
-| MA200 | 32.9 |
-| ATR | 0.8 |
-| Risk | NORMAL |
-| Stop Loss | 26.08 |
-| Target | 28.88 |
+| Stop Loss | 128.28 |
+| Target | 155.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### ATMASTCO.NS
+### MIRZAINT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.5 |
+| Price | 27.34 |
 | Trend | downtrend |
-| RSI | 23.52 |
-| MACD | -7.37 |
-| MA20 | 118.9 |
-| MA200 | 148.07 |
-| ATR | 5.64 |
-| Risk | ELEVATED |
-| Stop Loss | 94.04 |
-| Target | 113.79 |
+| RSI | 20.72 |
+| MACD | -0.97 |
+| MA20 | 28.38 |
+| MA200 | 32.84 |
+| ATR | 0.83 |
+| Risk | NORMAL |
+| Stop Loss | 26.1 |
+| Target | 29.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### ATMASTCO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 109.15 |
+| Trend | downtrend |
+| RSI | 32.1 |
+| MACD | -7.24 |
+| MA20 | 117.85 |
+| MA200 | 147.92 |
+| ATR | 5.97 |
+| Risk | ELEVATED |
+| Stop Loss | 100.2 |
+| Target | 121.09 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### CLEDUCATE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 47.75 |
+| Price | 45.56 |
 | Trend | downtrend |
-| RSI | 27.88 |
-| MACD | -2.16 |
-| MA20 | 54.82 |
-| MA200 | 56.76 |
-| ATR | 3.0 |
+| RSI | 26.8 |
+| MACD | -2.6 |
+| MA20 | 54.14 |
+| MA200 | 56.58 |
+| ATR | 3.03 |
 | Risk | ELEVATED |
-| Stop Loss | 43.25 |
-| Target | 53.75 |
+| Stop Loss | 41.02 |
+| Target | 51.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29625,16 +29625,16 @@
 ### SOFTTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 442.65 |
+| Price | 452.5 |
 | Trend | weak_trend |
-| RSI | 18.52 |
-| MACD | 1.22 |
-| MA20 | 479.84 |
-| MA200 | 373.96 |
-| ATR | 25.85 |
+| RSI | 29.49 |
+| MACD | 0.21 |
+| MA20 | 479.85 |
+| MA200 | 374.6 |
+| ATR | 24.65 |
 | Risk | ELEVATED |
-| Stop Loss | 403.87 |
-| Target | 494.35 |
+| Stop Loss | 415.52 |
+| Target | 501.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29661,16 +29661,16 @@
 ### CYBERTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 129.73 |
-| Trend | downtrend |
-| RSI | 34.51 |
-| MACD | -0.19 |
-| MA20 | 136.91 |
-| MA200 | 129.93 |
-| ATR | 6.15 |
+| Price | 130.62 |
+| Trend | weak_trend |
+| RSI | 38.03 |
+| MACD | -0.55 |
+| MA20 | 136.61 |
+| MA200 | 129.88 |
+| ATR | 6.08 |
 | Risk | ELEVATED |
-| Stop Loss | 120.5 |
-| Target | 142.03 |
+| Stop Loss | 121.5 |
+| Target | 142.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29679,16 +29679,16 @@
 ### MEDICAMEQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 299.45 |
+| Price | 298.55 |
 | Trend | weak_trend |
-| RSI | 37.27 |
-| MACD | 6.7 |
-| MA20 | 318.21 |
-| MA200 | 284.66 |
-| ATR | 15.31 |
+| RSI | 35.7 |
+| MACD | 5.34 |
+| MA20 | 317.03 |
+| MA200 | 284.21 |
+| ATR | 15.53 |
 | Risk | ELEVATED |
-| Stop Loss | 276.48 |
-| Target | 330.07 |
+| Stop Loss | 275.25 |
+| Target | 329.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29697,16 +29697,16 @@
 ### PANACHE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 647.5 |
+| Price | 619.05 |
 | Trend | weak_trend |
-| RSI | 80.03 |
-| MACD | 26.0 |
-| MA20 | 540.39 |
-| MA200 | 390.32 |
-| ATR | 21.46 |
+| RSI | 73.76 |
+| MACD | 27.88 |
+| MA20 | 545.39 |
+| MA200 | 391.69 |
+| ATR | 23.56 |
 | Risk | NORMAL |
-| Stop Loss | 615.31 |
-| Target | 690.42 |
+| Stop Loss | 583.71 |
+| Target | 666.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29715,16 +29715,16 @@
 ### HCL-INSYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.05 |
+| Price | 10.09 |
 | Trend | weak_trend |
-| RSI | 34.45 |
-| MACD | -0.18 |
+| RSI | 32.84 |
+| MACD | -0.17 |
 | MA20 | 10.23 |
-| MA200 | 11.99 |
-| ATR | 0.41 |
-| Risk | ELEVATED |
-| Stop Loss | 9.44 |
-| Target | 10.87 |
+| MA200 | 11.97 |
+| ATR | 0.39 |
+| Risk | NORMAL |
+| Stop Loss | 9.51 |
+| Target | 10.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29733,34 +29733,34 @@
 ### MODINATUR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 314.8 |
+| Price | 316.35 |
 | Trend | downtrend |
-| RSI | 33.33 |
-| MACD | -13.02 |
-| MA20 | 331.81 |
-| MA200 | 364.83 |
-| ATR | 21.74 |
+| RSI | 30.38 |
+| MACD | -12.4 |
+| MA20 | 330.64 |
+| MA200 | 364.58 |
+| ATR | 21.78 |
 | Risk | ELEVATED |
-| Stop Loss | 282.19 |
-| Target | 358.28 |
+| Stop Loss | 283.68 |
+| Target | 359.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ABSMARINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 308.0 |
+| Price | 309.4 |
 | Trend | weak_trend |
-| RSI | 61.06 |
-| MACD | 8.61 |
-| MA20 | 312.21 |
-| MA200 | 226.25 |
-| ATR | 20.29 |
+| RSI | 54.46 |
+| MACD | 7.42 |
+| MA20 | 311.88 |
+| MA200 | 226.83 |
+| ATR | 19.5 |
 | Risk | ELEVATED |
-| Stop Loss | 277.57 |
-| Target | 348.57 |
+| Stop Loss | 280.15 |
+| Target | 348.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29787,34 +29787,34 @@
 ### HTMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.18 |
-| Trend | downtrend |
-| RSI | 43.99 |
-| MACD | -0.76 |
-| MA20 | 23.41 |
-| MA200 | 23.26 |
-| ATR | 1.12 |
+| Price | 24.08 |
+| Trend | weak_trend |
+| RSI | 47.58 |
+| MACD | -0.62 |
+| MA20 | 23.36 |
+| MA200 | 23.27 |
+| ATR | 1.15 |
 | Risk | ELEVATED |
-| Stop Loss | 21.5 |
-| Target | 25.43 |
+| Stop Loss | 22.36 |
+| Target | 26.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### VRAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 121.07 |
+| Price | 119.39 |
 | Trend | downtrend |
-| RSI | 27.06 |
-| MACD | -0.98 |
-| MA20 | 124.08 |
-| MA200 | 124.09 |
-| ATR | 4.28 |
+| RSI | 28.97 |
+| MACD | -1.14 |
+| MA20 | 123.77 |
+| MA200 | 124.07 |
+| ATR | 4.26 |
 | Risk | NORMAL |
-| Stop Loss | 114.65 |
-| Target | 129.63 |
+| Stop Loss | 112.99 |
+| Target | 127.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29823,34 +29823,34 @@
 ### UGARSUGAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.36 |
+| Price | 58.57 |
 | Trend | weak_trend |
-| RSI | 50.96 |
-| MACD | 1.11 |
-| MA20 | 56.8 |
-| MA200 | 43.0 |
-| ATR | 4.12 |
+| RSI | 55.2 |
+| MACD | 1.16 |
+| MA20 | 57.01 |
+| MA200 | 43.09 |
+| ATR | 4.27 |
 | Risk | ELEVATED |
-| Stop Loss | 50.17 |
-| Target | 64.61 |
+| Stop Loss | 52.16 |
+| Target | 67.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### XTGLOBAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.43 |
+| Price | 26.38 |
 | Trend | downtrend |
-| RSI | 15.99 |
-| MACD | -0.88 |
-| MA20 | 28.73 |
-| MA200 | 30.5 |
-| ATR | 1.44 |
+| RSI | 13.7 |
+| MACD | -0.93 |
+| MA20 | 28.58 |
+| MA200 | 30.46 |
+| ATR | 1.43 |
 | Risk | ELEVATED |
-| Stop Loss | 24.27 |
-| Target | 29.31 |
+| Stop Loss | 24.23 |
+| Target | 29.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29859,16 +29859,16 @@
 ### SINCLAIR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 74.16 |
+| Price | 74.26 |
 | Trend | downtrend |
-| RSI | 12.01 |
-| MACD | -1.18 |
-| MA20 | 78.19 |
-| MA200 | 76.85 |
-| ATR | 2.72 |
+| RSI | 14.98 |
+| MACD | -1.27 |
+| MA20 | 77.89 |
+| MA200 | 76.8 |
+| ATR | 2.65 |
 | Risk | NORMAL |
-| Stop Loss | 70.08 |
-| Target | 79.6 |
+| Stop Loss | 70.28 |
+| Target | 79.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29895,16 +29895,16 @@
 ### HIGREEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 139.45 |
+| Price | 144.05 |
 | Trend | uptrend |
-| RSI | 68.41 |
-| MACD | 0.48 |
-| MA20 | 119.82 |
-| MA200 | 134.62 |
-| ATR | 9.21 |
+| RSI | 69.47 |
+| MACD | 2.11 |
+| MA20 | 121.02 |
+| MA200 | 134.67 |
+| ATR | 10.02 |
 | Risk | ELEVATED |
-| Stop Loss | 125.64 |
-| Target | 157.86 |
+| Stop Loss | 129.02 |
+| Target | 164.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29913,34 +29913,34 @@
 ### MOLDTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 114.27 |
-| Trend | weak_trend |
-| RSI | 74.5 |
-| MACD | 3.97 |
-| MA20 | 102.19 |
-| MA200 | 73.03 |
-| ATR | 5.28 |
+| Price | 110.41 |
+| Trend | uptrend |
+| RSI | 67.92 |
+| MACD | 4.01 |
+| MA20 | 102.53 |
+| MA200 | 73.18 |
+| ATR | 5.78 |
 | Risk | ELEVATED |
-| Stop Loss | 106.35 |
-| Target | 124.83 |
+| Stop Loss | 101.74 |
+| Target | 121.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### PREMIERPOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 114.91 |
+| Price | 110.04 |
 | Trend | weak_trend |
-| RSI | 73.4 |
-| MACD | 5.22 |
-| MA20 | 92.74 |
-| MA200 | 63.82 |
-| ATR | 9.25 |
+| RSI | 68.31 |
+| MACD | 5.7 |
+| MA20 | 93.95 |
+| MA200 | 64.17 |
+| ATR | 9.67 |
 | Risk | ELEVATED |
-| Stop Loss | 101.04 |
-| Target | 133.41 |
+| Stop Loss | 95.54 |
+| Target | 129.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29949,16 +29949,16 @@
 ### ARIES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 473.85 |
+| Price | 475.5 |
 | Trend | weak_trend |
-| RSI | 56.36 |
-| MACD | 8.69 |
-| MA20 | 476.56 |
-| MA200 | 366.05 |
-| ATR | 20.61 |
+| RSI | 52.82 |
+| MACD | 7.66 |
+| MA20 | 476.68 |
+| MA200 | 366.86 |
+| ATR | 20.49 |
 | Risk | ELEVATED |
-| Stop Loss | 442.94 |
-| Target | 515.06 |
+| Stop Loss | 444.76 |
+| Target | 516.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -29985,34 +29985,34 @@
 ### SIGMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 43.86 |
+| Price | 45.59 |
 | Trend | downtrend |
-| RSI | 36.62 |
-| MACD | -0.35 |
-| MA20 | 45.07 |
-| MA200 | 44.39 |
-| ATR | 2.24 |
+| RSI | 46.45 |
+| MACD | -0.25 |
+| MA20 | 45.17 |
+| MA200 | 44.37 |
+| ATR | 2.5 |
 | Risk | ELEVATED |
-| Stop Loss | 40.5 |
-| Target | 48.33 |
+| Stop Loss | 41.85 |
+| Target | 50.58 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SAHAJSOLAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 88.8 |
+| Price | 88.15 |
 | Trend | weak_trend |
-| RSI | 42.14 |
-| MACD | -3.27 |
-| MA20 | 90.18 |
-| MA200 | 128.72 |
-| ATR | 4.55 |
+| RSI | 45.37 |
+| MACD | -3.1 |
+| MA20 | 89.89 |
+| MA200 | 128.33 |
+| ATR | 4.46 |
 | Risk | ELEVATED |
-| Stop Loss | 81.97 |
-| Target | 97.91 |
+| Stop Loss | 81.45 |
+| Target | 97.08 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30021,16 +30021,16 @@
 ### NAHARCAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 227.78 |
+| Price | 234.49 |
 | Trend | downtrend |
-| RSI | 28.97 |
-| MACD | -6.14 |
-| MA20 | 243.88 |
-| MA200 | 244.95 |
-| ATR | 11.69 |
+| RSI | 38.53 |
+| MACD | -5.94 |
+| MA20 | 242.66 |
+| MA200 | 244.85 |
+| ATR | 11.74 |
 | Risk | ELEVATED |
-| Stop Loss | 210.24 |
-| Target | 251.17 |
+| Stop Loss | 216.88 |
+| Target | 257.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30039,16 +30039,16 @@
 ### SPENCERS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 28.01 |
+| Price | 27.26 |
 | Trend | weak_trend |
-| RSI | 49.89 |
-| MACD | -0.6 |
-| MA20 | 27.84 |
-| MA200 | 33.79 |
-| ATR | 1.39 |
+| RSI | 43.33 |
+| MACD | -0.59 |
+| MA20 | 27.79 |
+| MA200 | 33.73 |
+| ATR | 1.45 |
 | Risk | ELEVATED |
-| Stop Loss | 25.92 |
-| Target | 30.79 |
+| Stop Loss | 25.09 |
+| Target | 30.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30057,16 +30057,16 @@
 ### POLYSIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.95 |
+| Price | 54.0 |
 | Trend | weak_trend |
-| RSI | 36.88 |
-| MACD | -4.57 |
-| MA20 | 61.97 |
-| MA200 | 149.86 |
-| ATR | 3.59 |
+| RSI | 38.57 |
+| MACD | -4.55 |
+| MA20 | 60.61 |
+| MA200 | 148.69 |
+| ATR | 3.51 |
 | Risk | ELEVATED |
-| Stop Loss | 50.57 |
-| Target | 63.13 |
+| Stop Loss | 48.74 |
+| Target | 61.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30075,16 +30075,16 @@
 ### ORIENTCER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 43.73 |
+| Price | 43.06 |
 | Trend | weak_trend |
-| RSI | 33.45 |
-| MACD | -0.44 |
-| MA20 | 45.2 |
-| MA200 | 41.59 |
-| ATR | 2.21 |
+| RSI | 28.36 |
+| MACD | -0.48 |
+| MA20 | 45.07 |
+| MA200 | 41.61 |
+| ATR | 2.19 |
 | Risk | ELEVATED |
-| Stop Loss | 40.42 |
-| Target | 48.14 |
+| Stop Loss | 39.77 |
+| Target | 47.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30129,16 +30129,16 @@
 ### LORDSCHLO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 138.61 |
-| Trend | weak_trend |
-| RSI | 50.42 |
-| MACD | -0.09 |
+| Price | 137.64 |
+| Trend | downtrend |
+| RSI | 49.12 |
+| MACD | -0.16 |
 | MA20 | 138.08 |
-| MA200 | 140.0 |
-| ATR | 8.41 |
+| MA200 | 139.81 |
+| ATR | 8.51 |
 | Risk | ELEVATED |
-| Stop Loss | 125.99 |
-| Target | 155.43 |
+| Stop Loss | 124.88 |
+| Target | 154.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30147,16 +30147,16 @@
 ### AMANTA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 182.22 |
+| Price | 175.5 |
 | Trend | weak_trend |
-| RSI | 45.54 |
-| MACD | 1.44 |
-| MA20 | 191.05 |
-| MA200 | 140.26 |
-| ATR | 8.19 |
+| RSI | 42.86 |
+| MACD | 0.04 |
+| MA20 | 189.93 |
+| MA200 | 140.6 |
+| ATR | 8.58 |
 | Risk | ELEVATED |
-| Stop Loss | 169.94 |
-| Target | 198.6 |
+| Stop Loss | 162.63 |
+| Target | 192.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30165,16 +30165,16 @@
 ### GSLSU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.26 |
+| Price | 27.28 |
 | Trend | downtrend |
-| RSI | 40.67 |
-| MACD | -0.48 |
-| MA20 | 29.29 |
-| MA200 | 55.8 |
-| ATR | 1.86 |
+| RSI | 32.26 |
+| MACD | -0.55 |
+| MA20 | 29.24 |
+| MA200 | 55.39 |
+| ATR | 1.84 |
 | Risk | ELEVATED |
-| Stop Loss | 24.46 |
-| Target | 30.99 |
+| Stop Loss | 24.52 |
+| Target | 30.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30183,16 +30183,16 @@
 ### THOMASCOTT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 272.35 |
+| Price | 274.2 |
 | Trend | downtrend |
-| RSI | 63.55 |
-| MACD | 2.2 |
-| MA20 | 253.82 |
-| MA200 | 290.89 |
-| ATR | 22.6 |
+| RSI | 64.0 |
+| MACD | 2.62 |
+| MA20 | 255.65 |
+| MA200 | 290.65 |
+| ATR | 23.03 |
 | Risk | ELEVATED |
-| Stop Loss | 238.46 |
-| Target | 317.54 |
+| Stop Loss | 239.66 |
+| Target | 320.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30201,34 +30201,34 @@
 ### KANPRPLA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 241.35 |
+| Price | 229.65 |
 | Trend | weak_trend |
-| RSI | 41.39 |
-| MACD | -1.95 |
-| MA20 | 252.15 |
-| MA200 | 204.09 |
-| ATR | 14.4 |
+| RSI | 26.18 |
+| MACD | -3.2 |
+| MA20 | 250.41 |
+| MA200 | 204.26 |
+| ATR | 14.98 |
 | Risk | ELEVATED |
-| Stop Loss | 219.75 |
-| Target | 270.15 |
+| Stop Loss | 207.18 |
+| Target | 259.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NRL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 156.0 |
+| Price | 159.12 |
 | Trend | weak_trend |
-| RSI | 57.24 |
-| MACD | 7.81 |
-| MA20 | 153.36 |
-| MA200 | 81.24 |
-| ATR | 3.65 |
+| RSI | 51.23 |
+| MACD | 7.46 |
+| MA20 | 154.66 |
+| MA200 | 81.74 |
+| ATR | 3.33 |
 | Risk | NORMAL |
-| Stop Loss | 150.52 |
-| Target | 163.3 |
+| Stop Loss | 154.12 |
+| Target | 165.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30237,34 +30237,34 @@
 ### MCLEODRUSS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 45.35 |
-| Trend | weak_trend |
-| RSI | 47.12 |
-| MACD | -1.17 |
-| MA20 | 43.42 |
-| MA200 | 49.76 |
-| ATR | 2.4 |
+| Price | 48.03 |
+| Trend | downtrend |
+| RSI | 57.04 |
+| MACD | -0.69 |
+| MA20 | 43.66 |
+| MA200 | 49.78 |
+| ATR | 2.44 |
 | Risk | ELEVATED |
-| Stop Loss | 41.74 |
-| Target | 50.16 |
+| Stop Loss | 44.37 |
+| Target | 52.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### MUTHOOTCAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 210.24 |
+| Price | 211.8 |
 | Trend | downtrend |
-| RSI | 25.84 |
-| MACD | -7.09 |
-| MA20 | 222.43 |
-| MA200 | 224.43 |
-| ATR | 10.07 |
+| RSI | 26.94 |
+| MACD | -6.96 |
+| MA20 | 221.68 |
+| MA200 | 224.13 |
+| ATR | 10.08 |
 | Risk | ELEVATED |
-| Stop Loss | 195.14 |
-| Target | 230.37 |
+| Stop Loss | 196.68 |
+| Target | 231.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30273,16 +30273,16 @@
 ### PANSARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 266.65 |
-| Trend | downtrend |
-| RSI | 42.9 |
-| MACD | -10.39 |
-| MA20 | 276.06 |
-| MA200 | 299.04 |
-| ATR | 15.2 |
+| Price | 271.9 |
+| Trend | weak_trend |
+| RSI | 46.74 |
+| MACD | -9.46 |
+| MA20 | 275.58 |
+| MA200 | 298.89 |
+| ATR | 15.16 |
 | Risk | ELEVATED |
-| Stop Loss | 243.84 |
-| Target | 297.06 |
+| Stop Loss | 249.15 |
+| Target | 302.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30291,16 +30291,16 @@
 ### MONEYBOXX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.0 |
+| Price | 50.38 |
 | Trend | weak_trend |
-| RSI | 40.29 |
-| MACD | -0.34 |
-| MA20 | 52.09 |
-| MA200 | 62.56 |
-| ATR | 3.51 |
+| RSI | 35.44 |
+| MACD | -0.51 |
+| MA20 | 52.56 |
+| MA200 | 62.5 |
+| ATR | 3.31 |
 | Risk | ELEVATED |
-| Stop Loss | 47.73 |
-| Target | 60.02 |
+| Stop Loss | 45.42 |
+| Target | 56.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30309,16 +30309,16 @@
 ### SOUTHWEST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 188.53 |
+| Price | 189.08 |
 | Trend | weak_trend |
-| RSI | 49.16 |
-| MACD | -5.9 |
-| MA20 | 192.6 |
-| MA200 | 215.28 |
-| ATR | 9.23 |
+| RSI | 48.48 |
+| MACD | -5.63 |
+| MA20 | 191.39 |
+| MA200 | 215.31 |
+| ATR | 9.29 |
 | Risk | ELEVATED |
-| Stop Loss | 174.69 |
-| Target | 206.98 |
+| Stop Loss | 175.15 |
+| Target | 207.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30327,16 +30327,16 @@
 ### ALBERTDAVD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 780.85 |
+| Price | 811.45 |
 | Trend | weak_trend |
-| RSI | 35.07 |
-| MACD | -9.77 |
-| MA20 | 842.49 |
-| MA200 | 734.96 |
-| ATR | 30.92 |
-| Risk | NORMAL |
-| Stop Loss | 734.47 |
-| Target | 842.69 |
+| RSI | 41.77 |
+| MACD | -10.08 |
+| MA20 | 840.85 |
+| MA200 | 735.31 |
+| ATR | 33.08 |
+| Risk | ELEVATED |
+| Stop Loss | 761.83 |
+| Target | 877.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30347,18 +30347,18 @@
 |--------|-------|
 | Price | 37.06 |
 | Trend | downtrend |
-| RSI | 22.63 |
-| MACD | -0.59 |
-| MA20 | 38.8 |
-| MA200 | 45.62 |
-| ATR | 1.48 |
+| RSI | 23.19 |
+| MACD | -0.62 |
+| MA20 | 38.74 |
+| MA200 | 45.47 |
+| ATR | 1.5 |
 | Risk | ELEVATED |
-| Stop Loss | 34.83 |
-| Target | 40.03 |
+| Stop Loss | 34.82 |
+| Target | 40.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SRGHFL.NS
 | Metric | Value |
@@ -30381,34 +30381,34 @@
 ### RAMANEWS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.32 |
+| Price | 29.9 |
 | Trend | downtrend |
-| RSI | 34.42 |
-| MACD | -0.54 |
-| MA20 | 30.52 |
+| RSI | 32.26 |
+| MACD | -0.52 |
+| MA20 | 30.47 |
 | MA200 | 31.22 |
-| ATR | 1.5 |
+| ATR | 1.56 |
 | Risk | ELEVATED |
-| Stop Loss | 28.07 |
-| Target | 33.32 |
+| Stop Loss | 27.55 |
+| Target | 33.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KRITINUT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.57 |
+| Price | 70.2 |
 | Trend | downtrend |
-| RSI | 29.25 |
-| MACD | -3.3 |
-| MA20 | 75.57 |
-| MA200 | 78.22 |
+| RSI | 31.48 |
+| MACD | -3.26 |
+| MA20 | 75.06 |
+| MA200 | 78.25 |
 | ATR | 3.76 |
 | Risk | ELEVATED |
-| Stop Loss | 63.93 |
-| Target | 77.09 |
+| Stop Loss | 64.56 |
+| Target | 77.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30417,52 +30417,52 @@
 ### CHEMBONDCH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 247.47 |
-| Trend | downtrend |
-| RSI | 43.66 |
-| MACD | -8.53 |
-| MA20 | 244.97 |
-| MA200 | 191.39 |
-| ATR | 14.97 |
+| Price | 227.07 |
+| Trend | weak_trend |
+| RSI | 37.18 |
+| MACD | -8.44 |
+| MA20 | 243.21 |
+| MA200 | 191.73 |
+| ATR | 17.52 |
 | Risk | ELEVATED |
-| Stop Loss | 225.02 |
-| Target | 277.41 |
+| Stop Loss | 200.8 |
+| Target | 262.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TIRUPATIFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.0 |
-| Trend | weak_trend |
-| RSI | 51.89 |
-| MACD | 0.53 |
-| MA20 | 72.52 |
-| MA200 | 51.46 |
-| ATR | 2.11 |
+| Price | 73.19 |
+| Trend | downtrend |
+| RSI | 46.85 |
+| MACD | 0.55 |
+| MA20 | 72.73 |
+| MA200 | 51.67 |
+| ATR | 2.01 |
 | Risk | NORMAL |
-| Stop Loss | 68.83 |
-| Target | 76.22 |
+| Stop Loss | 70.17 |
+| Target | 77.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PCCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 400.05 |
+| Price | 400.35 |
 | Trend | weak_trend |
-| RSI | 21.17 |
-| MACD | 4.15 |
-| MA20 | 431.94 |
-| MA200 | 281.5 |
-| ATR | 13.51 |
+| RSI | 21.65 |
+| MACD | 2.36 |
+| MA20 | 430.25 |
+| MA200 | 282.5 |
+| ATR | 11.33 |
 | Risk | NORMAL |
-| Stop Loss | 379.79 |
-| Target | 427.06 |
+| Stop Loss | 383.36 |
+| Target | 423.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30471,16 +30471,16 @@
 ### RBMINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 238.45 |
+| Price | 239.2 |
 | Trend | downtrend |
-| RSI | 12.45 |
-| MACD | -7.81 |
-| MA20 | 260.88 |
-| MA200 | 325.11 |
-| ATR | 13.55 |
+| RSI | 15.85 |
+| MACD | -7.75 |
+| MA20 | 257.01 |
+| MA200 | 324.29 |
+| ATR | 12.94 |
 | Risk | ELEVATED |
-| Stop Loss | 218.13 |
-| Target | 265.54 |
+| Stop Loss | 219.79 |
+| Target | 265.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30489,16 +30489,16 @@
 ### VALIANTLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 118.59 |
+| Price | 122.07 |
 | Trend | weak_trend |
-| RSI | 37.94 |
-| MACD | 4.41 |
-| MA20 | 122.84 |
-| MA200 | 74.83 |
-| ATR | 7.47 |
+| RSI | 44.12 |
+| MACD | 4.15 |
+| MA20 | 122.54 |
+| MA200 | 75.11 |
+| ATR | 7.37 |
 | Risk | ELEVATED |
-| Stop Loss | 107.38 |
-| Target | 133.53 |
+| Stop Loss | 111.02 |
+| Target | 136.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30507,34 +30507,34 @@
 ### EMAMIREAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.32 |
+| Price | 69.02 |
 | Trend | downtrend |
-| RSI | 55.97 |
-| MACD | -0.53 |
-| MA20 | 67.99 |
-| MA200 | 75.77 |
-| ATR | 3.06 |
+| RSI | 54.71 |
+| MACD | -0.43 |
+| MA20 | 67.95 |
+| MA200 | 75.71 |
+| ATR | 3.05 |
 | Risk | ELEVATED |
-| Stop Loss | 63.73 |
-| Target | 74.43 |
+| Stop Loss | 64.44 |
+| Target | 75.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MANAKSIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.76 |
+| Price | 57.9 |
 | Trend | downtrend |
-| RSI | 35.99 |
-| MACD | -1.22 |
-| MA20 | 62.19 |
-| MA200 | 59.58 |
-| ATR | 2.91 |
+| RSI | 29.03 |
+| MACD | -1.26 |
+| MA20 | 61.54 |
+| MA200 | 59.57 |
+| ATR | 2.83 |
 | Risk | ELEVATED |
-| Stop Loss | 53.4 |
-| Target | 63.58 |
+| Stop Loss | 53.66 |
+| Target | 63.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30543,16 +30543,16 @@
 ### NOVAAGRI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.76 |
+| Price | 21.69 |
 | Trend | downtrend |
-| RSI | 22.06 |
-| MACD | -0.43 |
-| MA20 | 22.53 |
-| MA200 | 27.64 |
-| ATR | 0.96 |
+| RSI | 23.17 |
+| MACD | -0.45 |
+| MA20 | 22.48 |
+| MA200 | 27.56 |
+| ATR | 0.98 |
 | Risk | ELEVATED |
-| Stop Loss | 20.33 |
-| Target | 23.67 |
+| Stop Loss | 20.22 |
+| Target | 23.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30561,34 +30561,34 @@
 ### SWARAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 346.95 |
+| Price | 363.05 |
 | Trend | weak_trend |
-| RSI | 68.67 |
-| MACD | 5.01 |
-| MA20 | 335.74 |
-| MA200 | 299.07 |
-| ATR | 18.06 |
+| RSI | 70.54 |
+| MACD | 5.39 |
+| MA20 | 337.14 |
+| MA200 | 299.65 |
+| ATR | 18.15 |
 | Risk | ELEVATED |
-| Stop Loss | 319.86 |
-| Target | 383.07 |
+| Stop Loss | 335.83 |
+| Target | 399.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MANORG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 424.05 |
+| Price | 428.45 |
 | Trend | downtrend |
-| RSI | 25.34 |
-| MACD | -12.78 |
-| MA20 | 447.16 |
-| MA200 | 477.62 |
-| ATR | 16.23 |
+| RSI | 30.85 |
+| MACD | -12.68 |
+| MA20 | 445.26 |
+| MA200 | 477.41 |
+| ATR | 15.47 |
 | Risk | NORMAL |
-| Stop Loss | 399.7 |
-| Target | 456.51 |
+| Stop Loss | 405.25 |
+| Target | 459.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30597,16 +30597,16 @@
 ### REMSONSIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 103.69 |
+| Price | 100.92 |
 | Trend | weak_trend |
-| RSI | 57.01 |
-| MACD | 3.0 |
-| MA20 | 104.02 |
-| MA200 | 98.59 |
-| ATR | 10.1 |
+| RSI | 52.84 |
+| MACD | 2.44 |
+| MA20 | 104.25 |
+| MA200 | 98.49 |
+| ATR | 10.14 |
 | Risk | ELEVATED |
-| Stop Loss | 88.54 |
-| Target | 123.89 |
+| Stop Loss | 85.72 |
+| Target | 121.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30615,16 +30615,16 @@
 ### TIGERLOGS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.08 |
+| Price | 24.27 |
 | Trend | downtrend |
-| RSI | 38.9 |
-| MACD | -0.9 |
-| MA20 | 26.07 |
-| MA200 | 31.47 |
-| ATR | 1.53 |
+| RSI | 32.03 |
+| MACD | -0.93 |
+| MA20 | 25.93 |
+| MA200 | 31.41 |
+| ATR | 1.49 |
 | Risk | ELEVATED |
-| Stop Loss | 21.79 |
-| Target | 27.14 |
+| Stop Loss | 22.03 |
+| Target | 27.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30633,16 +30633,16 @@
 ### GLOBECIVIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.22 |
+| Price | 40.61 |
 | Trend | downtrend |
-| RSI | 44.72 |
-| MACD | -0.81 |
-| MA20 | 42.33 |
-| MA200 | 45.99 |
-| ATR | 2.02 |
+| RSI | 30.47 |
+| MACD | -0.84 |
+| MA20 | 42.15 |
+| MA200 | 45.9 |
+| ATR | 2.05 |
 | Risk | ELEVATED |
-| Stop Loss | 38.19 |
-| Target | 45.26 |
+| Stop Loss | 37.53 |
+| Target | 44.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30651,70 +30651,70 @@
 ### KHADIM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.93 |
+| Price | 112.36 |
 | Trend | downtrend |
-| RSI | 19.33 |
-| MACD | 0.1 |
-| MA20 | 118.85 |
-| MA200 | 118.34 |
-| ATR | 3.0 |
+| RSI | 21.04 |
+| MACD | -0.17 |
+| MA20 | 118.42 |
+| MA200 | 118.1 |
+| ATR | 3.43 |
 | Risk | NORMAL |
-| Stop Loss | 108.43 |
-| Target | 118.93 |
+| Stop Loss | 107.21 |
+| Target | 119.23 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### PASUPTAC.NS
+| Metric | Value |
+|--------|-------|
+| Price | 74.95 |
+| Trend | downtrend |
+| RSI | 47.73 |
+| MACD | 1.56 |
+| MA20 | 72.41 |
+| MA200 | 57.0 |
+| ATR | 4.89 |
+| Risk | ELEVATED |
+| Stop Loss | 67.62 |
+| Target | 84.72 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
+### ASHIMASYN.NS
+| Metric | Value |
+|--------|-------|
+| Price | 14.24 |
+| Trend | downtrend |
+| RSI | 27.64 |
+| MACD | -0.76 |
+| MA20 | 15.41 |
+| MA200 | 16.2 |
+| ATR | 0.72 |
+| Risk | ELEVATED |
+| Stop Loss | 13.15 |
+| Target | 15.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### PASUPTAC.NS
-| Metric | Value |
-|--------|-------|
-| Price | 72.52 |
-| Trend | weak_trend |
-| RSI | 51.98 |
-| MACD | 1.4 |
-| MA20 | 72.02 |
-| MA200 | 56.89 |
-| ATR | 5.02 |
-| Risk | ELEVATED |
-| Stop Loss | 64.99 |
-| Target | 82.56 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### ASHIMASYN.NS
-| Metric | Value |
-|--------|-------|
-| Price | 14.05 |
-| Trend | downtrend |
-| RSI | 21.28 |
-| MACD | -0.76 |
-| MA20 | 15.53 |
-| MA200 | 16.22 |
-| ATR | 0.74 |
-| Risk | ELEVATED |
-| Stop Loss | 12.94 |
-| Target | 15.53 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
 ### BANSWRAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.66 |
+| Price | 102.18 |
 | Trend | downtrend |
-| RSI | 20.72 |
-| MACD | -3.66 |
-| MA20 | 107.71 |
-| MA200 | 116.28 |
-| ATR | 4.33 |
+| RSI | 25.17 |
+| MACD | -3.62 |
+| MA20 | 107.18 |
+| MA200 | 116.23 |
+| ATR | 4.22 |
 | Risk | ELEVATED |
-| Stop Loss | 94.16 |
-| Target | 109.33 |
+| Stop Loss | 95.85 |
+| Target | 110.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30723,34 +30723,34 @@
 ### FILATFASH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.17 |
+| Price | 0.18 |
 | Trend | weak_trend |
-| RSI | 50.0 |
+| RSI | 66.67 |
 | MACD | -0.0 |
 | MA20 | 0.18 |
 | MA200 | 0.22 |
 | ATR | 0.01 |
 | Risk | ELEVATED |
-| Stop Loss | 0.15 |
-| Target | 0.19 |
+| Stop Loss | 0.16 |
+| Target | 0.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### S&SPOWER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 282.85 |
+| Price | 275.55 |
 | Trend | downtrend |
-| RSI | 24.37 |
-| MACD | -12.26 |
-| MA20 | 307.15 |
-| MA200 | 332.33 |
-| ATR | 18.93 |
+| RSI | 19.46 |
+| MACD | -12.78 |
+| MA20 | 303.41 |
+| MA200 | 332.29 |
+| ATR | 19.77 |
 | Risk | ELEVATED |
-| Stop Loss | 254.46 |
-| Target | 320.7 |
+| Stop Loss | 245.9 |
+| Target | 315.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30759,16 +30759,16 @@
 ### HPAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 33.93 |
+| Price | 34.25 |
 | Trend | downtrend |
-| RSI | 30.0 |
-| MACD | -0.31 |
-| MA20 | 34.84 |
-| MA200 | 35.97 |
-| ATR | 1.57 |
+| RSI | 38.08 |
+| MACD | -0.29 |
+| MA20 | 34.67 |
+| MA200 | 35.93 |
+| ATR | 1.53 |
 | Risk | ELEVATED |
-| Stop Loss | 31.58 |
-| Target | 37.07 |
+| Stop Loss | 31.96 |
+| Target | 37.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30777,20 +30777,20 @@
 ### RUBFILA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 61.36 |
+| Price | 61.7 |
 | Trend | downtrend |
-| RSI | 33.26 |
-| MACD | -0.97 |
-| MA20 | 63.89 |
-| MA200 | 68.15 |
-| ATR | 2.34 |
+| RSI | 29.33 |
+| MACD | -1.03 |
+| MA20 | 63.65 |
+| MA200 | 68.1 |
+| ATR | 2.29 |
 | Risk | NORMAL |
-| Stop Loss | 57.84 |
-| Target | 66.05 |
+| Stop Loss | 58.27 |
+| Target | 66.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GENUSPAPER.NS
 | Metric | Value |
@@ -30813,16 +30813,16 @@
 ### DENORA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 703.45 |
+| Price | 700.1 |
 | Trend | downtrend |
-| RSI | 8.4 |
-| MACD | -28.19 |
-| MA20 | 758.22 |
-| MA200 | 751.04 |
-| ATR | 33.5 |
+| RSI | 9.21 |
+| MACD | -28.73 |
+| MA20 | 753.5 |
+| MA200 | 751.06 |
+| ATR | 33.35 |
 | Risk | ELEVATED |
-| Stop Loss | 653.2 |
-| Target | 770.45 |
+| Stop Loss | 650.07 |
+| Target | 766.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30831,16 +30831,16 @@
 ### ORIENTBELL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 401.9 |
+| Price | 410.7 |
 | Trend | weak_trend |
-| RSI | 54.03 |
-| MACD | 7.73 |
-| MA20 | 400.32 |
-| MA200 | 319.42 |
-| ATR | 18.89 |
+| RSI | 57.18 |
+| MACD | 7.54 |
+| MA20 | 400.76 |
+| MA200 | 320.16 |
+| ATR | 18.79 |
 | Risk | ELEVATED |
-| Stop Loss | 373.57 |
-| Target | 439.67 |
+| Stop Loss | 382.52 |
+| Target | 448.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30849,16 +30849,16 @@
 ### RHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 160.83 |
+| Price | 162.3 |
 | Trend | downtrend |
-| RSI | 27.6 |
-| MACD | -2.27 |
-| MA20 | 168.96 |
-| MA200 | 179.78 |
-| ATR | 6.06 |
+| RSI | 31.99 |
+| MACD | -2.32 |
+| MA20 | 168.74 |
+| MA200 | 179.61 |
+| ATR | 5.93 |
 | Risk | NORMAL |
-| Stop Loss | 151.74 |
-| Target | 172.96 |
+| Stop Loss | 153.4 |
+| Target | 174.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30867,16 +30867,16 @@
 ### TICL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.87 |
+| Price | 8.14 |
 | Trend | weak_trend |
-| RSI | 71.91 |
-| MACD | 0.04 |
-| MA20 | 7.07 |
-| MA200 | 18.0 |
-| ATR | 0.42 |
+| RSI | 76.76 |
+| MACD | 0.06 |
+| MA20 | 7.12 |
+| MA200 | 17.91 |
+| ATR | 0.45 |
 | Risk | ELEVATED |
-| Stop Loss | 7.23 |
-| Target | 8.72 |
+| Stop Loss | 7.47 |
+| Target | 9.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30886,33 +30886,33 @@
 | Metric | Value |
 |--------|-------|
 | Price | 3.26 |
-| Trend | downtrend |
-| RSI | 56.34 |
+| Trend | weak_trend |
+| RSI | 47.46 |
 | MACD | -0.03 |
-| MA20 | 3.27 |
-| MA200 | 4.19 |
-| ATR | 0.21 |
+| MA20 | 3.26 |
+| MA200 | 4.17 |
+| ATR | 0.2 |
 | Risk | ELEVATED |
-| Stop Loss | 2.95 |
-| Target | 3.68 |
+| Stop Loss | 2.96 |
+| Target | 3.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JKIPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.98 |
+| Price | 107.37 |
 | Trend | uptrend |
-| RSI | 68.27 |
-| MACD | 1.96 |
-| MA20 | 99.21 |
-| MA200 | 87.19 |
-| ATR | 5.8 |
+| RSI | 62.22 |
+| MACD | 2.19 |
+| MA20 | 100.0 |
+| MA200 | 87.25 |
+| ATR | 6.0 |
 | Risk | ELEVATED |
-| Stop Loss | 104.28 |
-| Target | 124.58 |
+| Stop Loss | 98.38 |
+| Target | 119.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30921,16 +30921,16 @@
 ### BEDMUTHA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 110.0 |
+| Price | 108.5 |
 | Trend | downtrend |
-| RSI | 60.93 |
-| MACD | 0.49 |
-| MA20 | 106.7 |
-| MA200 | 113.8 |
+| RSI | 59.73 |
+| MACD | 0.46 |
+| MA20 | 106.93 |
+| MA200 | 113.81 |
 | ATR | 5.45 |
 | Risk | ELEVATED |
-| Stop Loss | 101.83 |
-| Target | 120.89 |
+| Stop Loss | 100.32 |
+| Target | 119.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30939,16 +30939,16 @@
 ### INFOLLION.NS
 | Metric | Value |
 |--------|-------|
-| Price | 174.45 |
+| Price | 175.45 |
 | Trend | weak_trend |
-| RSI | 80.23 |
-| MACD | 2.86 |
-| MA20 | 157.82 |
-| MA200 | 241.1 |
-| ATR | 6.9 |
-| Risk | NORMAL |
-| Stop Loss | 164.09 |
-| Target | 188.26 |
+| RSI | 83.12 |
+| MACD | 3.69 |
+| MA20 | 158.69 |
+| MA200 | 240.03 |
+| ATR | 7.18 |
+| Risk | ELEVATED |
+| Stop Loss | 164.68 |
+| Target | 189.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -30957,20 +30957,20 @@
 ### WELINV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2189.8 |
+| Price | 2082.5 |
 | Trend | weak_trend |
-| RSI | 33.58 |
-| MACD | 36.75 |
-| MA20 | 2381.17 |
-| MA200 | 1672.67 |
-| ATR | 43.27 |
-| Risk | LOW |
-| Stop Loss | 2124.89 |
-| Target | 2276.34 |
+| RSI | 22.91 |
+| MACD | 11.58 |
+| MA20 | 2369.2 |
+| MA200 | 1676.16 |
+| ATR | 47.71 |
+| Risk | NORMAL |
+| Stop Loss | 2010.94 |
+| Target | 2177.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NILAINFRA.NS
 | Metric | Value |
@@ -30993,16 +30993,16 @@
 ### UNIDT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 201.43 |
+| Price | 203.21 |
 | Trend | downtrend |
-| RSI | 43.19 |
-| MACD | -2.02 |
-| MA20 | 226.96 |
-| MA200 | 207.88 |
-| ATR | 21.02 |
+| RSI | 46.85 |
+| MACD | -3.5 |
+| MA20 | 225.6 |
+| MA200 | 207.9 |
+| ATR | 20.84 |
 | Risk | ELEVATED |
-| Stop Loss | 169.9 |
-| Target | 243.48 |
+| Stop Loss | 171.94 |
+| Target | 244.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31011,16 +31011,16 @@
 ### VISHNUINFR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 139.95 |
+| Price | 138.85 |
 | Trend | downtrend |
-| RSI | 33.57 |
-| MACD | -3.87 |
-| MA20 | 147.66 |
-| MA200 | 160.83 |
-| ATR | 5.39 |
+| RSI | 35.53 |
+| MACD | -3.99 |
+| MA20 | 146.81 |
+| MA200 | 160.67 |
+| ATR | 5.47 |
 | Risk | NORMAL |
-| Stop Loss | 131.87 |
-| Target | 150.73 |
+| Stop Loss | 130.65 |
+| Target | 149.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31029,16 +31029,16 @@
 ### AVPINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 60.8 |
+| Price | 65.05 |
 | Trend | downtrend |
-| RSI | 59.05 |
-| MACD | -0.68 |
-| MA20 | 56.77 |
-| MA200 | 82.65 |
-| ATR | 3.07 |
+| RSI | 65.72 |
+| MACD | 0.03 |
+| MA20 | 57.09 |
+| MA200 | 82.38 |
+| ATR | 3.36 |
 | Risk | ELEVATED |
-| Stop Loss | 56.19 |
-| Target | 66.95 |
+| Stop Loss | 60.0 |
+| Target | 71.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31047,34 +31047,34 @@
 ### DEVX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.66 |
+| Price | 42.41 |
 | Trend | weak_trend |
-| RSI | 82.88 |
-| MACD | 1.64 |
-| MA20 | 36.36 |
+| RSI | 84.64 |
+| MACD | 1.85 |
+| MA20 | 36.78 |
 | MA200 | 37.5 |
-| ATR | 1.77 |
+| ATR | 1.8 |
 | Risk | ELEVATED |
-| Stop Loss | 39.0 |
-| Target | 45.21 |
+| Stop Loss | 39.71 |
+| Target | 46.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AARON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 132.36 |
+| Price | 131.16 |
 | Trend | downtrend |
-| RSI | 65.82 |
-| MACD | -0.73 |
-| MA20 | 123.14 |
-| MA200 | 137.9 |
-| ATR | 6.18 |
+| RSI | 64.18 |
+| MACD | -0.16 |
+| MA20 | 123.35 |
+| MA200 | 137.68 |
+| ATR | 6.1 |
 | Risk | ELEVATED |
-| Stop Loss | 123.09 |
-| Target | 144.72 |
+| Stop Loss | 122.01 |
+| Target | 143.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31083,34 +31083,34 @@
 ### GICL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.93 |
+| Price | 22.57 |
 | Trend | downtrend |
-| RSI | 30.52 |
-| MACD | -0.47 |
-| MA20 | 23.02 |
-| MA200 | 33.36 |
-| ATR | 1.29 |
+| RSI | 41.95 |
+| MACD | -0.41 |
+| MA20 | 22.91 |
+| MA200 | 33.24 |
+| ATR | 1.28 |
 | Risk | ELEVATED |
-| Stop Loss | 19.99 |
-| Target | 24.51 |
+| Stop Loss | 20.65 |
+| Target | 25.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GOKUL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 38.04 |
+| Price | 38.0 |
 | Trend | downtrend |
-| RSI | 37.5 |
-| MACD | -0.8 |
-| MA20 | 39.4 |
-| MA200 | 39.74 |
-| ATR | 1.37 |
+| RSI | 27.27 |
+| MACD | -0.81 |
+| MA20 | 39.19 |
+| MA200 | 39.73 |
+| ATR | 1.36 |
 | Risk | NORMAL |
-| Stop Loss | 35.98 |
-| Target | 40.78 |
+| Stop Loss | 35.96 |
+| Target | 40.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31119,16 +31119,16 @@
 ### GOACARBON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 406.05 |
+| Price | 401.35 |
 | Trend | weak_trend |
-| RSI | 60.75 |
-| MACD | 5.49 |
-| MA20 | 399.02 |
-| MA200 | 377.71 |
-| ATR | 15.6 |
+| RSI | 58.88 |
+| MACD | 4.98 |
+| MA20 | 398.42 |
+| MA200 | 377.73 |
+| ATR | 15.54 |
 | Risk | NORMAL |
-| Stop Loss | 382.65 |
-| Target | 437.25 |
+| Stop Loss | 378.04 |
+| Target | 432.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31137,34 +31137,34 @@
 ### RUCHIRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.16 |
+| Price | 102.14 |
 | Trend | downtrend |
-| RSI | 37.42 |
-| MACD | -0.62 |
-| MA20 | 104.15 |
-| MA200 | 108.65 |
-| ATR | 3.23 |
+| RSI | 38.91 |
+| MACD | -0.64 |
+| MA20 | 103.94 |
+| MA200 | 108.58 |
+| ATR | 3.21 |
 | Risk | NORMAL |
 | Stop Loss | 97.32 |
-| Target | 108.62 |
+| Target | 108.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SHIVAUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 551.1 |
+| Price | 551.85 |
 | Trend | weak_trend |
-| RSI | 85.11 |
-| MACD | 26.35 |
-| MA20 | 519.23 |
-| MA200 | 370.24 |
-| ATR | 16.29 |
+| RSI | 76.25 |
+| MACD | 25.34 |
+| MA20 | 523.55 |
+| MA200 | 371.59 |
+| ATR | 12.35 |
 | Risk | NORMAL |
-| Stop Loss | 526.67 |
-| Target | 583.68 |
+| Stop Loss | 533.32 |
+| Target | 576.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31173,34 +31173,34 @@
 ### PHANTOMFX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 96.95 |
-| Trend | downtrend |
-| RSI | 54.14 |
-| MACD | -5.87 |
-| MA20 | 93.7 |
-| MA200 | 177.82 |
-| ATR | 7.7 |
+| Price | 92.3 |
+| Trend | weak_trend |
+| RSI | 49.45 |
+| MACD | -5.67 |
+| MA20 | 92.7 |
+| MA200 | 177.14 |
+| ATR | 7.83 |
 | Risk | ELEVATED |
-| Stop Loss | 85.39 |
-| Target | 112.36 |
+| Stop Loss | 80.56 |
+| Target | 107.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MANAKSTEEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 109.69 |
+| Price | 111.48 |
 | Trend | weak_trend |
-| RSI | 51.57 |
-| MACD | 2.81 |
-| MA20 | 108.53 |
-| MA200 | 73.42 |
-| ATR | 6.71 |
+| RSI | 54.66 |
+| MACD | 2.83 |
+| MA20 | 108.2 |
+| MA200 | 73.65 |
+| ATR | 6.76 |
 | Risk | ELEVATED |
-| Stop Loss | 99.62 |
-| Target | 123.12 |
+| Stop Loss | 101.35 |
+| Target | 124.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31209,16 +31209,16 @@
 ### AARTISURF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 494.25 |
+| Price | 491.3 |
 | Trend | weak_trend |
-| RSI | 37.18 |
-| MACD | -8.66 |
-| MA20 | 505.92 |
-| MA200 | 425.05 |
-| ATR | 20.81 |
+| RSI | 40.26 |
+| MACD | -8.55 |
+| MA20 | 505.2 |
+| MA200 | 425.52 |
+| ATR | 20.37 |
 | Risk | ELEVATED |
-| Stop Loss | 463.04 |
-| Target | 535.86 |
+| Stop Loss | 460.75 |
+| Target | 532.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31227,16 +31227,16 @@
 ### SAKUMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.48 |
+| Price | 1.51 |
 | Trend | downtrend |
-| RSI | 44.44 |
+| RSI | 48.94 |
 | MACD | -0.03 |
 | MA20 | 1.55 |
 | MA200 | 1.79 |
-| ATR | 0.07 |
+| ATR | 0.08 |
 | Risk | ELEVATED |
-| Stop Loss | 1.37 |
-| Target | 1.63 |
+| Stop Loss | 1.39 |
+| Target | 1.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31245,16 +31245,16 @@
 ### ASMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.82 |
+| Price | 5.9 |
 | Trend | downtrend |
-| RSI | 17.42 |
-| MACD | -0.29 |
-| MA20 | 6.31 |
-| MA200 | 8.45 |
+| RSI | 23.31 |
+| MACD | -0.28 |
+| MA20 | 6.26 |
+| MA200 | 8.42 |
 | ATR | 0.36 |
 | Risk | ELEVATED |
-| Stop Loss | 5.28 |
-| Target | 6.54 |
+| Stop Loss | 5.36 |
+| Target | 6.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31281,34 +31281,34 @@
 ### BBTCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 218.66 |
+| Price | 215.24 |
 | Trend | weak_trend |
-| RSI | 25.75 |
-| MACD | -0.99 |
-| MA20 | 228.64 |
-| MA200 | 203.52 |
-| ATR | 10.08 |
+| RSI | 24.48 |
+| MACD | -1.89 |
+| MA20 | 228.08 |
+| MA200 | 203.64 |
+| ATR | 10.38 |
 | Risk | ELEVATED |
-| Stop Loss | 203.54 |
-| Target | 238.82 |
+| Stop Loss | 199.68 |
+| Target | 235.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAHEPC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 98.13 |
+| Price | 98.03 |
 | Trend | weak_trend |
-| RSI | 45.28 |
-| MACD | -1.65 |
-| MA20 | 99.03 |
-| MA200 | 114.24 |
-| ATR | 3.17 |
+| RSI | 46.91 |
+| MACD | -1.55 |
+| MA20 | 98.84 |
+| MA200 | 114.11 |
+| ATR | 3.08 |
 | Risk | NORMAL |
-| Stop Loss | 93.38 |
-| Target | 104.46 |
+| Stop Loss | 93.42 |
+| Target | 104.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31320,9 +31320,9 @@
 | Price | 104.0 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | 0.41 |
-| MA20 | 106.16 |
-| MA200 | 179.53 |
+| MACD | 0.32 |
+| MA20 | 106.0 |
+| MA200 | 178.75 |
 | ATR | 0.22 |
 | Risk | LOW |
 | Stop Loss | 103.67 |
@@ -31335,16 +31335,16 @@
 ### DYNPRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 233.72 |
+| Price | 233.58 |
 | Trend | weak_trend |
-| RSI | 54.36 |
-| MACD | -1.54 |
-| MA20 | 227.83 |
-| MA200 | 232.57 |
-| ATR | 7.29 |
+| RSI | 52.49 |
+| MACD | -0.92 |
+| MA20 | 227.9 |
+| MA200 | 232.41 |
+| ATR | 7.82 |
 | Risk | NORMAL |
-| Stop Loss | 222.79 |
-| Target | 248.3 |
+| Stop Loss | 221.85 |
+| Target | 249.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31353,16 +31353,16 @@
 ### IL&FSENGG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.01 |
+| Price | 38.72 |
 | Trend | weak_trend |
-| RSI | 38.11 |
-| MACD | 0.52 |
-| MA20 | 39.68 |
-| MA200 | 29.47 |
-| ATR | 1.97 |
+| RSI | 35.66 |
+| MACD | 0.45 |
+| MA20 | 39.69 |
+| MA200 | 29.53 |
+| ATR | 1.85 |
 | Risk | ELEVATED |
-| Stop Loss | 36.05 |
-| Target | 42.95 |
+| Stop Loss | 35.95 |
+| Target | 42.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31371,16 +31371,16 @@
 ### INFINIUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 317.0 |
+| Price | 302.0 |
 | Trend | weak_trend |
-| RSI | 69.28 |
-| MACD | 16.11 |
-| MA20 | 283.49 |
-| MA200 | 223.33 |
-| ATR | 16.74 |
+| RSI | 67.63 |
+| MACD | 15.16 |
+| MA20 | 285.28 |
+| MA200 | 223.71 |
+| ATR | 16.61 |
 | Risk | ELEVATED |
-| Stop Loss | 291.9 |
-| Target | 350.47 |
+| Stop Loss | 277.08 |
+| Target | 335.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31389,20 +31389,20 @@
 ### FCSSOFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.4 |
-| Trend | weak_trend |
-| RSI | 50.0 |
+| Price | 1.41 |
+| Trend | downtrend |
+| RSI | 53.49 |
 | MACD | -0.01 |
 | MA20 | 1.4 |
-| MA200 | 1.58 |
-| ATR | 0.06 |
+| MA200 | 1.57 |
+| ATR | 0.07 |
 | Risk | ELEVATED |
-| Stop Loss | 1.3 |
-| Target | 1.53 |
+| Stop Loss | 1.31 |
+| Target | 1.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ZIMLAB.NS
 | Metric | Value |
@@ -31425,16 +31425,16 @@
 ### APCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 89.95 |
+| Price | 89.68 |
 | Trend | downtrend |
-| RSI | 33.47 |
-| MACD | -2.42 |
-| MA20 | 94.86 |
-| MA200 | 114.05 |
-| ATR | 4.25 |
+| RSI | 28.08 |
+| MACD | -2.51 |
+| MA20 | 94.43 |
+| MA200 | 113.9 |
+| ATR | 4.38 |
 | Risk | ELEVATED |
-| Stop Loss | 83.58 |
-| Target | 98.44 |
+| Stop Loss | 83.12 |
+| Target | 98.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31443,16 +31443,16 @@
 ### SUMIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 48.04 |
+| Price | 48.7 |
 | Trend | downtrend |
-| RSI | 45.48 |
-| MACD | -0.62 |
-| MA20 | 49.42 |
-| MA200 | 49.29 |
-| ATR | 3.68 |
+| RSI | 45.93 |
+| MACD | -0.6 |
+| MA20 | 49.38 |
+| MA200 | 49.2 |
+| ATR | 3.71 |
 | Risk | ELEVATED |
-| Stop Loss | 42.52 |
-| Target | 55.4 |
+| Stop Loss | 43.13 |
+| Target | 56.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31461,52 +31461,52 @@
 ### SHREEKARNI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 429.0 |
+| Price | 426.1 |
 | Trend | weak_trend |
-| RSI | 81.58 |
-| MACD | 4.38 |
-| MA20 | 379.3 |
-| MA200 | 416.08 |
-| ATR | 12.7 |
+| RSI | 74.88 |
+| MACD | 7.13 |
+| MA20 | 381.57 |
+| MA200 | 415.79 |
+| ATR | 11.56 |
 | Risk | NORMAL |
-| Stop Loss | 409.95 |
-| Target | 454.4 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### ROSSELLIND.NS
-| Metric | Value |
-|--------|-------|
-| Price | 52.19 |
-| Trend | weak_trend |
-| RSI | 51.57 |
-| MACD | -1.15 |
-| MA20 | 52.29 |
-| MA200 | 51.93 |
-| ATR | 1.79 |
-| Risk | NORMAL |
-| Stop Loss | 49.51 |
-| Target | 55.77 |
+| Stop Loss | 408.76 |
+| Target | 449.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### ROSSELLIND.NS
+| Metric | Value |
+|--------|-------|
+| Price | 51.62 |
+| Trend | weak_trend |
+| RSI | 48.09 |
+| MACD | -1.08 |
+| MA20 | 52.12 |
+| MA200 | 51.94 |
+| ATR | 1.84 |
+| Risk | NORMAL |
+| Stop Loss | 48.85 |
+| Target | 55.31 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### BCONCEPTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 137.77 |
-| Trend | weak_trend |
-| RSI | 30.52 |
-| MACD | -5.82 |
-| MA20 | 147.28 |
-| MA200 | 221.72 |
-| ATR | 6.7 |
+| Price | 137.08 |
+| Trend | downtrend |
+| RSI | 28.72 |
+| MACD | -5.95 |
+| MA20 | 146.31 |
+| MA200 | 220.87 |
+| ATR | 6.62 |
 | Risk | ELEVATED |
-| Stop Loss | 127.72 |
-| Target | 151.16 |
+| Stop Loss | 127.15 |
+| Target | 150.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31515,16 +31515,16 @@
 ### VARDMNPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.04 |
+| Price | 5.12 |
 | Trend | downtrend |
-| RSI | 16.22 |
-| MACD | -0.2 |
-| MA20 | 5.67 |
+| RSI | 21.19 |
+| MACD | -0.21 |
+| MA20 | 5.63 |
 | MA200 | 6.61 |
-| ATR | 0.32 |
+| ATR | 0.34 |
 | Risk | ELEVATED |
-| Stop Loss | 4.56 |
-| Target | 5.68 |
+| Stop Loss | 4.6 |
+| Target | 5.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31533,16 +31533,16 @@
 ### INM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 134.0 |
+| Price | 133.0 |
 | Trend | downtrend |
-| RSI | 31.84 |
-| MACD | -6.1 |
-| MA20 | 146.7 |
-| MA200 | 177.39 |
-| ATR | 3.86 |
+| RSI | 31.18 |
+| MACD | -6.23 |
+| MA20 | 145.13 |
+| MA200 | 176.85 |
+| ATR | 3.93 |
 | Risk | NORMAL |
-| Stop Loss | 128.21 |
-| Target | 141.72 |
+| Stop Loss | 127.1 |
+| Target | 140.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31551,16 +31551,16 @@
 ### SYSTANGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 211.95 |
+| Price | 215.65 |
 | Trend | downtrend |
-| RSI | 39.6 |
-| MACD | -2.15 |
-| MA20 | 220.5 |
-| MA200 | 244.0 |
-| ATR | 6.59 |
+| RSI | 37.21 |
+| MACD | -2.12 |
+| MA20 | 219.8 |
+| MA200 | 243.44 |
+| ATR | 6.52 |
 | Risk | NORMAL |
-| Stop Loss | 202.06 |
-| Target | 225.14 |
+| Stop Loss | 205.87 |
+| Target | 228.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31569,34 +31569,34 @@
 ### OILCOUNTUB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 84.53 |
+| Price | 82.84 |
 | Trend | weak_trend |
-| RSI | 91.86 |
-| MACD | 5.81 |
-| MA20 | 73.34 |
-| MA200 | 56.42 |
-| ATR | 1.66 |
-| Risk | LOW |
-| Stop Loss | 82.04 |
-| Target | 87.86 |
+| RSI | 84.12 |
+| MACD | 5.66 |
+| MA20 | 74.42 |
+| MA200 | 56.52 |
+| ATR | 1.69 |
+| Risk | NORMAL |
+| Stop Loss | 80.31 |
+| Target | 86.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VGL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 61.04 |
 | Trend | downtrend |
-| RSI | 25.63 |
-| MACD | 0.32 |
-| MA20 | 65.27 |
-| MA200 | 63.72 |
-| ATR | 3.39 |
+| RSI | 26.75 |
+| MACD | 0.12 |
+| MA20 | 64.98 |
+| MA200 | 63.66 |
+| ATR | 3.59 |
 | Risk | ELEVATED |
-| Stop Loss | 55.95 |
-| Target | 67.82 |
+| Stop Loss | 55.65 |
+| Target | 68.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31605,16 +31605,16 @@
 ### 3IINFOLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.55 |
+| Price | 22.51 |
 | Trend | weak_trend |
-| RSI | 22.54 |
-| MACD | -0.26 |
-| MA20 | 23.95 |
-| MA200 | 18.32 |
-| ATR | 0.89 |
+| RSI | 16.28 |
+| MACD | -0.29 |
+| MA20 | 23.94 |
+| MA200 | 18.35 |
+| ATR | 0.87 |
 | Risk | NORMAL |
 | Stop Loss | 21.21 |
-| Target | 24.34 |
+| Target | 24.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31623,16 +31623,16 @@
 ### IITL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 127.07 |
+| Price | 129.01 |
 | Trend | downtrend |
-| RSI | 32.74 |
-| MACD | -5.1 |
-| MA20 | 137.04 |
-| MA200 | 143.74 |
-| ATR | 9.23 |
+| RSI | 34.94 |
+| MACD | -4.94 |
+| MA20 | 136.04 |
+| MA200 | 143.56 |
+| ATR | 8.16 |
 | Risk | ELEVATED |
-| Stop Loss | 113.23 |
-| Target | 145.53 |
+| Stop Loss | 116.77 |
+| Target | 145.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31641,16 +31641,16 @@
 ### DCI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 327.6 |
+| Price | 329.9 |
 | Trend | weak_trend |
-| RSI | 75.13 |
-| MACD | 5.02 |
-| MA20 | 307.81 |
-| MA200 | 287.82 |
-| ATR | 20.29 |
+| RSI | 74.9 |
+| MACD | 4.69 |
+| MA20 | 310.72 |
+| MA200 | 288.26 |
+| ATR | 21.45 |
 | Risk | ELEVATED |
-| Stop Loss | 297.16 |
-| Target | 368.19 |
+| Stop Loss | 297.73 |
+| Target | 372.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31659,56 +31659,56 @@
 ### INSPIRISYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 81.13 |
+| Price | 82.44 |
 | Trend | downtrend |
-| RSI | 37.15 |
-| MACD | -1.88 |
-| MA20 | 85.32 |
-| MA200 | 92.94 |
-| ATR | 4.49 |
+| RSI | 35.69 |
+| MACD | -1.91 |
+| MA20 | 85.17 |
+| MA200 | 92.91 |
+| ATR | 4.64 |
 | Risk | ELEVATED |
-| Stop Loss | 74.4 |
-| Target | 90.11 |
+| Stop Loss | 75.48 |
+| Target | 91.72 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### WTICAB.NS
+| Metric | Value |
+|--------|-------|
+| Price | 95.4 |
+| Trend | weak_trend |
+| RSI | 38.12 |
+| MACD | -2.27 |
+| MA20 | 98.3 |
+| MA200 | 110.15 |
+| ATR | 3.26 |
+| Risk | NORMAL |
+| Stop Loss | 90.5 |
+| Target | 101.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### WTICAB.NS
-| Metric | Value |
-|--------|-------|
-| Price | 96.95 |
-| Trend | weak_trend |
-| RSI | 35.66 |
-| MACD | -2.26 |
-| MA20 | 98.67 |
-| MA200 | 110.36 |
-| ATR | 3.17 |
-| Risk | NORMAL |
-| Stop Loss | 92.2 |
-| Target | 103.29 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
 ### SHIVAMAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.99 |
-| Trend | weak_trend |
-| RSI | 47.45 |
-| MACD | 0.05 |
-| MA20 | 17.25 |
-| MA200 | 18.63 |
-| ATR | 1.06 |
+| Price | 18.05 |
+| Trend | downtrend |
+| RSI | 51.55 |
+| MACD | -0.26 |
+| MA20 | 16.62 |
+| MA200 | 18.52 |
+| ATR | 1.48 |
 | Risk | ELEVATED |
-| Stop Loss | 16.41 |
-| Target | 20.1 |
+| Stop Loss | 15.83 |
+| Target | 21.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GINNIFILA.NS
 | Metric | Value |
@@ -31731,52 +31731,52 @@
 ### PROV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1921.0 |
+| Price | 1900.0 |
 | Trend | weak_trend |
-| RSI | 66.67 |
-| MACD | 33.88 |
-| MA20 | 1889.18 |
-| MA200 | 1485.53 |
-| ATR | 38.4 |
-| Risk | NORMAL |
-| Stop Loss | 1863.41 |
-| Target | 1997.79 |
+| RSI | 53.2 |
+| MACD | 29.27 |
+| MA20 | 1898.13 |
+| MA200 | 1488.73 |
+| ATR | 36.47 |
+| Risk | LOW |
+| Stop Loss | 1845.3 |
+| Target | 1972.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MEDICO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.15 |
+| Price | 22.5 |
 | Trend | downtrend |
-| RSI | 12.52 |
-| MACD | -4.61 |
-| MA20 | 27.95 |
-| MA200 | 42.08 |
-| ATR | 2.32 |
+| RSI | 14.5 |
+| MACD | -4.41 |
+| MA20 | 27.22 |
+| MA200 | 41.95 |
+| ATR | 2.31 |
 | Risk | ELEVATED |
-| Stop Loss | 18.67 |
-| Target | 26.78 |
+| Stop Loss | 19.04 |
+| Target | 27.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BALAJEE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.1 |
+| Price | 22.28 |
 | Trend | downtrend |
-| RSI | 23.58 |
-| MACD | -0.65 |
-| MA20 | 24.82 |
-| MA200 | 29.96 |
-| ATR | 1.34 |
+| RSI | 18.57 |
+| MACD | -0.76 |
+| MA20 | 24.68 |
+| MA200 | 29.88 |
+| ATR | 1.37 |
 | Risk | ELEVATED |
-| Stop Loss | 21.09 |
-| Target | 25.78 |
+| Stop Loss | 20.22 |
+| Target | 25.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31785,16 +31785,16 @@
 ### RCOM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.86 |
+| Price | 0.85 |
 | Trend | downtrend |
-| RSI | 38.1 |
+| RSI | 40.0 |
 | MACD | -0.01 |
-| MA20 | 0.91 |
+| MA20 | 0.9 |
 | MA200 | 0.93 |
 | ATR | 0.03 |
 | Risk | NORMAL |
-| Stop Loss | 0.81 |
-| Target | 0.93 |
+| Stop Loss | 0.8 |
+| Target | 0.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31803,34 +31803,34 @@
 ### BROOKS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 65.54 |
-| Trend | weak_trend |
-| RSI | 60.43 |
-| MACD | 0.48 |
-| MA20 | 60.58 |
-| MA200 | 64.76 |
-| ATR | 4.38 |
+| Price | 64.76 |
+| Trend | uptrend |
+| RSI | 58.95 |
+| MACD | 0.65 |
+| MA20 | 60.53 |
+| MA200 | 64.6 |
+| ATR | 4.75 |
 | Risk | ELEVATED |
-| Stop Loss | 58.96 |
-| Target | 74.31 |
+| Stop Loss | 57.64 |
+| Target | 74.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### NDGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2356.6 |
+| Price | 2382.1 |
 | Trend | downtrend |
-| RSI | 25.86 |
-| MACD | -95.23 |
-| MA20 | 2514.62 |
-| MA200 | 2636.69 |
-| ATR | 95.67 |
-| Risk | ELEVATED |
-| Stop Loss | 2213.09 |
-| Target | 2547.94 |
+| RSI | 28.35 |
+| MACD | -92.27 |
+| MA20 | 2499.11 |
+| MA200 | 2634.4 |
+| ATR | 86.06 |
+| Risk | NORMAL |
+| Stop Loss | 2253.01 |
+| Target | 2554.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31839,16 +31839,16 @@
 ### LOKESHMACH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 463.35 |
+| Price | 453.85 |
 | Trend | weak_trend |
-| RSI | 77.81 |
-| MACD | 31.38 |
-| MA20 | 379.75 |
-| MA200 | 263.84 |
-| ATR | 29.07 |
+| RSI | 74.6 |
+| MACD | 31.9 |
+| MA20 | 385.09 |
+| MA200 | 265.27 |
+| ATR | 29.59 |
 | Risk | ELEVATED |
-| Stop Loss | 419.74 |
-| Target | 521.49 |
+| Stop Loss | 409.47 |
+| Target | 513.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31857,15 +31857,15 @@
 ### NECLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.14 |
+| Price | 10.15 |
 | Trend | downtrend |
-| RSI | 35.42 |
-| MACD | -0.29 |
-| MA20 | 10.77 |
-| MA200 | 12.47 |
+| RSI | 37.02 |
+| MACD | -0.3 |
+| MA20 | 10.7 |
+| MA200 | 12.41 |
 | ATR | 0.49 |
 | Risk | ELEVATED |
-| Stop Loss | 9.4 |
+| Stop Loss | 9.41 |
 | Target | 11.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -31875,16 +31875,16 @@
 ### EXXARO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.08 |
+| Price | 6.11 |
 | Trend | downtrend |
-| RSI | 35.56 |
-| MACD | -0.08 |
-| MA20 | 6.18 |
-| MA200 | 6.81 |
+| RSI | 36.96 |
+| MACD | -0.07 |
+| MA20 | 6.17 |
+| MA200 | 6.8 |
 | ATR | 0.24 |
 | Risk | NORMAL |
-| Stop Loss | 5.72 |
-| Target | 6.56 |
+| Stop Loss | 5.75 |
+| Target | 6.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -31929,124 +31929,124 @@
 ### HALEOSLABS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1563.1 |
-| Trend | weak_trend |
-| RSI | 67.64 |
-| MACD | 22.23 |
-| MA20 | 1517.6 |
-| MA200 | 1409.19 |
-| ATR | 49.4 |
+| Price | 1546.1 |
+| Trend | uptrend |
+| RSI | 60.68 |
+| MACD | 20.94 |
+| MA20 | 1521.86 |
+| MA200 | 1410.76 |
+| ATR | 48.37 |
 | Risk | NORMAL |
-| Stop Loss | 1489.01 |
-| Target | 1661.89 |
+| Stop Loss | 1473.54 |
+| Target | 1642.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### HARRMALAYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 168.42 |
+| Price | 167.21 |
 | Trend | weak_trend |
-| RSI | 39.44 |
-| MACD | -5.66 |
-| MA20 | 176.04 |
-| MA200 | 191.25 |
-| ATR | 8.42 |
+| RSI | 39.7 |
+| MACD | -5.78 |
+| MA20 | 175.11 |
+| MA200 | 191.29 |
+| ATR | 8.25 |
 | Risk | ELEVATED |
-| Stop Loss | 155.79 |
-| Target | 185.26 |
+| Stop Loss | 154.83 |
+| Target | 183.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MANCREDIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 224.32 |
-| Trend | weak_trend |
-| RSI | 48.18 |
-| MACD | 0.38 |
-| MA20 | 222.69 |
-| MA200 | 195.17 |
-| ATR | 9.17 |
+| Price | 223.85 |
+| Trend | uptrend |
+| RSI | 51.08 |
+| MACD | 0.24 |
+| MA20 | 222.89 |
+| MA200 | 195.45 |
+| ATR | 9.43 |
 | Risk | ELEVATED |
-| Stop Loss | 210.57 |
-| Target | 242.65 |
+| Stop Loss | 209.71 |
+| Target | 242.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### ASAHISONG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 379.05 |
-| Trend | downtrend |
-| RSI | 49.55 |
-| MACD | 2.04 |
-| MA20 | 373.66 |
-| MA200 | 274.54 |
-| ATR | 17.68 |
+| Price | 386.85 |
+| Trend | weak_trend |
+| RSI | 56.87 |
+| MACD | 2.9 |
+| MA20 | 374.88 |
+| MA200 | 275.06 |
+| ATR | 17.04 |
 | Risk | ELEVATED |
-| Stop Loss | 352.54 |
-| Target | 414.4 |
+| Stop Loss | 361.29 |
+| Target | 420.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GLOBAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 143.12 |
+| Price | 142.97 |
 | Trend | weak_trend |
-| RSI | 67.54 |
-| MACD | 6.58 |
-| MA20 | 135.11 |
-| MA200 | 103.15 |
-| ATR | 5.42 |
+| RSI | 65.7 |
+| MACD | 6.44 |
+| MA20 | 135.91 |
+| MA200 | 103.41 |
+| ATR | 5.35 |
 | Risk | NORMAL |
-| Stop Loss | 134.98 |
-| Target | 153.97 |
+| Stop Loss | 134.94 |
+| Target | 153.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### URAVIDEF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 105.59 |
+| Price | 104.8 |
 | Trend | weak_trend |
-| RSI | 48.92 |
-| MACD | -2.2 |
-| MA20 | 105.29 |
-| MA200 | 135.81 |
-| ATR | 1.87 |
-| Risk | LOW |
-| Stop Loss | 102.78 |
-| Target | 109.33 |
+| RSI | 49.64 |
+| MACD | -1.97 |
+| MA20 | 104.83 |
+| MA200 | 135.47 |
+| ATR | 2.19 |
+| Risk | NORMAL |
+| Stop Loss | 101.51 |
+| Target | 109.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### RACE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 101.86 |
-| Trend | weak_trend |
-| RSI | 51.56 |
-| MACD | 0.26 |
-| MA20 | 108.1 |
-| MA200 | 114.1 |
-| ATR | 9.26 |
+| Price | 106.57 |
+| Trend | downtrend |
+| RSI | 35.04 |
+| MACD | 0.19 |
+| MA20 | 108.52 |
+| MA200 | 113.92 |
+| ATR | 8.27 |
 | Risk | ELEVATED |
-| Stop Loss | 87.96 |
-| Target | 120.39 |
+| Stop Loss | 94.16 |
+| Target | 123.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32055,52 +32055,52 @@
 ### EFACTOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 195.1 |
-| Trend | downtrend |
-| RSI | 65.23 |
-| MACD | 5.33 |
-| MA20 | 175.19 |
-| MA200 | 213.94 |
-| ATR | 13.89 |
-| Risk | ELEVATED |
-| Stop Loss | 174.27 |
-| Target | 222.87 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### KANORICHEM.NS
-| Metric | Value |
-|--------|-------|
-| Price | 165.5 |
+| Price | 198.65 |
 | Trend | weak_trend |
-| RSI | 39.98 |
-| MACD | 2.88 |
-| MA20 | 184.17 |
-| MA200 | 109.04 |
-| ATR | 12.35 |
+| RSI | 72.53 |
+| MACD | 5.92 |
+| MA20 | 176.89 |
+| MA200 | 213.4 |
+| ATR | 13.99 |
 | Risk | ELEVATED |
-| Stop Loss | 146.97 |
-| Target | 190.21 |
+| Stop Loss | 177.67 |
+| Target | 226.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### KANORICHEM.NS
+| Metric | Value |
+|--------|-------|
+| Price | 172.59 |
+| Trend | weak_trend |
+| RSI | 49.33 |
+| MACD | 2.05 |
+| MA20 | 184.32 |
+| MA200 | 109.52 |
+| ATR | 12.84 |
+| Risk | ELEVATED |
+| Stop Loss | 153.33 |
+| Target | 198.27 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### MARKOLINES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 174.62 |
+| Price | 175.03 |
 | Trend | uptrend |
-| RSI | 58.73 |
-| MACD | -0.57 |
-| MA20 | 169.09 |
-| MA200 | 162.45 |
-| ATR | 5.22 |
+| RSI | 60.44 |
+| MACD | -0.09 |
+| MA20 | 169.3 |
+| MA200 | 162.5 |
+| ATR | 5.28 |
 | Risk | NORMAL |
-| Stop Loss | 166.8 |
-| Target | 185.05 |
+| Stop Loss | 167.12 |
+| Target | 185.58 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32109,15 +32109,15 @@
 ### ALANKIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.21 |
+| Price | 7.27 |
 | Trend | downtrend |
-| RSI | 38.81 |
-| MACD | -0.14 |
-| MA20 | 7.71 |
-| MA200 | 8.63 |
-| ATR | 0.53 |
+| RSI | 31.28 |
+| MACD | -0.15 |
+| MA20 | 7.68 |
+| MA200 | 8.61 |
+| ATR | 0.5 |
 | Risk | ELEVATED |
-| Stop Loss | 6.42 |
+| Stop Loss | 6.52 |
 | Target | 8.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -32145,16 +32145,16 @@
 ### SKP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 162.45 |
+| Price | 165.3 |
 | Trend | weak_trend |
-| RSI | 49.42 |
-| MACD | 1.8 |
-| MA20 | 164.38 |
-| MA200 | 160.08 |
-| ATR | 6.72 |
+| RSI | 55.57 |
+| MACD | 1.68 |
+| MA20 | 164.09 |
+| MA200 | 160.06 |
+| ATR | 7.02 |
 | Risk | ELEVATED |
-| Stop Loss | 152.37 |
-| Target | 175.89 |
+| Stop Loss | 154.77 |
+| Target | 179.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32181,16 +32181,16 @@
 ### VLEGOV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.07 |
+| Price | 9.18 |
 | Trend | downtrend |
-| RSI | 30.38 |
-| MACD | -0.33 |
-| MA20 | 9.95 |
-| MA200 | 13.14 |
-| ATR | 0.64 |
+| RSI | 27.89 |
+| MACD | -0.34 |
+| MA20 | 9.9 |
+| MA200 | 13.08 |
+| ATR | 0.65 |
 | Risk | ELEVATED |
-| Stop Loss | 8.11 |
-| Target | 10.34 |
+| Stop Loss | 8.21 |
+| Target | 10.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32199,38 +32199,38 @@
 ### DPWIRES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 229.15 |
+| Price | 220.73 |
 | Trend | weak_trend |
-| RSI | 81.81 |
-| MACD | 17.5 |
-| MA20 | 174.59 |
-| MA200 | 172.12 |
-| ATR | 16.39 |
+| RSI | 75.54 |
+| MACD | 17.98 |
+| MA20 | 178.11 |
+| MA200 | 172.26 |
+| ATR | 17.07 |
 | Risk | ELEVATED |
-| Stop Loss | 204.56 |
-| Target | 261.94 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### MASON.NS
-| Metric | Value |
-|--------|-------|
-| Price | 102.55 |
-| Trend | downtrend |
-| RSI | 40.36 |
-| MACD | -3.49 |
-| MA20 | 108.28 |
-| MA200 | 140.48 |
-| ATR | 5.17 |
-| Risk | ELEVATED |
-| Stop Loss | 94.8 |
-| Target | 112.89 |
+| Stop Loss | 195.13 |
+| Target | 254.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### MASON.NS
+| Metric | Value |
+|--------|-------|
+| Price | 101.0 |
+| Trend | downtrend |
+| RSI | 37.74 |
+| MACD | -3.59 |
+| MA20 | 107.69 |
+| MA200 | 140.0 |
+| ATR | 5.3 |
+| Risk | ELEVATED |
+| Stop Loss | 93.05 |
+| Target | 111.6 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VIKASECO.NS
 | Metric | Value |
@@ -32253,16 +32253,16 @@
 ### BHAGYANGR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 45.6 |
+| Price | 47.85 |
 | Trend | downtrend |
-| RSI | 14.33 |
-| MACD | -64.62 |
-| MA20 | 368.55 |
-| MA200 | 276.69 |
-| ATR | 48.19 |
+| RSI | 14.86 |
+| MACD | -77.88 |
+| MA20 | 349.81 |
+| MA200 | 276.26 |
+| ATR | 46.42 |
 | Risk | ELEVATED |
-| Stop Loss | -26.69 |
-| Target | 141.99 |
+| Stop Loss | -21.79 |
+| Target | 140.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32271,16 +32271,16 @@
 ### KCPSUGIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.83 |
-| Trend | downtrend |
-| RSI | 31.79 |
-| MACD | -1.69 |
-| MA20 | 27.72 |
+| Price | 25.57 |
+| Trend | weak_trend |
+| RSI | 34.75 |
+| MACD | -1.61 |
+| MA20 | 27.45 |
 | MA200 | 25.55 |
-| ATR | 1.38 |
+| ATR | 1.37 |
 | Risk | ELEVATED |
-| Stop Loss | 22.77 |
-| Target | 27.58 |
+| Stop Loss | 23.52 |
+| Target | 28.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32307,16 +32307,16 @@
 ### APOLSINHOT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1124.8 |
+| Price | 1135.1 |
 | Trend | downtrend |
-| RSI | 21.04 |
-| MACD | -17.67 |
-| MA20 | 1185.88 |
-| MA200 | 1202.73 |
-| ATR | 35.69 |
+| RSI | 22.47 |
+| MACD | -18.81 |
+| MA20 | 1181.45 |
+| MA200 | 1202.46 |
+| ATR | 35.78 |
 | Risk | NORMAL |
-| Stop Loss | 1071.27 |
-| Target | 1196.17 |
+| Stop Loss | 1081.43 |
+| Target | 1206.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32325,16 +32325,16 @@
 ### BYKE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.14 |
+| Price | 29.68 |
 | Trend | weak_trend |
-| RSI | 37.78 |
-| MACD | -0.54 |
-| MA20 | 29.79 |
-| MA200 | 38.23 |
-| ATR | 1.39 |
+| RSI | 44.5 |
+| MACD | -0.5 |
+| MA20 | 29.72 |
+| MA200 | 38.13 |
+| ATR | 1.37 |
 | Risk | ELEVATED |
-| Stop Loss | 27.06 |
-| Target | 31.92 |
+| Stop Loss | 27.62 |
+| Target | 32.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32343,16 +32343,16 @@
 ### SSDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 66.33 |
+| Price | 67.24 |
 | Trend | weak_trend |
-| RSI | 59.76 |
-| MACD | 2.57 |
-| MA20 | 66.09 |
-| MA200 | 60.24 |
-| ATR | 5.78 |
+| RSI | 55.14 |
+| MACD | 2.36 |
+| MA20 | 66.44 |
+| MA200 | 60.2 |
+| ATR | 5.25 |
 | Risk | ELEVATED |
-| Stop Loss | 57.67 |
-| Target | 77.88 |
+| Stop Loss | 59.36 |
+| Target | 77.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32361,16 +32361,16 @@
 ### VARDHACRLC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 42.64 |
+| Price | 42.31 |
 | Trend | weak_trend |
-| RSI | 32.29 |
-| MACD | -0.12 |
-| MA20 | 43.8 |
-| MA200 | 39.31 |
-| ATR | 1.65 |
+| RSI | 31.42 |
+| MACD | -0.21 |
+| MA20 | 43.71 |
+| MA200 | 39.34 |
+| ATR | 1.69 |
 | Risk | NORMAL |
-| Stop Loss | 40.17 |
-| Target | 45.93 |
+| Stop Loss | 39.78 |
+| Target | 45.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32379,16 +32379,16 @@
 ### SHRADHA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.68 |
+| Price | 30.01 |
 | Trend | weak_trend |
-| RSI | 47.84 |
-| MACD | -0.52 |
-| MA20 | 30.18 |
-| MA200 | 34.6 |
-| ATR | 2.0 |
+| RSI | 44.28 |
+| MACD | -0.48 |
+| MA20 | 30.14 |
+| MA200 | 34.54 |
+| ATR | 2.02 |
 | Risk | ELEVATED |
-| Stop Loss | 26.67 |
-| Target | 33.69 |
+| Stop Loss | 26.98 |
+| Target | 34.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32415,52 +32415,52 @@
 ### LYKALABS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.23 |
+| Price | 75.84 |
 | Trend | weak_trend |
-| RSI | 15.43 |
-| MACD | -1.03 |
-| MA20 | 80.85 |
+| RSI | 23.36 |
+| MACD | -1.06 |
+| MA20 | 80.49 |
 | MA200 | 67.97 |
-| ATR | 2.3 |
+| ATR | 2.43 |
 | Risk | NORMAL |
-| Stop Loss | 68.78 |
-| Target | 76.82 |
+| Stop Loss | 72.19 |
+| Target | 80.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AVG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 163.16 |
+| Price | 168.44 |
 | Trend | weak_trend |
-| RSI | 39.85 |
-| MACD | -3.6 |
-| MA20 | 166.78 |
-| MA200 | 168.76 |
-| ATR | 8.56 |
+| RSI | 48.57 |
+| MACD | -3.13 |
+| MA20 | 166.45 |
+| MA200 | 168.64 |
+| ATR | 9.71 |
 | Risk | ELEVATED |
-| Stop Loss | 150.32 |
-| Target | 180.28 |
+| Stop Loss | 153.88 |
+| Target | 187.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AFFORDABLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 165.04 |
+| Price | 168.14 |
 | Trend | downtrend |
-| RSI | 46.03 |
-| MACD | -1.61 |
-| MA20 | 167.48 |
-| MA200 | 176.76 |
-| ATR | 9.27 |
+| RSI | 47.15 |
+| MACD | -1.27 |
+| MA20 | 167.89 |
+| MA200 | 176.62 |
+| ATR | 9.72 |
 | Risk | ELEVATED |
-| Stop Loss | 151.13 |
-| Target | 183.59 |
+| Stop Loss | 153.56 |
+| Target | 187.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32469,16 +32469,16 @@
 ### NIPPOBATRY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 312.45 |
+| Price | 310.4 |
 | Trend | downtrend |
-| RSI | 44.87 |
-| MACD | -2.28 |
-| MA20 | 318.73 |
-| MA200 | 340.49 |
-| ATR | 10.71 |
+| RSI | 34.93 |
+| MACD | -2.62 |
+| MA20 | 318.54 |
+| MA200 | 340.05 |
+| ATR | 10.19 |
 | Risk | NORMAL |
-| Stop Loss | 296.39 |
-| Target | 333.86 |
+| Stop Loss | 295.12 |
+| Target | 330.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32487,38 +32487,38 @@
 ### ATLANTAA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 35.06 |
+| Price | 35.02 |
 | Trend | downtrend |
-| RSI | 47.7 |
-| MACD | -0.73 |
-| MA20 | 35.83 |
-| MA200 | 40.18 |
-| ATR | 2.01 |
+| RSI | 45.4 |
+| MACD | -0.72 |
+| MA20 | 35.72 |
+| MA200 | 40.14 |
+| ATR | 1.98 |
 | Risk | ELEVATED |
-| Stop Loss | 32.04 |
-| Target | 39.09 |
+| Stop Loss | 32.06 |
+| Target | 38.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FROG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 273.3 |
+| Price | 268.0 |
 | Trend | downtrend |
-| RSI | 48.71 |
-| MACD | 2.0 |
-| MA20 | 266.21 |
-| MA200 | 180.42 |
-| ATR | 14.08 |
+| RSI | 47.51 |
+| MACD | 2.61 |
+| MA20 | 266.45 |
+| MA200 | 180.96 |
+| ATR | 14.3 |
 | Risk | ELEVATED |
-| Stop Loss | 252.18 |
-| Target | 301.46 |
+| Stop Loss | 246.56 |
+| Target | 296.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ALMONDZ.NS
 | Metric | Value |
@@ -32541,16 +32541,16 @@
 ### SINTERCOM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 74.87 |
-| Trend | weak_trend |
-| RSI | 51.89 |
-| MACD | -1.12 |
-| MA20 | 76.53 |
-| MA200 | 82.16 |
-| ATR | 4.1 |
+| Price | 72.71 |
+| Trend | downtrend |
+| RSI | 31.41 |
+| MACD | -1.31 |
+| MA20 | 76.33 |
+| MA200 | 81.99 |
+| ATR | 3.87 |
 | Risk | ELEVATED |
-| Stop Loss | 68.72 |
-| Target | 83.07 |
+| Stop Loss | 66.9 |
+| Target | 80.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32559,16 +32559,16 @@
 ### GOLDTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 40.8 |
+| Price | 40.01 |
 | Trend | downtrend |
-| RSI | 46.75 |
-| MACD | -1.78 |
-| MA20 | 43.15 |
-| MA200 | 45.83 |
-| ATR | 1.5 |
+| RSI | 44.04 |
+| MACD | -1.85 |
+| MA20 | 42.9 |
+| MA200 | 45.78 |
+| ATR | 1.42 |
 | Risk | NORMAL |
-| Stop Loss | 38.54 |
-| Target | 43.81 |
+| Stop Loss | 37.88 |
+| Target | 42.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32577,16 +32577,16 @@
 ### PPAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 243.16 |
+| Price | 240.61 |
 | Trend | weak_trend |
-| RSI | 54.44 |
-| MACD | -4.43 |
-| MA20 | 237.91 |
-| MA200 | 231.21 |
-| ATR | 10.69 |
+| RSI | 54.69 |
+| MACD | -4.01 |
+| MA20 | 238.0 |
+| MA200 | 231.35 |
+| ATR | 10.9 |
 | Risk | ELEVATED |
-| Stop Loss | 227.13 |
-| Target | 264.54 |
+| Stop Loss | 224.25 |
+| Target | 262.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32595,16 +32595,16 @@
 ### HITECHCORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 355.5 |
+| Price | 373.25 |
 | Trend | weak_trend |
-| RSI | 81.56 |
-| MACD | 5.57 |
-| MA20 | 338.17 |
-| MA200 | 230.75 |
-| ATR | 8.77 |
+| RSI | 85.54 |
+| MACD | 7.42 |
+| MA20 | 340.11 |
+| MA200 | 231.78 |
+| ATR | 9.48 |
 | Risk | NORMAL |
-| Stop Loss | 342.34 |
-| Target | 373.04 |
+| Stop Loss | 359.03 |
+| Target | 392.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32613,16 +32613,16 @@
 ### NATHBIOGEN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 135.79 |
+| Price | 135.59 |
 | Trend | downtrend |
-| RSI | 25.74 |
-| MACD | -4.09 |
-| MA20 | 143.5 |
-| MA200 | 154.06 |
-| ATR | 6.04 |
+| RSI | 28.52 |
+| MACD | -4.12 |
+| MA20 | 142.89 |
+| MA200 | 154.0 |
+| ATR | 5.98 |
 | Risk | ELEVATED |
-| Stop Loss | 126.73 |
-| Target | 147.87 |
+| Stop Loss | 126.61 |
+| Target | 147.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32649,34 +32649,34 @@
 ### SHERA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 198.4 |
-| Trend | weak_trend |
-| RSI | 59.08 |
-| MACD | 4.67 |
-| MA20 | 188.69 |
-| MA200 | 149.53 |
-| ATR | 7.96 |
+| Price | 190.2 |
+| Trend | uptrend |
+| RSI | 56.14 |
+| MACD | 4.14 |
+| MA20 | 188.45 |
+| MA200 | 149.88 |
+| ATR | 9.17 |
 | Risk | ELEVATED |
-| Stop Loss | 186.46 |
-| Target | 214.32 |
+| Stop Loss | 176.44 |
+| Target | 208.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### DIAMINESQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 234.79 |
+| Price | 243.82 |
 | Trend | downtrend |
-| RSI | 24.07 |
-| MACD | -3.29 |
-| MA20 | 245.74 |
-| MA200 | 249.24 |
-| ATR | 9.79 |
+| RSI | 38.6 |
+| MACD | -2.74 |
+| MA20 | 245.02 |
+| MA200 | 249.12 |
+| ATR | 10.79 |
 | Risk | ELEVATED |
-| Stop Loss | 220.1 |
-| Target | 254.38 |
+| Stop Loss | 227.63 |
+| Target | 265.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32685,16 +32685,16 @@
 ### VIPCLOTHNG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.88 |
+| Price | 20.1 |
 | Trend | downtrend |
-| RSI | 28.39 |
+| RSI | 23.83 |
 | MACD | -0.25 |
-| MA20 | 20.72 |
-| MA200 | 23.29 |
-| ATR | 1.02 |
+| MA20 | 20.66 |
+| MA200 | 23.22 |
+| ATR | 0.97 |
 | Risk | ELEVATED |
-| Stop Loss | 18.35 |
-| Target | 21.92 |
+| Stop Loss | 18.64 |
+| Target | 22.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32703,16 +32703,16 @@
 ### TREJHARA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 129.49 |
+| Price | 127.91 |
 | Trend | downtrend |
-| RSI | 47.15 |
+| RSI | 40.97 |
 | MACD | -4.55 |
-| MA20 | 134.44 |
-| MA200 | 164.84 |
-| ATR | 9.74 |
+| MA20 | 133.68 |
+| MA200 | 164.28 |
+| ATR | 9.2 |
 | Risk | ELEVATED |
-| Stop Loss | 114.88 |
-| Target | 148.97 |
+| Stop Loss | 114.11 |
+| Target | 146.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32757,16 +32757,16 @@
 ### SAAKSHI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 365.0 |
+| Price | 370.0 |
 | Trend | downtrend |
-| RSI | 47.84 |
-| MACD | 10.15 |
-| MA20 | 364.85 |
-| MA200 | 247.39 |
-| ATR | 7.42 |
-| Risk | NORMAL |
-| Stop Loss | 353.87 |
-| Target | 379.84 |
+| RSI | 48.58 |
+| MACD | 10.0 |
+| MA20 | 366.08 |
+| MA200 | 248.38 |
+| ATR | 6.53 |
+| Risk | LOW |
+| Stop Loss | 360.21 |
+| Target | 383.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32775,16 +32775,16 @@
 ### AFIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.02 |
+| Price | 8.01 |
 | Trend | weak_trend |
-| RSI | 33.17 |
-| MACD | -0.36 |
-| MA20 | 8.1 |
+| RSI | 40.83 |
+| MACD | -0.32 |
+| MA20 | 8.06 |
 | MA200 | 8.32 |
-| ATR | 0.52 |
+| ATR | 0.48 |
 | Risk | ELEVATED |
-| Stop Loss | 7.25 |
-| Target | 9.05 |
+| Stop Loss | 7.28 |
+| Target | 8.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32793,16 +32793,16 @@
 ### JAINAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 201.5 |
-| Trend | weak_trend |
-| RSI | 46.52 |
-| MACD | -4.05 |
-| MA20 | 207.7 |
-| MA200 | 227.31 |
-| ATR | 4.1 |
-| Risk | NORMAL |
-| Stop Loss | 195.36 |
-| Target | 209.69 |
+| Price | 202.0 |
+| Trend | downtrend |
+| RSI | 55.42 |
+| MACD | -4.19 |
+| MA20 | 207.0 |
+| MA200 | 227.08 |
+| ATR | 3.54 |
+| Risk | LOW |
+| Stop Loss | 196.69 |
+| Target | 209.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32811,34 +32811,34 @@
 ### A2ZINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.79 |
+| Price | 13.82 |
 | Trend | downtrend |
-| RSI | 36.05 |
-| MACD | -0.38 |
-| MA20 | 14.53 |
+| RSI | 35.65 |
+| MACD | -0.39 |
+| MA20 | 14.45 |
 | MA200 | 15.17 |
-| ATR | 0.7 |
+| ATR | 0.71 |
 | Risk | ELEVATED |
-| Stop Loss | 12.74 |
-| Target | 15.19 |
+| Stop Loss | 12.76 |
+| Target | 15.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SHEMAROO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.11 |
+| Price | 102.31 |
 | Trend | downtrend |
-| RSI | 24.19 |
-| MACD | -4.93 |
-| MA20 | 115.34 |
-| MA200 | 110.41 |
-| ATR | 5.72 |
+| RSI | 18.97 |
+| MACD | -5.24 |
+| MA20 | 114.42 |
+| MA200 | 110.4 |
+| ATR | 5.86 |
 | Risk | ELEVATED |
 | Stop Loss | 93.52 |
-| Target | 113.56 |
+| Target | 114.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32847,34 +32847,34 @@
 ### RVHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 38.0 |
+| Price | 37.97 |
 | Trend | weak_trend |
-| RSI | 30.18 |
-| MACD | -0.81 |
-| MA20 | 38.56 |
-| MA200 | 42.67 |
-| ATR | 1.53 |
+| RSI | 32.28 |
+| MACD | -0.76 |
+| MA20 | 38.49 |
+| MA200 | 42.58 |
+| ATR | 1.62 |
 | Risk | ELEVATED |
-| Stop Loss | 35.7 |
-| Target | 41.07 |
+| Stop Loss | 35.55 |
+| Target | 41.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SOMATEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 75.82 |
+| Price | 75.7 |
 | Trend | downtrend |
-| RSI | 40.77 |
-| MACD | -2.57 |
-| MA20 | 79.67 |
-| MA200 | 101.72 |
-| ATR | 3.95 |
+| RSI | 40.72 |
+| MACD | -2.59 |
+| MA20 | 79.23 |
+| MA200 | 101.58 |
+| ATR | 4.04 |
 | Risk | ELEVATED |
-| Stop Loss | 69.89 |
-| Target | 83.73 |
+| Stop Loss | 69.64 |
+| Target | 83.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32885,14 +32885,14 @@
 |--------|-------|
 | Price | 100.4 |
 | Trend | downtrend |
-| RSI | 64.27 |
-| MACD | -0.44 |
-| MA20 | 97.14 |
-| MA200 | 236.19 |
-| ATR | 5.94 |
+| RSI | 61.36 |
+| MACD | -0.51 |
+| MA20 | 97.96 |
+| MA200 | 234.95 |
+| ATR | 5.61 |
 | Risk | ELEVATED |
-| Stop Loss | 91.49 |
-| Target | 112.29 |
+| Stop Loss | 91.99 |
+| Target | 111.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32905,8 +32905,8 @@
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -0.14 |
-| MA20 | 1.73 |
-| MA200 | 3.52 |
+| MA20 | 1.71 |
+| MA200 | 3.51 |
 | ATR | 0.02 |
 | Risk | LOW |
 | Stop Loss | 1.5 |
@@ -32914,7 +32914,7 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GRETEX.NS
 | Metric | Value |
@@ -32922,9 +32922,9 @@
 | Price | 214.0 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -10.83 |
-| MA20 | 218.45 |
-| MA200 | 254.06 |
+| MACD | -10.23 |
+| MA20 | 218.4 |
+| MA200 | 254.18 |
 | ATR | 0.79 |
 | Risk | LOW |
 | Stop Loss | 212.82 |
@@ -32937,34 +32937,34 @@
 ### SUPREME.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.66 |
-| Trend | weak_trend |
-| RSI | 30.7 |
-| MACD | -1.99 |
-| MA20 | 31.3 |
-| MA200 | 49.91 |
-| ATR | 1.82 |
+| Price | 29.82 |
+| Trend | downtrend |
+| RSI | 29.88 |
+| MACD | -1.91 |
+| MA20 | 31.06 |
+| MA200 | 49.67 |
+| ATR | 1.72 |
 | Risk | ELEVATED |
-| Stop Loss | 26.94 |
-| Target | 33.29 |
+| Stop Loss | 27.24 |
+| Target | 33.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PRIZOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1295.25 |
+| Price | 1360.0 |
 | Trend | weak_trend |
-| RSI | 71.53 |
-| MACD | 70.58 |
-| MA20 | 1198.44 |
-| MA200 | 671.18 |
-| ATR | 47.69 |
+| RSI | 73.84 |
+| MACD | 72.76 |
+| MA20 | 1206.44 |
+| MA200 | 676.54 |
+| ATR | 53.92 |
 | Risk | NORMAL |
-| Stop Loss | 1223.72 |
-| Target | 1390.63 |
+| Stop Loss | 1279.12 |
+| Target | 1467.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -32973,70 +32973,70 @@
 ### OMFREIGHT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 107.97 |
+| Price | 108.0 |
 | Trend | weak_trend |
-| RSI | 87.69 |
-| MACD | 4.54 |
-| MA20 | 94.79 |
-| MA200 | 88.12 |
-| ATR | 5.9 |
+| RSI | 86.58 |
+| MACD | 4.76 |
+| MA20 | 95.74 |
+| MA200 | 88.2 |
+| ATR | 5.98 |
 | Risk | ELEVATED |
-| Stop Loss | 99.12 |
-| Target | 119.77 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### PILITA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 7.33 |
-| Trend | downtrend |
-| RSI | 51.24 |
-| MACD | -0.17 |
-| MA20 | 7.49 |
-| MA200 | 8.34 |
-| ATR | 0.36 |
-| Risk | ELEVATED |
-| Stop Loss | 6.79 |
-| Target | 8.05 |
+| Stop Loss | 99.03 |
+| Target | 119.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### UNIHEALTH.NS
+### PILITA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 520.9 |
+| Price | 7.33 |
 | Trend | weak_trend |
-| RSI | 17.99 |
-| MACD | -43.7 |
-| MA20 | 620.83 |
-| MA200 | 499.11 |
-| ATR | 37.8 |
+| RSI | 47.79 |
+| MACD | -0.16 |
+| MA20 | 7.47 |
+| MA200 | 8.33 |
+| ATR | 0.37 |
 | Risk | ELEVATED |
-| Stop Loss | 464.19 |
-| Target | 596.51 |
+| Stop Loss | 6.78 |
+| Target | 8.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### UNIHEALTH.NS
+| Metric | Value |
+|--------|-------|
+| Price | 516.0 |
+| Trend | weak_trend |
+| RSI | 18.92 |
+| MACD | -45.6 |
+| MA20 | 611.03 |
+| MA200 | 500.14 |
+| ATR | 41.73 |
+| Risk | ELEVATED |
+| Stop Loss | 453.4 |
+| Target | 599.46 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### BAFNAPH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 426.35 |
+| Price | 434.85 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 32.73 |
-| MA20 | 356.84 |
-| MA200 | 187.91 |
-| ATR | 7.35 |
+| MACD | 34.17 |
+| MA20 | 363.51 |
+| MA200 | 189.35 |
+| ATR | 7.5 |
 | Risk | LOW |
-| Stop Loss | 415.33 |
-| Target | 441.05 |
+| Stop Loss | 423.61 |
+| Target | 449.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33045,34 +33045,34 @@
 ### KRISHCA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 199.3 |
+| Price | 190.95 |
 | Trend | weak_trend |
-| RSI | 62.21 |
-| MACD | 9.38 |
-| MA20 | 191.73 |
-| MA200 | 176.99 |
-| ATR | 16.55 |
+| RSI | 59.94 |
+| MACD | 7.98 |
+| MA20 | 193.45 |
+| MA200 | 177.1 |
+| ATR | 17.23 |
 | Risk | ELEVATED |
-| Stop Loss | 174.47 |
-| Target | 232.41 |
+| Stop Loss | 165.1 |
+| Target | 225.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GLOBALVECT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 124.93 |
+| Price | 121.64 |
 | Trend | downtrend |
-| RSI | 36.75 |
-| MACD | -4.37 |
-| MA20 | 130.53 |
-| MA200 | 164.25 |
-| ATR | 6.12 |
+| RSI | 33.52 |
+| MACD | -4.64 |
+| MA20 | 130.01 |
+| MA200 | 163.9 |
+| ATR | 6.13 |
 | Risk | ELEVATED |
-| Stop Loss | 115.75 |
-| Target | 137.18 |
+| Stop Loss | 112.44 |
+| Target | 133.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33083,14 +33083,14 @@
 |--------|-------|
 | Price | 103.95 |
 | Trend | weak_trend |
-| RSI | 45.28 |
-| MACD | -0.95 |
-| MA20 | 103.9 |
-| MA200 | 120.95 |
-| ATR | 2.1 |
-| Risk | NORMAL |
-| Stop Loss | 100.79 |
-| Target | 108.16 |
+| RSI | 42.32 |
+| MACD | -0.84 |
+| MA20 | 103.96 |
+| MA200 | 120.67 |
+| ATR | 1.89 |
+| Risk | LOW |
+| Stop Loss | 101.12 |
+| Target | 107.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33099,16 +33099,16 @@
 ### SUNDRMBRAK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 678.3 |
+| Price | 675.85 |
 | Trend | weak_trend |
-| RSI | 43.79 |
-| MACD | -20.27 |
-| MA20 | 683.46 |
-| MA200 | 683.19 |
-| ATR | 30.1 |
+| RSI | 45.34 |
+| MACD | -19.04 |
+| MA20 | 681.57 |
+| MA200 | 683.2 |
+| ATR | 28.32 |
 | Risk | ELEVATED |
-| Stop Loss | 633.14 |
-| Target | 738.51 |
+| Stop Loss | 633.37 |
+| Target | 732.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33117,34 +33117,34 @@
 ### CINELINE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 88.94 |
+| Price | 89.64 |
 | Trend | weak_trend |
-| RSI | 46.52 |
+| RSI | 51.25 |
 | MACD | 0.21 |
-| MA20 | 89.71 |
-| MA200 | 84.1 |
-| ATR | 3.88 |
+| MA20 | 89.44 |
+| MA200 | 84.12 |
+| ATR | 3.83 |
 | Risk | ELEVATED |
-| Stop Loss | 83.12 |
-| Target | 96.7 |
+| Stop Loss | 83.9 |
+| Target | 97.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KCEIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 77.75 |
+| Price | 75.95 |
 | Trend | downtrend |
-| RSI | 45.71 |
-| MACD | -0.72 |
+| RSI | 46.54 |
+| MACD | -0.83 |
 | MA20 | 77.99 |
-| MA200 | 106.02 |
-| ATR | 4.13 |
+| MA200 | 105.67 |
+| ATR | 4.07 |
 | Risk | ELEVATED |
-| Stop Loss | 71.55 |
-| Target | 86.01 |
+| Stop Loss | 69.85 |
+| Target | 84.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33153,70 +33153,70 @@
 ### AIRAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.4 |
+| Price | 14.42 |
 | Trend | downtrend |
-| RSI | 20.88 |
-| MACD | -0.29 |
-| MA20 | 16.09 |
-| MA200 | 16.16 |
-| ATR | 0.84 |
+| RSI | 13.28 |
+| MACD | -0.35 |
+| MA20 | 15.96 |
+| MA200 | 16.14 |
+| ATR | 0.79 |
 | Risk | ELEVATED |
-| Stop Loss | 13.15 |
-| Target | 16.07 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### DJML.NS
-| Metric | Value |
-|--------|-------|
-| Price | 72.39 |
-| Trend | weak_trend |
-| RSI | 36.12 |
-| MACD | -3.31 |
-| MA20 | 74.4 |
-| MA200 | 90.68 |
-| ATR | 3.33 |
-| Risk | ELEVATED |
-| Stop Loss | 67.39 |
-| Target | 79.05 |
+| Stop Loss | 13.23 |
+| Target | 16.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### STARTECK.NS
+### DJML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 258.95 |
+| Price | 74.25 |
 | Trend | weak_trend |
-| RSI | 51.68 |
-| MACD | 4.14 |
-| MA20 | 264.72 |
-| MA200 | 263.11 |
-| ATR | 25.33 |
+| RSI | 49.27 |
+| MACD | -2.97 |
+| MA20 | 73.99 |
+| MA200 | 90.7 |
+| ATR | 3.26 |
 | Risk | ELEVATED |
-| Stop Loss | 220.96 |
-| Target | 309.6 |
+| Stop Loss | 69.36 |
+| Target | 80.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### STARTECK.NS
+| Metric | Value |
+|--------|-------|
+| Price | 256.1 |
+| Trend | weak_trend |
+| RSI | 53.45 |
+| MACD | 2.73 |
+| MA20 | 265.49 |
+| MA200 | 263.02 |
+| ATR | 25.13 |
+| Risk | ELEVATED |
+| Stop Loss | 218.41 |
+| Target | 306.35 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### DELPHIFX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.17 |
+| Price | 7.03 |
 | Trend | weak_trend |
-| RSI | 89.27 |
-| MACD | 0.31 |
-| MA20 | 6.27 |
-| MA200 | 10.3 |
-| ATR | 0.2 |
+| RSI | 83.2 |
+| MACD | 0.3 |
+| MA20 | 6.33 |
+| MA200 | 10.25 |
+| ATR | 0.19 |
 | Risk | NORMAL |
-| Stop Loss | 6.87 |
-| Target | 7.57 |
+| Stop Loss | 6.75 |
+| Target | 7.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33225,16 +33225,16 @@
 ### MODIRUBBER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 116.79 |
+| Price | 118.87 |
 | Trend | downtrend |
-| RSI | 29.76 |
-| MACD | -1.9 |
-| MA20 | 120.65 |
-| MA200 | 125.02 |
-| ATR | 4.76 |
+| RSI | 40.79 |
+| MACD | -1.82 |
+| MA20 | 120.39 |
+| MA200 | 125.09 |
+| ATR | 4.77 |
 | Risk | ELEVATED |
-| Stop Loss | 109.64 |
-| Target | 126.32 |
+| Stop Loss | 111.71 |
+| Target | 128.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33243,16 +33243,16 @@
 ### ELGIRUBCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.48 |
+| Price | 54.29 |
 | Trend | weak_trend |
-| RSI | 35.27 |
-| MACD | -1.29 |
-| MA20 | 56.07 |
-| MA200 | 49.5 |
-| ATR | 3.03 |
+| RSI | 37.76 |
+| MACD | -1.24 |
+| MA20 | 55.86 |
+| MA200 | 49.53 |
+| ATR | 3.08 |
 | Risk | ELEVATED |
-| Stop Loss | 48.94 |
-| Target | 59.54 |
+| Stop Loss | 49.66 |
+| Target | 60.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33261,34 +33261,34 @@
 ### SHREYANIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 130.12 |
-| Trend | weak_trend |
-| RSI | 44.32 |
-| MACD | -0.38 |
-| MA20 | 129.23 |
-| MA200 | 146.99 |
-| ATR | 3.83 |
+| Price | 129.13 |
+| Trend | downtrend |
+| RSI | 56.03 |
+| MACD | -0.37 |
+| MA20 | 129.05 |
+| MA200 | 146.78 |
+| ATR | 3.48 |
 | Risk | NORMAL |
-| Stop Loss | 124.38 |
-| Target | 137.78 |
+| Stop Loss | 123.91 |
+| Target | 136.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SAHYADRI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 333.6 |
+| Price | 338.65 |
 | Trend | weak_trend |
-| RSI | 30.91 |
-| MACD | -5.09 |
-| MA20 | 357.02 |
-| MA200 | 283.87 |
-| ATR | 17.22 |
+| RSI | 38.29 |
+| MACD | -5.46 |
+| MA20 | 354.41 |
+| MA200 | 284.29 |
+| ATR | 16.81 |
 | Risk | ELEVATED |
-| Stop Loss | 307.77 |
-| Target | 368.04 |
+| Stop Loss | 313.43 |
+| Target | 372.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33297,16 +33297,16 @@
 ### OSIAHYPER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.71 |
+| Price | 1.63 |
 | Trend | downtrend |
-| RSI | 17.86 |
-| MACD | -0.18 |
-| MA20 | 2.16 |
-| MA200 | 6.2 |
+| RSI | 16.3 |
+| MACD | -0.2 |
+| MA20 | 2.12 |
+| MA200 | 6.13 |
 | ATR | 0.12 |
 | Risk | ELEVATED |
-| Stop Loss | 1.52 |
-| Target | 1.96 |
+| Stop Loss | 1.45 |
+| Target | 1.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33315,34 +33315,34 @@
 ### PODDARMENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 267.7 |
+| Price | 271.45 |
 | Trend | downtrend |
-| RSI | 33.41 |
-| MACD | -2.4 |
-| MA20 | 267.23 |
-| MA200 | 247.84 |
-| ATR | 11.78 |
+| RSI | 37.31 |
+| MACD | -1.35 |
+| MA20 | 266.81 |
+| MA200 | 247.86 |
+| ATR | 11.92 |
 | Risk | ELEVATED |
-| Stop Loss | 250.04 |
-| Target | 291.25 |
+| Stop Loss | 253.57 |
+| Target | 295.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### UFO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.72 |
-| Trend | downtrend |
-| RSI | 29.44 |
-| MACD | -2.2 |
-| MA20 | 58.96 |
-| MA200 | 70.34 |
-| ATR | 2.47 |
+| Price | 57.95 |
+| Trend | weak_trend |
+| RSI | 37.87 |
+| MACD | -2.0 |
+| MA20 | 58.73 |
+| MA200 | 70.22 |
+| ATR | 2.56 |
 | Risk | ELEVATED |
-| Stop Loss | 53.01 |
-| Target | 61.66 |
+| Stop Loss | 54.11 |
+| Target | 63.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33351,16 +33351,16 @@
 ### DCMNVL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 169.01 |
+| Price | 170.0 |
 | Trend | weak_trend |
-| RSI | 34.72 |
-| MACD | -1.68 |
-| MA20 | 174.32 |
-| MA200 | 146.05 |
-| ATR | 6.66 |
+| RSI | 38.52 |
+| MACD | -1.72 |
+| MA20 | 173.88 |
+| MA200 | 146.27 |
+| ATR | 6.45 |
 | Risk | NORMAL |
-| Stop Loss | 159.02 |
-| Target | 182.33 |
+| Stop Loss | 160.32 |
+| Target | 182.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33369,16 +33369,16 @@
 ### UCAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 133.21 |
+| Price | 134.85 |
 | Trend | weak_trend |
-| RSI | 27.98 |
-| MACD | -0.95 |
-| MA20 | 140.16 |
-| MA200 | 114.42 |
-| ATR | 5.26 |
+| RSI | 31.95 |
+| MACD | -1.2 |
+| MA20 | 139.73 |
+| MA200 | 114.54 |
+| ATR | 5.04 |
 | Risk | NORMAL |
-| Stop Loss | 125.32 |
-| Target | 143.73 |
+| Stop Loss | 127.28 |
+| Target | 144.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33387,16 +33387,16 @@
 ### UYFINCORP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.88 |
+| Price | 25.82 |
 | Trend | weak_trend |
-| RSI | 84.0 |
-| MACD | 1.35 |
-| MA20 | 21.15 |
-| MA200 | 15.91 |
-| ATR | 1.08 |
+| RSI | 85.52 |
+| MACD | 1.49 |
+| MA20 | 21.45 |
+| MA200 | 15.97 |
+| ATR | 1.12 |
 | Risk | ELEVATED |
-| Stop Loss | 24.25 |
-| Target | 28.05 |
+| Stop Loss | 24.14 |
+| Target | 28.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33405,16 +33405,16 @@
 ### YASHOPTICS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 121.0 |
+| Price | 120.6 |
 | Trend | weak_trend |
-| RSI | 38.13 |
-| MACD | 1.01 |
-| MA20 | 129.81 |
-| MA200 | 119.08 |
-| ATR | 4.88 |
-| Risk | ELEVATED |
-| Stop Loss | 113.68 |
-| Target | 130.76 |
+| RSI | 38.73 |
+| MACD | 0.39 |
+| MA20 | 129.77 |
+| MA200 | 119.02 |
+| ATR | 4.75 |
+| Risk | NORMAL |
+| Stop Loss | 113.48 |
+| Target | 130.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33423,16 +33423,16 @@
 ### GSMFOILS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 60.65 |
+| Price | 63.65 |
 | Trend | downtrend |
-| RSI | 20.87 |
-| MACD | -12.79 |
-| MA20 | 76.5 |
-| MA200 | 184.02 |
-| ATR | 4.2 |
+| RSI | 27.48 |
+| MACD | -12.43 |
+| MA20 | 75.37 |
+| MA200 | 183.33 |
+| ATR | 4.26 |
 | Risk | ELEVATED |
-| Stop Loss | 54.36 |
-| Target | 69.04 |
+| Stop Loss | 57.26 |
+| Target | 72.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33441,16 +33441,16 @@
 ### INDOUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.05 |
+| Price | 72.17 |
 | Trend | downtrend |
-| RSI | 23.37 |
-| MACD | -1.84 |
-| MA20 | 76.86 |
-| MA200 | 100.86 |
-| ATR | 3.76 |
+| RSI | 20.95 |
+| MACD | -1.96 |
+| MA20 | 76.56 |
+| MA200 | 100.6 |
+| ATR | 3.91 |
 | Risk | ELEVATED |
-| Stop Loss | 66.4 |
-| Target | 79.58 |
+| Stop Loss | 66.31 |
+| Target | 79.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33459,16 +33459,16 @@
 ### VSTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.78 |
+| Price | 100.33 |
 | Trend | downtrend |
-| RSI | 12.81 |
-| MACD | -2.8 |
-| MA20 | 110.93 |
-| MA200 | 117.18 |
-| ATR | 3.5 |
+| RSI | 12.7 |
+| MACD | -3.15 |
+| MA20 | 109.97 |
+| MA200 | 117.01 |
+| ATR | 3.54 |
 | Risk | NORMAL |
-| Stop Loss | 95.53 |
-| Target | 107.78 |
+| Stop Loss | 95.03 |
+| Target | 107.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33477,16 +33477,16 @@
 ### JAYSREETEA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.41 |
+| Price | 83.67 |
 | Trend | downtrend |
-| RSI | 33.17 |
-| MACD | -2.75 |
-| MA20 | 87.01 |
-| MA200 | 86.45 |
-| ATR | 3.34 |
+| RSI | 36.7 |
+| MACD | -2.65 |
+| MA20 | 86.55 |
+| MA200 | 86.43 |
+| ATR | 3.29 |
 | Risk | NORMAL |
-| Stop Loss | 78.41 |
-| Target | 90.08 |
+| Stop Loss | 78.73 |
+| Target | 90.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33495,16 +33495,16 @@
 ### UNIVPHOTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 469.9 |
+| Price | 470.7 |
 | Trend | weak_trend |
-| RSI | 13.29 |
-| MACD | -11.1 |
-| MA20 | 531.84 |
-| MA200 | 395.69 |
-| ATR | 33.83 |
+| RSI | 14.46 |
+| MACD | -12.13 |
+| MA20 | 528.36 |
+| MA200 | 396.91 |
+| ATR | 34.05 |
 | Risk | ELEVATED |
-| Stop Loss | 419.16 |
-| Target | 537.55 |
+| Stop Loss | 419.62 |
+| Target | 538.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33513,16 +33513,16 @@
 ### UNIVASTU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 140.35 |
+| Price | 141.51 |
 | Trend | weak_trend |
-| RSI | 40.4 |
-| MACD | -4.72 |
-| MA20 | 138.97 |
-| MA200 | 94.0 |
-| ATR | 7.78 |
+| RSI | 43.72 |
+| MACD | -3.93 |
+| MA20 | 138.39 |
+| MA200 | 94.36 |
+| ATR | 7.87 |
 | Risk | ELEVATED |
-| Stop Loss | 128.68 |
-| Target | 155.91 |
+| Stop Loss | 129.7 |
+| Target | 157.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33531,20 +33531,20 @@
 ### KOTYARK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.44 |
-| Trend | uptrend |
-| RSI | 58.34 |
-| MACD | -0.45 |
-| MA20 | 30.91 |
-| MA200 | 31.26 |
-| ATR | 2.73 |
+| Price | 33.53 |
+| Trend | weak_trend |
+| RSI | 54.71 |
+| MACD | -0.23 |
+| MA20 | 30.98 |
+| MA200 | 31.31 |
+| ATR | 2.85 |
 | Risk | ELEVATED |
-| Stop Loss | 30.34 |
-| Target | 39.9 |
+| Stop Loss | 29.25 |
+| Target | 39.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ZEELEARN.NS
 | Metric | Value |
@@ -33569,14 +33569,14 @@
 |--------|-------|
 | Price | 84.0 |
 | Trend | weak_trend |
-| RSI | 49.35 |
-| MACD | -1.23 |
-| MA20 | 83.61 |
-| MA200 | 123.29 |
-| ATR | 3.71 |
+| RSI | 43.27 |
+| MACD | -1.04 |
+| MA20 | 83.66 |
+| MA200 | 123.01 |
+| ATR | 3.52 |
 | Risk | ELEVATED |
-| Stop Loss | 78.43 |
-| Target | 91.42 |
+| Stop Loss | 78.72 |
+| Target | 91.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33585,16 +33585,16 @@
 ### NDLVENTURE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 119.11 |
+| Price | 118.88 |
 | Trend | weak_trend |
-| RSI | 36.95 |
-| MACD | -0.8 |
-| MA20 | 121.65 |
-| MA200 | 116.59 |
-| ATR | 5.02 |
+| RSI | 37.66 |
+| MACD | -0.91 |
+| MA20 | 121.34 |
+| MA200 | 116.74 |
+| ATR | 5.03 |
 | Risk | ELEVATED |
-| Stop Loss | 111.58 |
-| Target | 129.15 |
+| Stop Loss | 111.33 |
+| Target | 128.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33603,52 +33603,52 @@
 ### CCHHL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.98 |
+| Price | 13.14 |
 | Trend | downtrend |
-| RSI | 49.37 |
-| MACD | 0.03 |
-| MA20 | 12.87 |
-| MA200 | 13.21 |
-| ATR | 0.63 |
+| RSI | 53.07 |
+| MACD | 0.05 |
+| MA20 | 12.9 |
+| MA200 | 13.2 |
+| ATR | 0.64 |
 | Risk | ELEVATED |
-| Stop Loss | 12.03 |
-| Target | 14.24 |
+| Stop Loss | 12.18 |
+| Target | 14.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MEGASTAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 287.9 |
-| Trend | uptrend |
-| RSI | 54.92 |
-| MACD | -2.21 |
-| MA20 | 275.14 |
-| MA200 | 282.34 |
-| ATR | 23.06 |
+| Price | 291.21 |
+| Trend | weak_trend |
+| RSI | 56.06 |
+| MACD | -1.3 |
+| MA20 | 275.82 |
+| MA200 | 282.6 |
+| ATR | 22.88 |
 | Risk | ELEVATED |
-| Stop Loss | 253.31 |
-| Target | 334.02 |
+| Stop Loss | 256.89 |
+| Target | 336.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SURANAT&P.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.53 |
+| Price | 15.31 |
 | Trend | downtrend |
-| RSI | 32.3 |
-| MACD | -0.22 |
-| MA20 | 15.87 |
-| MA200 | 17.91 |
-| ATR | 0.51 |
+| RSI | 24.71 |
+| MACD | -0.24 |
+| MA20 | 15.83 |
+| MA200 | 17.88 |
+| ATR | 0.52 |
 | Risk | NORMAL |
-| Stop Loss | 14.77 |
-| Target | 16.55 |
+| Stop Loss | 14.53 |
+| Target | 16.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33657,34 +33657,34 @@
 ### TAKE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.69 |
+| Price | 12.06 |
 | Trend | downtrend |
 | RSI | 25.26 |
 | MACD | -1.43 |
-| MA20 | 14.74 |
-| MA200 | 31.34 |
-| ATR | 0.76 |
+| MA20 | 14.46 |
+| MA200 | 31.23 |
+| ATR | 0.75 |
 | Risk | ELEVATED |
-| Stop Loss | 11.54 |
-| Target | 14.22 |
+| Stop Loss | 10.94 |
+| Target | 13.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RVTH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 731.7 |
+| Price | 733.45 |
 | Trend | weak_trend |
-| RSI | 57.37 |
-| MACD | 5.71 |
-| MA20 | 695.39 |
-| MA200 | 677.25 |
-| ATR | 53.51 |
+| RSI | 58.87 |
+| MACD | 6.57 |
+| MA20 | 695.02 |
+| MA200 | 677.32 |
+| ATR | 54.21 |
 | Risk | ELEVATED |
-| Stop Loss | 651.43 |
-| Target | 838.73 |
+| Stop Loss | 652.14 |
+| Target | 841.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33693,16 +33693,16 @@
 ### TTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.92 |
+| Price | 6.82 |
 | Trend | downtrend |
-| RSI | 39.5 |
-| MACD | 0.12 |
+| RSI | 40.0 |
+| MACD | 0.08 |
 | MA20 | 7.24 |
-| MA200 | 7.67 |
-| ATR | 0.49 |
+| MA200 | 7.66 |
+| ATR | 0.47 |
 | Risk | ELEVATED |
-| Stop Loss | 6.19 |
-| Target | 7.9 |
+| Stop Loss | 6.12 |
+| Target | 7.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33711,70 +33711,70 @@
 ### RADIOCITY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.83 |
+| Price | 5.76 |
 | Trend | downtrend |
-| RSI | 40.59 |
+| RSI | 33.66 |
 | MACD | -0.14 |
-| MA20 | 5.97 |
+| MA20 | 5.95 |
 | MA200 | 6.17 |
-| ATR | 0.3 |
+| ATR | 0.31 |
 | Risk | ELEVATED |
-| Stop Loss | 5.38 |
-| Target | 6.43 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### PRITIKAUTO.NS
-| Metric | Value |
-|--------|-------|
-| Price | 15.48 |
-| Trend | weak_trend |
-| RSI | 51.23 |
-| MACD | -0.14 |
-| MA20 | 16.03 |
-| MA200 | 14.86 |
-| ATR | 1.31 |
-| Risk | ELEVATED |
-| Stop Loss | 13.51 |
-| Target | 18.1 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### VIRINCHI.NS
-| Metric | Value |
-|--------|-------|
-| Price | 12.83 |
-| Trend | downtrend |
-| RSI | 25.53 |
-| MACD | -0.48 |
-| MA20 | 13.54 |
-| MA200 | 17.33 |
-| ATR | 0.64 |
-| Risk | ELEVATED |
-| Stop Loss | 11.86 |
-| Target | 14.12 |
+| Stop Loss | 5.29 |
+| Target | 6.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### PRITIKAUTO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 15.46 |
+| Trend | weak_trend |
+| RSI | 49.15 |
+| MACD | -0.18 |
+| MA20 | 16.05 |
+| MA200 | 14.87 |
+| ATR | 1.32 |
+| Risk | ELEVATED |
+| Stop Loss | 13.48 |
+| Target | 18.1 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### VIRINCHI.NS
+| Metric | Value |
+|--------|-------|
+| Price | 12.8 |
+| Trend | downtrend |
+| RSI | 24.58 |
+| MACD | -0.47 |
+| MA20 | 13.47 |
+| MA200 | 17.29 |
+| ATR | 0.68 |
+| Risk | ELEVATED |
+| Stop Loss | 11.78 |
+| Target | 14.16 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### CHAVDA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 54.0 |
+| Price | 52.0 |
 | Trend | downtrend |
-| RSI | 20.0 |
-| MACD | -14.55 |
-| MA20 | 65.79 |
-| MA200 | 104.14 |
-| ATR | 3.72 |
+| RSI | 13.41 |
+| MACD | -14.28 |
+| MA20 | 62.13 |
+| MA200 | 103.78 |
+| ATR | 3.59 |
 | Risk | ELEVATED |
-| Stop Loss | 48.43 |
-| Target | 61.43 |
+| Stop Loss | 46.62 |
+| Target | 59.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33784,51 +33784,51 @@
 | Metric | Value |
 |--------|-------|
 | Price | 20.5 |
-| Trend | weak_trend |
-| RSI | 45.26 |
-| MACD | -0.85 |
-| MA20 | 21.36 |
-| MA200 | 31.74 |
-| ATR | 1.31 |
+| Trend | downtrend |
+| RSI | 57.33 |
+| MACD | -0.84 |
+| MA20 | 21.2 |
+| MA200 | 31.69 |
+| ATR | 1.05 |
 | Risk | ELEVATED |
-| Stop Loss | 18.53 |
-| Target | 23.12 |
+| Stop Loss | 18.92 |
+| Target | 22.6 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### RBS.NS
+| Metric | Value |
+|--------|-------|
+| Price | 79.05 |
+| Trend | downtrend |
+| RSI | 37.97 |
+| MACD | -1.5 |
+| MA20 | 82.29 |
+| MA200 | 87.63 |
+| ATR | 2.94 |
+| Risk | NORMAL |
+| Stop Loss | 74.65 |
+| Target | 84.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### RBS.NS
-| Metric | Value |
-|--------|-------|
-| Price | 82.9 |
-| Trend | downtrend |
-| RSI | 57.89 |
-| MACD | -1.34 |
-| MA20 | 82.69 |
-| MA200 | 87.74 |
-| ATR | 2.96 |
-| Risk | NORMAL |
-| Stop Loss | 78.46 |
-| Target | 88.82 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
 ### MADHAVBAUG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 177.0 |
+| Price | 170.0 |
 | Trend | downtrend |
-| RSI | 65.57 |
-| MACD | 1.77 |
-| MA20 | 167.19 |
-| MA200 | 204.33 |
-| ATR | 7.28 |
+| RSI | 51.95 |
+| MACD | 1.54 |
+| MA20 | 167.72 |
+| MA200 | 203.86 |
+| ATR | 7.27 |
 | Risk | ELEVATED |
-| Stop Loss | 166.08 |
-| Target | 191.56 |
+| Stop Loss | 159.09 |
+| Target | 184.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33837,34 +33837,34 @@
 ### SCPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 614.65 |
+| Price | 607.4 |
 | Trend | weak_trend |
-| RSI | 29.76 |
-| MACD | -6.33 |
-| MA20 | 629.35 |
-| MA200 | 449.36 |
-| ATR | 27.16 |
+| RSI | 22.92 |
+| MACD | -6.95 |
+| MA20 | 627.38 |
+| MA200 | 450.91 |
+| ATR | 26.24 |
 | Risk | ELEVATED |
-| Stop Loss | 573.91 |
-| Target | 668.97 |
+| Stop Loss | 568.04 |
+| Target | 659.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### KDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.85 |
+| Price | 33.15 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -14.11 |
-| MA20 | 59.96 |
-| MA200 | 124.84 |
-| ATR | 2.58 |
+| MACD | -14.21 |
+| MA20 | 56.95 |
+| MA200 | 124.14 |
+| ATR | 2.45 |
 | Risk | ELEVATED |
-| Stop Loss | 30.99 |
-| Target | 40.0 |
+| Stop Loss | 29.48 |
+| Target | 38.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33873,16 +33873,16 @@
 ### PRATHAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 114.25 |
+| Price | 112.0 |
 | Trend | downtrend |
-| RSI | 42.66 |
-| MACD | -0.68 |
-| MA20 | 121.88 |
-| MA200 | 127.9 |
+| RSI | 40.22 |
+| MACD | -1.28 |
+| MA20 | 121.31 |
+| MA200 | 127.71 |
 | ATR | 4.41 |
 | Risk | NORMAL |
-| Stop Loss | 107.63 |
-| Target | 123.08 |
+| Stop Loss | 105.38 |
+| Target | 120.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33891,20 +33891,20 @@
 ### REPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.09 |
+| Price | 57.44 |
 | Trend | downtrend |
-| RSI | 42.58 |
-| MACD | -1.5 |
-| MA20 | 58.43 |
-| MA200 | 77.31 |
-| ATR | 3.74 |
+| RSI | 49.14 |
+| MACD | -1.4 |
+| MA20 | 58.25 |
+| MA200 | 76.98 |
+| ATR | 3.69 |
 | Risk | ELEVATED |
-| Stop Loss | 51.48 |
-| Target | 64.57 |
+| Stop Loss | 51.9 |
+| Target | 64.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### IPSL.NS
 | Metric | Value |
@@ -33912,9 +33912,9 @@
 | Price | 199.95 |
 | Trend | downtrend |
 | RSI | 38.12 |
-| MACD | -4.13 |
-| MA20 | 208.82 |
-| MA200 | 238.07 |
+| MACD | -4.19 |
+| MA20 | 208.07 |
+| MA200 | 237.7 |
 | ATR | 11.89 |
 | Risk | ELEVATED |
 | Stop Loss | 182.12 |
@@ -33927,15 +33927,15 @@
 ### KAMOPAINTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.0 |
+| Price | 4.03 |
 | Trend | downtrend |
-| RSI | 14.58 |
+| RSI | 23.26 |
 | MACD | -0.1 |
-| MA20 | 4.18 |
-| MA200 | 5.0 |
-| ATR | 0.16 |
-| Risk | ELEVATED |
-| Stop Loss | 3.76 |
+| MA20 | 4.17 |
+| MA200 | 4.99 |
+| ATR | 0.15 |
+| Risk | NORMAL |
+| Stop Loss | 3.81 |
 | Target | 4.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -33945,16 +33945,16 @@
 ### TCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 129.0 |
+| Price | 124.05 |
 | Trend | weak_trend |
-| RSI | 39.75 |
-| MACD | 1.74 |
-| MA20 | 130.15 |
-| MA200 | 105.09 |
-| ATR | 8.28 |
+| RSI | 41.72 |
+| MACD | 1.01 |
+| MA20 | 130.7 |
+| MA200 | 105.2 |
+| ATR | 8.0 |
 | Risk | ELEVATED |
-| Stop Loss | 116.58 |
-| Target | 145.56 |
+| Stop Loss | 112.06 |
+| Target | 140.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33963,16 +33963,16 @@
 ### SUPREMEINF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 52.91 |
+| Price | 52.24 |
 | Trend | downtrend |
-| RSI | 11.92 |
-| MACD | -8.23 |
-| MA20 | 72.14 |
-| MA200 | 79.89 |
-| ATR | 6.67 |
+| RSI | 11.85 |
+| MACD | -8.47 |
+| MA20 | 70.5 |
+| MA200 | 79.7 |
+| ATR | 6.73 |
 | Risk | ELEVATED |
-| Stop Loss | 42.9 |
-| Target | 66.26 |
+| Stop Loss | 42.14 |
+| Target | 65.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -33999,16 +33999,16 @@
 ### NURECA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 331.4 |
+| Price | 323.4 |
 | Trend | weak_trend |
-| RSI | 44.87 |
-| MACD | 1.94 |
-| MA20 | 341.11 |
-| MA200 | 284.72 |
-| ATR | 15.53 |
+| RSI | 41.85 |
+| MACD | 0.56 |
+| MA20 | 340.64 |
+| MA200 | 284.91 |
+| ATR | 15.6 |
 | Risk | ELEVATED |
-| Stop Loss | 308.11 |
-| Target | 362.46 |
+| Stop Loss | 300.01 |
+| Target | 354.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34017,16 +34017,16 @@
 ### FELIX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 190.15 |
+| Price | 190.0 |
 | Trend | weak_trend |
-| RSI | 28.34 |
-| MACD | -2.03 |
-| MA20 | 200.32 |
-| MA200 | 189.02 |
-| ATR | 7.75 |
-| Risk | ELEVATED |
-| Stop Loss | 178.53 |
-| Target | 205.64 |
+| RSI | 27.23 |
+| MACD | -2.25 |
+| MA20 | 199.01 |
+| MA200 | 189.21 |
+| ATR | 7.59 |
+| Risk | NORMAL |
+| Stop Loss | 178.61 |
+| Target | 205.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34037,14 +34037,14 @@
 |--------|-------|
 | Price | 7.99 |
 | Trend | weak_trend |
-| RSI | 57.55 |
-| MACD | -0.06 |
-| MA20 | 7.87 |
+| RSI | 60.4 |
+| MACD | -0.05 |
+| MA20 | 7.85 |
 | MA200 | 7.37 |
-| ATR | 0.32 |
+| ATR | 0.31 |
 | Risk | NORMAL |
-| Stop Loss | 7.51 |
-| Target | 8.63 |
+| Stop Loss | 7.52 |
+| Target | 8.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34053,16 +34053,16 @@
 ### ANLON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 784.2 |
-| Trend | weak_trend |
-| RSI | 51.61 |
-| MACD | 28.81 |
-| MA20 | 760.54 |
-| MA200 | 540.4 |
-| ATR | 46.31 |
+| Price | 789.65 |
+| Trend | downtrend |
+| RSI | 45.96 |
+| MACD | 27.89 |
+| MA20 | 765.44 |
+| MA200 | 542.33 |
+| ATR | 43.84 |
 | Risk | ELEVATED |
-| Stop Loss | 714.73 |
-| Target | 876.82 |
+| Stop Loss | 723.89 |
+| Target | 877.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34071,16 +34071,16 @@
 ### RUDRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.94 |
+| Price | 18.75 |
 | Trend | weak_trend |
-| RSI | 40.0 |
+| RSI | 39.63 |
 | MACD | -0.32 |
-| MA20 | 19.35 |
-| MA200 | 19.6 |
-| ATR | 1.05 |
+| MA20 | 19.27 |
+| MA200 | 19.56 |
+| ATR | 1.08 |
 | Risk | ELEVATED |
-| Stop Loss | 17.37 |
-| Target | 21.04 |
+| Stop Loss | 17.13 |
+| Target | 20.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34089,16 +34089,16 @@
 ### ESCONET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 251.15 |
+| Price | 263.7 |
 | Trend | weak_trend |
-| RSI | 66.22 |
-| MACD | 9.94 |
-| MA20 | 228.13 |
-| MA200 | 144.97 |
-| ATR | 14.28 |
+| RSI | 71.83 |
+| MACD | 11.46 |
+| MA20 | 228.84 |
+| MA200 | 145.61 |
+| ATR | 14.59 |
 | Risk | ELEVATED |
-| Stop Loss | 229.73 |
-| Target | 279.71 |
+| Stop Loss | 241.81 |
+| Target | 292.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34107,34 +34107,34 @@
 ### KOTARISUG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.84 |
-| Trend | downtrend |
-| RSI | 41.21 |
-| MACD | -0.78 |
-| MA20 | 26.63 |
+| Price | 26.36 |
+| Trend | weak_trend |
+| RSI | 47.17 |
+| MACD | -0.72 |
+| MA20 | 26.52 |
 | MA200 | 26.25 |
-| ATR | 1.32 |
+| ATR | 1.33 |
 | Risk | ELEVATED |
-| Stop Loss | 23.85 |
-| Target | 28.49 |
+| Stop Loss | 24.37 |
+| Target | 29.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DUCOL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 122.0 |
 | Trend | weak_trend |
-| RSI | 41.35 |
-| MACD | 1.57 |
-| MA20 | 123.67 |
-| MA200 | 120.92 |
-| ATR | 3.42 |
+| RSI | 46.61 |
+| MACD | 1.45 |
+| MA20 | 123.38 |
+| MA200 | 120.74 |
+| ATR | 3.0 |
 | Risk | NORMAL |
-| Stop Loss | 116.87 |
-| Target | 128.84 |
+| Stop Loss | 117.51 |
+| Target | 127.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34197,20 +34197,20 @@
 ### AHLEAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 134.79 |
-| Trend | weak_trend |
-| RSI | 49.25 |
-| MACD | -0.99 |
-| MA20 | 135.22 |
-| MA200 | 147.6 |
-| ATR | 3.87 |
+| Price | 136.07 |
+| Trend | downtrend |
+| RSI | 53.1 |
+| MACD | -0.84 |
+| MA20 | 135.33 |
+| MA200 | 147.62 |
+| ATR | 4.07 |
 | Risk | NORMAL |
-| Stop Loss | 128.98 |
-| Target | 142.54 |
+| Stop Loss | 129.97 |
+| Target | 144.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SAKHTISUG.NS
 | Metric | Value |
@@ -34233,16 +34233,16 @@
 ### ZODIACLOTH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 65.87 |
+| Price | 66.47 |
 | Trend | downtrend |
-| RSI | 36.21 |
-| MACD | -1.68 |
-| MA20 | 68.4 |
-| MA200 | 76.58 |
-| ATR | 2.2 |
+| RSI | 37.26 |
+| MACD | -1.62 |
+| MA20 | 68.25 |
+| MA200 | 76.48 |
+| ATR | 2.15 |
 | Risk | NORMAL |
-| Stop Loss | 62.57 |
-| Target | 70.27 |
+| Stop Loss | 63.25 |
+| Target | 70.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34251,16 +34251,16 @@
 ### KMSUGAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.22 |
-| Trend | downtrend |
-| RSI | 45.62 |
-| MACD | -0.95 |
-| MA20 | 28.93 |
+| Price | 28.36 |
+| Trend | weak_trend |
+| RSI | 48.62 |
+| MACD | -0.85 |
+| MA20 | 28.82 |
 | MA200 | 27.56 |
-| ATR | 1.93 |
+| ATR | 1.97 |
 | Risk | ELEVATED |
-| Stop Loss | 24.32 |
-| Target | 31.08 |
+| Stop Loss | 25.4 |
+| Target | 32.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34269,16 +34269,16 @@
 ### DRCSYSTEMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.76 |
+| Price | 11.96 |
 | Trend | downtrend |
-| RSI | 50.6 |
-| MACD | -0.05 |
-| MA20 | 12.72 |
-| MA200 | 14.6 |
-| ATR | 0.81 |
+| RSI | 45.58 |
+| MACD | -0.11 |
+| MA20 | 12.67 |
+| MA200 | 14.58 |
+| ATR | 0.85 |
 | Risk | ELEVATED |
-| Stop Loss | 11.55 |
-| Target | 14.37 |
+| Stop Loss | 10.69 |
+| Target | 13.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34287,20 +34287,20 @@
 ### OMAXAUTO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 220.61 |
-| Trend | weak_trend |
-| RSI | 70.23 |
-| MACD | 5.45 |
-| MA20 | 195.02 |
-| MA200 | 162.06 |
-| ATR | 13.73 |
+| Price | 212.78 |
+| Trend | uptrend |
+| RSI | 63.81 |
+| MACD | 5.83 |
+| MA20 | 197.01 |
+| MA200 | 162.64 |
+| ATR | 15.4 |
 | Risk | ELEVATED |
-| Stop Loss | 200.01 |
-| Target | 248.08 |
+| Stop Loss | 189.68 |
+| Target | 243.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### INTENTECH.NS
 | Metric | Value |
@@ -34325,14 +34325,14 @@
 |--------|-------|
 | Price | 320.0 |
 | Trend | weak_trend |
-| RSI | 39.21 |
-| MACD | -7.0 |
-| MA20 | 325.66 |
-| MA200 | 275.11 |
-| ATR | 8.3 |
+| RSI | 46.49 |
+| MACD | -6.44 |
+| MA20 | 323.56 |
+| MA200 | 275.62 |
+| ATR | 7.24 |
 | Risk | NORMAL |
-| Stop Loss | 307.56 |
-| Target | 336.59 |
+| Stop Loss | 309.15 |
+| Target | 334.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34341,16 +34341,16 @@
 ### PIGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 94.38 |
+| Price | 93.39 |
 | Trend | downtrend |
-| RSI | 35.81 |
-| MACD | -1.97 |
-| MA20 | 98.28 |
-| MA200 | 108.37 |
-| ATR | 3.75 |
-| Risk | NORMAL |
-| Stop Loss | 88.76 |
-| Target | 101.87 |
+| RSI | 34.34 |
+| MACD | -2.08 |
+| MA20 | 97.85 |
+| MA200 | 108.23 |
+| ATR | 3.89 |
+| Risk | ELEVATED |
+| Stop Loss | 87.56 |
+| Target | 101.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34359,16 +34359,16 @@
 ### KALYANIFRG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 834.1 |
+| Price | 835.15 |
 | Trend | weak_trend |
-| RSI | 33.91 |
-| MACD | 0.25 |
-| MA20 | 952.39 |
-| MA200 | 663.53 |
-| ATR | 46.37 |
+| RSI | 35.67 |
+| MACD | -5.94 |
+| MA20 | 943.06 |
+| MA200 | 664.53 |
+| ATR | 46.08 |
 | Risk | ELEVATED |
-| Stop Loss | 764.55 |
-| Target | 926.84 |
+| Stop Loss | 766.04 |
+| Target | 927.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34377,16 +34377,16 @@
 ### MKPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.91 |
+| Price | 3.93 |
 | Trend | weak_trend |
-| RSI | 44.62 |
+| RSI | 41.94 |
 | MACD | -0.04 |
 | MA20 | 3.97 |
-| MA200 | 4.84 |
+| MA200 | 4.83 |
 | ATR | 0.22 |
 | Risk | ELEVATED |
-| Stop Loss | 3.58 |
-| Target | 4.35 |
+| Stop Loss | 3.6 |
+| Target | 4.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34396,11 +34396,11 @@
 | Metric | Value |
 |--------|-------|
 | Price | 230.0 |
-| Trend | downtrend |
+| Trend | weak_trend |
 | RSI | 37.49 |
-| MACD | -58.23 |
-| MA20 | 307.17 |
-| MA200 | 453.17 |
+| MACD | -56.35 |
+| MA20 | 293.67 |
+| MA200 | 451.95 |
 | ATR | 5.93 |
 | Risk | NORMAL |
 | Stop Loss | 221.11 |
@@ -34413,34 +34413,34 @@
 ### PONNIERODE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 345.95 |
+| Price | 371.45 |
 | Trend | weak_trend |
-| RSI | 46.39 |
-| MACD | -4.04 |
-| MA20 | 366.58 |
-| MA200 | 306.63 |
-| ATR | 20.78 |
+| RSI | 53.34 |
+| MACD | -3.05 |
+| MA20 | 366.6 |
+| MA200 | 307.12 |
+| ATR | 22.09 |
 | Risk | ELEVATED |
-| Stop Loss | 314.79 |
-| Target | 387.5 |
+| Stop Loss | 338.31 |
+| Target | 415.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### MURUDCERA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.51 |
+| Price | 27.5 |
 | Trend | downtrend |
-| RSI | 42.53 |
-| MACD | -0.62 |
-| MA20 | 28.35 |
-| MA200 | 31.63 |
-| ATR | 1.11 |
-| Risk | ELEVATED |
-| Stop Loss | 25.84 |
-| Target | 29.74 |
+| RSI | 30.21 |
+| MACD | -0.61 |
+| MA20 | 28.24 |
+| MA200 | 31.59 |
+| ATR | 1.03 |
+| Risk | NORMAL |
+| Stop Loss | 25.96 |
+| Target | 29.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34449,16 +34449,16 @@
 ### CPCAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 175.66 |
+| Price | 166.06 |
 | Trend | uptrend |
-| RSI | 60.73 |
-| MACD | 7.19 |
-| MA20 | 148.69 |
-| MA200 | 107.64 |
-| ATR | 11.24 |
+| RSI | 57.82 |
+| MACD | 7.79 |
+| MA20 | 150.24 |
+| MA200 | 107.88 |
+| ATR | 11.85 |
 | Risk | ELEVATED |
-| Stop Loss | 158.8 |
-| Target | 198.14 |
+| Stop Loss | 148.29 |
+| Target | 189.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34467,34 +34467,34 @@
 ### AERONEU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 70.53 |
+| Price | 70.04 |
 | Trend | downtrend |
-| RSI | 57.38 |
-| MACD | -1.86 |
-| MA20 | 70.17 |
-| MA200 | 79.19 |
-| ATR | 4.9 |
+| RSI | 56.53 |
+| MACD | -1.77 |
+| MA20 | 70.24 |
+| MA200 | 79.17 |
+| ATR | 4.97 |
 | Risk | ELEVATED |
-| Stop Loss | 63.18 |
-| Target | 80.33 |
+| Stop Loss | 62.58 |
+| Target | 79.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GENCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.22 |
+| Price | 35.75 |
 | Trend | downtrend |
-| RSI | 32.61 |
-| MACD | -1.25 |
-| MA20 | 38.64 |
-| MA200 | 42.66 |
-| ATR | 2.06 |
+| RSI | 33.22 |
+| MACD | -1.32 |
+| MA20 | 38.38 |
+| MA200 | 42.62 |
+| ATR | 2.05 |
 | Risk | ELEVATED |
-| Stop Loss | 33.13 |
-| Target | 40.34 |
+| Stop Loss | 32.68 |
+| Target | 39.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34503,16 +34503,16 @@
 ### SALSTEEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 86.46 |
+| Price | 85.39 |
 | Trend | weak_trend |
-| RSI | 55.35 |
-| MACD | 3.41 |
-| MA20 | 86.58 |
-| MA200 | 56.87 |
-| ATR | 5.61 |
+| RSI | 55.65 |
+| MACD | 2.89 |
+| MA20 | 87.11 |
+| MA200 | 57.09 |
+| ATR | 5.54 |
 | Risk | ELEVATED |
-| Stop Loss | 78.05 |
-| Target | 97.68 |
+| Stop Loss | 77.08 |
+| Target | 96.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34521,16 +34521,16 @@
 ### NIRAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.23 |
+| Price | 27.69 |
 | Trend | downtrend |
-| RSI | 35.71 |
-| MACD | -0.3 |
-| MA20 | 27.83 |
-| MA200 | 30.06 |
-| ATR | 1.41 |
+| RSI | 45.47 |
+| MACD | -0.28 |
+| MA20 | 27.85 |
+| MA200 | 30.03 |
+| ATR | 1.34 |
 | Risk | ELEVATED |
-| Stop Loss | 25.11 |
-| Target | 30.05 |
+| Stop Loss | 25.69 |
+| Target | 30.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34557,70 +34557,70 @@
 ### SPCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 66.25 |
+| Price | 70.05 |
 | Trend | downtrend |
-| RSI | 48.52 |
-| MACD | -0.35 |
-| MA20 | 64.24 |
-| MA200 | 75.85 |
-| ATR | 3.12 |
+| RSI | 57.53 |
+| MACD | 0.22 |
+| MA20 | 64.51 |
+| MA200 | 75.81 |
+| ATR | 3.3 |
 | Risk | ELEVATED |
-| Stop Loss | 61.57 |
-| Target | 72.49 |
+| Stop Loss | 65.09 |
+| Target | 76.66 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
+### SHIVATEX.NS
+| Metric | Value |
+|--------|-------|
+| Price | 159.31 |
+| Trend | downtrend |
+| RSI | 34.17 |
+| MACD | -2.15 |
+| MA20 | 169.32 |
+| MA200 | 161.13 |
+| ATR | 6.56 |
+| Risk | ELEVATED |
+| Stop Loss | 149.47 |
+| Target | 172.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### SHIVATEX.NS
-| Metric | Value |
-|--------|-------|
-| Price | 165.01 |
-| Trend | weak_trend |
-| RSI | 39.48 |
-| MACD | -1.59 |
-| MA20 | 170.26 |
-| MA200 | 161.23 |
-| ATR | 6.48 |
-| Risk | NORMAL |
-| Stop Loss | 155.29 |
-| Target | 177.97 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
 ### CHEMBOND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 201.02 |
-| Trend | uptrend |
-| RSI | 60.43 |
-| MACD | 1.21 |
-| MA20 | 190.59 |
-| MA200 | 163.97 |
-| ATR | 11.71 |
+| Price | 190.82 |
+| Trend | weak_trend |
+| RSI | 48.64 |
+| MACD | 1.26 |
+| MA20 | 189.27 |
+| MA200 | 164.14 |
+| ATR | 12.01 |
 | Risk | ELEVATED |
-| Stop Loss | 183.45 |
-| Target | 224.44 |
+| Stop Loss | 172.81 |
+| Target | 214.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SHAH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.92 |
+| Price | 2.91 |
 | Trend | downtrend |
-| RSI | 16.36 |
+| RSI | 17.31 |
 | MACD | -0.17 |
-| MA20 | 3.17 |
-| MA200 | 4.55 |
+| MA20 | 3.14 |
+| MA200 | 4.54 |
 | ATR | 0.1 |
 | Risk | NORMAL |
-| Stop Loss | 2.77 |
-| Target | 3.13 |
+| Stop Loss | 2.76 |
+| Target | 3.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34629,16 +34629,16 @@
 ### NAVKARURB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.85 |
+| Price | 0.84 |
 | Trend | weak_trend |
-| RSI | 45.45 |
+| RSI | 31.58 |
 | MACD | -0.02 |
 | MA20 | 0.87 |
 | MA200 | 1.04 |
-| ATR | 0.04 |
+| ATR | 0.05 |
 | Risk | ELEVATED |
-| Stop Loss | 0.78 |
-| Target | 0.94 |
+| Stop Loss | 0.77 |
+| Target | 0.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34647,16 +34647,16 @@
 ### CORDSCABLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 301.5 |
+| Price | 308.15 |
 | Trend | weak_trend |
-| RSI | 35.41 |
-| MACD | -0.37 |
-| MA20 | 337.05 |
-| MA200 | 210.82 |
-| ATR | 22.91 |
+| RSI | 27.16 |
+| MACD | -0.98 |
+| MA20 | 333.85 |
+| MA200 | 211.45 |
+| ATR | 21.86 |
 | Risk | ELEVATED |
-| Stop Loss | 267.14 |
-| Target | 347.31 |
+| Stop Loss | 275.36 |
+| Target | 351.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34665,16 +34665,16 @@
 ### ABAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.36 |
+| Price | 17.02 |
 | Trend | weak_trend |
-| RSI | 72.91 |
+| RSI | 71.6 |
 | MACD | 0.61 |
-| MA20 | 15.27 |
-| MA200 | 18.17 |
-| ATR | 0.61 |
+| MA20 | 15.4 |
+| MA200 | 18.14 |
+| ATR | 0.6 |
 | Risk | NORMAL |
-| Stop Loss | 16.45 |
-| Target | 18.58 |
+| Stop Loss | 16.12 |
+| Target | 18.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34683,34 +34683,34 @@
 ### WORTHPERI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 159.47 |
-| Trend | uptrend |
-| RSI | 62.18 |
-| MACD | -0.22 |
-| MA20 | 146.49 |
-| MA200 | 138.52 |
-| ATR | 8.03 |
+| Price | 156.01 |
+| Trend | weak_trend |
+| RSI | 57.38 |
+| MACD | 0.46 |
+| MA20 | 147.0 |
+| MA200 | 138.59 |
+| ATR | 8.26 |
 | Risk | ELEVATED |
-| Stop Loss | 147.42 |
-| Target | 175.54 |
+| Stop Loss | 143.62 |
+| Target | 172.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### DEVIT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.53 |
+| Price | 19.45 |
 | Trend | downtrend |
-| RSI | 22.76 |
-| MACD | -1.29 |
-| MA20 | 21.91 |
-| MA200 | 27.96 |
-| ATR | 1.54 |
+| RSI | 22.58 |
+| MACD | -1.3 |
+| MA20 | 21.68 |
+| MA200 | 27.88 |
+| ATR | 1.52 |
 | Risk | ELEVATED |
-| Stop Loss | 17.22 |
-| Target | 22.62 |
+| Stop Loss | 17.16 |
+| Target | 22.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34719,16 +34719,16 @@
 ### TRIGYN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.79 |
+| Price | 51.15 |
 | Trend | downtrend |
-| RSI | 23.77 |
-| MACD | -1.39 |
-| MA20 | 53.53 |
-| MA200 | 56.06 |
-| ATR | 2.24 |
+| RSI | 27.11 |
+| MACD | -1.4 |
+| MA20 | 53.28 |
+| MA200 | 55.98 |
+| ATR | 2.29 |
 | Risk | ELEVATED |
-| Stop Loss | 47.43 |
-| Target | 55.27 |
+| Stop Loss | 47.72 |
+| Target | 55.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34737,34 +34737,34 @@
 ### KCK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.55 |
-| Trend | downtrend |
-| RSI | 66.32 |
-| MACD | 0.17 |
-| MA20 | 14.54 |
-| MA200 | 17.39 |
-| ATR | 0.64 |
-| Risk | ELEVATED |
-| Stop Loss | 14.59 |
-| Target | 16.84 |
+| Price | 15.75 |
+| Trend | weak_trend |
+| RSI | 72.83 |
+| MACD | 0.22 |
+| MA20 | 14.6 |
+| MA200 | 17.32 |
+| ATR | 0.62 |
+| Risk | NORMAL |
+| Stop Loss | 14.82 |
+| Target | 16.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BALAXI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.36 |
+| Price | 22.19 |
 | Trend | downtrend |
-| RSI | 36.5 |
-| MACD | -0.31 |
-| MA20 | 22.83 |
-| MA200 | 23.69 |
-| ATR | 1.1 |
+| RSI | 37.67 |
+| MACD | -0.32 |
+| MA20 | 22.77 |
+| MA200 | 23.67 |
+| ATR | 1.14 |
 | Risk | ELEVATED |
-| Stop Loss | 20.71 |
-| Target | 24.56 |
+| Stop Loss | 20.48 |
+| Target | 24.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34773,70 +34773,70 @@
 ### MHLXMIRU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 165.7 |
+| Price | 173.98 |
 | Trend | weak_trend |
-| RSI | 59.83 |
-| MACD | 0.67 |
-| MA20 | 164.8 |
-| MA200 | 173.46 |
-| ATR | 10.22 |
+| RSI | 60.26 |
+| MACD | 1.05 |
+| MA20 | 165.64 |
+| MA200 | 173.26 |
+| ATR | 10.37 |
 | Risk | ELEVATED |
-| Stop Loss | 150.36 |
-| Target | 186.15 |
+| Stop Loss | 158.43 |
+| Target | 194.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### FIDEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 163.0 |
+| Price | 172.0 |
 | Trend | weak_trend |
-| RSI | 49.08 |
-| MACD | 6.83 |
-| MA20 | 168.72 |
-| MA200 | 145.81 |
-| ATR | 6.55 |
+| RSI | 53.38 |
+| MACD | 6.34 |
+| MA20 | 169.62 |
+| MA200 | 145.95 |
+| ATR | 7.32 |
 | Risk | ELEVATED |
-| Stop Loss | 153.18 |
-| Target | 176.1 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### SPECTSTM.NS
-| Metric | Value |
-|--------|-------|
-| Price | 60.75 |
-| Trend | downtrend |
-| RSI | 60.4 |
-| MACD | 0.17 |
-| MA20 | 59.15 |
-| MA200 | 67.76 |
-| ATR | 3.21 |
-| Risk | ELEVATED |
-| Stop Loss | 55.93 |
-| Target | 67.17 |
+| Stop Loss | 161.02 |
+| Target | 186.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### SPECTSTM.NS
+| Metric | Value |
+|--------|-------|
+| Price | 59.3 |
+| Trend | downtrend |
+| RSI | 56.35 |
+| MACD | 0.11 |
+| MA20 | 59.15 |
+| MA200 | 67.6 |
+| ATR | 3.77 |
+| Risk | ELEVATED |
+| Stop Loss | 53.64 |
+| Target | 66.84 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
 ### UNITEDTEA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 414.65 |
+| Price | 406.6 |
 | Trend | downtrend |
-| RSI | 36.0 |
-| MACD | -9.51 |
-| MA20 | 422.28 |
-| MA200 | 483.35 |
-| ATR | 14.8 |
+| RSI | 32.81 |
+| MACD | -9.6 |
+| MA20 | 420.97 |
+| MA200 | 483.2 |
+| ATR | 14.74 |
 | Risk | NORMAL |
-| Stop Loss | 392.44 |
-| Target | 444.26 |
+| Stop Loss | 384.5 |
+| Target | 436.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34845,16 +34845,16 @@
 ### PKTEA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 865.3 |
+| Price | 846.0 |
 | Trend | weak_trend |
-| RSI | 36.09 |
-| MACD | 14.01 |
-| MA20 | 977.08 |
-| MA200 | 794.01 |
-| ATR | 57.6 |
+| RSI | 22.64 |
+| MACD | 4.81 |
+| MA20 | 963.34 |
+| MA200 | 793.77 |
+| ATR | 56.15 |
 | Risk | ELEVATED |
-| Stop Loss | 778.91 |
-| Target | 980.49 |
+| Stop Loss | 761.78 |
+| Target | 958.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34863,16 +34863,16 @@
 ### BASML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.67 |
+| Price | 20.93 |
 | Trend | downtrend |
-| RSI | 19.6 |
-| MACD | -0.98 |
-| MA20 | 23.28 |
-| MA200 | 24.13 |
-| ATR | 1.24 |
+| RSI | 21.64 |
+| MACD | -1.02 |
+| MA20 | 23.09 |
+| MA200 | 24.1 |
+| ATR | 1.16 |
 | Risk | ELEVATED |
-| Stop Loss | 18.81 |
-| Target | 23.14 |
+| Stop Loss | 19.19 |
+| Target | 23.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34881,16 +34881,16 @@
 ### KRITIKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.81 |
-| Trend | downtrend |
-| RSI | 30.14 |
+| Price | 4.88 |
+| Trend | weak_trend |
+| RSI | 39.19 |
 | MACD | -0.14 |
-| MA20 | 5.02 |
-| MA200 | 5.98 |
+| MA20 | 4.99 |
+| MA200 | 5.97 |
 | ATR | 0.24 |
 | Risk | ELEVATED |
-| Stop Loss | 4.45 |
-| Target | 5.29 |
+| Stop Loss | 4.53 |
+| Target | 5.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34912,39 +34912,39 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AMJLAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.47 |
+| Price | 36.01 |
 | Trend | downtrend |
-| RSI | 44.2 |
-| MACD | -0.42 |
-| MA20 | 37.3 |
-| MA200 | 40.05 |
-| ATR | 1.65 |
+| RSI | 33.71 |
+| MACD | -0.47 |
+| MA20 | 37.17 |
+| MA200 | 39.97 |
+| ATR | 1.59 |
 | Risk | ELEVATED |
-| Stop Loss | 34.0 |
-| Target | 39.76 |
+| Stop Loss | 33.62 |
+| Target | 39.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### INDOWIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.26 |
+| Price | 8.36 |
 | Trend | downtrend |
-| RSI | 30.81 |
+| RSI | 31.61 |
 | MACD | -0.18 |
-| MA20 | 8.72 |
-| MA200 | 10.16 |
+| MA20 | 8.69 |
+| MA200 | 10.13 |
 | ATR | 0.37 |
 | Risk | ELEVATED |
-| Stop Loss | 7.7 |
-| Target | 9.0 |
+| Stop Loss | 7.8 |
+| Target | 9.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34953,16 +34953,16 @@
 ### NEPHROCARE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.85 |
+| Price | 86.5 |
 | Trend | weak_trend |
-| RSI | 33.62 |
-| MACD | -1.37 |
-| MA20 | 90.79 |
-| MA200 | 83.3 |
-| ATR | 5.84 |
+| RSI | 33.04 |
+| MACD | -1.34 |
+| MA20 | 90.46 |
+| MA200 | 83.13 |
+| ATR | 5.81 |
 | Risk | ELEVATED |
-| Stop Loss | 75.09 |
-| Target | 95.53 |
+| Stop Loss | 77.78 |
+| Target | 98.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -34971,34 +34971,34 @@
 ### TEAMGTY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 244.03 |
+| Price | 247.96 |
 | Trend | downtrend |
-| RSI | 53.79 |
-| MACD | 1.27 |
-| MA20 | 238.25 |
-| MA200 | 250.53 |
-| ATR | 8.46 |
+| RSI | 61.63 |
+| MACD | 1.91 |
+| MA20 | 238.89 |
+| MA200 | 250.42 |
+| ATR | 8.54 |
 | Risk | NORMAL |
-| Stop Loss | 231.34 |
-| Target | 260.96 |
+| Stop Loss | 235.15 |
+| Target | 265.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MARALOVER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.71 |
+| Price | 56.66 |
 | Trend | weak_trend |
-| RSI | 49.53 |
-| MACD | -0.27 |
-| MA20 | 59.02 |
-| MA200 | 50.23 |
-| ATR | 3.66 |
+| RSI | 32.77 |
+| MACD | -0.36 |
+| MA20 | 58.73 |
+| MA200 | 50.3 |
+| ATR | 3.38 |
 | Risk | ELEVATED |
-| Stop Loss | 51.23 |
-| Target | 64.02 |
+| Stop Loss | 51.59 |
+| Target | 63.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35025,34 +35025,34 @@
 ### PRITIKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 66.5 |
-| Trend | uptrend |
-| RSI | 56.58 |
-| MACD | 0.87 |
-| MA20 | 63.98 |
-| MA200 | 63.56 |
-| ATR | 1.78 |
+| Price | 75.5 |
+| Trend | weak_trend |
+| RSI | 83.97 |
+| MACD | 1.67 |
+| MA20 | 64.6 |
+| MA200 | 63.58 |
+| ATR | 2.38 |
 | Risk | NORMAL |
-| Stop Loss | 63.83 |
-| Target | 70.06 |
+| Stop Loss | 71.93 |
+| Target | 80.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### GRCL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 569.95 |
 | Trend | weak_trend |
-| RSI | 45.59 |
-| MACD | 1.02 |
-| MA20 | 571.78 |
-| MA200 | 478.43 |
-| ATR | 12.66 |
+| RSI | 49.98 |
+| MACD | 1.04 |
+| MA20 | 571.41 |
+| MA200 | 479.38 |
+| ATR | 11.59 |
 | Risk | NORMAL |
-| Stop Loss | 550.96 |
-| Target | 595.26 |
+| Stop Loss | 552.57 |
+| Target | 593.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35061,16 +35061,16 @@
 ### PLAZACABLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.71 |
+| Price | 58.09 |
 | Trend | weak_trend |
-| RSI | 40.73 |
-| MACD | 0.22 |
-| MA20 | 59.75 |
-| MA200 | 45.22 |
-| ATR | 3.41 |
+| RSI | 40.21 |
+| MACD | 0.19 |
+| MA20 | 59.51 |
+| MA200 | 45.31 |
+| ATR | 3.38 |
 | Risk | ELEVATED |
-| Stop Loss | 52.59 |
-| Target | 64.53 |
+| Stop Loss | 53.02 |
+| Target | 64.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35079,16 +35079,16 @@
 ### AKIKO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 403.15 |
+| Price | 408.5 |
 | Trend | weak_trend |
-| RSI | 38.57 |
-| MACD | 2.3 |
-| MA20 | 421.81 |
-| MA200 | 285.09 |
-| ATR | 16.98 |
+| RSI | 40.41 |
+| MACD | 1.66 |
+| MA20 | 420.61 |
+| MA200 | 285.78 |
+| ATR | 17.69 |
 | Risk | ELEVATED |
-| Stop Loss | 377.69 |
-| Target | 437.1 |
+| Stop Loss | 381.97 |
+| Target | 443.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35097,52 +35097,52 @@
 ### GOLDSTAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.5 |
+| Price | 10.0 |
 | Trend | weak_trend |
-| RSI | 60.42 |
-| MACD | 0.81 |
-| MA20 | 10.36 |
-| MA200 | 7.38 |
-| ATR | 0.65 |
+| RSI | 53.79 |
+| MACD | 0.68 |
+| MA20 | 10.45 |
+| MA200 | 7.4 |
+| ATR | 0.64 |
 | Risk | ELEVATED |
-| Stop Loss | 9.52 |
-| Target | 11.81 |
+| Stop Loss | 9.04 |
+| Target | 11.28 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### SETCO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 17.95 |
+| Trend | weak_trend |
+| RSI | 60.04 |
+| MACD | 0.17 |
+| MA20 | 17.79 |
+| MA200 | 13.75 |
+| ATR | 1.06 |
+| Risk | ELEVATED |
+| Stop Loss | 16.36 |
+| Target | 20.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### SETCO.NS
-| Metric | Value |
-|--------|-------|
-| Price | 18.07 |
-| Trend | weak_trend |
-| RSI | 58.49 |
-| MACD | 0.19 |
-| MA20 | 17.73 |
-| MA200 | 13.7 |
-| ATR | 1.05 |
-| Risk | ELEVATED |
-| Stop Loss | 16.5 |
-| Target | 20.17 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
 ### LOTUSEYE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 107.13 |
+| Price | 110.55 |
 | Trend | downtrend |
-| RSI | 28.71 |
-| MACD | -0.34 |
-| MA20 | 114.06 |
-| MA200 | 116.05 |
-| ATR | 3.31 |
+| RSI | 39.41 |
+| MACD | -0.54 |
+| MA20 | 113.89 |
+| MA200 | 115.96 |
+| ATR | 3.85 |
 | Risk | NORMAL |
-| Stop Loss | 102.16 |
-| Target | 113.76 |
+| Stop Loss | 104.78 |
+| Target | 118.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35169,34 +35169,34 @@
 ### WINSOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 116.0 |
-| Trend | downtrend |
-| RSI | 56.03 |
-| MACD | -0.43 |
-| MA20 | 108.88 |
-| MA200 | 124.66 |
-| ATR | 5.3 |
+| Price | 109.15 |
+| Trend | weak_trend |
+| RSI | 47.8 |
+| MACD | -0.42 |
+| MA20 | 108.68 |
+| MA200 | 124.41 |
+| ATR | 5.76 |
 | Risk | ELEVATED |
-| Stop Loss | 108.06 |
-| Target | 126.59 |
+| Stop Loss | 100.51 |
+| Target | 120.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RAJTV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.23 |
+| Price | 10.07 |
 | Trend | downtrend |
-| RSI | 65.6 |
-| MACD | 0.21 |
-| MA20 | 9.86 |
-| MA200 | 23.26 |
-| ATR | 0.71 |
+| RSI | 59.31 |
+| MACD | 0.18 |
+| MA20 | 9.95 |
+| MA200 | 23.09 |
+| ATR | 0.73 |
 | Risk | ELEVATED |
-| Stop Loss | 9.17 |
-| Target | 11.65 |
+| Stop Loss | 8.97 |
+| Target | 11.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35205,20 +35205,20 @@
 ### AKSHARCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 390.7 |
-| Trend | downtrend |
-| RSI | 42.72 |
-| MACD | 3.04 |
-| MA20 | 385.7 |
-| MA200 | 249.01 |
-| ATR | 18.96 |
+| Price | 408.0 |
+| Trend | weak_trend |
+| RSI | 54.34 |
+| MACD | 5.02 |
+| MA20 | 384.96 |
+| MA200 | 249.8 |
+| ATR | 18.92 |
 | Risk | ELEVATED |
-| Stop Loss | 362.26 |
-| Target | 428.61 |
+| Stop Loss | 379.62 |
+| Target | 445.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### ANIKINDS.NS
 | Metric | Value |
@@ -35259,16 +35259,16 @@
 ### EMMIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 119.4 |
+| Price | 122.5 |
 | Trend | weak_trend |
-| RSI | 51.69 |
-| MACD | 0.33 |
-| MA20 | 123.56 |
-| MA200 | 140.56 |
-| ATR | 8.92 |
+| RSI | 53.16 |
+| MACD | 0.16 |
+| MA20 | 123.68 |
+| MA200 | 140.22 |
+| ATR | 8.64 |
 | Risk | ELEVATED |
-| Stop Loss | 106.02 |
-| Target | 137.24 |
+| Stop Loss | 109.54 |
+| Target | 139.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35277,16 +35277,16 @@
 ### AAREYDRUGS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 104.79 |
+| Price | 102.96 |
 | Trend | weak_trend |
-| RSI | 55.74 |
-| MACD | 3.5 |
-| MA20 | 102.52 |
-| MA200 | 79.63 |
-| ATR | 4.68 |
+| RSI | 50.97 |
+| MACD | 3.18 |
+| MA20 | 102.72 |
+| MA200 | 79.81 |
+| ATR | 4.85 |
 | Risk | ELEVATED |
-| Stop Loss | 97.77 |
-| Target | 114.15 |
+| Stop Loss | 95.68 |
+| Target | 112.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35295,16 +35295,16 @@
 ### NATCAPSUQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 158.76 |
+| Price | 156.72 |
 | Trend | downtrend |
-| RSI | 39.47 |
-| MACD | -5.13 |
-| MA20 | 168.29 |
-| MA200 | 162.01 |
-| ATR | 5.89 |
+| RSI | 34.68 |
+| MACD | -5.36 |
+| MA20 | 166.66 |
+| MA200 | 161.91 |
+| ATR | 5.54 |
 | Risk | NORMAL |
-| Stop Loss | 149.93 |
-| Target | 170.53 |
+| Stop Loss | 148.42 |
+| Target | 167.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35313,16 +35313,16 @@
 ### PRAXIS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.67 |
+| Price | 3.53 |
 | Trend | downtrend |
-| RSI | 37.33 |
-| MACD | -0.26 |
-| MA20 | 4.36 |
-| MA200 | 7.0 |
-| ATR | 0.34 |
+| RSI | 31.19 |
+| MACD | -0.3 |
+| MA20 | 4.31 |
+| MA200 | 6.97 |
+| ATR | 0.37 |
 | Risk | ELEVATED |
-| Stop Loss | 3.16 |
-| Target | 4.35 |
+| Stop Loss | 2.98 |
+| Target | 4.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35349,16 +35349,16 @@
 ### DGCONTENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.86 |
+| Price | 23.85 |
 | Trend | downtrend |
-| RSI | 48.61 |
-| MACD | -0.12 |
-| MA20 | 24.26 |
-| MA200 | 26.88 |
-| ATR | 1.57 |
+| RSI | 49.51 |
+| MACD | -0.14 |
+| MA20 | 24.24 |
+| MA200 | 26.84 |
+| ATR | 1.59 |
 | Risk | ELEVATED |
-| Stop Loss | 21.5 |
-| Target | 27.0 |
+| Stop Loss | 21.47 |
+| Target | 27.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35367,16 +35367,16 @@
 ### SADBHAV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.66 |
+| Price | 6.91 |
 | Trend | downtrend |
-| RSI | 28.57 |
-| MACD | -0.37 |
-| MA20 | 7.25 |
-| MA200 | 8.67 |
-| ATR | 0.32 |
+| RSI | 31.03 |
+| MACD | -0.34 |
+| MA20 | 7.21 |
+| MA200 | 8.65 |
+| ATR | 0.34 |
 | Risk | ELEVATED |
-| Stop Loss | 6.17 |
-| Target | 7.31 |
+| Stop Loss | 6.4 |
+| Target | 7.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35385,16 +35385,16 @@
 ### ASPINWALL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 234.01 |
+| Price | 236.01 |
 | Trend | weak_trend |
-| RSI | 31.69 |
-| MACD | -4.09 |
-| MA20 | 246.95 |
-| MA200 | 230.85 |
-| ATR | 10.42 |
+| RSI | 29.65 |
+| MACD | -4.24 |
+| MA20 | 245.72 |
+| MA200 | 230.96 |
+| ATR | 10.35 |
 | Risk | ELEVATED |
-| Stop Loss | 218.38 |
-| Target | 254.85 |
+| Stop Loss | 220.49 |
+| Target | 256.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35403,16 +35403,16 @@
 ### DRONE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 33.0 |
+| Price | 32.9 |
 | Trend | weak_trend |
-| RSI | 41.84 |
-| MACD | -0.62 |
-| MA20 | 33.16 |
-| MA200 | 45.07 |
-| ATR | 0.96 |
+| RSI | 47.13 |
+| MACD | -0.59 |
+| MA20 | 33.13 |
+| MA200 | 44.9 |
+| ATR | 0.91 |
 | Risk | NORMAL |
-| Stop Loss | 31.56 |
-| Target | 34.92 |
+| Stop Loss | 31.53 |
+| Target | 34.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35442,9 +35442,9 @@
 | Price | 187.0 |
 | Trend | weak_trend |
 | RSI | 45.38 |
-| MACD | -5.44 |
-| MA20 | 193.05 |
-| MA200 | 204.76 |
+| MACD | -5.46 |
+| MA20 | 192.47 |
+| MA200 | 204.72 |
 | ATR | 4.95 |
 | Risk | NORMAL |
 | Stop Loss | 179.57 |
@@ -35457,16 +35457,16 @@
 ### JMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 84.7 |
+| Price | 86.55 |
 | Trend | weak_trend |
-| RSI | 38.96 |
-| MACD | -1.04 |
-| MA20 | 88.61 |
-| MA200 | 83.65 |
-| ATR | 3.41 |
-| Risk | ELEVATED |
-| Stop Loss | 79.59 |
-| Target | 91.52 |
+| RSI | 36.34 |
+| MACD | -1.03 |
+| MA20 | 88.27 |
+| MA200 | 83.71 |
+| ATR | 3.37 |
+| Risk | NORMAL |
+| Stop Loss | 81.49 |
+| Target | 93.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35475,16 +35475,16 @@
 ### NECCLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.7 |
+| Price | 19.86 |
 | Trend | weak_trend |
-| RSI | 52.42 |
-| MACD | 0.4 |
-| MA20 | 19.01 |
-| MA200 | 16.01 |
+| RSI | 51.81 |
+| MACD | 0.44 |
+| MA20 | 19.05 |
+| MA200 | 16.02 |
 | ATR | 1.11 |
 | Risk | ELEVATED |
-| Stop Loss | 18.04 |
-| Target | 21.91 |
+| Stop Loss | 18.2 |
+| Target | 22.07 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35493,16 +35493,16 @@
 ### NITIRAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 209.01 |
+| Price | 212.0 |
 | Trend | weak_trend |
-| RSI | 34.86 |
-| MACD | -2.71 |
-| MA20 | 218.58 |
-| MA200 | 201.59 |
-| ATR | 11.18 |
+| RSI | 36.4 |
+| MACD | -2.46 |
+| MA20 | 217.51 |
+| MA200 | 201.73 |
+| ATR | 10.98 |
 | Risk | ELEVATED |
-| Stop Loss | 192.24 |
-| Target | 231.37 |
+| Stop Loss | 195.52 |
+| Target | 233.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35511,16 +35511,16 @@
 ### ALUWIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 45.5 |
+| Price | 45.8 |
 | Trend | downtrend |
-| RSI | 26.67 |
-| MACD | -0.61 |
-| MA20 | 48.81 |
-| MA200 | 54.6 |
-| ATR | 1.77 |
+| RSI | 27.31 |
+| MACD | -0.72 |
+| MA20 | 48.71 |
+| MA200 | 54.47 |
+| ATR | 1.6 |
 | Risk | NORMAL |
-| Stop Loss | 42.84 |
-| Target | 49.04 |
+| Stop Loss | 43.4 |
+| Target | 49.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35529,16 +35529,16 @@
 ### EQUIPPP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.29 |
+| Price | 20.95 |
 | Trend | weak_trend |
-| RSI | 35.62 |
-| MACD | -0.38 |
-| MA20 | 22.77 |
+| RSI | 37.52 |
+| MACD | -0.45 |
+| MA20 | 22.69 |
 | MA200 | 19.84 |
-| ATR | 1.23 |
+| ATR | 1.18 |
 | Risk | ELEVATED |
-| Stop Loss | 19.45 |
-| Target | 23.74 |
+| Stop Loss | 19.18 |
+| Target | 23.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35549,14 +35549,14 @@
 |--------|-------|
 | Price | 54.0 |
 | Trend | downtrend |
-| RSI | 39.25 |
-| MACD | -1.12 |
-| MA20 | 59.16 |
-| MA200 | 68.09 |
-| ATR | 2.43 |
+| RSI | 34.67 |
+| MACD | -1.4 |
+| MA20 | 58.93 |
+| MA200 | 68.04 |
+| ATR | 2.32 |
 | Risk | ELEVATED |
-| Stop Loss | 50.35 |
-| Target | 58.86 |
+| Stop Loss | 50.52 |
+| Target | 58.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35565,52 +35565,52 @@
 ### RHFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.56 |
+| Price | 1.59 |
 | Trend | downtrend |
-| RSI | 13.04 |
+| RSI | 26.09 |
 | MACD | -0.07 |
-| MA20 | 1.66 |
-| MA200 | 2.23 |
+| MA20 | 1.64 |
+| MA200 | 2.22 |
 | ATR | 0.07 |
 | Risk | ELEVATED |
-| Stop Loss | 1.46 |
-| Target | 1.69 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### INCREDIBLE.NS
-| Metric | Value |
-|--------|-------|
-| Price | 31.05 |
-| Trend | downtrend |
-| RSI | 39.34 |
-| MACD | -0.44 |
-| MA20 | 32.2 |
-| MA200 | 34.44 |
-| ATR | 1.78 |
-| Risk | ELEVATED |
-| Stop Loss | 28.38 |
-| Target | 34.61 |
+| Stop Loss | 1.49 |
+| Target | 1.72 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### INCREDIBLE.NS
+| Metric | Value |
+|--------|-------|
+| Price | 31.17 |
+| Trend | downtrend |
+| RSI | 42.7 |
+| MACD | -0.43 |
+| MA20 | 32.08 |
+| MA200 | 34.4 |
+| ATR | 1.83 |
+| Risk | ELEVATED |
+| Stop Loss | 28.43 |
+| Target | 34.82 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### TIPSFILMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 309.3 |
+| Price | 311.75 |
 | Trend | downtrend |
-| RSI | 45.66 |
-| MACD | -4.88 |
-| MA20 | 321.5 |
-| MA200 | 358.36 |
-| ATR | 24.98 |
+| RSI | 48.22 |
+| MACD | -5.23 |
+| MA20 | 320.71 |
+| MA200 | 357.89 |
+| ATR | 24.97 |
 | Risk | ELEVATED |
-| Stop Loss | 271.83 |
-| Target | 359.26 |
+| Stop Loss | 274.29 |
+| Target | 361.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35619,16 +35619,16 @@
 ### ARCHIDPLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.2 |
+| Price | 101.03 |
 | Trend | weak_trend |
-| RSI | 38.73 |
-| MACD | 0.06 |
-| MA20 | 103.04 |
-| MA200 | 86.26 |
-| ATR | 4.38 |
+| RSI | 32.09 |
+| MACD | -0.02 |
+| MA20 | 103.0 |
+| MA200 | 86.31 |
+| ATR | 4.23 |
 | Risk | ELEVATED |
-| Stop Loss | 93.63 |
-| Target | 108.95 |
+| Stop Loss | 94.69 |
+| Target | 109.48 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35637,34 +35637,34 @@
 ### MADHUSUDAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 234.8 |
+| Price | 227.7 |
 | Trend | weak_trend |
-| RSI | 52.43 |
-| MACD | -0.44 |
-| MA20 | 232.92 |
-| MA200 | 177.58 |
-| ATR | 9.13 |
-| Risk | NORMAL |
-| Stop Loss | 221.11 |
-| Target | 253.06 |
+| RSI | 48.9 |
+| MACD | -0.64 |
+| MA20 | 232.4 |
+| MA200 | 178.06 |
+| ATR | 9.15 |
+| Risk | ELEVATED |
+| Stop Loss | 213.97 |
+| Target | 246.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CENTEXT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.84 |
+| Price | 17.71 |
 | Trend | downtrend |
-| RSI | 26.8 |
-| MACD | -0.75 |
-| MA20 | 18.61 |
-| MA200 | 20.41 |
-| ATR | 0.95 |
+| RSI | 41.73 |
+| MACD | -0.73 |
+| MA20 | 18.48 |
+| MA200 | 20.4 |
+| ATR | 0.93 |
 | Risk | ELEVATED |
-| Stop Loss | 15.41 |
-| Target | 18.74 |
+| Stop Loss | 16.32 |
+| Target | 19.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35673,16 +35673,16 @@
 ### EMMBI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.43 |
+| Price | 83.04 |
 | Trend | downtrend |
-| RSI | 38.25 |
-| MACD | -0.78 |
-| MA20 | 87.67 |
-| MA200 | 87.66 |
-| ATR | 3.77 |
+| RSI | 27.61 |
+| MACD | -0.98 |
+| MA20 | 87.39 |
+| MA200 | 87.59 |
+| ATR | 3.58 |
 | Risk | ELEVATED |
-| Stop Loss | 77.78 |
-| Target | 90.96 |
+| Stop Loss | 77.67 |
+| Target | 90.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35691,16 +35691,16 @@
 ### KEYFINSERV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 238.97 |
+| Price | 229.54 |
 | Trend | weak_trend |
-| RSI | 48.28 |
-| MACD | -2.36 |
-| MA20 | 239.35 |
-| MA200 | 267.45 |
-| ATR | 13.78 |
+| RSI | 43.45 |
+| MACD | -3.0 |
+| MA20 | 238.92 |
+| MA200 | 267.02 |
+| ATR | 13.73 |
 | Risk | ELEVATED |
-| Stop Loss | 218.3 |
-| Target | 266.53 |
+| Stop Loss | 208.95 |
+| Target | 256.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35710,69 +35710,69 @@
 | Metric | Value |
 |--------|-------|
 | Price | 0.99 |
-| Trend | weak_trend |
-| RSI | 33.33 |
+| Trend | downtrend |
+| RSI | 14.29 |
 | MACD | -0.03 |
-| MA20 | 1.02 |
-| MA200 | 1.33 |
+| MA20 | 1.01 |
+| MA200 | 1.32 |
 | ATR | 0.02 |
 | Risk | NORMAL |
-| Stop Loss | 0.95 |
+| Stop Loss | 0.96 |
 | Target | 1.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### TAINWALCHM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 207.23 |
+| Price | 200.03 |
 | Trend | weak_trend |
-| RSI | 40.21 |
-| MACD | -0.92 |
-| MA20 | 208.64 |
-| MA200 | 195.65 |
+| RSI | 36.21 |
+| MACD | -1.42 |
+| MA20 | 208.25 |
+| MA200 | 195.71 |
 | ATR | 10.83 |
 | Risk | ELEVATED |
-| Stop Loss | 190.98 |
-| Target | 228.9 |
+| Stop Loss | 183.79 |
+| Target | 221.68 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ENFUSE.NS
 | Metric | Value |
 |--------|-------|
 | Price | 157.95 |
 | Trend | downtrend |
-| RSI | 56.47 |
-| MACD | -1.43 |
+| RSI | 57.54 |
+| MACD | -0.8 |
 | MA20 | 150.05 |
-| MA200 | 180.8 |
-| ATR | 4.94 |
+| MA200 | 180.43 |
+| ATR | 4.87 |
 | Risk | NORMAL |
-| Stop Loss | 150.54 |
-| Target | 167.84 |
+| Stop Loss | 150.64 |
+| Target | 167.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ARVEE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 198.84 |
+| Price | 196.47 |
 | Trend | weak_trend |
-| RSI | 46.28 |
-| MACD | 7.55 |
-| MA20 | 207.6 |
-| MA200 | 171.46 |
-| ATR | 19.55 |
+| RSI | 32.0 |
+| MACD | 5.89 |
+| MA20 | 208.39 |
+| MA200 | 171.23 |
+| ATR | 17.57 |
 | Risk | ELEVATED |
-| Stop Loss | 169.52 |
-| Target | 237.93 |
+| Stop Loss | 170.11 |
+| Target | 231.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35781,16 +35781,16 @@
 ### SIKKO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.75 |
+| Price | 5.97 |
 | Trend | weak_trend |
-| RSI | 39.71 |
-| MACD | 0.12 |
-| MA20 | 6.1 |
+| RSI | 49.35 |
+| MACD | 0.11 |
+| MA20 | 6.11 |
 | MA200 | 4.79 |
-| ATR | 0.33 |
+| ATR | 0.34 |
 | Risk | ELEVATED |
-| Stop Loss | 5.25 |
-| Target | 6.41 |
+| Stop Loss | 5.46 |
+| Target | 6.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35799,16 +35799,16 @@
 ### DENEERS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 166.95 |
+| Price | 169.45 |
 | Trend | downtrend |
-| RSI | 49.69 |
-| MACD | -1.3 |
-| MA20 | 171.29 |
-| MA200 | 174.23 |
-| ATR | 5.54 |
+| RSI | 48.56 |
+| MACD | -1.28 |
+| MA20 | 171.37 |
+| MA200 | 174.33 |
+| ATR | 5.43 |
 | Risk | NORMAL |
-| Stop Loss | 158.65 |
-| Target | 178.02 |
+| Stop Loss | 161.31 |
+| Target | 180.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35817,34 +35817,34 @@
 ### PRLIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 42.5 |
+| Price | 41.3 |
 | Trend | downtrend |
-| RSI | 39.33 |
-| MACD | -0.14 |
-| MA20 | 44.2 |
-| MA200 | 55.02 |
-| ATR | 1.9 |
+| RSI | 30.74 |
+| MACD | -0.32 |
+| MA20 | 44.17 |
+| MA200 | 54.84 |
+| ATR | 1.75 |
 | Risk | ELEVATED |
-| Stop Loss | 39.65 |
-| Target | 46.3 |
+| Stop Loss | 38.67 |
+| Target | 44.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ALPA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.8 |
+| Price | 57.87 |
 | Trend | downtrend |
-| RSI | 30.71 |
-| MACD | -1.54 |
-| MA20 | 59.2 |
-| MA200 | 66.6 |
-| ATR | 2.33 |
+| RSI | 32.94 |
+| MACD | -1.45 |
+| MA20 | 59.01 |
+| MA200 | 66.51 |
+| ATR | 2.34 |
 | Risk | ELEVATED |
-| Stop Loss | 52.3 |
-| Target | 60.46 |
+| Stop Loss | 54.37 |
+| Target | 62.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35853,34 +35853,34 @@
 ### KESORAMIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.88 |
-| Trend | weak_trend |
-| RSI | 39.9 |
-| MACD | -0.24 |
-| MA20 | 11.33 |
-| MA200 | 10.83 |
-| ATR | 0.67 |
+| Price | 11.44 |
+| Trend | uptrend |
+| RSI | 51.09 |
+| MACD | -0.18 |
+| MA20 | 11.3 |
+| MA200 | 10.84 |
+| ATR | 0.72 |
 | Risk | ELEVATED |
-| Stop Loss | 9.87 |
-| Target | 12.23 |
+| Stop Loss | 10.36 |
+| Target | 12.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### DTIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 150.31 |
+| Price | 150.0 |
 | Trend | weak_trend |
-| RSI | 56.97 |
-| MACD | 2.33 |
-| MA20 | 146.05 |
-| MA200 | 139.36 |
-| ATR | 6.4 |
+| RSI | 60.56 |
+| MACD | 2.14 |
+| MA20 | 146.4 |
+| MA200 | 139.32 |
+| ATR | 6.21 |
 | Risk | ELEVATED |
-| Stop Loss | 140.71 |
-| Target | 163.11 |
+| Stop Loss | 140.68 |
+| Target | 162.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35889,16 +35889,16 @@
 ### AVROIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.98 |
+| Price | 4.29 |
 | Trend | downtrend |
-| RSI | 10.3 |
-| MACD | -0.75 |
-| MA20 | 6.95 |
-| MA200 | 10.78 |
-| ATR | 0.62 |
+| RSI | 10.24 |
+| MACD | -0.86 |
+| MA20 | 6.78 |
+| MA200 | 10.74 |
+| ATR | 0.6 |
 | Risk | ELEVATED |
-| Stop Loss | 4.05 |
-| Target | 6.22 |
+| Stop Loss | 3.38 |
+| Target | 5.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35907,34 +35907,34 @@
 ### PURVFLEXI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.9 |
+| Price | 38.0 |
 | Trend | downtrend |
-| RSI | 25.19 |
-| MACD | -1.81 |
-| MA20 | 43.11 |
-| MA200 | 55.36 |
-| ATR | 1.16 |
+| RSI | 14.29 |
+| MACD | -1.96 |
+| MA20 | 42.68 |
+| MA200 | 55.1 |
+| ATR | 1.2 |
 | Risk | NORMAL |
-| Stop Loss | 38.16 |
-| Target | 42.22 |
+| Stop Loss | 36.21 |
+| Target | 40.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BEWLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.05 |
-| Trend | weak_trend |
-| RSI | 54.14 |
-| MACD | 1.23 |
-| MA20 | 58.07 |
-| MA200 | 77.3 |
-| ATR | 5.86 |
+| Price | 53.25 |
+| Trend | downtrend |
+| RSI | 40.31 |
+| MACD | 0.72 |
+| MA20 | 58.3 |
+| MA200 | 76.96 |
+| ATR | 5.28 |
 | Risk | ELEVATED |
-| Stop Loss | 47.25 |
-| Target | 67.78 |
+| Stop Loss | 45.33 |
+| Target | 63.81 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35943,16 +35943,16 @@
 ### IEML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.0 |
+| Price | 40.0 |
 | Trend | downtrend |
-| RSI | 48.2 |
-| MACD | 0.28 |
-| MA20 | 45.86 |
-| MA200 | 61.43 |
-| ATR | 3.24 |
+| RSI | 42.6 |
+| MACD | -0.18 |
+| MA20 | 45.84 |
+| MA200 | 61.18 |
+| ATR | 3.2 |
 | Risk | ELEVATED |
-| Stop Loss | 36.14 |
-| Target | 47.48 |
+| Stop Loss | 35.2 |
+| Target | 46.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -35961,15 +35961,15 @@
 ### BRNL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.72 |
+| Price | 15.75 |
 | Trend | downtrend |
-| RSI | 43.17 |
+| RSI | 29.46 |
 | MACD | -0.35 |
-| MA20 | 16.22 |
-| MA200 | 19.07 |
-| ATR | 0.87 |
+| MA20 | 16.17 |
+| MA200 | 19.04 |
+| ATR | 0.86 |
 | Risk | ELEVATED |
-| Stop Loss | 14.41 |
+| Stop Loss | 14.46 |
 | Target | 17.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -35979,52 +35979,52 @@
 ### TUNWAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.25 |
-| Trend | weak_trend |
-| RSI | 50.98 |
-| MACD | -0.01 |
-| MA20 | 25.46 |
-| MA200 | 29.1 |
-| ATR | 0.63 |
-| Risk | NORMAL |
-| Stop Loss | 24.31 |
-| Target | 26.5 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### MANAKALUCO.NS
-| Metric | Value |
-|--------|-------|
-| Price | 30.21 |
+| Price | 25.0 |
 | Trend | downtrend |
-| RSI | 21.06 |
-| MACD | -1.56 |
-| MA20 | 34.31 |
-| MA200 | 34.88 |
-| ATR | 1.56 |
-| Risk | ELEVATED |
-| Stop Loss | 27.88 |
-| Target | 33.32 |
+| RSI | 46.43 |
+| MACD | -0.05 |
+| MA20 | 25.49 |
+| MA200 | 29.05 |
+| ATR | 0.65 |
+| Risk | NORMAL |
+| Stop Loss | 24.03 |
+| Target | 26.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### MANAKALUCO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 30.49 |
+| Trend | downtrend |
+| RSI | 23.62 |
+| MACD | -1.65 |
+| MA20 | 34.0 |
+| MA200 | 34.91 |
+| ATR | 1.5 |
+| Risk | ELEVATED |
+| Stop Loss | 28.23 |
+| Target | 33.5 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### DCM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 70.73 |
+| Price | 71.98 |
 | Trend | downtrend |
-| RSI | 20.2 |
-| MACD | -2.21 |
-| MA20 | 74.17 |
-| MA200 | 82.47 |
-| ATR | 2.54 |
+| RSI | 27.49 |
+| MACD | -2.09 |
+| MA20 | 74.02 |
+| MA200 | 82.37 |
+| ATR | 2.62 |
 | Risk | NORMAL |
-| Stop Loss | 66.92 |
-| Target | 75.81 |
+| Stop Loss | 68.05 |
+| Target | 77.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36036,9 +36036,9 @@
 | Price | 1136.1 |
 | Trend | weak_trend |
 | RSI | 34.61 |
-| MACD | -1.17 |
-| MA20 | 1154.44 |
-| MA200 | 1077.24 |
+| MACD | -1.47 |
+| MA20 | 1150.02 |
+| MA200 | 1077.71 |
 | ATR | 18.4 |
 | Risk | LOW |
 | Stop Loss | 1108.49 |
@@ -36051,16 +36051,16 @@
 ### AARTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 46.73 |
+| Price | 45.72 |
 | Trend | downtrend |
-| RSI | 25.69 |
-| MACD | -0.65 |
-| MA20 | 49.64 |
-| MA200 | 46.9 |
-| ATR | 2.24 |
+| RSI | 18.76 |
+| MACD | -0.82 |
+| MA20 | 49.33 |
+| MA200 | 46.89 |
+| ATR | 2.48 |
 | Risk | ELEVATED |
-| Stop Loss | 43.37 |
-| Target | 51.21 |
+| Stop Loss | 42.0 |
+| Target | 50.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36069,16 +36069,16 @@
 ### SHRITECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 61.3 |
+| Price | 57.8 |
 | Trend | downtrend |
-| RSI | 52.48 |
-| MACD | 0.24 |
-| MA20 | 60.51 |
-| MA200 | 61.54 |
-| ATR | 0.92 |
-| Risk | LOW |
-| Stop Loss | 59.92 |
-| Target | 63.14 |
+| RSI | 40.71 |
+| MACD | -0.02 |
+| MA20 | 60.41 |
+| MA200 | 61.53 |
+| ATR | 1.21 |
+| Risk | NORMAL |
+| Stop Loss | 55.99 |
+| Target | 60.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36087,74 +36087,74 @@
 ### LAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.66 |
+| Price | 8.41 |
 | Trend | weak_trend |
-| RSI | 51.3 |
-| MACD | -0.07 |
-| MA20 | 8.65 |
-| MA200 | 8.05 |
-| ATR | 0.49 |
+| RSI | 44.13 |
+| MACD | -0.08 |
+| MA20 | 8.63 |
+| MA200 | 8.04 |
+| ATR | 0.48 |
 | Risk | ELEVATED |
-| Stop Loss | 7.93 |
-| Target | 9.63 |
+| Stop Loss | 7.69 |
+| Target | 9.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SONAMLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.23 |
-| Trend | weak_trend |
-| RSI | 59.85 |
-| MACD | 1.09 |
-| MA20 | 69.69 |
-| MA200 | 53.8 |
-| ATR | 3.14 |
+| Price | 72.56 |
+| Trend | uptrend |
+| RSI | 68.67 |
+| MACD | 1.21 |
+| MA20 | 69.67 |
+| MA200 | 53.95 |
+| ATR | 3.06 |
 | Risk | ELEVATED |
-| Stop Loss | 66.52 |
-| Target | 77.51 |
+| Stop Loss | 67.97 |
+| Target | 78.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### VISHWARAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.6 |
-| Trend | downtrend |
-| RSI | 58.92 |
-| MACD | -0.04 |
-| MA20 | 5.36 |
-| MA200 | 5.71 |
-| ATR | 0.28 |
+| Price | 5.84 |
+| Trend | uptrend |
+| RSI | 62.75 |
+| MACD | -0.0 |
+| MA20 | 5.38 |
+| MA200 | 5.7 |
+| ATR | 0.31 |
 | Risk | ELEVATED |
-| Stop Loss | 5.18 |
-| Target | 6.17 |
+| Stop Loss | 5.37 |
+| Target | 6.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### VIVIMEDLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.11 |
+| Price | 6.97 |
 | Trend | weak_trend |
-| RSI | 81.78 |
-| MACD | 0.25 |
-| MA20 | 5.94 |
-| MA200 | 7.29 |
+| RSI | 80.23 |
+| MACD | 0.27 |
+| MA20 | 5.98 |
+| MA200 | 7.2 |
 | ATR | 0.27 |
 | Risk | NORMAL |
-| Stop Loss | 6.71 |
-| Target | 7.64 |
+| Stop Loss | 6.57 |
+| Target | 7.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PRAENG.NS
 | Metric | Value |
@@ -36177,16 +36177,16 @@
 ### INDTERRAIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.75 |
+| Price | 29.5 |
 | Trend | downtrend |
-| RSI | 62.99 |
-| MACD | -0.16 |
-| MA20 | 29.29 |
-| MA200 | 31.55 |
-| ATR | 0.85 |
+| RSI | 55.21 |
+| MACD | -0.14 |
+| MA20 | 29.32 |
+| MA200 | 31.53 |
+| ATR | 0.83 |
 | Risk | NORMAL |
-| Stop Loss | 28.48 |
-| Target | 31.45 |
+| Stop Loss | 28.26 |
+| Target | 31.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36195,16 +36195,16 @@
 ### KORE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 232.8 |
+| Price | 244.05 |
 | Trend | weak_trend |
-| RSI | 84.52 |
-| MACD | 17.31 |
-| MA20 | 186.22 |
-| MA200 | 140.4 |
-| ATR | 12.92 |
+| RSI | 93.1 |
+| MACD | 19.58 |
+| MA20 | 189.77 |
+| MA200 | 140.87 |
+| ATR | 12.66 |
 | Risk | ELEVATED |
-| Stop Loss | 213.42 |
-| Target | 258.64 |
+| Stop Loss | 225.05 |
+| Target | 269.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36213,16 +36213,16 @@
 ### LANCORHOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.67 |
+| Price | 29.39 |
 | Trend | weak_trend |
-| RSI | 30.15 |
-| MACD | -0.74 |
-| MA20 | 33.11 |
-| MA200 | 26.23 |
-| ATR | 1.96 |
+| RSI | 28.44 |
+| MACD | -0.86 |
+| MA20 | 32.75 |
+| MA200 | 26.26 |
+| ATR | 1.97 |
 | Risk | ELEVATED |
-| Stop Loss | 26.73 |
-| Target | 33.59 |
+| Stop Loss | 26.43 |
+| Target | 33.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36231,16 +36231,16 @@
 ### AARVI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 138.81 |
+| Price | 140.42 |
 | Trend | weak_trend |
-| RSI | 57.33 |
-| MACD | -1.6 |
-| MA20 | 138.19 |
-| MA200 | 134.46 |
-| ATR | 4.28 |
+| RSI | 56.22 |
+| MACD | -1.31 |
+| MA20 | 138.12 |
+| MA200 | 134.56 |
+| ATR | 4.3 |
 | Risk | NORMAL |
-| Stop Loss | 132.39 |
-| Target | 147.37 |
+| Stop Loss | 133.97 |
+| Target | 149.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36249,16 +36249,16 @@
 ### VASWANI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 43.02 |
-| Trend | downtrend |
-| RSI | 21.48 |
-| MACD | -1.12 |
-| MA20 | 44.7 |
-| MA200 | 53.87 |
-| ATR | 1.88 |
+| Price | 43.7 |
+| Trend | weak_trend |
+| RSI | 32.92 |
+| MACD | -1.07 |
+| MA20 | 44.59 |
+| MA200 | 53.78 |
+| ATR | 1.86 |
 | Risk | ELEVATED |
-| Stop Loss | 40.2 |
-| Target | 46.77 |
+| Stop Loss | 40.91 |
+| Target | 47.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36267,16 +36267,16 @@
 ### SUPERHOUSE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 153.62 |
+| Price | 154.35 |
 | Trend | downtrend |
-| RSI | 13.31 |
-| MACD | -3.8 |
-| MA20 | 161.82 |
-| MA200 | 154.87 |
-| ATR | 5.94 |
+| RSI | 16.38 |
+| MACD | -3.76 |
+| MA20 | 161.1 |
+| MA200 | 154.91 |
+| ATR | 6.07 |
 | Risk | NORMAL |
-| Stop Loss | 144.72 |
-| Target | 165.49 |
+| Stop Loss | 145.24 |
+| Target | 166.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36303,16 +36303,16 @@
 ### DYNAMIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 122.0 |
+| Price | 119.95 |
 | Trend | downtrend |
-| RSI | 29.91 |
-| MACD | -4.72 |
-| MA20 | 135.45 |
-| MA200 | 134.83 |
-| ATR | 8.82 |
+| RSI | 23.56 |
+| MACD | -5.18 |
+| MA20 | 134.46 |
+| MA200 | 134.93 |
+| ATR | 8.96 |
 | Risk | ELEVATED |
-| Stop Loss | 108.77 |
-| Target | 139.64 |
+| Stop Loss | 106.5 |
+| Target | 137.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36321,16 +36321,16 @@
 ### CORALFINAC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.73 |
+| Price | 31.6 |
 | Trend | downtrend |
-| RSI | 40.55 |
-| MACD | -0.55 |
-| MA20 | 31.62 |
-| MA200 | 33.38 |
-| ATR | 1.46 |
+| RSI | 46.66 |
+| MACD | -0.47 |
+| MA20 | 31.59 |
+| MA200 | 33.34 |
+| ATR | 1.47 |
 | Risk | ELEVATED |
-| Stop Loss | 28.53 |
-| Target | 33.66 |
+| Stop Loss | 29.39 |
+| Target | 34.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36339,16 +36339,16 @@
 ### CANARYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.0 |
+| Price | 27.45 |
 | Trend | weak_trend |
-| RSI | 38.86 |
-| MACD | 0.66 |
-| MA20 | 27.37 |
-| MA200 | 23.15 |
-| ATR | 1.5 |
+| RSI | 36.07 |
+| MACD | 0.61 |
+| MA20 | 27.56 |
+| MA200 | 23.13 |
+| ATR | 1.58 |
 | Risk | ELEVATED |
-| Stop Loss | 23.74 |
-| Target | 29.01 |
+| Stop Loss | 25.08 |
+| Target | 30.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36375,16 +36375,16 @@
 ### BSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 120.9 |
+| Price | 121.33 |
 | Trend | weak_trend |
-| RSI | 30.51 |
-| MACD | -0.58 |
-| MA20 | 120.28 |
-| MA200 | 128.0 |
-| ATR | 3.66 |
+| RSI | 34.16 |
+| MACD | -0.46 |
+| MA20 | 120.33 |
+| MA200 | 127.82 |
+| ATR | 3.59 |
 | Risk | NORMAL |
-| Stop Loss | 115.4 |
-| Target | 128.23 |
+| Stop Loss | 115.94 |
+| Target | 128.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36393,16 +36393,16 @@
 ### QMSMEDI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 184.04 |
+| Price | 178.87 |
 | Trend | weak_trend |
-| RSI | 49.14 |
-| MACD | 9.79 |
-| MA20 | 188.16 |
-| MA200 | 107.14 |
-| ATR | 12.0 |
+| RSI | 43.13 |
+| MACD | 8.12 |
+| MA20 | 189.22 |
+| MA200 | 107.56 |
+| ATR | 11.76 |
 | Risk | ELEVATED |
-| Stop Loss | 166.03 |
-| Target | 208.05 |
+| Stop Loss | 161.23 |
+| Target | 202.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36413,14 +36413,14 @@
 |--------|-------|
 | Price | 96.0 |
 | Trend | weak_trend |
-| RSI | 54.61 |
-| MACD | 0.35 |
-| MA20 | 95.02 |
-| MA200 | 99.64 |
-| ATR | 3.19 |
+| RSI | 54.75 |
+| MACD | 0.39 |
+| MA20 | 95.09 |
+| MA200 | 99.52 |
+| ATR | 3.18 |
 | Risk | NORMAL |
-| Stop Loss | 91.22 |
-| Target | 102.37 |
+| Stop Loss | 91.23 |
+| Target | 102.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36429,34 +36429,34 @@
 ### RUCHINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.88 |
+| Price | 5.81 |
 | Trend | downtrend |
-| RSI | 45.97 |
-| MACD | -0.2 |
-| MA20 | 5.05 |
+| RSI | 68.69 |
+| MACD | -0.12 |
+| MA20 | 5.06 |
 | MA200 | 5.9 |
-| ATR | 0.32 |
+| ATR | 0.37 |
 | Risk | ELEVATED |
-| Stop Loss | 4.4 |
-| Target | 5.51 |
+| Stop Loss | 5.26 |
+| Target | 6.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### TBI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.8 |
+| Price | 72.9 |
 | Trend | weak_trend |
-| RSI | 41.23 |
-| MACD | 0.41 |
-| MA20 | 75.32 |
-| MA200 | 70.1 |
-| ATR | 5.09 |
+| RSI | 43.98 |
+| MACD | 0.34 |
+| MA20 | 74.58 |
+| MA200 | 70.06 |
+| ATR | 4.95 |
 | Risk | ELEVATED |
-| Stop Loss | 65.16 |
-| Target | 82.99 |
+| Stop Loss | 65.48 |
+| Target | 82.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36465,16 +36465,16 @@
 ### CROWN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.77 |
+| Price | 111.05 |
 | Trend | downtrend |
-| RSI | 37.6 |
-| MACD | -0.07 |
-| MA20 | 113.74 |
-| MA200 | 119.37 |
-| ATR | 6.19 |
+| RSI | 28.83 |
+| MACD | -0.2 |
+| MA20 | 113.67 |
+| MA200 | 119.26 |
+| ATR | 5.76 |
 | Risk | ELEVATED |
-| Stop Loss | 103.49 |
-| Target | 125.14 |
+| Stop Loss | 102.41 |
+| Target | 122.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36483,16 +36483,16 @@
 ### GAYAPROJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.35 |
+| Price | 20.81 |
 | Trend | weak_trend |
-| RSI | 30.67 |
-| MACD | -0.45 |
-| MA20 | 22.98 |
-| MA200 | 17.85 |
+| RSI | 32.08 |
+| MACD | -0.5 |
+| MA20 | 22.72 |
+| MA200 | 17.9 |
 | ATR | 1.36 |
 | Risk | ELEVATED |
-| Stop Loss | 19.32 |
-| Target | 24.06 |
+| Stop Loss | 18.78 |
+| Target | 23.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36501,16 +36501,16 @@
 ### ENSER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.5 |
-| Trend | weak_trend |
-| RSI | 50.0 |
-| MACD | 0.01 |
-| MA20 | 14.93 |
-| MA200 | 14.48 |
-| ATR | 0.89 |
+| Price | 13.55 |
+| Trend | downtrend |
+| RSI | 31.37 |
+| MACD | -0.11 |
+| MA20 | 14.85 |
+| MA200 | 14.45 |
+| ATR | 0.83 |
 | Risk | ELEVATED |
-| Stop Loss | 13.17 |
-| Target | 16.27 |
+| Stop Loss | 12.31 |
+| Target | 15.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36537,16 +36537,16 @@
 ### SOMICONVEY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 83.65 |
+| Price | 83.69 |
 | Trend | downtrend |
-| RSI | 19.17 |
-| MACD | -2.58 |
-| MA20 | 88.67 |
-| MA200 | 102.28 |
-| ATR | 3.59 |
+| RSI | 18.26 |
+| MACD | -2.54 |
+| MA20 | 88.2 |
+| MA200 | 102.07 |
+| ATR | 3.54 |
 | Risk | ELEVATED |
-| Stop Loss | 78.27 |
-| Target | 90.83 |
+| Stop Loss | 78.37 |
+| Target | 90.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36555,16 +36555,16 @@
 ### MAITREYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 117.0 |
+| Price | 118.0 |
 | Trend | downtrend |
-| RSI | 59.77 |
-| MACD | -0.42 |
-| MA20 | 114.73 |
-| MA200 | 163.14 |
-| ATR | 5.8 |
+| RSI | 56.21 |
+| MACD | -0.2 |
+| MA20 | 114.83 |
+| MA200 | 162.6 |
+| ATR | 4.78 |
 | Risk | ELEVATED |
-| Stop Loss | 108.3 |
-| Target | 128.6 |
+| Stop Loss | 110.83 |
+| Target | 127.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36591,34 +36591,34 @@
 ### MAHESHWARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.05 |
+| Price | 71.76 |
 | Trend | weak_trend |
-| RSI | 46.75 |
-| MACD | -0.22 |
-| MA20 | 71.51 |
-| MA200 | 58.41 |
-| ATR | 2.51 |
+| RSI | 50.77 |
+| MACD | -0.18 |
+| MA20 | 71.56 |
+| MA200 | 58.53 |
+| ATR | 2.58 |
 | Risk | NORMAL |
-| Stop Loss | 67.28 |
-| Target | 76.08 |
+| Stop Loss | 67.89 |
+| Target | 76.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VR.NS
 | Metric | Value |
 |--------|-------|
 | Price | 95.95 |
 | Trend | downtrend |
-| RSI | 4.19 |
-| MACD | -5.0 |
-| MA20 | 99.85 |
-| MA200 | 134.27 |
-| ATR | 0.8 |
+| RSI | 7.56 |
+| MACD | -4.75 |
+| MA20 | 99.3 |
+| MA200 | 133.89 |
+| ATR | 0.46 |
 | Risk | LOW |
-| Stop Loss | 94.74 |
-| Target | 97.56 |
+| Stop Loss | 95.26 |
+| Target | 96.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36627,34 +36627,34 @@
 ### MODTHREAD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 47.54 |
-| Trend | weak_trend |
-| RSI | 51.24 |
-| MACD | -1.07 |
-| MA20 | 48.06 |
-| MA200 | 46.62 |
-| ATR | 3.25 |
+| Price | 48.02 |
+| Trend | uptrend |
+| RSI | 54.22 |
+| MACD | -0.95 |
+| MA20 | 47.82 |
+| MA200 | 46.64 |
+| ATR | 3.21 |
 | Risk | ELEVATED |
-| Stop Loss | 42.66 |
-| Target | 54.05 |
+| Stop Loss | 43.2 |
+| Target | 54.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### RKEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.94 |
+| Price | 19.08 |
 | Trend | weak_trend |
-| RSI | 56.0 |
-| MACD | -0.35 |
-| MA20 | 20.61 |
-| MA200 | 33.87 |
-| ATR | 2.3 |
+| RSI | 52.33 |
+| MACD | -0.47 |
+| MA20 | 20.6 |
+| MA200 | 33.7 |
+| ATR | 2.28 |
 | Risk | ELEVATED |
-| Stop Loss | 16.5 |
-| Target | 24.53 |
+| Stop Loss | 15.66 |
+| Target | 23.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36681,34 +36681,34 @@
 ### SIGIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 58.05 |
+| Price | 57.34 |
 | Trend | weak_trend |
-| RSI | 22.54 |
-| MACD | -1.97 |
-| MA20 | 66.71 |
-| MA200 | 53.1 |
-| ATR | 4.56 |
+| RSI | 21.96 |
+| MACD | -2.32 |
+| MA20 | 66.06 |
+| MA200 | 53.12 |
+| ATR | 4.7 |
 | Risk | ELEVATED |
-| Stop Loss | 51.21 |
-| Target | 67.17 |
+| Stop Loss | 50.29 |
+| Target | 66.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DOLLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 35.38 |
+| Price | 36.49 |
 | Trend | weak_trend |
-| RSI | 40.63 |
-| MACD | 0.38 |
-| MA20 | 37.23 |
-| MA200 | 33.34 |
-| ATR | 2.77 |
+| RSI | 49.54 |
+| MACD | 0.31 |
+| MA20 | 37.14 |
+| MA200 | 33.32 |
+| ATR | 2.82 |
 | Risk | ELEVATED |
-| Stop Loss | 31.23 |
-| Target | 40.91 |
+| Stop Loss | 32.26 |
+| Target | 42.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36717,16 +36717,16 @@
 ### IBLFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 63.0 |
+| Price | 63.25 |
 | Trend | uptrend |
-| RSI | 68.18 |
-| MACD | 0.4 |
-| MA20 | 61.42 |
-| MA200 | 56.23 |
-| ATR | 0.75 |
+| RSI | 69.57 |
+| MACD | 0.49 |
+| MA20 | 61.53 |
+| MA200 | 56.21 |
+| ATR | 1.08 |
 | Risk | LOW |
-| Stop Loss | 61.88 |
-| Target | 64.5 |
+| Stop Loss | 61.63 |
+| Target | 65.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36735,16 +36735,16 @@
 ### HINDCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.07 |
+| Price | 27.2 |
 | Trend | weak_trend |
-| RSI | 56.1 |
-| MACD | 1.48 |
-| MA20 | 27.7 |
-| MA200 | 22.86 |
-| ATR | 1.92 |
+| RSI | 55.77 |
+| MACD | 1.23 |
+| MA20 | 27.86 |
+| MA200 | 22.85 |
+| ATR | 2.03 |
 | Risk | ELEVATED |
-| Stop Loss | 24.18 |
-| Target | 30.92 |
+| Stop Loss | 24.15 |
+| Target | 31.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36753,16 +36753,16 @@
 ### XELPMOC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.55 |
+| Price | 89.59 |
 | Trend | downtrend |
-| RSI | 61.97 |
-| MACD | 2.81 |
-| MA20 | 82.0 |
-| MA200 | 100.75 |
-| ATR | 8.22 |
+| RSI | 63.89 |
+| MACD | 2.86 |
+| MA20 | 82.67 |
+| MA200 | 100.53 |
+| ATR | 8.11 |
 | Risk | ELEVATED |
-| Stop Loss | 75.21 |
-| Target | 104.0 |
+| Stop Loss | 77.42 |
+| Target | 105.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36771,16 +36771,16 @@
 ### TEXMOPIPES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 51.52 |
+| Price | 50.85 |
 | Trend | weak_trend |
-| RSI | 26.95 |
-| MACD | 0.02 |
-| MA20 | 56.27 |
-| MA200 | 46.36 |
-| ATR | 2.96 |
+| RSI | 27.82 |
+| MACD | -0.18 |
+| MA20 | 55.81 |
+| MA200 | 46.37 |
+| ATR | 2.91 |
 | Risk | ELEVATED |
-| Stop Loss | 47.08 |
-| Target | 57.44 |
+| Stop Loss | 46.49 |
+| Target | 56.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36789,16 +36789,16 @@
 ### WOMANCART.NS
 | Metric | Value |
 |--------|-------|
-| Price | 85.85 |
+| Price | 84.1 |
 | Trend | downtrend |
-| RSI | 8.92 |
-| MACD | -4.91 |
-| MA20 | 97.78 |
-| MA200 | 147.23 |
-| ATR | 4.87 |
+| RSI | 8.59 |
+| MACD | -5.25 |
+| MA20 | 96.77 |
+| MA200 | 146.2 |
+| ATR | 4.93 |
 | Risk | ELEVATED |
-| Stop Loss | 78.55 |
-| Target | 95.59 |
+| Stop Loss | 76.71 |
+| Target | 93.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36808,33 +36808,33 @@
 | Metric | Value |
 |--------|-------|
 | Price | 41.95 |
-| Trend | downtrend |
-| RSI | 56.7 |
-| MACD | -0.97 |
-| MA20 | 42.33 |
-| MA200 | 56.2 |
-| ATR | 1.2 |
+| Trend | weak_trend |
+| RSI | 32.17 |
+| MACD | -0.91 |
+| MA20 | 42.25 |
+| MA200 | 56.08 |
+| ATR | 0.84 |
 | Risk | NORMAL |
-| Stop Loss | 40.16 |
-| Target | 44.34 |
+| Stop Loss | 40.69 |
+| Target | 43.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### UMIYA-MRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 94.61 |
+| Price | 93.3 |
 | Trend | weak_trend |
-| RSI | 38.3 |
+| RSI | 37.66 |
 | MACD | -0.57 |
-| MA20 | 95.21 |
-| MA200 | 87.71 |
-| ATR | 3.41 |
+| MA20 | 95.07 |
+| MA200 | 87.75 |
+| ATR | 3.48 |
 | Risk | NORMAL |
-| Stop Loss | 89.5 |
-| Target | 101.43 |
+| Stop Loss | 88.08 |
+| Target | 100.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36843,16 +36843,16 @@
 ### MAGNUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.86 |
+| Price | 17.81 |
 | Trend | downtrend |
-| RSI | 25.94 |
-| MACD | -0.34 |
-| MA20 | 18.63 |
-| MA200 | 20.27 |
-| ATR | 0.7 |
-| Risk | NORMAL |
-| Stop Loss | 16.8 |
-| Target | 19.27 |
+| RSI | 27.84 |
+| MACD | -0.35 |
+| MA20 | 18.58 |
+| MA200 | 20.24 |
+| ATR | 0.76 |
+| Risk | ELEVATED |
+| Stop Loss | 16.68 |
+| Target | 19.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36861,16 +36861,16 @@
 ### SHREEOSFM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 51.5 |
+| Price | 51.2 |
 | Trend | downtrend |
-| RSI | 55.29 |
-| MACD | -0.16 |
-| MA20 | 53.34 |
-| MA200 | 67.15 |
-| ATR | 3.44 |
+| RSI | 52.77 |
+| MACD | -0.42 |
+| MA20 | 53.1 |
+| MA200 | 67.02 |
+| ATR | 3.45 |
 | Risk | ELEVATED |
-| Stop Loss | 46.35 |
-| Target | 58.37 |
+| Stop Loss | 46.02 |
+| Target | 58.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36879,34 +36879,34 @@
 ### ISFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.11 |
+| Price | 103.09 |
 | Trend | weak_trend |
-| RSI | 60.78 |
-| MACD | 3.63 |
-| MA20 | 95.48 |
-| MA200 | 81.99 |
-| ATR | 7.48 |
+| RSI | 48.69 |
+| MACD | 3.73 |
+| MA20 | 96.66 |
+| MA200 | 82.04 |
+| ATR | 6.84 |
 | Risk | ELEVATED |
-| Stop Loss | 90.9 |
-| Target | 117.06 |
+| Stop Loss | 92.83 |
+| Target | 116.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AIROLAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 88.81 |
-| Trend | weak_trend |
-| RSI | 50.9 |
-| MACD | 0.18 |
-| MA20 | 88.57 |
-| MA200 | 89.22 |
-| ATR | 5.82 |
+| Price | 86.66 |
+| Trend | downtrend |
+| RSI | 48.46 |
+| MACD | -0.0 |
+| MA20 | 88.69 |
+| MA200 | 89.14 |
+| ATR | 6.1 |
 | Risk | ELEVATED |
-| Stop Loss | 80.08 |
-| Target | 100.46 |
+| Stop Loss | 77.52 |
+| Target | 98.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36915,20 +36915,20 @@
 ### MUKTAARTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.78 |
-| Trend | weak_trend |
-| RSI | 52.11 |
-| MACD | -0.26 |
-| MA20 | 56.61 |
-| MA200 | 56.43 |
-| ATR | 3.25 |
+| Price | 54.51 |
+| Trend | downtrend |
+| RSI | 45.92 |
+| MACD | -0.39 |
+| MA20 | 56.41 |
+| MA200 | 56.41 |
+| ATR | 3.37 |
 | Risk | ELEVATED |
-| Stop Loss | 51.9 |
-| Target | 63.29 |
+| Stop Loss | 49.45 |
+| Target | 61.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### GLOBALPET.NS
 | Metric | Value |
@@ -36936,9 +36936,9 @@
 | Price | 163.4 |
 | Trend | weak_trend |
 | RSI | 47.92 |
-| MACD | 2.89 |
-| MA20 | 167.74 |
-| MA200 | 135.44 |
+| MACD | 2.17 |
+| MA20 | 167.39 |
+| MA200 | 135.66 |
 | ATR | 4.39 |
 | Risk | NORMAL |
 | Stop Loss | 156.82 |
@@ -36951,34 +36951,34 @@
 ### USASEEDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 86.25 |
+| Price | 87.0 |
 | Trend | downtrend |
-| RSI | 34.44 |
-| MACD | -1.33 |
-| MA20 | 88.54 |
-| MA200 | 105.38 |
-| ATR | 2.21 |
+| RSI | 38.28 |
+| MACD | -1.27 |
+| MA20 | 88.37 |
+| MA200 | 105.05 |
+| ATR | 2.26 |
 | Risk | NORMAL |
-| Stop Loss | 82.93 |
-| Target | 90.67 |
+| Stop Loss | 83.6 |
+| Target | 91.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### INDIANCARD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 183.99 |
+| Price | 189.97 |
 | Trend | downtrend |
-| RSI | 31.13 |
-| MACD | -8.0 |
-| MA20 | 197.32 |
-| MA200 | 213.83 |
-| ATR | 9.36 |
+| RSI | 30.03 |
+| MACD | -7.36 |
+| MA20 | 196.19 |
+| MA200 | 213.58 |
+| ATR | 9.57 |
 | Risk | ELEVATED |
-| Stop Loss | 169.94 |
-| Target | 202.72 |
+| Stop Loss | 175.61 |
+| Target | 209.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -36987,16 +36987,16 @@
 ### MDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 52.3 |
+| Price | 52.0 |
 | Trend | downtrend |
-| RSI | 29.63 |
-| MACD | -0.95 |
-| MA20 | 61.17 |
-| MA200 | 59.6 |
-| ATR | 2.45 |
+| RSI | 29.17 |
+| MACD | -1.51 |
+| MA20 | 60.67 |
+| MA200 | 59.49 |
+| ATR | 2.65 |
 | Risk | ELEVATED |
-| Stop Loss | 48.63 |
-| Target | 57.19 |
+| Stop Loss | 48.03 |
+| Target | 57.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37005,16 +37005,16 @@
 ### ALPHAGEO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 250.2 |
+| Price | 251.2 |
 | Trend | weak_trend |
-| RSI | 17.89 |
-| MACD | -10.98 |
-| MA20 | 275.39 |
-| MA200 | 226.96 |
-| ATR | 13.06 |
+| RSI | 19.12 |
+| MACD | -11.06 |
+| MA20 | 272.44 |
+| MA200 | 227.16 |
+| ATR | 13.12 |
 | Risk | ELEVATED |
-| Stop Loss | 230.61 |
-| Target | 276.32 |
+| Stop Loss | 231.52 |
+| Target | 277.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37023,52 +37023,52 @@
 ### GVPTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.78 |
+| Price | 6.45 |
 | Trend | downtrend |
-| RSI | 44.78 |
-| MACD | -0.08 |
-| MA20 | 7.44 |
-| MA200 | 7.06 |
+| RSI | 32.46 |
+| MACD | -0.14 |
+| MA20 | 7.38 |
+| MA200 | 7.04 |
 | ATR | 0.48 |
 | Risk | ELEVATED |
-| Stop Loss | 6.06 |
-| Target | 7.74 |
+| Stop Loss | 5.73 |
+| Target | 7.41 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### BHARATGEAR.NS
+| Metric | Value |
+|--------|-------|
+| Price | 102.63 |
+| Trend | downtrend |
+| RSI | 56.35 |
+| MACD | -0.08 |
+| MA20 | 101.37 |
+| MA200 | 109.05 |
+| ATR | 3.33 |
+| Risk | NORMAL |
+| Stop Loss | 97.63 |
+| Target | 109.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### BHARATGEAR.NS
-| Metric | Value |
-|--------|-------|
-| Price | 103.01 |
-| Trend | downtrend |
-| RSI | 58.37 |
-| MACD | -0.1 |
-| MA20 | 101.3 |
-| MA200 | 109.06 |
-| ATR | 3.15 |
-| Risk | NORMAL |
-| Stop Loss | 98.28 |
-| Target | 109.32 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
 ### KREBSBIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.64 |
+| Price | 57.29 |
 | Trend | weak_trend |
-| RSI | 50.7 |
-| MACD | 0.52 |
-| MA20 | 58.2 |
-| MA200 | 58.72 |
-| ATR | 4.7 |
+| RSI | 50.72 |
+| MACD | 0.38 |
+| MA20 | 58.13 |
+| MA200 | 58.67 |
+| ATR | 4.75 |
 | Risk | ELEVATED |
-| Stop Loss | 49.59 |
-| Target | 66.04 |
+| Stop Loss | 50.17 |
+| Target | 66.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37077,34 +37077,34 @@
 ### INDBANK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.52 |
-| Trend | downtrend |
-| RSI | 50.52 |
-| MACD | -1.01 |
-| MA20 | 25.74 |
-| MA200 | 32.89 |
-| ATR | 1.03 |
+| Price | 25.27 |
+| Trend | weak_trend |
+| RSI | 46.12 |
+| MACD | -0.97 |
+| MA20 | 25.62 |
+| MA200 | 32.84 |
+| ATR | 1.05 |
 | Risk | ELEVATED |
-| Stop Loss | 23.98 |
-| Target | 27.58 |
+| Stop Loss | 23.7 |
+| Target | 27.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RPPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.48 |
+| Price | 18.31 |
 | Trend | downtrend |
-| RSI | 40.29 |
+| RSI | 41.0 |
 | MACD | -0.88 |
-| MA20 | 19.57 |
-| MA200 | 18.83 |
-| ATR | 1.02 |
+| MA20 | 19.45 |
+| MA200 | 18.84 |
+| ATR | 1.04 |
 | Risk | ELEVATED |
-| Stop Loss | 16.95 |
-| Target | 20.53 |
+| Stop Loss | 16.74 |
+| Target | 20.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37113,52 +37113,52 @@
 ### UMAEXPORTS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.16 |
+| Price | 20.49 |
 | Trend | weak_trend |
-| RSI | 54.56 |
-| MACD | -0.56 |
-| MA20 | 20.79 |
-| MA200 | 25.78 |
-| ATR | 0.72 |
+| RSI | 54.1 |
+| MACD | -0.54 |
+| MA20 | 20.73 |
+| MA200 | 25.7 |
+| ATR | 0.77 |
 | Risk | NORMAL |
-| Stop Loss | 19.07 |
-| Target | 21.61 |
+| Stop Loss | 19.34 |
+| Target | 22.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SHEETAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 346.5 |
+| Price | 357.55 |
 | Trend | weak_trend |
-| RSI | 39.26 |
-| MACD | 2.65 |
-| MA20 | 355.23 |
-| MA200 | 271.74 |
-| ATR | 7.74 |
+| RSI | 52.16 |
+| MACD | 2.87 |
+| MA20 | 355.46 |
+| MA200 | 272.79 |
+| ATR | 8.44 |
 | Risk | NORMAL |
-| Stop Loss | 334.89 |
-| Target | 361.98 |
+| Stop Loss | 344.9 |
+| Target | 374.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SADHAV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 114.95 |
+| Price | 113.3 |
 | Trend | weak_trend |
-| RSI | 59.97 |
+| RSI | 57.85 |
 | MACD | 0.61 |
-| MA20 | 110.52 |
-| MA200 | 110.68 |
-| ATR | 5.16 |
+| MA20 | 110.5 |
+| MA200 | 110.75 |
+| ATR | 5.43 |
 | Risk | ELEVATED |
-| Stop Loss | 107.21 |
-| Target | 125.26 |
+| Stop Loss | 105.16 |
+| Target | 124.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37167,16 +37167,16 @@
 ### HECPROJECT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 113.91 |
+| Price | 110.58 |
 | Trend | weak_trend |
-| RSI | 38.93 |
-| MACD | -2.3 |
-| MA20 | 114.65 |
-| MA200 | 121.68 |
-| ATR | 4.75 |
+| RSI | 37.15 |
+| MACD | -2.35 |
+| MA20 | 114.22 |
+| MA200 | 121.62 |
+| ATR | 4.74 |
 | Risk | ELEVATED |
-| Stop Loss | 106.79 |
-| Target | 123.4 |
+| Stop Loss | 103.48 |
+| Target | 120.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37185,34 +37185,34 @@
 ### HPIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 115.16 |
+| Price | 110.22 |
 | Trend | weak_trend |
-| RSI | 39.96 |
-| MACD | -1.77 |
-| MA20 | 116.99 |
-| MA200 | 127.04 |
-| ATR | 4.08 |
+| RSI | 32.44 |
+| MACD | -2.12 |
+| MA20 | 116.31 |
+| MA200 | 126.93 |
+| ATR | 4.31 |
 | Risk | NORMAL |
-| Stop Loss | 109.03 |
-| Target | 123.33 |
+| Stop Loss | 103.76 |
+| Target | 118.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SLONE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 119.1 |
+| Price | 123.25 |
 | Trend | downtrend |
-| RSI | 13.18 |
-| MACD | -7.45 |
-| MA20 | 162.09 |
-| MA200 | 178.55 |
-| ATR | 9.73 |
+| RSI | 15.15 |
+| MACD | -9.05 |
+| MA20 | 159.43 |
+| MA200 | 177.92 |
+| ATR | 9.75 |
 | Risk | ELEVATED |
-| Stop Loss | 104.5 |
-| Target | 138.56 |
+| Stop Loss | 108.63 |
+| Target | 142.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37221,52 +37221,52 @@
 ### GANGESSECU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 113.95 |
+| Price | 112.5 |
 | Trend | weak_trend |
-| RSI | 49.29 |
-| MACD | -0.87 |
-| MA20 | 113.93 |
-| MA200 | 121.76 |
-| ATR | 3.37 |
+| RSI | 43.05 |
+| MACD | -0.93 |
+| MA20 | 113.8 |
+| MA200 | 121.61 |
+| ATR | 3.39 |
 | Risk | NORMAL |
-| Stop Loss | 108.89 |
-| Target | 120.7 |
+| Stop Loss | 107.41 |
+| Target | 119.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SURANASOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.99 |
+| Price | 23.57 |
 | Trend | downtrend |
-| RSI | 23.79 |
+| RSI | 33.33 |
 | MACD | -0.62 |
-| MA20 | 24.77 |
-| MA200 | 25.36 |
-| ATR | 0.82 |
+| MA20 | 24.67 |
+| MA200 | 25.34 |
+| ATR | 0.89 |
 | Risk | NORMAL |
-| Stop Loss | 21.76 |
-| Target | 24.63 |
+| Stop Loss | 22.23 |
+| Target | 25.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### QUESTLAB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 99.9 |
+| Price | 97.2 |
 | Trend | downtrend |
-| RSI | 67.7 |
-| MACD | 3.42 |
-| MA20 | 86.66 |
-| MA200 | 103.15 |
-| ATR | 7.82 |
+| RSI | 64.86 |
+| MACD | 3.52 |
+| MA20 | 87.29 |
+| MA200 | 103.16 |
+| ATR | 8.0 |
 | Risk | ELEVATED |
-| Stop Loss | 88.16 |
-| Target | 115.55 |
+| Stop Loss | 85.21 |
+| Target | 113.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37275,16 +37275,16 @@
 ### INVENTURE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.8 |
+| Price | 0.81 |
 | Trend | downtrend |
-| RSI | 9.09 |
-| MACD | -0.02 |
-| MA20 | 0.87 |
+| RSI | 16.67 |
+| MACD | -0.03 |
+| MA20 | 0.86 |
 | MA200 | 0.99 |
 | ATR | 0.02 |
 | Risk | NORMAL |
-| Stop Loss | 0.77 |
-| Target | 0.85 |
+| Stop Loss | 0.78 |
+| Target | 0.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37293,34 +37293,34 @@
 ### STEELCITY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 80.36 |
-| Trend | downtrend |
-| RSI | 32.75 |
-| MACD | -0.71 |
-| MA20 | 83.37 |
-| MA200 | 80.7 |
-| ATR | 2.81 |
+| Price | 81.44 |
+| Trend | weak_trend |
+| RSI | 37.9 |
+| MACD | -0.68 |
+| MA20 | 82.93 |
+| MA200 | 80.67 |
+| ATR | 2.75 |
 | Risk | NORMAL |
-| Stop Loss | 76.14 |
-| Target | 85.99 |
+| Stop Loss | 77.31 |
+| Target | 86.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BTML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.8 |
+| Price | 6.93 |
 | Trend | downtrend |
-| RSI | 43.53 |
-| MACD | -0.23 |
-| MA20 | 7.16 |
+| RSI | 45.86 |
+| MACD | -0.22 |
+| MA20 | 7.13 |
 | MA200 | 7.11 |
-| ATR | 0.49 |
+| ATR | 0.48 |
 | Risk | ELEVATED |
-| Stop Loss | 6.07 |
-| Target | 7.77 |
+| Stop Loss | 6.22 |
+| Target | 7.88 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37329,16 +37329,16 @@
 ### ZEAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 70.0 |
+| Price | 69.95 |
 | Trend | downtrend |
-| RSI | 38.01 |
-| MACD | -0.17 |
-| MA20 | 75.19 |
-| MA200 | 71.77 |
-| ATR | 3.72 |
+| RSI | 43.5 |
+| MACD | -0.35 |
+| MA20 | 74.86 |
+| MA200 | 71.65 |
+| ATR | 3.37 |
 | Risk | ELEVATED |
-| Stop Loss | 64.42 |
-| Target | 77.44 |
+| Stop Loss | 64.9 |
+| Target | 76.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37347,16 +37347,16 @@
 ### VEEKAYEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 134.0 |
+| Price | 139.3 |
 | Trend | weak_trend |
-| RSI | 81.17 |
-| MACD | 3.15 |
-| MA20 | 105.63 |
-| MA200 | 126.6 |
-| ATR | 6.81 |
+| RSI | 81.65 |
+| MACD | 5.08 |
+| MA20 | 107.59 |
+| MA200 | 126.2 |
+| ATR | 6.68 |
 | Risk | ELEVATED |
-| Stop Loss | 123.78 |
-| Target | 147.63 |
+| Stop Loss | 129.28 |
+| Target | 152.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37365,16 +37365,16 @@
 ### COMPUSOFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.76 |
+| Price | 12.93 |
 | Trend | downtrend |
-| RSI | 37.0 |
-| MACD | -0.06 |
+| RSI | 43.35 |
+| MACD | -0.07 |
 | MA20 | 13.11 |
-| MA200 | 13.56 |
-| ATR | 0.55 |
+| MA200 | 13.54 |
+| ATR | 0.53 |
 | Risk | ELEVATED |
-| Stop Loss | 11.94 |
-| Target | 13.86 |
+| Stop Loss | 12.14 |
+| Target | 13.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37383,16 +37383,16 @@
 ### SHYAMCENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.87 |
+| Price | 4.91 |
 | Trend | downtrend |
-| RSI | 28.0 |
+| RSI | 36.73 |
 | MACD | -0.03 |
 | MA20 | 4.98 |
-| MA200 | 5.27 |
-| ATR | 0.21 |
+| MA200 | 5.26 |
+| ATR | 0.22 |
 | Risk | ELEVATED |
-| Stop Loss | 4.56 |
-| Target | 5.29 |
+| Stop Loss | 4.58 |
+| Target | 5.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37401,16 +37401,16 @@
 ### LAGNAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.67 |
+| Price | 72.29 |
 | Trend | weak_trend |
-| RSI | 40.52 |
-| MACD | -0.97 |
-| MA20 | 72.78 |
-| MA200 | 75.77 |
-| ATR | 3.25 |
+| RSI | 43.78 |
+| MACD | -0.93 |
+| MA20 | 72.76 |
+| MA200 | 75.79 |
+| ATR | 3.07 |
 | Risk | ELEVATED |
-| Stop Loss | 67.8 |
-| Target | 79.16 |
+| Stop Loss | 67.69 |
+| Target | 78.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37419,16 +37419,16 @@
 ### SAMBHAAV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.67 |
-| Trend | downtrend |
-| RSI | 39.68 |
-| MACD | -0.15 |
-| MA20 | 5.75 |
-| MA200 | 6.83 |
-| ATR | 0.61 |
+| Price | 5.64 |
+| Trend | weak_trend |
+| RSI | 41.21 |
+| MACD | -0.14 |
+| MA20 | 5.73 |
+| MA200 | 6.81 |
+| ATR | 0.62 |
 | Risk | ELEVATED |
-| Stop Loss | 4.75 |
-| Target | 6.9 |
+| Stop Loss | 4.72 |
+| Target | 6.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37437,16 +37437,16 @@
 ### SILGO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.92 |
+| Price | 69.78 |
 | Trend | weak_trend |
-| RSI | 49.45 |
+| RSI | 43.1 |
 | MACD | -0.34 |
-| MA20 | 70.06 |
-| MA200 | 73.9 |
-| ATR | 2.38 |
+| MA20 | 70.05 |
+| MA200 | 73.87 |
+| ATR | 2.44 |
 | Risk | NORMAL |
-| Stop Loss | 66.35 |
-| Target | 74.68 |
+| Stop Loss | 66.13 |
+| Target | 74.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37455,34 +37455,34 @@
 ### MASTER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 406.85 |
+| Price | 400.0 |
 | Trend | weak_trend |
-| RSI | 62.31 |
-| MACD | -4.55 |
-| MA20 | 403.09 |
-| MA200 | 362.48 |
-| ATR | 10.31 |
+| RSI | 50.0 |
+| MACD | -4.81 |
+| MA20 | 402.34 |
+| MA200 | 362.76 |
+| ATR | 10.44 |
 | Risk | NORMAL |
-| Stop Loss | 391.38 |
-| Target | 427.47 |
+| Stop Loss | 384.34 |
+| Target | 420.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 36.75 |
 | Trend | downtrend |
-| RSI | 20.92 |
-| MACD | -0.1 |
-| MA20 | 41.3 |
-| MA200 | 38.74 |
-| ATR | 1.17 |
+| RSI | 23.15 |
+| MACD | -0.26 |
+| MA20 | 40.7 |
+| MA200 | 38.67 |
+| ATR | 1.09 |
 | Risk | NORMAL |
-| Stop Loss | 34.99 |
-| Target | 39.1 |
+| Stop Loss | 35.11 |
+| Target | 38.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37491,16 +37491,16 @@
 ### SMLT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.14 |
+| Price | 75.83 |
 | Trend | weak_trend |
-| RSI | 74.98 |
-| MACD | 3.14 |
-| MA20 | 65.89 |
-| MA200 | 70.97 |
-| ATR | 5.52 |
+| RSI | 73.63 |
+| MACD | 3.27 |
+| MA20 | 66.57 |
+| MA200 | 70.91 |
+| ATR | 5.61 |
 | Risk | ELEVATED |
-| Stop Loss | 67.86 |
-| Target | 87.18 |
+| Stop Loss | 67.41 |
+| Target | 87.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37509,52 +37509,52 @@
 ### AUSOMENT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 149.28 |
-| Trend | weak_trend |
-| RSI | 54.78 |
-| MACD | -0.67 |
-| MA20 | 145.43 |
-| MA200 | 125.21 |
-| ATR | 7.78 |
+| Price | 153.98 |
+| Trend | uptrend |
+| RSI | 61.8 |
+| MACD | 0.14 |
+| MA20 | 145.55 |
+| MA200 | 125.44 |
+| ATR | 8.4 |
 | Risk | ELEVATED |
-| Stop Loss | 137.61 |
-| Target | 164.84 |
+| Stop Loss | 141.38 |
+| Target | 170.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### GTL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 6.45 |
 | Trend | downtrend |
-| RSI | 27.48 |
-| MACD | -0.15 |
-| MA20 | 6.92 |
-| MA200 | 7.35 |
-| ATR | 0.28 |
+| RSI | 28.57 |
+| MACD | -0.17 |
+| MA20 | 6.88 |
+| MA200 | 7.34 |
+| ATR | 0.27 |
 | Risk | ELEVATED |
 | Stop Loss | 6.04 |
-| Target | 7.0 |
+| Target | 6.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VISAMAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.15 |
+| Price | 21.05 |
 | Trend | downtrend |
-| RSI | 11.52 |
-| MACD | -12.17 |
-| MA20 | 32.28 |
-| MA200 | 106.09 |
-| ATR | 1.84 |
+| RSI | 13.09 |
+| MACD | -11.83 |
+| MA20 | 30.95 |
+| MA200 | 105.6 |
+| ATR | 1.66 |
 | Risk | ELEVATED |
-| Stop Loss | 19.39 |
-| Target | 25.84 |
+| Stop Loss | 18.56 |
+| Target | 24.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37563,16 +37563,16 @@
 ### GREENCHEF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 65.0 |
+| Price | 63.75 |
 | Trend | weak_trend |
-| RSI | 19.5 |
-| MACD | 0.87 |
-| MA20 | 70.2 |
-| MA200 | 53.58 |
-| ATR | 2.27 |
+| RSI | 20.29 |
+| MACD | 0.48 |
+| MA20 | 69.92 |
+| MA200 | 53.62 |
+| ATR | 2.18 |
 | Risk | NORMAL |
-| Stop Loss | 61.59 |
-| Target | 69.54 |
+| Stop Loss | 60.48 |
+| Target | 68.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37581,16 +37581,16 @@
 ### BAIDFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.35 |
+| Price | 10.21 |
 | Trend | downtrend |
-| RSI | 35.51 |
+| RSI | 37.12 |
 | MACD | -0.04 |
-| MA20 | 10.49 |
-| MA200 | 10.54 |
-| ATR | 0.66 |
+| MA20 | 10.41 |
+| MA200 | 10.53 |
+| ATR | 0.62 |
 | Risk | ELEVATED |
-| Stop Loss | 9.36 |
-| Target | 11.67 |
+| Stop Loss | 9.27 |
+| Target | 11.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37599,16 +37599,16 @@
 ### SMARTLINK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 216.53 |
+| Price | 218.95 |
 | Trend | weak_trend |
-| RSI | 51.71 |
-| MACD | 1.07 |
-| MA20 | 218.94 |
-| MA200 | 162.62 |
-| ATR | 11.1 |
+| RSI | 46.81 |
+| MACD | 1.0 |
+| MA20 | 218.38 |
+| MA200 | 163.07 |
+| ATR | 11.28 |
 | Risk | ELEVATED |
-| Stop Loss | 199.87 |
-| Target | 238.74 |
+| Stop Loss | 202.03 |
+| Target | 241.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37617,16 +37617,16 @@
 ### MAHAPEXLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.76 |
+| Price | 49.25 |
 | Trend | downtrend |
-| RSI | 26.04 |
-| MACD | -0.83 |
-| MA20 | 52.26 |
-| MA200 | 63.78 |
-| ATR | 2.73 |
+| RSI | 26.21 |
+| MACD | -0.94 |
+| MA20 | 52.0 |
+| MA200 | 63.49 |
+| ATR | 2.66 |
 | Risk | ELEVATED |
-| Stop Loss | 45.66 |
-| Target | 55.23 |
+| Stop Loss | 45.26 |
+| Target | 54.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37635,16 +37635,16 @@
 ### SADBHIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.56 |
+| Price | 2.52 |
 | Trend | downtrend |
-| RSI | 55.93 |
-| MACD | 0.0 |
+| RSI | 44.44 |
+| MACD | -0.0 |
 | MA20 | 2.57 |
-| MA200 | 2.94 |
+| MA200 | 2.93 |
 | ATR | 0.13 |
 | Risk | ELEVATED |
-| Stop Loss | 2.37 |
-| Target | 2.81 |
+| Stop Loss | 2.33 |
+| Target | 2.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37653,20 +37653,20 @@
 ### SEMAC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 214.41 |
+| Price | 227.3 |
 | Trend | downtrend |
-| RSI | 20.9 |
-| MACD | -16.85 |
-| MA20 | 252.35 |
-| MA200 | 288.48 |
-| ATR | 14.04 |
+| RSI | 29.74 |
+| MACD | -16.45 |
+| MA20 | 250.06 |
+| MA200 | 288.09 |
+| ATR | 14.54 |
 | Risk | ELEVATED |
-| Stop Loss | 193.35 |
-| Target | 242.5 |
+| Stop Loss | 205.49 |
+| Target | 256.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SOTAC.NS
 | Metric | Value |
@@ -37674,9 +37674,9 @@
 | Price | 90.05 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | -0.2 |
-| MA20 | 89.98 |
-| MA200 | 105.54 |
+| MACD | -0.18 |
+| MA20 | 89.99 |
+| MA200 | 105.37 |
 | ATR | 0.01 |
 | Risk | LOW |
 | Stop Loss | 90.03 |
@@ -37689,52 +37689,52 @@
 ### VITAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 51.14 |
+| Price | 51.1 |
 | Trend | downtrend |
-| RSI | 39.31 |
-| MACD | -0.47 |
-| MA20 | 53.53 |
-| MA200 | 53.02 |
-| ATR | 2.85 |
+| RSI | 43.9 |
+| MACD | -0.57 |
+| MA20 | 53.3 |
+| MA200 | 52.98 |
+| ATR | 2.86 |
 | Risk | ELEVATED |
-| Stop Loss | 46.86 |
-| Target | 56.84 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### TRU.NS
-| Metric | Value |
-|--------|-------|
-| Price | 4.49 |
-| Trend | weak_trend |
-| RSI | 70.33 |
-| MACD | 0.03 |
-| MA20 | 4.2 |
-| MA200 | 5.79 |
-| ATR | 0.29 |
-| Risk | ELEVATED |
-| Stop Loss | 4.05 |
-| Target | 5.08 |
+| Stop Loss | 46.81 |
+| Target | 56.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### TRU.NS
+| Metric | Value |
+|--------|-------|
+| Price | 4.34 |
+| Trend | downtrend |
+| RSI | 58.42 |
+| MACD | 0.03 |
+| MA20 | 4.21 |
+| MA200 | 5.77 |
+| ATR | 0.3 |
+| Risk | ELEVATED |
+| Stop Loss | 3.89 |
+| Target | 4.94 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
 ### JOCIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 144.67 |
+| Price | 144.02 |
 | Trend | weak_trend |
-| RSI | 53.0 |
-| MACD | -0.43 |
-| MA20 | 146.3 |
-| MA200 | 135.45 |
-| ATR | 6.85 |
+| RSI | 44.24 |
+| MACD | -0.6 |
+| MA20 | 146.0 |
+| MA200 | 135.46 |
+| ATR | 6.34 |
 | Risk | ELEVATED |
-| Stop Loss | 134.4 |
-| Target | 158.37 |
+| Stop Loss | 134.51 |
+| Target | 156.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37743,16 +37743,16 @@
 ### URBAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 118.6 |
-| Trend | weak_trend |
-| RSI | 48.04 |
-| MACD | -2.75 |
-| MA20 | 119.99 |
-| MA200 | 136.18 |
-| ATR | 4.92 |
+| Price | 118.8 |
+| Trend | downtrend |
+| RSI | 53.37 |
+| MACD | -2.61 |
+| MA20 | 119.78 |
+| MA200 | 136.05 |
+| ATR | 4.84 |
 | Risk | ELEVATED |
-| Stop Loss | 111.22 |
-| Target | 128.44 |
+| Stop Loss | 111.54 |
+| Target | 128.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37764,9 +37764,9 @@
 | Price | 48.95 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -0.92 |
-| MA20 | 51.49 |
-| MA200 | 53.31 |
+| MACD | -0.99 |
+| MA20 | 51.29 |
+| MA200 | 53.25 |
 | ATR | 0.36 |
 | Risk | LOW |
 | Stop Loss | 48.4 |
@@ -37781,14 +37781,14 @@
 |--------|-------|
 | Price | 25.05 |
 | Trend | downtrend |
-| RSI | 44.33 |
-| MACD | -0.68 |
-| MA20 | 26.41 |
-| MA200 | 34.73 |
-| ATR | 1.35 |
+| RSI | 44.04 |
+| MACD | -0.71 |
+| MA20 | 26.27 |
+| MA200 | 34.61 |
+| ATR | 1.28 |
 | Risk | ELEVATED |
-| Stop Loss | 23.02 |
-| Target | 27.75 |
+| Stop Loss | 23.13 |
+| Target | 27.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37797,16 +37797,16 @@
 ### MCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 54.66 |
+| Price | 54.56 |
 | Trend | downtrend |
-| RSI | 47.41 |
+| RSI | 45.64 |
 | MACD | -0.89 |
-| MA20 | 56.3 |
-| MA200 | 62.12 |
-| ATR | 3.46 |
+| MA20 | 56.14 |
+| MA200 | 62.15 |
+| ATR | 3.48 |
 | Risk | ELEVATED |
-| Stop Loss | 49.47 |
-| Target | 61.58 |
+| Stop Loss | 49.34 |
+| Target | 61.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37815,16 +37815,16 @@
 ### WIPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 160.13 |
+| Price | 161.1 |
 | Trend | weak_trend |
-| RSI | 41.3 |
+| RSI | 53.34 |
 | MACD | -1.24 |
-| MA20 | 163.88 |
-| MA200 | 156.42 |
-| ATR | 6.58 |
+| MA20 | 163.51 |
+| MA200 | 156.47 |
+| ATR | 6.6 |
 | Risk | ELEVATED |
-| Stop Loss | 150.26 |
-| Target | 173.29 |
+| Stop Loss | 151.19 |
+| Target | 174.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37833,16 +37833,16 @@
 ### BALPHARMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 97.71 |
+| Price | 99.39 |
 | Trend | weak_trend |
-| RSI | 36.55 |
-| MACD | 0.92 |
-| MA20 | 104.01 |
-| MA200 | 80.76 |
-| ATR | 5.87 |
+| RSI | 40.0 |
+| MACD | 0.73 |
+| MA20 | 103.67 |
+| MA200 | 80.9 |
+| ATR | 5.89 |
 | Risk | ELEVATED |
-| Stop Loss | 88.9 |
-| Target | 109.45 |
+| Stop Loss | 90.55 |
+| Target | 111.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37851,34 +37851,34 @@
 ### VIPULLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.31 |
+| Price | 9.93 |
 | Trend | downtrend |
-| RSI | 34.57 |
-| MACD | -0.94 |
-| MA20 | 11.1 |
+| RSI | 35.98 |
+| MACD | -0.92 |
+| MA20 | 10.95 |
 | MA200 | 11.73 |
-| ATR | 0.62 |
+| ATR | 0.65 |
 | Risk | ELEVATED |
-| Stop Loss | 9.38 |
-| Target | 11.55 |
+| Stop Loss | 8.95 |
+| Target | 11.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SALONA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 271.95 |
+| Price | 273.05 |
 | Trend | weak_trend |
-| RSI | 57.98 |
-| MACD | 2.56 |
-| MA20 | 267.7 |
-| MA200 | 263.01 |
-| ATR | 15.86 |
+| RSI | 51.31 |
+| MACD | 2.6 |
+| MA20 | 268.38 |
+| MA200 | 263.08 |
+| ATR | 15.45 |
 | Risk | ELEVATED |
-| Stop Loss | 248.16 |
-| Target | 303.67 |
+| Stop Loss | 249.87 |
+| Target | 303.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37887,34 +37887,34 @@
 ### LAMBODHARA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 130.43 |
-| Trend | weak_trend |
-| RSI | 57.3 |
-| MACD | 0.95 |
-| MA20 | 128.67 |
-| MA200 | 112.3 |
-| ATR | 9.86 |
+| Price | 141.68 |
+| Trend | uptrend |
+| RSI | 66.44 |
+| MACD | 1.78 |
+| MA20 | 128.92 |
+| MA200 | 112.4 |
+| ATR | 10.91 |
 | Risk | ELEVATED |
-| Stop Loss | 115.64 |
-| Target | 150.16 |
+| Stop Loss | 125.31 |
+| Target | 163.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### LOVABLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.4 |
+| Price | 68.65 |
 | Trend | downtrend |
-| RSI | 41.16 |
-| MACD | -0.86 |
-| MA20 | 69.83 |
-| MA200 | 72.87 |
-| ATR | 2.8 |
+| RSI | 38.05 |
+| MACD | -0.84 |
+| MA20 | 69.68 |
+| MA200 | 72.81 |
+| ATR | 2.89 |
 | Risk | ELEVATED |
-| Stop Loss | 64.19 |
-| Target | 74.01 |
+| Stop Loss | 64.31 |
+| Target | 74.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37923,16 +37923,16 @@
 ### ISHANCH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 45.12 |
+| Price | 45.04 |
 | Trend | downtrend |
-| RSI | 26.2 |
-| MACD | -0.37 |
-| MA20 | 47.92 |
-| MA200 | 56.24 |
-| ATR | 3.23 |
+| RSI | 16.71 |
+| MACD | -0.5 |
+| MA20 | 47.93 |
+| MA200 | 56.14 |
+| ATR | 3.05 |
 | Risk | ELEVATED |
-| Stop Loss | 40.27 |
-| Target | 51.58 |
+| Stop Loss | 40.46 |
+| Target | 51.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37941,34 +37941,34 @@
 ### SHIGAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 66.0 |
-| Trend | uptrend |
-| RSI | 57.87 |
-| MACD | -0.49 |
-| MA20 | 62.67 |
-| MA200 | 63.37 |
-| ATR | 3.5 |
+| Price | 61.6 |
+| Trend | weak_trend |
+| RSI | 43.66 |
+| MACD | -0.6 |
+| MA20 | 62.42 |
+| MA200 | 63.44 |
+| ATR | 3.46 |
 | Risk | ELEVATED |
-| Stop Loss | 60.74 |
-| Target | 73.01 |
+| Stop Loss | 56.41 |
+| Target | 68.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SURANI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 154.3 |
+| Price | 147.0 |
 | Trend | weak_trend |
-| RSI | 82.51 |
-| MACD | 15.19 |
-| MA20 | 111.72 |
-| MA200 | 95.33 |
-| ATR | 11.31 |
+| RSI | 75.88 |
+| MACD | 15.24 |
+| MA20 | 114.52 |
+| MA200 | 95.77 |
+| ATR | 11.48 |
 | Risk | ELEVATED |
-| Stop Loss | 137.33 |
-| Target | 176.92 |
+| Stop Loss | 129.79 |
+| Target | 169.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -37977,34 +37977,34 @@
 ### HDIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.46 |
+| Price | 1.44 |
 | Trend | weak_trend |
 | RSI | 47.62 |
 | MACD | -0.02 |
 | MA20 | 1.46 |
-| MA200 | 1.95 |
-| ATR | 0.06 |
+| MA200 | 1.94 |
+| ATR | 0.07 |
 | Risk | ELEVATED |
-| Stop Loss | 1.37 |
-| Target | 1.58 |
+| Stop Loss | 1.34 |
+| Target | 1.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### LOYALTEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 205.35 |
-| Trend | weak_trend |
-| RSI | 52.15 |
-| MACD | -2.22 |
-| MA20 | 210.53 |
-| MA200 | 212.91 |
-| ATR | 10.76 |
+| Price | 210.0 |
+| Trend | downtrend |
+| RSI | 45.7 |
+| MACD | -1.93 |
+| MA20 | 210.34 |
+| MA200 | 212.87 |
+| ATR | 10.27 |
 | Risk | ELEVATED |
-| Stop Loss | 189.21 |
-| Target | 226.87 |
+| Stop Loss | 194.6 |
+| Target | 230.53 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38013,34 +38013,34 @@
 ### RAJSREESUG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.99 |
-| Trend | downtrend |
-| RSI | 44.87 |
-| MACD | -1.44 |
-| MA20 | 30.5 |
-| MA200 | 31.84 |
-| ATR | 1.97 |
+| Price | 30.51 |
+| Trend | weak_trend |
+| RSI | 43.79 |
+| MACD | -1.25 |
+| MA20 | 30.37 |
+| MA200 | 31.81 |
+| ATR | 2.02 |
 | Risk | ELEVATED |
-| Stop Loss | 28.03 |
-| Target | 34.94 |
+| Stop Loss | 27.48 |
+| Target | 34.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### OSWALSEEDS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.71 |
+| Price | 11.43 |
 | Trend | downtrend |
-| RSI | 23.36 |
-| MACD | -0.22 |
-| MA20 | 13.1 |
-| MA200 | 12.49 |
-| ATR | 0.71 |
+| RSI | 16.57 |
+| MACD | -0.27 |
+| MA20 | 12.89 |
+| MA200 | 12.47 |
+| ATR | 0.76 |
 | Risk | ELEVATED |
-| Stop Loss | 10.64 |
-| Target | 13.14 |
+| Stop Loss | 10.29 |
+| Target | 12.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38049,16 +38049,16 @@
 ### BAGFILMS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.03 |
+| Price | 4.04 |
 | Trend | downtrend |
-| RSI | 19.57 |
+| RSI | 21.28 |
 | MACD | -0.1 |
-| MA20 | 4.21 |
-| MA200 | 4.96 |
-| ATR | 0.17 |
+| MA20 | 4.19 |
+| MA200 | 4.94 |
+| ATR | 0.16 |
 | Risk | ELEVATED |
-| Stop Loss | 3.78 |
-| Target | 4.36 |
+| Stop Loss | 3.8 |
+| Target | 4.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38067,16 +38067,16 @@
 ### SHAHALLOYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.99 |
+| Price | 78.28 |
 | Trend | weak_trend |
-| RSI | 23.81 |
-| MACD | -2.79 |
-| MA20 | 87.17 |
-| MA200 | 71.76 |
-| ATR | 4.2 |
+| RSI | 20.72 |
+| MACD | -2.98 |
+| MA20 | 86.45 |
+| MA200 | 71.81 |
+| ATR | 3.98 |
 | Risk | ELEVATED |
-| Stop Loss | 70.69 |
-| Target | 85.39 |
+| Stop Loss | 72.31 |
+| Target | 86.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38088,9 +38088,9 @@
 | Price | 101.0 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -0.89 |
-| MA20 | 106.53 |
-| MA200 | 101.22 |
+| MACD | -1.19 |
+| MA20 | 106.22 |
+| MA200 | 101.42 |
 | ATR | 0.43 |
 | Risk | LOW |
 | Stop Loss | 100.36 |
@@ -38098,57 +38098,57 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SECMARK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 151.19 |
+| Price | 153.05 |
 | Trend | weak_trend |
-| RSI | 63.25 |
-| MACD | 1.91 |
-| MA20 | 141.26 |
-| MA200 | 122.93 |
-| ATR | 9.39 |
+| RSI | 71.61 |
+| MACD | 2.6 |
+| MA20 | 141.85 |
+| MA200 | 123.11 |
+| ATR | 9.32 |
 | Risk | ELEVATED |
-| Stop Loss | 137.11 |
-| Target | 169.96 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
-
-### ZENITHEXPO.NS
-| Metric | Value |
-|--------|-------|
-| Price | 188.92 |
-| Trend | downtrend |
-| RSI | 41.93 |
-| MACD | -5.03 |
-| MA20 | 195.5 |
-| MA200 | 203.69 |
-| ATR | 5.35 |
-| Risk | NORMAL |
-| Stop Loss | 180.89 |
-| Target | 199.62 |
+| Stop Loss | 139.07 |
+| Target | 171.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### ZENITHEXPO.NS
+| Metric | Value |
+|--------|-------|
+| Price | 180.42 |
+| Trend | downtrend |
+| RSI | 35.16 |
+| MACD | -5.51 |
+| MA20 | 194.27 |
+| MA200 | 203.44 |
+| ATR | 5.82 |
+| Risk | NORMAL |
+| Stop Loss | 171.69 |
+| Target | 192.05 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### CUBEXTUB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 182.2 |
+| Price | 191.31 |
 | Trend | weak_trend |
-| RSI | 82.37 |
-| MACD | 23.4 |
-| MA20 | 133.66 |
-| MA200 | 96.87 |
-| ATR | 13.94 |
+| RSI | 81.3 |
+| MACD | 24.46 |
+| MA20 | 139.37 |
+| MA200 | 97.37 |
+| ATR | 13.34 |
 | Risk | ELEVATED |
-| Stop Loss | 161.3 |
-| Target | 210.07 |
+| Stop Loss | 171.3 |
+| Target | 217.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38157,34 +38157,34 @@
 ### LATTEYS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.02 |
+| Price | 21.01 |
 | Trend | downtrend |
-| RSI | 48.51 |
-| MACD | -0.1 |
-| MA20 | 20.75 |
-| MA200 | 21.5 |
-| ATR | 1.21 |
+| RSI | 54.13 |
+| MACD | -0.07 |
+| MA20 | 20.72 |
+| MA200 | 21.49 |
+| ATR | 1.25 |
 | Risk | ELEVATED |
-| Stop Loss | 18.21 |
-| Target | 22.43 |
+| Stop Loss | 19.14 |
+| Target | 23.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### DELAPLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 113.7 |
+| Price | 124.05 |
 | Trend | weak_trend |
-| RSI | 77.76 |
-| MACD | 1.14 |
-| MA20 | 95.37 |
-| MA200 | 106.08 |
-| ATR | 5.89 |
+| RSI | 82.89 |
+| MACD | 3.16 |
+| MA20 | 96.49 |
+| MA200 | 106.05 |
+| ATR | 6.89 |
 | Risk | ELEVATED |
-| Stop Loss | 104.87 |
-| Target | 125.48 |
+| Stop Loss | 113.72 |
+| Target | 137.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38193,16 +38193,16 @@
 ### SAMPANN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.29 |
+| Price | 23.75 |
 | Trend | weak_trend |
-| RSI | 37.58 |
-| MACD | -0.43 |
-| MA20 | 24.08 |
-| MA200 | 28.34 |
-| ATR | 1.17 |
+| RSI | 45.1 |
+| MACD | -0.41 |
+| MA20 | 24.04 |
+| MA200 | 28.31 |
+| ATR | 1.15 |
 | Risk | ELEVATED |
-| Stop Loss | 21.54 |
-| Target | 25.63 |
+| Stop Loss | 22.02 |
+| Target | 26.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38211,52 +38211,52 @@
 ### ARTNIRMAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.43 |
-| Trend | downtrend |
-| RSI | 39.22 |
-| MACD | -0.55 |
-| MA20 | 39.35 |
-| MA200 | 41.28 |
-| ATR | 2.53 |
+| Price | 43.71 |
+| Trend | uptrend |
+| RSI | 56.75 |
+| MACD | -0.12 |
+| MA20 | 39.54 |
+| MA200 | 41.26 |
+| ATR | 2.91 |
 | Risk | ELEVATED |
-| Stop Loss | 32.64 |
-| Target | 41.48 |
+| Stop Loss | 39.35 |
+| Target | 49.52 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+
+### SSFL.NS
+| Metric | Value |
+|--------|-------|
+| Price | 289.0 |
+| Trend | weak_trend |
+| RSI | 49.52 |
+| MACD | 4.83 |
+| MA20 | 290.43 |
+| MA200 | 182.88 |
+| ATR | 12.73 |
+| Risk | ELEVATED |
+| Stop Loss | 269.9 |
+| Target | 314.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### SSFL.NS
-| Metric | Value |
-|--------|-------|
-| Price | 293.0 |
-| Trend | downtrend |
-| RSI | 49.0 |
-| MACD | 5.1 |
-| MA20 | 291.66 |
-| MA200 | 182.08 |
-| ATR | 12.61 |
-| Risk | ELEVATED |
-| Stop Loss | 274.08 |
-| Target | 318.22 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
 ### GENSOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.18 |
+| Price | 9.68 |
 | Trend | downtrend |
-| RSI | 3.7 |
-| MACD | -1.73 |
-| MA20 | 14.86 |
-| MA200 | 21.33 |
-| ATR | 0.88 |
+| RSI | 3.47 |
+| MACD | -1.86 |
+| MA20 | 14.49 |
+| MA200 | 21.24 |
+| ATR | 0.86 |
 | Risk | ELEVATED |
-| Stop Loss | 8.86 |
-| Target | 11.94 |
+| Stop Loss | 8.39 |
+| Target | 11.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38265,16 +38265,16 @@
 ### TARMAT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.2 |
+| Price | 55.83 |
 | Trend | weak_trend |
-| RSI | 55.31 |
-| MACD | -0.25 |
-| MA20 | 56.54 |
-| MA200 | 53.58 |
-| ATR | 3.25 |
+| RSI | 56.01 |
+| MACD | -0.28 |
+| MA20 | 56.35 |
+| MA200 | 53.6 |
+| ATR | 3.31 |
 | Risk | ELEVATED |
-| Stop Loss | 51.32 |
-| Target | 62.71 |
+| Stop Loss | 50.87 |
+| Target | 62.44 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38283,38 +38283,38 @@
 ### SIDDHIKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 202.0 |
+| Price | 199.0 |
 | Trend | downtrend |
-| RSI | 40.22 |
-| MACD | -4.17 |
-| MA20 | 214.42 |
-| MA200 | 210.34 |
-| ATR | 6.6 |
+| RSI | 30.08 |
+| MACD | -4.64 |
+| MA20 | 212.62 |
+| MA200 | 210.31 |
+| ATR | 5.66 |
 | Risk | NORMAL |
-| Stop Loss | 192.09 |
-| Target | 215.21 |
+| Stop Loss | 190.5 |
+| Target | 210.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FIBERWEB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.42 |
+| Price | 27.14 |
 | Trend | downtrend |
-| RSI | 59.8 |
-| MACD | -0.14 |
+| RSI | 58.31 |
+| MACD | -0.07 |
 | MA20 | 26.41 |
-| MA200 | 32.95 |
-| ATR | 1.64 |
+| MA200 | 32.91 |
+| ATR | 1.74 |
 | Risk | ELEVATED |
-| Stop Loss | 24.96 |
-| Target | 30.7 |
+| Stop Loss | 24.54 |
+| Target | 30.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SCML.NS
 | Metric | Value |
@@ -38322,13 +38322,13 @@
 | Price | 101.5 |
 | Trend | weak_trend |
 | RSI | 70.76 |
-| MACD | 5.62 |
-| MA20 | 84.7 |
-| MA200 | 108.55 |
-| ATR | 6.1 |
+| MACD | 5.87 |
+| MA20 | 85.88 |
+| MA200 | 108.33 |
+| ATR | 6.06 |
 | Risk | ELEVATED |
-| Stop Loss | 92.35 |
-| Target | 113.7 |
+| Stop Loss | 92.4 |
+| Target | 113.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38339,14 +38339,14 @@
 |--------|-------|
 | Price | 53.5 |
 | Trend | weak_trend |
-| RSI | 47.62 |
-| MACD | -0.88 |
-| MA20 | 52.68 |
-| MA200 | 58.49 |
-| ATR | 1.46 |
+| RSI | 31.64 |
+| MACD | -0.75 |
+| MA20 | 52.71 |
+| MA200 | 58.3 |
+| ATR | 1.07 |
 | Risk | NORMAL |
-| Stop Loss | 51.31 |
-| Target | 56.41 |
+| Stop Loss | 51.89 |
+| Target | 55.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38355,16 +38355,16 @@
 ### NEWJAISA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.7 |
+| Price | 15.25 |
 | Trend | downtrend |
-| RSI | 36.69 |
-| MACD | -0.41 |
-| MA20 | 17.24 |
-| MA200 | 19.34 |
-| ATR | 1.02 |
+| RSI | 30.22 |
+| MACD | -0.49 |
+| MA20 | 17.14 |
+| MA200 | 19.27 |
+| ATR | 1.01 |
 | Risk | ELEVATED |
-| Stop Loss | 14.17 |
-| Target | 17.74 |
+| Stop Loss | 13.74 |
+| Target | 17.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38373,16 +38373,16 @@
 ### DCG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 71.0 |
+| Price | 71.45 |
 | Trend | weak_trend |
-| RSI | 44.8 |
-| MACD | 1.09 |
-| MA20 | 76.0 |
-| MA200 | 61.61 |
-| ATR | 4.19 |
+| RSI | 50.88 |
+| MACD | 0.85 |
+| MA20 | 75.12 |
+| MA200 | 61.63 |
+| ATR | 4.17 |
 | Risk | ELEVATED |
-| Stop Loss | 64.72 |
-| Target | 79.38 |
+| Stop Loss | 65.19 |
+| Target | 79.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38391,52 +38391,52 @@
 ### RAJMET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.05 |
-| Trend | weak_trend |
-| RSI | 40.0 |
+| Price | 3.01 |
+| Trend | downtrend |
+| RSI | 32.43 |
 | MACD | -0.04 |
-| MA20 | 3.11 |
-| MA200 | 3.7 |
-| ATR | 0.08 |
+| MA20 | 3.1 |
+| MA200 | 3.69 |
+| ATR | 0.09 |
 | Risk | NORMAL |
-| Stop Loss | 2.92 |
-| Target | 3.22 |
+| Stop Loss | 2.88 |
+| Target | 3.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAXPOSURE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.2 |
+| Price | 33.25 |
 | Trend | downtrend |
-| RSI | 25.21 |
-| MACD | 0.3 |
-| MA20 | 36.27 |
-| MA200 | 36.46 |
-| ATR | 1.35 |
+| RSI | 25.53 |
+| MACD | 0.13 |
+| MA20 | 36.38 |
+| MA200 | 36.39 |
+| ATR | 1.19 |
 | Risk | NORMAL |
-| Stop Loss | 32.17 |
-| Target | 36.91 |
+| Stop Loss | 31.47 |
+| Target | 35.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 115.52 |
+| Price | 112.54 |
 | Trend | weak_trend |
-| RSI | 28.79 |
-| MACD | -1.44 |
-| MA20 | 128.54 |
-| MA200 | 99.51 |
-| ATR | 6.46 |
+| RSI | 15.73 |
+| MACD | -2.24 |
+| MA20 | 127.12 |
+| MA200 | 99.55 |
+| ATR | 5.98 |
 | Risk | ELEVATED |
-| Stop Loss | 105.83 |
-| Target | 128.44 |
+| Stop Loss | 103.56 |
+| Target | 124.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38445,52 +38445,52 @@
 ### BEARDSELL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.46 |
+| Price | 23.06 |
 | Trend | downtrend |
-| RSI | 27.2 |
-| MACD | -0.95 |
-| MA20 | 23.36 |
-| MA200 | 26.49 |
-| ATR | 1.53 |
+| RSI | 40.92 |
+| MACD | -0.84 |
+| MA20 | 23.29 |
+| MA200 | 26.46 |
+| ATR | 1.57 |
 | Risk | ELEVATED |
-| Stop Loss | 19.17 |
-| Target | 24.51 |
+| Stop Loss | 20.7 |
+| Target | 26.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RELIABLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 137.96 |
+| Price | 139.68 |
 | Trend | downtrend |
-| RSI | 44.3 |
-| MACD | -0.13 |
-| MA20 | 141.2 |
-| MA200 | 140.33 |
-| ATR | 6.24 |
+| RSI | 45.68 |
+| MACD | -0.22 |
+| MA20 | 141.34 |
+| MA200 | 140.3 |
+| ATR | 6.19 |
 | Risk | ELEVATED |
-| Stop Loss | 128.6 |
-| Target | 150.43 |
+| Stop Loss | 130.39 |
+| Target | 152.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AKSHOPTFBR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.27 |
+| Price | 7.03 |
 | Trend | weak_trend |
-| RSI | 46.76 |
-| MACD | -0.01 |
-| MA20 | 7.47 |
-| MA200 | 6.19 |
-| ATR | 0.44 |
+| RSI | 48.15 |
+| MACD | -0.04 |
+| MA20 | 7.38 |
+| MA200 | 6.2 |
+| ATR | 0.45 |
 | Risk | ELEVATED |
-| Stop Loss | 6.61 |
-| Target | 8.16 |
+| Stop Loss | 6.36 |
+| Target | 7.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38499,16 +38499,16 @@
 ### MOKSH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.95 |
+| Price | 9.08 |
 | Trend | downtrend |
-| RSI | 26.98 |
+| RSI | 27.31 |
 | MACD | -0.33 |
-| MA20 | 9.68 |
-| MA200 | 11.84 |
-| ATR | 0.44 |
+| MA20 | 9.62 |
+| MA200 | 11.81 |
+| ATR | 0.46 |
 | Risk | ELEVATED |
-| Stop Loss | 8.29 |
-| Target | 9.83 |
+| Stop Loss | 8.4 |
+| Target | 9.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38517,38 +38517,38 @@
 ### BEACON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 87.0 |
-| Trend | downtrend |
-| RSI | 64.81 |
-| MACD | 0.05 |
-| MA20 | 83.53 |
+| Price | 88.75 |
+| Trend | uptrend |
+| RSI | 61.31 |
+| MACD | 0.39 |
+| MA20 | 83.88 |
 | MA200 | 87.26 |
-| ATR | 3.14 |
+| ATR | 3.02 |
 | Risk | NORMAL |
-| Stop Loss | 82.29 |
-| Target | 93.29 |
+| Stop Loss | 84.22 |
+| Target | 94.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### CRAYONS.NS
 | Metric | Value |
 |--------|-------|
 | Price | 24.75 |
 | Trend | downtrend |
-| RSI | 58.02 |
-| MACD | -0.28 |
-| MA20 | 24.1 |
-| MA200 | 32.08 |
-| ATR | 0.94 |
+| RSI | 52.17 |
+| MACD | -0.23 |
+| MA20 | 24.14 |
+| MA200 | 32.0 |
+| ATR | 0.88 |
 | Risk | NORMAL |
-| Stop Loss | 23.34 |
-| Target | 26.63 |
+| Stop Loss | 23.43 |
+| Target | 26.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### DTL.NS
 | Metric | Value |
@@ -38556,31 +38556,31 @@
 | Price | 120.0 |
 | Trend | downtrend |
 | RSI | 41.62 |
-| MACD | -1.57 |
-| MA20 | 125.83 |
-| MA200 | 122.64 |
-| ATR | 1.81 |
+| MACD | -1.64 |
+| MA20 | 125.43 |
+| MA200 | 122.49 |
+| ATR | 2.09 |
 | Risk | LOW |
-| Stop Loss | 117.28 |
-| Target | 123.62 |
+| Stop Loss | 116.86 |
+| Target | 124.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GROBTEA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 867.55 |
+| Price | 869.85 |
 | Trend | downtrend |
-| RSI | 39.16 |
-| MACD | -16.46 |
-| MA20 | 905.07 |
-| MA200 | 923.43 |
-| ATR | 27.87 |
+| RSI | 41.07 |
+| MACD | -17.07 |
+| MA20 | 901.27 |
+| MA200 | 922.66 |
+| ATR | 24.32 |
 | Risk | NORMAL |
-| Stop Loss | 825.74 |
-| Target | 923.3 |
+| Stop Loss | 833.37 |
+| Target | 918.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38589,16 +38589,16 @@
 ### REGENCERAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.68 |
+| Price | 31.0 |
 | Trend | downtrend |
-| RSI | 48.41 |
-| MACD | -0.9 |
-| MA20 | 32.78 |
-| MA200 | 40.6 |
-| ATR | 2.97 |
+| RSI | 36.81 |
+| MACD | -0.92 |
+| MA20 | 32.63 |
+| MA200 | 40.52 |
+| ATR | 2.89 |
 | Risk | ELEVATED |
-| Stop Loss | 26.23 |
-| Target | 36.62 |
+| Stop Loss | 26.66 |
+| Target | 36.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38607,20 +38607,20 @@
 ### SURYALAXMI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.48 |
+| Price | 56.6 |
 | Trend | downtrend |
-| RSI | 49.1 |
-| MACD | -0.44 |
-| MA20 | 56.97 |
+| RSI | 47.34 |
+| MACD | -0.43 |
+| MA20 | 56.98 |
 | MA200 | 57.42 |
-| ATR | 2.5 |
+| ATR | 2.45 |
 | Risk | ELEVATED |
-| Stop Loss | 53.72 |
-| Target | 62.49 |
+| Stop Loss | 52.92 |
+| Target | 61.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAHICKRA.NS
 | Metric | Value |
@@ -38628,9 +38628,9 @@
 | Price | 286.0 |
 | Trend | weak_trend |
 | RSI | 30.77 |
-| MACD | -2.58 |
-| MA20 | 296.51 |
-| MA200 | 229.95 |
+| MACD | -2.53 |
+| MA20 | 295.51 |
+| MA200 | 230.67 |
 | ATR | 8.46 |
 | Risk | NORMAL |
 | Stop Loss | 273.31 |
@@ -38643,16 +38643,16 @@
 ### RELCHEMQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 112.11 |
+| Price | 112.0 |
 | Trend | downtrend |
-| RSI | 35.01 |
-| MACD | -1.14 |
-| MA20 | 115.64 |
-| MA200 | 122.82 |
-| ATR | 4.1 |
+| RSI | 36.67 |
+| MACD | -1.23 |
+| MA20 | 115.76 |
+| MA200 | 122.71 |
+| ATR | 4.08 |
 | Risk | NORMAL |
-| Stop Loss | 105.96 |
-| Target | 120.31 |
+| Stop Loss | 105.89 |
+| Target | 120.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38661,52 +38661,52 @@
 ### KOHINOOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 28.26 |
+| Price | 29.04 |
 | Trend | weak_trend |
-| RSI | 35.57 |
-| MACD | -0.44 |
-| MA20 | 30.22 |
-| MA200 | 26.08 |
-| ATR | 1.62 |
+| RSI | 38.95 |
+| MACD | -0.45 |
+| MA20 | 30.13 |
+| MA200 | 26.09 |
+| ATR | 1.65 |
 | Risk | ELEVATED |
-| Stop Loss | 25.83 |
-| Target | 31.5 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### HILTON.NS
-| Metric | Value |
-|--------|-------|
-| Price | 16.73 |
-| Trend | downtrend |
-| RSI | 54.95 |
-| MACD | -0.62 |
-| MA20 | 16.78 |
-| MA200 | 22.59 |
-| ATR | 0.83 |
-| Risk | ELEVATED |
-| Stop Loss | 15.49 |
-| Target | 18.39 |
+| Stop Loss | 26.57 |
+| Target | 32.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### HILTON.NS
+| Metric | Value |
+|--------|-------|
+| Price | 16.39 |
+| Trend | weak_trend |
+| RSI | 46.79 |
+| MACD | -0.6 |
+| MA20 | 16.7 |
+| MA200 | 22.49 |
+| ATR | 0.89 |
+| Risk | ELEVATED |
+| Stop Loss | 15.06 |
+| Target | 18.17 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### PALASHSECU.NS
 | Metric | Value |
 |--------|-------|
-| Price | 85.62 |
-| Trend | weak_trend |
-| RSI | 47.11 |
-| MACD | -0.65 |
-| MA20 | 86.47 |
-| MA200 | 93.56 |
-| ATR | 3.48 |
+| Price | 83.39 |
+| Trend | downtrend |
+| RSI | 43.12 |
+| MACD | -0.84 |
+| MA20 | 86.34 |
+| MA200 | 93.44 |
+| ATR | 3.63 |
 | Risk | ELEVATED |
-| Stop Loss | 80.4 |
-| Target | 92.58 |
+| Stop Loss | 77.95 |
+| Target | 90.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38715,16 +38715,16 @@
 ### TOTAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.94 |
+| Price | 73.6 |
 | Trend | weak_trend |
-| RSI | 58.07 |
-| MACD | 0.62 |
-| MA20 | 71.53 |
+| RSI | 54.66 |
+| MACD | 0.77 |
+| MA20 | 71.37 |
 | MA200 | 60.64 |
-| ATR | 3.17 |
+| ATR | 3.21 |
 | Risk | ELEVATED |
-| Stop Loss | 68.19 |
-| Target | 79.27 |
+| Stop Loss | 68.78 |
+| Target | 80.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38733,16 +38733,16 @@
 ### OLIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 455.0 |
+| Price | 457.0 |
 | Trend | weak_trend |
-| RSI | 64.26 |
-| MACD | 7.0 |
-| MA20 | 439.82 |
-| MA200 | 377.33 |
-| ATR | 17.01 |
-| Risk | NORMAL |
-| Stop Loss | 429.48 |
-| Target | 489.03 |
+| RSI | 52.76 |
+| MACD | -4.94 |
+| MA20 | 411.42 |
+| MA200 | 375.13 |
+| ATR | 36.88 |
+| Risk | ELEVATED |
+| Stop Loss | 401.68 |
+| Target | 530.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38751,16 +38751,16 @@
 ### VAISHALI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.06 |
+| Price | 7.98 |
 | Trend | weak_trend |
-| RSI | 44.16 |
-| MACD | -0.07 |
-| MA20 | 8.43 |
+| RSI | 26.56 |
+| MACD | -0.08 |
+| MA20 | 8.39 |
 | MA200 | 7.69 |
 | ATR | 0.56 |
 | Risk | ELEVATED |
-| Stop Loss | 7.22 |
-| Target | 9.18 |
+| Stop Loss | 7.15 |
+| Target | 9.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38787,34 +38787,34 @@
 ### OBCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.56 |
+| Price | 55.38 |
 | Trend | weak_trend |
-| RSI | 40.29 |
-| MACD | -0.01 |
-| MA20 | 56.71 |
+| RSI | 41.37 |
+| MACD | -0.07 |
+| MA20 | 56.69 |
 | MA200 | 55.25 |
-| ATR | 2.74 |
+| ATR | 3.07 |
 | Risk | ELEVATED |
-| Stop Loss | 51.45 |
-| Target | 61.05 |
+| Stop Loss | 50.78 |
+| Target | 61.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ROCKINGDCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 222.2 |
-| Trend | downtrend |
-| RSI | 48.28 |
-| MACD | 1.27 |
-| MA20 | 221.17 |
-| MA200 | 199.36 |
-| ATR | 10.8 |
+| Price | 229.6 |
+| Trend | weak_trend |
+| RSI | 60.21 |
+| MACD | 1.97 |
+| MA20 | 221.28 |
+| MA200 | 199.39 |
+| ATR | 11.47 |
 | Risk | ELEVATED |
-| Stop Loss | 206.0 |
-| Target | 243.8 |
+| Stop Loss | 212.4 |
+| Target | 252.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38823,16 +38823,16 @@
 ### TOKYOPLAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.1 |
+| Price | 69.2 |
 | Trend | downtrend |
-| RSI | 21.55 |
-| MACD | -2.27 |
-| MA20 | 73.82 |
-| MA200 | 85.69 |
-| ATR | 3.16 |
+| RSI | 20.01 |
+| MACD | -2.28 |
+| MA20 | 73.34 |
+| MA200 | 85.5 |
+| ATR | 3.05 |
 | Risk | ELEVATED |
-| Stop Loss | 63.37 |
-| Target | 74.41 |
+| Stop Loss | 64.63 |
+| Target | 75.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38841,16 +38841,16 @@
 ### REFRACTORY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 35.5 |
-| Trend | weak_trend |
-| RSI | 58.33 |
-| MACD | 2.28 |
-| MA20 | 35.3 |
-| MA200 | 36.75 |
-| ATR | 1.9 |
+| Price | 33.75 |
+| Trend | downtrend |
+| RSI | 46.04 |
+| MACD | 1.9 |
+| MA20 | 35.68 |
+| MA200 | 36.64 |
+| ATR | 1.91 |
 | Risk | ELEVATED |
-| Stop Loss | 32.65 |
-| Target | 39.3 |
+| Stop Loss | 30.89 |
+| Target | 37.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38859,34 +38859,34 @@
 ### DIGIDRIVE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.7 |
+| Price | 19.02 |
 | Trend | downtrend |
-| RSI | 63.57 |
-| MACD | 0.12 |
-| MA20 | 17.78 |
-| MA200 | 20.45 |
-| ATR | 0.84 |
+| RSI | 64.58 |
+| MACD | 0.19 |
+| MA20 | 17.87 |
+| MA200 | 20.42 |
+| ATR | 0.85 |
 | Risk | ELEVATED |
-| Stop Loss | 17.43 |
-| Target | 20.39 |
+| Stop Loss | 17.75 |
+| Target | 20.71 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### BHANDARI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.73 |
+| Price | 2.88 |
 | Trend | downtrend |
-| RSI | 23.26 |
-| MACD | -0.06 |
+| RSI | 43.1 |
+| MACD | -0.05 |
 | MA20 | 2.89 |
-| MA200 | 3.19 |
-| ATR | 0.11 |
-| Risk | NORMAL |
-| Stop Loss | 2.57 |
-| Target | 2.95 |
+| MA200 | 3.18 |
+| ATR | 0.12 |
+| Risk | ELEVATED |
+| Stop Loss | 2.69 |
+| Target | 3.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38895,16 +38895,16 @@
 ### ODIGMA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.68 |
+| Price | 20.66 |
 | Trend | weak_trend |
-| RSI | 44.3 |
-| MACD | -0.41 |
-| MA20 | 21.1 |
-| MA200 | 25.13 |
-| ATR | 0.83 |
-| Risk | ELEVATED |
+| RSI | 44.49 |
+| MACD | -0.4 |
+| MA20 | 21.02 |
+| MA200 | 25.07 |
+| ATR | 0.82 |
+| Risk | NORMAL |
 | Stop Loss | 19.43 |
-| Target | 22.35 |
+| Target | 22.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38913,16 +38913,16 @@
 ### KAKATCEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 98.8 |
+| Price | 98.97 |
 | Trend | downtrend |
-| RSI | 26.35 |
-| MACD | -2.75 |
-| MA20 | 106.09 |
-| MA200 | 114.34 |
-| ATR | 4.25 |
+| RSI | 23.73 |
+| MACD | -2.93 |
+| MA20 | 105.56 |
+| MA200 | 114.2 |
+| ATR | 4.09 |
 | Risk | ELEVATED |
-| Stop Loss | 92.43 |
-| Target | 107.3 |
+| Stop Loss | 92.84 |
+| Target | 107.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38931,16 +38931,16 @@
 ### KLL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 40.7 |
+| Price | 39.6 |
 | Trend | weak_trend |
-| RSI | 57.28 |
-| MACD | 3.83 |
-| MA20 | 37.35 |
-| MA200 | 36.78 |
-| ATR | 2.81 |
+| RSI | 52.82 |
+| MACD | 3.53 |
+| MA20 | 38.11 |
+| MA200 | 36.76 |
+| ATR | 2.73 |
 | Risk | ELEVATED |
-| Stop Loss | 36.48 |
-| Target | 46.33 |
+| Stop Loss | 35.51 |
+| Target | 45.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38949,16 +38949,16 @@
 ### MITCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 78.01 |
+| Price | 77.99 |
 | Trend | weak_trend |
-| RSI | 46.67 |
-| MACD | -0.44 |
-| MA20 | 80.94 |
-| MA200 | 72.09 |
-| ATR | 5.75 |
+| RSI | 46.13 |
+| MACD | -0.54 |
+| MA20 | 80.83 |
+| MA200 | 72.14 |
+| ATR | 5.82 |
 | Risk | ELEVATED |
-| Stop Loss | 69.39 |
-| Target | 89.5 |
+| Stop Loss | 69.25 |
+| Target | 89.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -38967,34 +38967,34 @@
 ### TOUCHWOOD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 58.34 |
-| Trend | downtrend |
-| RSI | 34.39 |
-| MACD | -0.94 |
-| MA20 | 60.18 |
-| MA200 | 74.72 |
-| ATR | 2.29 |
-| Risk | NORMAL |
-| Stop Loss | 54.9 |
-| Target | 62.92 |
+| Price | 58.87 |
+| Trend | weak_trend |
+| RSI | 37.76 |
+| MACD | -0.91 |
+| MA20 | 60.06 |
+| MA200 | 74.5 |
+| ATR | 2.56 |
+| Risk | ELEVATED |
+| Stop Loss | 55.03 |
+| Target | 63.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AAATECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 104.04 |
+| Price | 108.4 |
 | Trend | weak_trend |
-| RSI | 61.34 |
-| MACD | 3.42 |
-| MA20 | 96.2 |
-| MA200 | 95.91 |
-| ATR | 7.76 |
+| RSI | 65.09 |
+| MACD | 3.79 |
+| MA20 | 97.08 |
+| MA200 | 95.96 |
+| ATR | 8.12 |
 | Risk | ELEVATED |
-| Stop Loss | 92.4 |
-| Target | 119.56 |
+| Stop Loss | 96.22 |
+| Target | 124.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39021,16 +39021,16 @@
 ### HOLMARC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 137.5 |
+| Price | 137.0 |
 | Trend | uptrend |
-| RSI | 66.69 |
-| MACD | 5.51 |
-| MA20 | 119.57 |
-| MA200 | 99.89 |
-| ATR | 7.09 |
+| RSI | 63.73 |
+| MACD | 6.12 |
+| MA20 | 120.98 |
+| MA200 | 100.07 |
+| ATR | 7.21 |
 | Risk | ELEVATED |
-| Stop Loss | 126.87 |
-| Target | 151.67 |
+| Stop Loss | 126.19 |
+| Target | 151.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39039,33 +39039,33 @@
 ### HOACFOODS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1036.2 |
+| Price | 1058.0 |
 | Trend | weak_trend |
-| RSI | 93.23 |
-| MACD | 34.19 |
-| MA20 | 896.76 |
-| MA200 | 566.09 |
-| ATR | 18.49 |
-| Risk | LOW |
-| Stop Loss | 1008.47 |
-| Target | 1073.18 |
+| RSI | 100.0 |
+| MACD | 40.99 |
+| MA20 | 904.0 |
+| MA200 | 569.68 |
+| ATR | 22.88 |
+| Risk | NORMAL |
+| Stop Loss | 1023.68 |
+| Target | 1103.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ZENITHSTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.07 |
+| Price | 5.1 |
 | Trend | downtrend |
-| RSI | 39.09 |
+| RSI | 40.71 |
 | MACD | -0.11 |
-| MA20 | 5.33 |
-| MA200 | 5.76 |
-| ATR | 0.24 |
+| MA20 | 5.29 |
+| MA200 | 5.75 |
+| ATR | 0.23 |
 | Risk | ELEVATED |
-| Stop Loss | 4.71 |
+| Stop Loss | 4.76 |
 | Target | 5.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -39075,70 +39075,70 @@
 ### NAMAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 47.9 |
-| Trend | weak_trend |
-| RSI | 71.58 |
-| MACD | 1.91 |
-| MA20 | 44.76 |
-| MA200 | 51.19 |
-| ATR | 1.46 |
-| Risk | NORMAL |
-| Stop Loss | 45.71 |
-| Target | 50.81 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### PIONEEREMB.NS
-| Metric | Value |
-|--------|-------|
-| Price | 20.58 |
+| Price | 48.0 |
 | Trend | downtrend |
-| RSI | 23.64 |
-| MACD | -0.38 |
-| MA20 | 21.06 |
-| MA200 | 24.62 |
-| ATR | 1.03 |
-| Risk | ELEVATED |
-| Stop Loss | 19.04 |
-| Target | 22.63 |
+| RSI | 68.29 |
+| MACD | 1.83 |
+| MA20 | 45.21 |
+| MA200 | 51.1 |
+| ATR | 1.32 |
+| Risk | NORMAL |
+| Stop Loss | 46.02 |
+| Target | 50.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### ZENITHDRUG.NS
+### PIONEEREMB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 40.0 |
+| Price | 20.17 |
 | Trend | downtrend |
-| RSI | 45.39 |
-| MACD | -0.89 |
-| MA20 | 43.29 |
-| MA200 | 45.19 |
-| ATR | 2.36 |
+| RSI | 21.25 |
+| MACD | -0.4 |
+| MA20 | 21.04 |
+| MA200 | 24.58 |
+| ATR | 1.09 |
 | Risk | ELEVATED |
-| Stop Loss | 36.45 |
-| Target | 44.73 |
+| Stop Loss | 18.53 |
+| Target | 22.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
+### ZENITHDRUG.NS
+| Metric | Value |
+|--------|-------|
+| Price | 39.7 |
+| Trend | downtrend |
+| RSI | 46.14 |
+| MACD | -1.02 |
+| MA20 | 42.89 |
+| MA200 | 45.14 |
+| ATR | 2.36 |
+| Risk | ELEVATED |
+| Stop Loss | 36.16 |
+| Target | 44.41 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### GLOBE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.08 |
+| Price | 2.04 |
 | Trend | downtrend |
-| RSI | 25.71 |
-| MACD | 0.03 |
-| MA20 | 2.07 |
+| RSI | 25.0 |
+| MACD | 0.02 |
+| MA20 | 2.08 |
 | MA200 | 2.37 |
-| ATR | 0.12 |
+| ATR | 0.11 |
 | Risk | ELEVATED |
-| Stop Loss | 1.9 |
-| Target | 2.32 |
+| Stop Loss | 1.87 |
+| Target | 2.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39147,34 +39147,34 @@
 ### DHRUV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.19 |
-| Trend | downtrend |
-| RSI | 57.52 |
-| MACD | -0.49 |
-| MA20 | 21.07 |
-| MA200 | 30.3 |
-| ATR | 1.6 |
+| Price | 21.45 |
+| Trend | weak_trend |
+| RSI | 49.28 |
+| MACD | -0.43 |
+| MA20 | 21.05 |
+| MA200 | 30.15 |
+| ATR | 1.7 |
 | Risk | ELEVATED |
-| Stop Loss | 19.79 |
-| Target | 25.38 |
+| Stop Loss | 18.9 |
+| Target | 24.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SONUINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.0 |
+| Price | 38.95 |
 | Trend | downtrend |
-| RSI | 35.96 |
-| MACD | -0.6 |
-| MA20 | 44.48 |
-| MA200 | 53.94 |
-| ATR | 1.75 |
+| RSI | 21.11 |
+| MACD | -0.83 |
+| MA20 | 43.91 |
+| MA200 | 53.71 |
+| ATR | 1.74 |
 | Risk | ELEVATED |
-| Stop Loss | 38.38 |
-| Target | 44.49 |
+| Stop Loss | 36.35 |
+| Target | 42.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39186,9 +39186,9 @@
 | Price | 22.65 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -1.14 |
-| MA20 | 25.73 |
-| MA200 | 29.28 |
+| MACD | -1.2 |
+| MA20 | 25.4 |
+| MA200 | 29.22 |
 | ATR | 0.27 |
 | Risk | LOW |
 | Stop Loss | 22.25 |
@@ -39196,39 +39196,57 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAGSON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 185.0 |
+| Price | 181.0 |
 | Trend | weak_trend |
-| RSI | 68.78 |
-| MACD | 0.4 |
-| MA20 | 180.95 |
-| MA200 | 162.89 |
-| ATR | 4.2 |
+| RSI | 52.24 |
+| MACD | 0.26 |
+| MA20 | 180.78 |
+| MA200 | 163.23 |
+| ATR | 4.27 |
 | Risk | NORMAL |
-| Stop Loss | 178.7 |
-| Target | 193.4 |
+| Stop Loss | 174.59 |
+| Target | 189.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
+### PATTECH.NS
+| Metric | Value |
+|--------|-------|
+| Price | 109.15 |
+| Trend | downtrend |
+| RSI | 0.0 |
+| MACD | -0.45 |
+| MA20 | 114.56 |
+| MA200 | 110.23 |
+| ATR | 0.41 |
+| Risk | LOW |
+| Stop Loss | 108.54 |
+| Target | 109.96 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### CAPTRUST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.07 |
+| Price | 22.65 |
 | Trend | weak_trend |
-| RSI | 73.08 |
-| MACD | 0.98 |
-| MA20 | 19.65 |
-| MA200 | 14.95 |
-| ATR | 1.09 |
+| RSI | 67.84 |
+| MACD | 1.03 |
+| MA20 | 19.87 |
+| MA200 | 15.0 |
+| ATR | 1.1 |
 | Risk | ELEVATED |
-| Stop Loss | 21.43 |
-| Target | 25.25 |
+| Stop Loss | 21.0 |
+| Target | 24.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39237,16 +39255,16 @@
 ### ATAM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 53.47 |
+| Price | 53.12 |
 | Trend | downtrend |
-| RSI | 28.24 |
-| MACD | -0.98 |
-| MA20 | 56.42 |
-| MA200 | 66.65 |
-| ATR | 2.56 |
+| RSI | 29.22 |
+| MACD | -1.07 |
+| MA20 | 56.33 |
+| MA200 | 66.51 |
+| ATR | 2.5 |
 | Risk | ELEVATED |
-| Stop Loss | 49.63 |
-| Target | 58.59 |
+| Stop Loss | 49.38 |
+| Target | 58.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39255,34 +39273,34 @@
 ### PARAGON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.6 |
-| Trend | uptrend |
-| RSI | 55.37 |
-| MACD | 0.08 |
-| MA20 | 51.96 |
-| MA200 | 46.03 |
+| Price | 53.05 |
+| Trend | weak_trend |
+| RSI | 47.13 |
+| MACD | 0.19 |
+| MA20 | 51.92 |
+| MA200 | 46.09 |
 | ATR | 2.8 |
 | Risk | ELEVATED |
-| Stop Loss | 51.41 |
-| Target | 61.19 |
+| Stop Loss | 48.84 |
+| Target | 58.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### LPDC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.09 |
+| Price | 6.17 |
 | Trend | downtrend |
-| RSI | 18.03 |
+| RSI | 29.7 |
 | MACD | -0.12 |
 | MA20 | 6.35 |
 | MA200 | 6.63 |
-| ATR | 0.34 |
+| ATR | 0.3 |
 | Risk | ELEVATED |
-| Stop Loss | 5.59 |
-| Target | 6.76 |
+| Stop Loss | 5.71 |
+| Target | 6.78 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39291,16 +39309,16 @@
 ### ROXHITECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 66.25 |
+| Price | 69.55 |
 | Trend | weak_trend |
-| RSI | 75.3 |
-| MACD | 5.18 |
-| MA20 | 51.68 |
-| MA200 | 38.76 |
-| ATR | 4.32 |
+| RSI | 78.74 |
+| MACD | 5.65 |
+| MA20 | 52.92 |
+| MA200 | 38.9 |
+| ATR | 4.49 |
 | Risk | ELEVATED |
-| Stop Loss | 59.77 |
-| Target | 74.9 |
+| Stop Loss | 62.82 |
+| Target | 78.52 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39309,16 +39327,16 @@
 ### DIGJAMLMTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.92 |
+| Price | 52.41 |
 | Trend | weak_trend |
-| RSI | 22.18 |
-| MACD | -1.52 |
-| MA20 | 54.08 |
-| MA200 | 47.64 |
-| ATR | 2.63 |
+| RSI | 36.98 |
+| MACD | -1.21 |
+| MA20 | 53.28 |
+| MA200 | 47.65 |
+| ATR | 2.61 |
 | Risk | ELEVATED |
-| Stop Loss | 45.97 |
-| Target | 55.18 |
+| Stop Loss | 48.49 |
+| Target | 57.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39327,34 +39345,34 @@
 ### NIRMAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.5 |
-| Trend | weak_trend |
-| RSI | 43.68 |
-| MACD | -0.84 |
-| MA20 | 26.79 |
-| MA200 | 45.24 |
-| ATR | 1.7 |
+| Price | 27.95 |
+| Trend | downtrend |
+| RSI | 54.42 |
+| MACD | -0.68 |
+| MA20 | 26.81 |
+| MA200 | 45.04 |
+| ATR | 2.01 |
 | Risk | ELEVATED |
-| Stop Loss | 22.94 |
-| Target | 28.91 |
+| Stop Loss | 24.93 |
+| Target | 31.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### PATINTLOG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.83 |
+| Price | 12.82 |
 | Trend | weak_trend |
-| RSI | 25.07 |
-| MACD | -0.15 |
-| MA20 | 13.46 |
+| RSI | 28.53 |
+| MACD | -0.17 |
+| MA20 | 13.45 |
 | MA200 | 12.61 |
-| ATR | 0.67 |
+| ATR | 0.61 |
 | Risk | ELEVATED |
-| Stop Loss | 11.83 |
-| Target | 14.16 |
+| Stop Loss | 11.9 |
+| Target | 14.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39363,16 +39381,16 @@
 ### GOYALALUM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.77 |
+| Price | 5.78 |
 | Trend | downtrend |
-| RSI | 34.62 |
-| MACD | -0.12 |
-| MA20 | 5.89 |
-| MA200 | 6.77 |
-| ATR | 0.3 |
+| RSI | 39.78 |
+| MACD | -0.11 |
+| MA20 | 5.88 |
+| MA200 | 6.76 |
+| ATR | 0.28 |
 | Risk | ELEVATED |
-| Stop Loss | 5.32 |
-| Target | 6.37 |
+| Stop Loss | 5.35 |
+| Target | 6.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39399,34 +39417,34 @@
 ### IL&FSTRANS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.14 |
-| Trend | downtrend |
-| RSI | 64.18 |
-| MACD | -0.0 |
-| MA20 | 1.94 |
+| Price | 2.13 |
+| Trend | weak_trend |
+| RSI | 72.88 |
+| MACD | 0.01 |
+| MA20 | 1.95 |
 | MA200 | 2.33 |
-| ATR | 0.11 |
+| ATR | 0.1 |
 | Risk | ELEVATED |
 | Stop Loss | 1.98 |
-| Target | 2.35 |
+| Target | 2.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ACCURACY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.12 |
+| Price | 4.1 |
 | Trend | downtrend |
-| RSI | 16.9 |
+| RSI | 23.53 |
 | MACD | -0.1 |
-| MA20 | 4.3 |
-| MA200 | 4.96 |
+| MA20 | 4.29 |
+| MA200 | 4.95 |
 | ATR | 0.2 |
 | Risk | ELEVATED |
-| Stop Loss | 3.82 |
-| Target | 4.52 |
+| Stop Loss | 3.81 |
+| Target | 4.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39435,34 +39453,34 @@
 ### PRUDMOULI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.72 |
+| Price | 14.83 |
 | Trend | downtrend |
-| RSI | 57.38 |
-| MACD | -0.25 |
-| MA20 | 14.21 |
-| MA200 | 15.99 |
-| ATR | 0.98 |
+| RSI | 67.39 |
+| MACD | -0.17 |
+| MA20 | 14.14 |
+| MA200 | 15.96 |
+| ATR | 0.97 |
 | Risk | ELEVATED |
-| Stop Loss | 13.24 |
-| Target | 16.69 |
+| Stop Loss | 13.38 |
+| Target | 16.77 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### DIGIKORE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 35.4 |
-| Trend | weak_trend |
-| RSI | 47.03 |
-| MACD | -0.84 |
-| MA20 | 36.9 |
-| MA200 | 59.15 |
-| ATR | 2.08 |
+| Price | 35.2 |
+| Trend | downtrend |
+| RSI | 48.13 |
+| MACD | -0.88 |
+| MA20 | 36.76 |
+| MA200 | 58.93 |
+| ATR | 2.06 |
 | Risk | ELEVATED |
-| Stop Loss | 32.29 |
-| Target | 39.55 |
+| Stop Loss | 32.11 |
+| Target | 39.31 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39471,16 +39489,16 @@
 ### AMDIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.04 |
+| Price | 49.02 |
 | Trend | weak_trend |
-| RSI | 21.38 |
-| MACD | -1.83 |
-| MA20 | 57.06 |
+| RSI | 21.65 |
+| MACD | -2.0 |
+| MA20 | 56.31 |
 | MA200 | 47.01 |
-| ATR | 2.41 |
+| ATR | 2.28 |
 | Risk | ELEVATED |
-| Stop Loss | 45.43 |
-| Target | 53.85 |
+| Stop Loss | 45.61 |
+| Target | 53.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39489,34 +39507,34 @@
 ### SILKFLEX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 255.0 |
+| Price | 258.0 |
 | Trend | weak_trend |
-| RSI | 35.78 |
-| MACD | 3.49 |
-| MA20 | 279.61 |
-| MA200 | 178.34 |
-| ATR | 14.22 |
+| RSI | 33.84 |
+| MACD | 1.94 |
+| MA20 | 278.45 |
+| MA200 | 179.18 |
+| ATR | 13.59 |
 | Risk | ELEVATED |
-| Stop Loss | 233.67 |
-| Target | 283.44 |
+| Stop Loss | 237.62 |
+| Target | 285.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BVCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.82 |
+| Price | 39.84 |
 | Trend | downtrend |
-| RSI | 43.55 |
-| MACD | -0.42 |
-| MA20 | 41.13 |
-| MA200 | 42.24 |
-| ATR | 1.73 |
+| RSI | 40.79 |
+| MACD | -0.48 |
+| MA20 | 41.02 |
+| MA200 | 42.23 |
+| ATR | 1.63 |
 | Risk | ELEVATED |
-| Stop Loss | 37.22 |
-| Target | 43.29 |
+| Stop Loss | 37.4 |
+| Target | 43.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39525,16 +39543,16 @@
 ### CINEVISTA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.43 |
-| Trend | downtrend |
-| RSI | 53.29 |
-| MACD | 0.02 |
-| MA20 | 14.12 |
+| Price | 14.49 |
+| Trend | weak_trend |
+| RSI | 49.76 |
+| MACD | 0.03 |
+| MA20 | 14.14 |
 | MA200 | 15.26 |
-| ATR | 0.98 |
+| ATR | 0.97 |
 | Risk | ELEVATED |
-| Stop Loss | 12.95 |
-| Target | 16.4 |
+| Stop Loss | 13.04 |
+| Target | 16.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39543,38 +39561,38 @@
 ### MOTOGENFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.33 |
+| Price | 25.61 |
 | Trend | weak_trend |
-| RSI | 39.96 |
-| MACD | -0.36 |
+| RSI | 44.11 |
+| MACD | -0.33 |
 | MA20 | 25.57 |
-| MA200 | 24.79 |
-| ATR | 1.19 |
+| MA200 | 24.81 |
+| ATR | 1.11 |
 | Risk | ELEVATED |
-| Stop Loss | 23.54 |
-| Target | 27.71 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### HISARMETAL.NS
-| Metric | Value |
-|--------|-------|
-| Price | 143.07 |
-| Trend | downtrend |
-| RSI | 2.56 |
-| MACD | -3.01 |
-| MA20 | 151.0 |
-| MA200 | 153.58 |
-| ATR | 4.47 |
-| Risk | NORMAL |
-| Stop Loss | 136.36 |
-| Target | 152.02 |
+| Stop Loss | 23.94 |
+| Target | 27.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### HISARMETAL.NS
+| Metric | Value |
+|--------|-------|
+| Price | 143.87 |
+| Trend | downtrend |
+| RSI | 8.4 |
+| MACD | -3.05 |
+| MA20 | 150.34 |
+| MA200 | 153.52 |
+| ATR | 4.5 |
+| Risk | NORMAL |
+| Stop Loss | 137.11 |
+| Target | 152.88 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### JHS.NS
 | Metric | Value |
@@ -39597,16 +39615,16 @@
 ### PRITI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.38 |
+| Price | 31.01 |
 | Trend | downtrend |
-| RSI | 41.02 |
-| MACD | -0.69 |
-| MA20 | 32.48 |
-| MA200 | 42.35 |
-| ATR | 1.87 |
+| RSI | 39.46 |
+| MACD | -0.72 |
+| MA20 | 32.37 |
+| MA200 | 42.22 |
+| ATR | 1.89 |
 | Risk | ELEVATED |
-| Stop Loss | 28.58 |
-| Target | 35.12 |
+| Stop Loss | 28.17 |
+| Target | 34.79 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39615,34 +39633,34 @@
 ### ENERGYDEV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.66 |
+| Price | 13.44 |
 | Trend | downtrend |
-| RSI | 36.09 |
-| MACD | -0.38 |
-| MA20 | 14.52 |
-| MA200 | 16.58 |
-| ATR | 0.73 |
+| RSI | 34.1 |
+| MACD | -0.43 |
+| MA20 | 14.44 |
+| MA200 | 16.54 |
+| ATR | 0.76 |
 | Risk | ELEVATED |
-| Stop Loss | 12.57 |
-| Target | 15.11 |
+| Stop Loss | 12.3 |
+| Target | 14.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AAKASH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 8.29 |
+| Price | 8.34 |
 | Trend | downtrend |
-| RSI | 28.48 |
-| MACD | -0.17 |
-| MA20 | 8.67 |
-| MA200 | 8.73 |
-| ATR | 0.5 |
+| RSI | 30.86 |
+| MACD | -0.16 |
+| MA20 | 8.63 |
+| MA200 | 8.72 |
+| ATR | 0.51 |
 | Risk | ELEVATED |
-| Stop Loss | 7.54 |
-| Target | 9.29 |
+| Stop Loss | 7.58 |
+| Target | 9.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39651,16 +39669,16 @@
 ### KANDARP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 64.4 |
+| Price | 64.0 |
 | Trend | weak_trend |
-| RSI | 34.37 |
-| MACD | -7.02 |
-| MA20 | 67.61 |
-| MA200 | 122.98 |
-| ATR | 4.27 |
+| RSI | 33.93 |
+| MACD | -6.57 |
+| MA20 | 67.17 |
+| MA200 | 122.65 |
+| ATR | 4.3 |
 | Risk | ELEVATED |
-| Stop Loss | 57.99 |
-| Target | 72.94 |
+| Stop Loss | 57.55 |
+| Target | 72.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39669,34 +39687,34 @@
 ### EFORCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.7 |
+| Price | 18.05 |
 | Trend | weak_trend |
-| RSI | 42.24 |
-| MACD | -0.43 |
-| MA20 | 18.65 |
-| MA200 | 24.63 |
-| ATR | 0.84 |
+| RSI | 40.18 |
+| MACD | -0.44 |
+| MA20 | 18.58 |
+| MA200 | 24.55 |
+| ATR | 0.88 |
 | Risk | ELEVATED |
-| Stop Loss | 16.44 |
-| Target | 19.39 |
+| Stop Loss | 16.74 |
+| Target | 19.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FONEBOX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 154.85 |
+| Price | 153.9 |
 | Trend | weak_trend |
-| RSI | 58.67 |
-| MACD | 8.77 |
-| MA20 | 141.87 |
-| MA200 | 87.15 |
-| ATR | 7.85 |
+| RSI | 54.93 |
+| MACD | 9.05 |
+| MA20 | 143.32 |
+| MA200 | 87.45 |
+| ATR | 7.42 |
 | Risk | ELEVATED |
-| Stop Loss | 143.08 |
-| Target | 170.54 |
+| Stop Loss | 142.77 |
+| Target | 168.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39705,15 +39723,15 @@
 ### ORCHASP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.33 |
+| Price | 1.34 |
 | Trend | weak_trend |
-| RSI | 37.5 |
-| MACD | -0.04 |
+| RSI | 45.71 |
+| MACD | -0.03 |
 | MA20 | 1.37 |
-| MA200 | 2.02 |
-| ATR | 0.09 |
+| MA200 | 2.01 |
+| ATR | 0.08 |
 | Risk | ELEVATED |
-| Stop Loss | 1.2 |
+| Stop Loss | 1.22 |
 | Target | 1.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -39725,14 +39743,14 @@
 |--------|-------|
 | Price | 30.3 |
 | Trend | weak_trend |
-| RSI | 39.3 |
+| RSI | 36.46 |
 | MACD | -0.7 |
-| MA20 | 31.51 |
-| MA200 | 36.52 |
-| ATR | 1.06 |
+| MA20 | 31.26 |
+| MA200 | 36.44 |
+| ATR | 1.03 |
 | Risk | NORMAL |
-| Stop Loss | 28.71 |
-| Target | 32.41 |
+| Stop Loss | 28.76 |
+| Target | 32.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39741,16 +39759,16 @@
 ### TGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.25 |
+| Price | 12.05 |
 | Trend | downtrend |
-| RSI | 7.81 |
-| MACD | -1.2 |
-| MA20 | 14.15 |
-| MA200 | 32.07 |
+| RSI | 7.94 |
+| MACD | -1.21 |
+| MA20 | 13.93 |
+| MA200 | 31.81 |
 | ATR | 0.29 |
 | Risk | NORMAL |
-| Stop Loss | 11.82 |
-| Target | 12.83 |
+| Stop Loss | 11.62 |
+| Target | 12.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39761,32 +39779,32 @@
 |--------|-------|
 | Price | 58.8 |
 | Trend | weak_trend |
-| RSI | 14.89 |
-| MACD | -5.27 |
-| MA20 | 67.06 |
-| MA200 | 54.12 |
-| ATR | 1.71 |
+| RSI | 16.62 |
+| MACD | -5.15 |
+| MA20 | 65.85 |
+| MA200 | 54.19 |
+| ATR | 1.58 |
 | Risk | NORMAL |
-| Stop Loss | 56.23 |
-| Target | 62.23 |
+| Stop Loss | 56.44 |
+| Target | 61.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AISL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.8 |
+| Price | 30.25 |
 | Trend | downtrend |
-| RSI | 26.62 |
-| MACD | -6.24 |
-| MA20 | 45.65 |
-| MA200 | 61.83 |
-| ATR | 3.9 |
+| RSI | 22.06 |
+| MACD | -6.46 |
+| MA20 | 44.44 |
+| MA200 | 61.58 |
+| ATR | 3.84 |
 | Risk | ELEVATED |
-| Stop Loss | 25.95 |
-| Target | 39.6 |
+| Stop Loss | 24.49 |
+| Target | 37.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39795,34 +39813,34 @@
 ### PRAKASHSTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.37 |
+| Price | 3.35 |
 | Trend | downtrend |
-| RSI | 23.33 |
-| MACD | -0.1 |
-| MA20 | 3.6 |
+| RSI | 18.64 |
+| MACD | -0.11 |
+| MA20 | 3.58 |
 | MA200 | 4.31 |
 | ATR | 0.16 |
 | Risk | ELEVATED |
-| Stop Loss | 3.13 |
-| Target | 3.69 |
+| Stop Loss | 3.12 |
+| Target | 3.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CURAA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 72.0 |
+| Price | 68.4 |
 | Trend | downtrend |
-| RSI | 49.14 |
-| MACD | -0.52 |
-| MA20 | 73.0 |
-| MA200 | 87.7 |
+| RSI | 38.0 |
+| MACD | -0.77 |
+| MA20 | 72.44 |
+| MA200 | 87.47 |
 | ATR | 3.26 |
 | Risk | ELEVATED |
-| Stop Loss | 67.11 |
-| Target | 78.52 |
+| Stop Loss | 63.51 |
+| Target | 74.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39835,7 +39853,7 @@
 | Trend | downtrend |
 | RSI | 31.82 |
 | MACD | -0.04 |
-| MA20 | 1.13 |
+| MA20 | 1.12 |
 | MA200 | 1.38 |
 | ATR | 0.06 |
 | Risk | ELEVATED |
@@ -39844,21 +39862,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DBSTOCKBRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.13 |
+| Price | 32.47 |
 | Trend | weak_trend |
-| RSI | 63.73 |
-| MACD | 0.46 |
-| MA20 | 30.49 |
-| MA200 | 29.06 |
-| ATR | 1.82 |
+| RSI | 69.31 |
+| MACD | 0.52 |
+| MA20 | 30.74 |
+| MA200 | 29.1 |
+| ATR | 1.87 |
 | Risk | ELEVATED |
-| Stop Loss | 28.4 |
-| Target | 34.76 |
+| Stop Loss | 29.67 |
+| Target | 36.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39868,33 +39886,33 @@
 | Metric | Value |
 |--------|-------|
 | Price | 31.35 |
-| Trend | downtrend |
-| RSI | 59.55 |
-| MACD | -0.4 |
-| MA20 | 31.88 |
-| MA200 | 36.56 |
-| ATR | 0.44 |
+| Trend | weak_trend |
+| RSI | 38.98 |
+| MACD | -0.39 |
+| MA20 | 31.76 |
+| MA200 | 36.52 |
+| ATR | 0.34 |
 | Risk | LOW |
-| Stop Loss | 30.69 |
-| Target | 32.24 |
+| Stop Loss | 30.85 |
+| Target | 32.02 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### KONSTELEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 49.15 |
+| Price | 48.55 |
 | Trend | weak_trend |
-| RSI | 26.18 |
-| MACD | -3.0 |
-| MA20 | 56.59 |
-| MA200 | 47.88 |
-| ATR | 2.94 |
+| RSI | 27.35 |
+| MACD | -3.14 |
+| MA20 | 55.84 |
+| MA200 | 47.91 |
+| ATR | 3.03 |
 | Risk | ELEVATED |
-| Stop Loss | 44.74 |
-| Target | 55.04 |
+| Stop Loss | 44.01 |
+| Target | 54.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39903,16 +39921,16 @@
 ### SANGANI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.95 |
+| Price | 60.8 |
 | Trend | weak_trend |
-| RSI | 71.81 |
-| MACD | 1.47 |
-| MA20 | 53.83 |
+| RSI | 76.4 |
+| MACD | 1.77 |
+| MA20 | 54.18 |
 | MA200 | 48.56 |
-| ATR | 2.15 |
+| ATR | 2.18 |
 | Risk | NORMAL |
-| Stop Loss | 54.73 |
-| Target | 62.25 |
+| Stop Loss | 57.53 |
+| Target | 65.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39921,34 +39939,34 @@
 ### VIAZ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 90.2 |
+| Price | 90.9 |
 | Trend | weak_trend |
-| RSI | 77.27 |
-| MACD | 4.31 |
-| MA20 | 80.62 |
-| MA200 | 65.73 |
-| ATR | 4.14 |
+| RSI | 77.8 |
+| MACD | 4.55 |
+| MA20 | 81.35 |
+| MA200 | 65.84 |
+| ATR | 3.92 |
 | Risk | ELEVATED |
-| Stop Loss | 84.0 |
-| Target | 98.47 |
+| Stop Loss | 85.01 |
+| Target | 98.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ALKALI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 93.9 |
+| Price | 91.55 |
 | Trend | downtrend |
-| RSI | 42.5 |
-| MACD | 3.64 |
-| MA20 | 88.88 |
-| MA200 | 72.93 |
-| ATR | 6.02 |
+| RSI | 30.13 |
+| MACD | 3.51 |
+| MA20 | 89.6 |
+| MA200 | 73.0 |
+| ATR | 5.48 |
 | Risk | ELEVATED |
-| Stop Loss | 84.86 |
-| Target | 105.95 |
+| Stop Loss | 83.33 |
+| Target | 102.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39957,16 +39975,16 @@
 ### PARTYCRUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 102.0 |
+| Price | 96.35 |
 | Trend | weak_trend |
-| RSI | 65.8 |
-| MACD | 2.73 |
-| MA20 | 97.47 |
-| MA200 | 88.91 |
-| ATR | 2.53 |
+| RSI | 47.97 |
+| MACD | 2.42 |
+| MA20 | 97.29 |
+| MA200 | 88.93 |
+| ATR | 2.61 |
 | Risk | NORMAL |
-| Stop Loss | 98.21 |
-| Target | 107.06 |
+| Stop Loss | 92.44 |
+| Target | 101.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39975,16 +39993,16 @@
 ### BAWEJA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 25.55 |
+| Price | 26.0 |
 | Trend | downtrend |
-| RSI | 60.0 |
-| MACD | 0.31 |
-| MA20 | 25.06 |
-| MA200 | 29.86 |
-| ATR | 0.9 |
+| RSI | 61.97 |
+| MACD | 0.32 |
+| MA20 | 25.15 |
+| MA200 | 29.81 |
+| ATR | 0.92 |
 | Risk | NORMAL |
-| Stop Loss | 24.2 |
-| Target | 27.35 |
+| Stop Loss | 24.62 |
+| Target | 27.84 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -39993,16 +40011,16 @@
 ### AKI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.99 |
+| Price | 5.94 |
 | Trend | weak_trend |
-| RSI | 36.71 |
-| MACD | 0.13 |
-| MA20 | 6.17 |
+| RSI | 35.19 |
+| MACD | 0.11 |
+| MA20 | 6.16 |
 | MA200 | 5.31 |
-| ATR | 0.38 |
+| ATR | 0.36 |
 | Risk | ELEVATED |
-| Stop Loss | 5.42 |
-| Target | 6.75 |
+| Stop Loss | 5.4 |
+| Target | 6.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40011,34 +40029,34 @@
 ### AJOONI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.92 |
-| Trend | downtrend |
-| RSI | 30.88 |
-| MACD | -0.16 |
-| MA20 | 3.17 |
-| MA200 | 4.02 |
+| Price | 3.01 |
+| Trend | weak_trend |
+| RSI | 40.0 |
+| MACD | -0.15 |
+| MA20 | 3.14 |
+| MA200 | 4.01 |
 | ATR | 0.13 |
 | Risk | ELEVATED |
-| Stop Loss | 2.73 |
-| Target | 3.18 |
+| Stop Loss | 2.81 |
+| Target | 3.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ANMOL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.28 |
+| Price | 11.87 |
 | Trend | weak_trend |
-| RSI | 17.77 |
-| MACD | 0.14 |
-| MA20 | 13.79 |
-| MA200 | 11.74 |
-| ATR | 0.85 |
+| RSI | 19.14 |
+| MACD | 0.04 |
+| MA20 | 13.54 |
+| MA200 | 11.73 |
+| ATR | 0.82 |
 | Risk | ELEVATED |
-| Stop Loss | 11.0 |
-| Target | 13.99 |
+| Stop Loss | 10.64 |
+| Target | 13.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40047,16 +40065,16 @@
 ### BANKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 68.43 |
+| Price | 68.58 |
 | Trend | downtrend |
-| RSI | 16.09 |
-| MACD | -3.16 |
-| MA20 | 73.5 |
+| RSI | 20.14 |
+| MACD | -3.08 |
+| MA20 | 72.84 |
 | MA200 | 73.95 |
-| ATR | 2.68 |
+| ATR | 2.57 |
 | Risk | NORMAL |
-| Stop Loss | 64.42 |
-| Target | 73.78 |
+| Stop Loss | 64.72 |
+| Target | 73.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40065,16 +40083,16 @@
 ### NAGREEKEXP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.45 |
+| Price | 21.49 |
 | Trend | downtrend |
-| RSI | 48.8 |
-| MACD | -0.31 |
-| MA20 | 21.93 |
-| MA200 | 24.52 |
-| ATR | 1.98 |
+| RSI | 48.99 |
+| MACD | -0.3 |
+| MA20 | 21.88 |
+| MA200 | 24.5 |
+| ATR | 1.93 |
 | Risk | ELEVATED |
-| Stop Loss | 18.49 |
-| Target | 25.4 |
+| Stop Loss | 18.59 |
+| Target | 25.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40083,16 +40101,16 @@
 ### DELTAMAGNT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.96 |
+| Price | 56.25 |
 | Trend | downtrend |
-| RSI | 53.06 |
-| MACD | -0.33 |
-| MA20 | 55.7 |
-| MA200 | 60.08 |
-| ATR | 3.23 |
+| RSI | 53.57 |
+| MACD | -0.28 |
+| MA20 | 55.72 |
+| MA200 | 60.02 |
+| ATR | 3.05 |
 | Risk | ELEVATED |
-| Stop Loss | 51.12 |
-| Target | 62.41 |
+| Stop Loss | 51.67 |
+| Target | 62.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40104,31 +40122,31 @@
 | Price | 141.1 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 9.06 |
-| MA20 | 107.59 |
-| MA200 | 120.73 |
-| ATR | 3.33 |
+| MACD | 10.14 |
+| MA20 | 109.85 |
+| MA200 | 120.89 |
+| ATR | 3.01 |
 | Risk | NORMAL |
-| Stop Loss | 136.11 |
-| Target | 147.75 |
+| Stop Loss | 136.59 |
+| Target | 147.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### HGM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 38.31 |
+| Price | 39.13 |
 | Trend | downtrend |
-| RSI | 20.28 |
-| MACD | -2.24 |
-| MA20 | 42.91 |
-| MA200 | 53.67 |
-| ATR | 2.6 |
+| RSI | 33.55 |
+| MACD | -2.21 |
+| MA20 | 42.43 |
+| MA200 | 53.51 |
+| ATR | 2.15 |
 | Risk | ELEVATED |
-| Stop Loss | 34.41 |
-| Target | 43.51 |
+| Stop Loss | 35.91 |
+| Target | 43.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40141,8 +40159,8 @@
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -0.04 |
-| MA20 | 2.73 |
-| MA200 | 4.06 |
+| MA20 | 2.72 |
+| MA200 | 4.04 |
 | ATR | 0.01 |
 | Risk | LOW |
 | Stop Loss | 2.59 |
@@ -40150,21 +40168,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CTE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.31 |
+| Price | 37.5 |
 | Trend | weak_trend |
-| RSI | 22.89 |
+| RSI | 23.6 |
 | MACD | -1.29 |
-| MA20 | 40.16 |
-| MA200 | 34.3 |
-| ATR | 2.1 |
+| MA20 | 39.97 |
+| MA200 | 34.29 |
+| ATR | 2.12 |
 | Risk | ELEVATED |
-| Stop Loss | 33.15 |
-| Target | 40.52 |
+| Stop Loss | 34.33 |
+| Target | 41.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40191,20 +40209,20 @@
 ### ORIENTLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 76.43 |
+| Price | 76.98 |
 | Trend | weak_trend |
-| RSI | 43.94 |
-| MACD | -0.75 |
-| MA20 | 79.56 |
+| RSI | 35.5 |
+| MACD | -0.82 |
+| MA20 | 79.27 |
 | MA200 | 69.79 |
-| ATR | 2.94 |
+| ATR | 2.86 |
 | Risk | NORMAL |
-| Stop Loss | 72.02 |
-| Target | 82.31 |
+| Stop Loss | 72.69 |
+| Target | 82.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ARISTO.NS
 | Metric | Value |
@@ -40212,9 +40230,9 @@
 | Price | 94.0 |
 | Trend | downtrend |
 | RSI | 21.57 |
-| MACD | -3.64 |
-| MA20 | 101.59 |
-| MA200 | 101.91 |
+| MACD | -3.56 |
+| MA20 | 101.17 |
+| MA200 | 101.79 |
 | ATR | 2.19 |
 | Risk | NORMAL |
 | Stop Loss | 90.72 |
@@ -40227,34 +40245,34 @@
 ### SRIVASAVI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 91.0 |
+| Price | 88.4 |
 | Trend | weak_trend |
-| RSI | 70.58 |
-| MACD | 2.68 |
-| MA20 | 79.17 |
-| MA200 | 62.16 |
-| ATR | 4.24 |
+| RSI | 63.31 |
+| MACD | 2.88 |
+| MA20 | 79.98 |
+| MA200 | 62.39 |
+| ATR | 4.33 |
 | Risk | ELEVATED |
-| Stop Loss | 84.64 |
-| Target | 99.49 |
+| Stop Loss | 81.9 |
+| Target | 97.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### NARMADA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.86 |
+| Price | 10.75 |
 | Trend | downtrend |
-| RSI | 4.53 |
-| MACD | -0.83 |
-| MA20 | 12.81 |
+| RSI | 4.44 |
+| MACD | -0.87 |
+| MA20 | 12.63 |
 | MA200 | 15.77 |
-| ATR | 0.72 |
+| ATR | 0.73 |
 | Risk | ELEVATED |
-| Stop Loss | 9.77 |
-| Target | 12.31 |
+| Stop Loss | 9.66 |
+| Target | 12.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40263,16 +40281,16 @@
 ### ONDOOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 259.0 |
+| Price | 251.25 |
 | Trend | weak_trend |
-| RSI | 27.67 |
-| MACD | -3.69 |
-| MA20 | 267.42 |
-| MA200 | 187.03 |
-| ATR | 11.55 |
+| RSI | 28.05 |
+| MACD | -4.39 |
+| MA20 | 265.58 |
+| MA200 | 187.69 |
+| ATR | 11.13 |
 | Risk | ELEVATED |
-| Stop Loss | 241.67 |
-| Target | 282.1 |
+| Stop Loss | 234.56 |
+| Target | 273.5 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40281,16 +40299,16 @@
 ### PULZ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 21.4 |
+| Price | 21.15 |
 | Trend | weak_trend |
 | RSI | 44.93 |
-| MACD | -0.38 |
-| MA20 | 21.8 |
-| MA200 | 25.14 |
-| ATR | 0.64 |
+| MACD | -0.39 |
+| MA20 | 21.66 |
+| MA200 | 25.08 |
+| ATR | 0.61 |
 | Risk | NORMAL |
-| Stop Loss | 20.45 |
-| Target | 22.67 |
+| Stop Loss | 20.23 |
+| Target | 22.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40299,16 +40317,16 @@
 ### TFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.72 |
+| Price | 11.95 |
 | Trend | downtrend |
-| RSI | 41.26 |
-| MACD | 0.02 |
-| MA20 | 11.85 |
-| MA200 | 12.63 |
-| ATR | 0.66 |
+| RSI | 55.1 |
+| MACD | 0.03 |
+| MA20 | 11.86 |
+| MA200 | 12.62 |
+| ATR | 0.7 |
 | Risk | ELEVATED |
-| Stop Loss | 10.72 |
-| Target | 13.05 |
+| Stop Loss | 10.89 |
+| Target | 13.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40317,34 +40335,34 @@
 ### AGRITECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 99.24 |
-| Trend | downtrend |
-| RSI | 51.05 |
-| MACD | -2.12 |
-| MA20 | 94.77 |
-| MA200 | 116.78 |
-| ATR | 6.07 |
+| Price | 94.36 |
+| Trend | weak_trend |
+| RSI | 44.75 |
+| MACD | -1.92 |
+| MA20 | 94.5 |
+| MA200 | 116.41 |
+| ATR | 6.13 |
 | Risk | ELEVATED |
-| Stop Loss | 90.14 |
-| Target | 111.38 |
+| Stop Loss | 85.16 |
+| Target | 106.63 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ARABIAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.95 |
+| Price | 99.05 |
 | Trend | weak_trend |
-| RSI | 59.66 |
-| MACD | 4.64 |
-| MA20 | 90.34 |
-| MA200 | 74.11 |
-| ATR | 4.82 |
+| RSI | 62.24 |
+| MACD | 4.55 |
+| MA20 | 91.38 |
+| MA200 | 74.26 |
+| ATR | 4.76 |
 | Risk | ELEVATED |
-| Stop Loss | 93.72 |
-| Target | 110.59 |
+| Stop Loss | 91.91 |
+| Target | 108.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40371,34 +40389,34 @@
 ### BLUECOAST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.78 |
+| Price | 23.06 |
 | Trend | downtrend |
-| RSI | 60.2 |
-| MACD | -0.26 |
-| MA20 | 21.45 |
-| MA200 | 26.39 |
-| ATR | 1.66 |
+| RSI | 65.48 |
+| MACD | -0.14 |
+| MA20 | 21.5 |
+| MA200 | 26.33 |
+| ATR | 1.64 |
 | Risk | ELEVATED |
-| Stop Loss | 20.29 |
-| Target | 26.1 |
+| Stop Loss | 20.59 |
+| Target | 26.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### BANARBEADS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 107.99 |
+| Price | 110.98 |
 | Trend | downtrend |
-| RSI | 46.37 |
-| MACD | -0.68 |
-| MA20 | 113.22 |
-| MA200 | 113.32 |
-| ATR | 6.75 |
+| RSI | 49.66 |
+| MACD | -0.74 |
+| MA20 | 113.39 |
+| MA200 | 113.23 |
+| ATR | 6.8 |
 | Risk | ELEVATED |
-| Stop Loss | 97.87 |
-| Target | 121.49 |
+| Stop Loss | 100.79 |
+| Target | 124.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40407,16 +40425,16 @@
 ### AGROPHOS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.09 |
-| Trend | downtrend |
-| RSI | 38.39 |
-| MACD | -0.8 |
-| MA20 | 23.33 |
-| MA200 | 31.08 |
-| ATR | 1.45 |
+| Price | 22.8 |
+| Trend | weak_trend |
+| RSI | 42.84 |
+| MACD | -0.75 |
+| MA20 | 23.3 |
+| MA200 | 31.0 |
+| ATR | 1.36 |
 | Risk | ELEVATED |
-| Stop Loss | 19.91 |
-| Target | 24.99 |
+| Stop Loss | 20.77 |
+| Target | 25.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40425,34 +40443,34 @@
 ### DAMODARIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.11 |
+| Price | 27.33 |
 | Trend | downtrend |
-| RSI | 43.19 |
-| MACD | -0.43 |
-| MA20 | 27.63 |
-| MA200 | 28.03 |
-| ATR | 1.15 |
+| RSI | 37.78 |
+| MACD | -0.38 |
+| MA20 | 27.56 |
+| MA200 | 28.02 |
+| ATR | 1.16 |
 | Risk | ELEVATED |
-| Stop Loss | 25.38 |
-| Target | 29.42 |
+| Stop Loss | 25.6 |
+| Target | 29.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### K2INFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.8 |
+| Price | 41.3 |
 | Trend | weak_trend |
-| RSI | 37.14 |
-| MACD | -2.28 |
-| MA20 | 42.48 |
-| MA200 | 54.82 |
-| ATR | 2.64 |
+| RSI | 45.37 |
+| MACD | -2.12 |
+| MA20 | 42.19 |
+| MA200 | 54.72 |
+| ATR | 2.53 |
 | Risk | ELEVATED |
-| Stop Loss | 35.85 |
-| Target | 45.07 |
+| Stop Loss | 37.51 |
+| Target | 46.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40461,16 +40479,16 @@
 ### NOIDATOLL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.87 |
+| Price | 3.84 |
 | Trend | weak_trend |
-| RSI | 46.43 |
-| MACD | -0.09 |
-| MA20 | 3.84 |
+| RSI | 44.29 |
+| MACD | -0.08 |
+| MA20 | 3.83 |
 | MA200 | 4.16 |
-| ATR | 0.24 |
+| ATR | 0.25 |
 | Risk | ELEVATED |
-| Stop Loss | 3.5 |
-| Target | 4.36 |
+| Stop Loss | 3.46 |
+| Target | 4.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40479,34 +40497,34 @@
 ### 3PLAND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.49 |
-| Trend | weak_trend |
-| RSI | 49.92 |
-| MACD | -0.21 |
+| Price | 31.22 |
+| Trend | downtrend |
+| RSI | 54.43 |
+| MACD | -0.18 |
 | MA20 | 31.01 |
-| MA200 | 33.14 |
-| ATR | 1.58 |
+| MA200 | 33.1 |
+| ATR | 1.34 |
 | Risk | ELEVATED |
-| Stop Loss | 29.12 |
-| Target | 34.65 |
+| Stop Loss | 29.21 |
+| Target | 33.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AMEYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 178.5 |
+| Price | 184.75 |
 | Trend | uptrend |
-| RSI | 65.16 |
-| MACD | 12.1 |
-| MA20 | 148.47 |
-| MA200 | 109.07 |
-| ATR | 8.85 |
+| RSI | 64.72 |
+| MACD | 13.5 |
+| MA20 | 151.66 |
+| MA200 | 109.5 |
+| ATR | 8.95 |
 | Risk | ELEVATED |
-| Stop Loss | 165.23 |
-| Target | 196.19 |
+| Stop Loss | 171.33 |
+| Target | 202.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40515,16 +40533,16 @@
 ### SECURKLOUD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.69 |
+| Price | 15.15 |
 | Trend | downtrend |
-| RSI | 19.49 |
-| MACD | -0.6 |
-| MA20 | 16.41 |
-| MA200 | 20.57 |
-| ATR | 0.94 |
+| RSI | 28.75 |
+| MACD | -0.62 |
+| MA20 | 16.34 |
+| MA200 | 20.52 |
+| ATR | 1.01 |
 | Risk | ELEVATED |
-| Stop Loss | 13.28 |
-| Target | 16.57 |
+| Stop Loss | 13.64 |
+| Target | 17.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40533,34 +40551,34 @@
 ### ROML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 42.0 |
-| Trend | weak_trend |
-| RSI | 57.65 |
-| MACD | -0.2 |
-| MA20 | 42.15 |
-| MA200 | 44.71 |
-| ATR | 1.52 |
+| Price | 41.0 |
+| Trend | downtrend |
+| RSI | 49.22 |
+| MACD | -0.28 |
+| MA20 | 42.07 |
+| MA200 | 44.68 |
+| ATR | 1.5 |
 | Risk | NORMAL |
-| Stop Loss | 39.72 |
-| Target | 45.04 |
+| Stop Loss | 38.74 |
+| Target | 44.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### PARASPETRO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.0 |
+| Price | 2.02 |
 | Trend | downtrend |
-| RSI | 28.12 |
-| MACD | -0.05 |
-| MA20 | 2.08 |
+| RSI | 37.93 |
+| MACD | -0.04 |
+| MA20 | 2.07 |
 | MA200 | 2.15 |
 | ATR | 0.08 |
-| Risk | ELEVATED |
-| Stop Loss | 1.88 |
-| Target | 2.16 |
+| Risk | NORMAL |
+| Stop Loss | 1.9 |
+| Target | 2.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40569,16 +40587,16 @@
 ### MARCO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 28.75 |
+| Price | 29.05 |
 | Trend | downtrend |
-| RSI | 54.95 |
-| MACD | -0.68 |
-| MA20 | 29.31 |
-| MA200 | 33.52 |
-| ATR | 1.12 |
+| RSI | 53.14 |
+| MACD | -0.64 |
+| MA20 | 29.19 |
+| MA200 | 33.46 |
+| ATR | 1.05 |
 | Risk | NORMAL |
-| Stop Loss | 27.07 |
-| Target | 30.99 |
+| Stop Loss | 27.47 |
+| Target | 31.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40587,16 +40605,16 @@
 ### AHLADA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 36.73 |
+| Price | 37.04 |
 | Trend | downtrend |
 | RSI | 48.79 |
-| MACD | -0.04 |
-| MA20 | 37.51 |
-| MA200 | 42.33 |
-| ATR | 2.56 |
+| MACD | -0.08 |
+| MA20 | 37.61 |
+| MA200 | 42.27 |
+| ATR | 2.57 |
 | Risk | ELEVATED |
-| Stop Loss | 32.88 |
-| Target | 41.86 |
+| Stop Loss | 33.18 |
+| Target | 42.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40605,34 +40623,34 @@
 ### HOMESFY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 128.0 |
+| Price | 134.3 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 3.43 |
-| MA20 | 117.72 |
-| MA200 | 131.41 |
-| ATR | 0.86 |
+| MACD | 4.16 |
+| MA20 | 118.87 |
+| MA200 | 131.26 |
+| ATR | 1.31 |
 | Risk | LOW |
-| Stop Loss | 126.71 |
-| Target | 129.71 |
+| Stop Loss | 132.34 |
+| Target | 136.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### TPHQ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.49 |
+| Price | 0.5 |
 | Trend | downtrend |
-| RSI | 31.25 |
+| RSI | 40.0 |
 | MACD | -0.01 |
 | MA20 | 0.5 |
 | MA200 | 0.54 |
 | ATR | 0.02 |
 | Risk | ELEVATED |
-| Stop Loss | 0.45 |
-| Target | 0.54 |
+| Stop Loss | 0.47 |
+| Target | 0.55 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40641,16 +40659,16 @@
 ### ATLASCYCLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 92.86 |
-| Trend | weak_trend |
-| RSI | 56.85 |
-| MACD | -1.11 |
-| MA20 | 92.8 |
+| Price | 91.69 |
+| Trend | downtrend |
+| RSI | 46.73 |
+| MACD | -1.12 |
+| MA20 | 92.6 |
 | MA200 | 96.12 |
-| ATR | 5.17 |
+| ATR | 4.98 |
 | Risk | ELEVATED |
-| Stop Loss | 85.1 |
-| Target | 103.2 |
+| Stop Loss | 84.22 |
+| Target | 101.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40659,20 +40677,20 @@
 ### SHEKHAWATI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.15 |
+| Price | 21.05 |
 | Trend | weak_trend |
-| RSI | 48.93 |
-| MACD | 1.66 |
-| MA20 | 25.01 |
+| RSI | 42.97 |
+| MACD | 1.2 |
+| MA20 | 25.09 |
 | MA200 | 15.77 |
 | ATR | 1.53 |
 | Risk | ELEVATED |
-| Stop Loss | 19.85 |
-| Target | 25.21 |
+| Stop Loss | 18.75 |
+| Target | 24.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ORIENTALTL.NS
 | Metric | Value |
@@ -40695,52 +40713,52 @@
 ### FMNL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.89 |
-| Trend | downtrend |
-| RSI | 27.78 |
-| MACD | -0.35 |
-| MA20 | 8.4 |
-| MA200 | 9.12 |
-| ATR | 0.59 |
+| Price | 8.03 |
+| Trend | weak_trend |
+| RSI | 39.36 |
+| MACD | -0.34 |
+| MA20 | 8.33 |
+| MA200 | 9.11 |
+| ATR | 0.57 |
 | Risk | ELEVATED |
-| Stop Loss | 7.0 |
-| Target | 9.08 |
+| Stop Loss | 7.18 |
+| Target | 9.16 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SAIFL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 4.1 |
 | Trend | weak_trend |
-| RSI | 35.0 |
+| RSI | 38.89 |
 | MACD | -0.15 |
-| MA20 | 4.25 |
-| MA200 | 7.76 |
-| ATR | 0.21 |
+| MA20 | 4.24 |
+| MA200 | 7.7 |
+| ATR | 0.19 |
 | Risk | ELEVATED |
-| Stop Loss | 3.79 |
-| Target | 4.51 |
+| Stop Loss | 3.81 |
+| Target | 4.49 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SYNOPTICS.NS
 | Metric | Value |
 |--------|-------|
 | Price | 48.35 |
 | Trend | downtrend |
-| RSI | 61.13 |
-| MACD | -1.57 |
-| MA20 | 47.84 |
-| MA200 | 57.91 |
-| ATR | 1.07 |
-| Risk | NORMAL |
-| Stop Loss | 46.74 |
-| Target | 50.5 |
+| RSI | 54.3 |
+| MACD | -1.49 |
+| MA20 | 47.79 |
+| MA200 | 57.83 |
+| ATR | 0.91 |
+| Risk | LOW |
+| Stop Loss | 46.98 |
+| Target | 50.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40749,16 +40767,16 @@
 ### NORBTEAEXP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 63.83 |
+| Price | 61.15 |
 | Trend | downtrend |
-| RSI | 45.36 |
-| MACD | -0.92 |
-| MA20 | 65.38 |
-| MA200 | 77.25 |
-| ATR | 4.48 |
+| RSI | 40.93 |
+| MACD | -1.14 |
+| MA20 | 65.22 |
+| MA200 | 77.2 |
+| ATR | 4.85 |
 | Risk | ELEVATED |
-| Stop Loss | 57.11 |
-| Target | 72.79 |
+| Stop Loss | 53.88 |
+| Target | 70.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40767,16 +40785,16 @@
 ### BANG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32.06 |
+| Price | 31.87 |
 | Trend | downtrend |
-| RSI | 41.91 |
-| MACD | 0.06 |
-| MA20 | 32.71 |
-| MA200 | 36.51 |
-| ATR | 1.67 |
+| RSI | 46.21 |
+| MACD | -0.01 |
+| MA20 | 32.54 |
+| MA200 | 36.43 |
+| ATR | 1.6 |
 | Risk | ELEVATED |
-| Stop Loss | 29.55 |
-| Target | 35.41 |
+| Stop Loss | 29.48 |
+| Target | 35.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40788,9 +40806,9 @@
 | Price | 73.15 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -2.82 |
-| MA20 | 82.98 |
-| MA200 | 107.53 |
+| MACD | -3.16 |
+| MA20 | 82.36 |
+| MA200 | 107.27 |
 | ATR | 0.92 |
 | Risk | LOW |
 | Stop Loss | 71.77 |
@@ -40798,21 +40816,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### FLEXITUFF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.19 |
+| Price | 3.13 |
 | Trend | weak_trend |
-| RSI | 91.18 |
+| RSI | 82.61 |
 | MACD | 0.11 |
-| MA20 | 2.81 |
-| MA200 | 6.77 |
+| MA20 | 2.86 |
+| MA200 | 6.71 |
 | ATR | 0.05 |
 | Risk | LOW |
-| Stop Loss | 3.11 |
-| Target | 3.3 |
+| Stop Loss | 3.05 |
+| Target | 3.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40821,16 +40839,16 @@
 ### LRRPL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 91.0 |
+| Price | 93.0 |
 | Trend | weak_trend |
-| RSI | 46.53 |
-| MACD | 1.49 |
+| RSI | 52.04 |
+| MACD | 1.12 |
 | MA20 | 96.06 |
-| MA200 | 80.16 |
-| ATR | 4.12 |
+| MA200 | 80.26 |
+| ATR | 3.91 |
 | Risk | ELEVATED |
-| Stop Loss | 84.81 |
-| Target | 99.25 |
+| Stop Loss | 87.13 |
+| Target | 100.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40839,15 +40857,15 @@
 ### ANSALAPI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.65 |
+| Price | 3.64 |
 | Trend | weak_trend |
-| RSI | 49.5 |
-| MACD | 0.1 |
-| MA20 | 3.78 |
+| RSI | 45.26 |
+| MACD | 0.08 |
+| MA20 | 3.79 |
 | MA200 | 3.44 |
 | ATR | 0.12 |
 | Risk | NORMAL |
-| Stop Loss | 3.47 |
+| Stop Loss | 3.45 |
 | Target | 3.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
@@ -40875,16 +40893,16 @@
 ### BALKRISHNA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.71 |
+| Price | 15.63 |
 | Trend | downtrend |
-| RSI | 43.24 |
-| MACD | -0.29 |
-| MA20 | 16.16 |
-| MA200 | 17.3 |
-| ATR | 0.78 |
+| RSI | 39.11 |
+| MACD | -0.3 |
+| MA20 | 16.14 |
+| MA200 | 17.27 |
+| ATR | 0.81 |
 | Risk | ELEVATED |
-| Stop Loss | 14.54 |
-| Target | 17.27 |
+| Stop Loss | 14.42 |
+| Target | 17.25 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40893,34 +40911,34 @@
 ### SWASTIK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.55 |
+| Price | 16.0 |
 | Trend | downtrend |
-| RSI | 49.64 |
-| MACD | -0.27 |
-| MA20 | 17.8 |
-| MA200 | 19.6 |
-| ATR | 0.61 |
+| RSI | 36.0 |
+| MACD | -0.4 |
+| MA20 | 17.72 |
+| MA200 | 19.57 |
+| ATR | 0.59 |
 | Risk | NORMAL |
-| Stop Loss | 15.63 |
-| Target | 17.78 |
+| Stop Loss | 15.12 |
+| Target | 17.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### NIBL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.61 |
+| Price | 31.22 |
 | Trend | downtrend |
-| RSI | 49.93 |
-| MACD | -0.22 |
-| MA20 | 31.59 |
-| MA200 | 31.36 |
-| ATR | 1.97 |
+| RSI | 31.47 |
+| MACD | -0.21 |
+| MA20 | 31.49 |
+| MA200 | 31.38 |
+| ATR | 1.76 |
 | Risk | ELEVATED |
-| Stop Loss | 27.65 |
-| Target | 34.56 |
+| Stop Loss | 28.58 |
+| Target | 34.74 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40929,16 +40947,16 @@
 ### JAIPURKURT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.0 |
-| Trend | downtrend |
-| RSI | 66.09 |
-| MACD | 0.9 |
-| MA20 | 26.35 |
-| MA200 | 30.24 |
-| ATR | 2.12 |
+| Price | 30.55 |
+| Trend | weak_trend |
+| RSI | 70.31 |
+| MACD | 1.05 |
+| MA20 | 26.6 |
+| MA200 | 30.25 |
+| ATR | 2.29 |
 | Risk | ELEVATED |
-| Stop Loss | 25.81 |
-| Target | 33.25 |
+| Stop Loss | 27.12 |
+| Target | 35.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40950,9 +40968,9 @@
 | Price | 72.8 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 3.8 |
-| MA20 | 69.97 |
-| MA200 | 75.42 |
+| MACD | 3.7 |
+| MA20 | 70.21 |
+| MA200 | 75.2 |
 | ATR | 0.25 |
 | Risk | LOW |
 | Stop Loss | 72.43 |
@@ -40965,16 +40983,16 @@
 ### CELEBRITY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.93 |
+| Price | 6.11 |
 | Trend | downtrend |
-| RSI | 33.18 |
+| RSI | 34.11 |
 | MACD | -0.2 |
-| MA20 | 6.5 |
-| MA200 | 7.51 |
-| ATR | 0.48 |
+| MA20 | 6.46 |
+| MA200 | 7.5 |
+| ATR | 0.46 |
 | Risk | ELEVATED |
-| Stop Loss | 5.22 |
-| Target | 6.88 |
+| Stop Loss | 5.41 |
+| Target | 7.04 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -40983,16 +41001,16 @@
 ### GRAPHISAD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.8 |
+| Price | 23.5 |
 | Trend | downtrend |
-| RSI | 39.66 |
-| MACD | -0.58 |
-| MA20 | 24.68 |
-| MA200 | 33.69 |
-| ATR | 0.73 |
+| RSI | 40.0 |
+| MACD | -0.6 |
+| MA20 | 24.56 |
+| MA200 | 33.57 |
+| ATR | 0.71 |
 | Risk | NORMAL |
-| Stop Loss | 22.7 |
-| Target | 25.26 |
+| Stop Loss | 22.44 |
+| Target | 24.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41001,34 +41019,34 @@
 ### RILINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 33.25 |
-| Trend | downtrend |
-| RSI | 52.22 |
+| Price | 32.25 |
+| Trend | weak_trend |
+| RSI | 44.21 |
 | MACD | -0.59 |
-| MA20 | 32.81 |
-| MA200 | 35.59 |
-| ATR | 1.83 |
+| MA20 | 32.82 |
+| MA200 | 35.56 |
+| ATR | 1.88 |
 | Risk | ELEVATED |
-| Stop Loss | 30.51 |
-| Target | 36.9 |
+| Stop Loss | 29.44 |
+| Target | 36.0 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DURLAX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 62.75 |
-| Trend | downtrend |
-| RSI | 49.42 |
-| MACD | 0.39 |
-| MA20 | 62.3 |
-| MA200 | 51.07 |
-| ATR | 3.7 |
+| Price | 62.8 |
+| Trend | weak_trend |
+| RSI | 57.57 |
+| MACD | 0.34 |
+| MA20 | 62.39 |
+| MA200 | 51.18 |
+| ATR | 3.55 |
 | Risk | ELEVATED |
-| Stop Loss | 57.2 |
-| Target | 70.15 |
+| Stop Loss | 57.48 |
+| Target | 69.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41037,16 +41055,16 @@
 ### JETFREIGHT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.15 |
+| Price | 19.23 |
 | Trend | downtrend |
-| RSI | 30.86 |
-| MACD | -0.55 |
-| MA20 | 20.43 |
-| MA200 | 19.9 |
-| ATR | 1.1 |
+| RSI | 23.26 |
+| MACD | -0.57 |
+| MA20 | 20.39 |
+| MA200 | 19.91 |
+| ATR | 1.02 |
 | Risk | ELEVATED |
-| Stop Loss | 17.51 |
-| Target | 21.34 |
+| Stop Loss | 17.7 |
+| Target | 21.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41055,52 +41073,52 @@
 ### SERVICE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.15 |
+| Price | 70.25 |
 | Trend | weak_trend |
-| RSI | 87.81 |
-| MACD | 0.83 |
-| MA20 | 67.43 |
-| MA200 | 54.98 |
-| ATR | 1.2 |
+| RSI | 89.8 |
+| MACD | 0.9 |
+| MA20 | 67.54 |
+| MA200 | 55.12 |
+| ATR | 1.06 |
 | Risk | LOW |
-| Stop Loss | 67.34 |
-| Target | 71.56 |
+| Stop Loss | 68.65 |
+| Target | 72.38 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
+### GSS.NS
+| Metric | Value |
+|--------|-------|
+| Price | 10.26 |
+| Trend | weak_trend |
+| RSI | 42.39 |
+| MACD | -0.35 |
+| MA20 | 10.31 |
+| MA200 | 13.23 |
+| ATR | 0.56 |
+| Risk | ELEVATED |
+| Stop Loss | 9.42 |
+| Target | 11.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
-### GSS.NS
-| Metric | Value |
-|--------|-------|
-| Price | 10.12 |
-| Trend | weak_trend |
-| RSI | 32.32 |
-| MACD | -0.38 |
-| MA20 | 10.3 |
-| MA200 | 13.26 |
-| ATR | 0.58 |
-| Risk | ELEVATED |
-| Stop Loss | 9.25 |
-| Target | 11.28 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
 ### BIOFILCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 30.19 |
+| Price | 30.18 |
 | Trend | downtrend |
-| RSI | 32.36 |
-| MACD | -0.73 |
-| MA20 | 31.61 |
-| MA200 | 32.96 |
-| ATR | 1.36 |
+| RSI | 29.55 |
+| MACD | -0.71 |
+| MA20 | 31.4 |
+| MA200 | 32.95 |
+| ATR | 1.35 |
 | Risk | ELEVATED |
-| Stop Loss | 28.16 |
-| Target | 32.9 |
+| Stop Loss | 28.15 |
+| Target | 32.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41109,16 +41127,16 @@
 ### DHANLAXMI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 26.0 |
+| Price | 27.0 |
 | Trend | downtrend |
-| RSI | 58.62 |
-| MACD | 0.44 |
-| MA20 | 25.2 |
+| RSI | 57.52 |
+| MACD | 0.5 |
+| MA20 | 25.37 |
 | MA200 | 27.51 |
-| ATR | 1.75 |
+| ATR | 1.68 |
 | Risk | ELEVATED |
-| Stop Loss | 23.38 |
-| Target | 29.49 |
+| Stop Loss | 24.48 |
+| Target | 30.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41127,16 +41145,16 @@
 ### ARCHIES.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.92 |
+| Price | 12.01 |
 | Trend | downtrend |
-| RSI | 34.51 |
+| RSI | 33.33 |
 | MACD | -0.27 |
-| MA20 | 12.36 |
-| MA200 | 14.63 |
+| MA20 | 12.35 |
+| MA200 | 14.6 |
 | ATR | 0.52 |
 | Risk | ELEVATED |
-| Stop Loss | 11.14 |
-| Target | 12.97 |
+| Stop Loss | 11.23 |
+| Target | 13.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41145,52 +41163,52 @@
 ### GAYAHWS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.76 |
-| Trend | downtrend |
-| RSI | 34.78 |
-| MACD | -0.04 |
-| MA20 | 1.84 |
-| MA200 | 2.2 |
-| ATR | 0.09 |
+| Price | 1.84 |
+| Trend | weak_trend |
+| RSI | 44.44 |
+| MACD | -0.03 |
+| MA20 | 1.83 |
+| MA200 | 2.19 |
+| ATR | 0.1 |
 | Risk | ELEVATED |
-| Stop Loss | 1.62 |
-| Target | 1.95 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### DANGEE.NS
-| Metric | Value |
-|--------|-------|
-| Price | 3.13 |
-| Trend | downtrend |
-| RSI | 62.43 |
-| MACD | 0.07 |
-| MA20 | 2.91 |
-| MA200 | 3.16 |
-| ATR | 0.25 |
-| Risk | ELEVATED |
-| Stop Loss | 2.75 |
-| Target | 3.63 |
+| Stop Loss | 1.68 |
+| Target | 2.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### DANGEE.NS
+| Metric | Value |
+|--------|-------|
+| Price | 3.26 |
+| Trend | weak_trend |
+| RSI | 65.05 |
+| MACD | 0.09 |
+| MA20 | 2.94 |
+| MA200 | 3.16 |
+| ATR | 0.25 |
+| Risk | ELEVATED |
+| Stop Loss | 2.88 |
+| Target | 3.77 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+
 ### KARMAENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.05 |
+| Price | 34.68 |
 | Trend | downtrend |
-| RSI | 8.26 |
-| MACD | -1.16 |
-| MA20 | 37.85 |
-| MA200 | 42.23 |
-| ATR | 1.9 |
+| RSI | 16.38 |
+| MACD | -1.19 |
+| MA20 | 37.6 |
+| MA200 | 42.15 |
+| ATR | 1.84 |
 | Risk | ELEVATED |
-| Stop Loss | 31.2 |
-| Target | 37.85 |
+| Stop Loss | 31.93 |
+| Target | 38.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41199,16 +41217,16 @@
 ### TNTELE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.42 |
+| Price | 9.22 |
 | Trend | weak_trend |
-| RSI | 50.81 |
-| MACD | 0.24 |
-| MA20 | 10.08 |
-| MA200 | 9.33 |
-| ATR | 1.1 |
+| RSI | 50.49 |
+| MACD | 0.15 |
+| MA20 | 10.09 |
+| MA200 | 9.32 |
+| ATR | 1.08 |
 | Risk | ELEVATED |
-| Stop Loss | 7.77 |
-| Target | 11.62 |
+| Stop Loss | 7.6 |
+| Target | 11.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41217,34 +41235,34 @@
 ### MALUPAPER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 31.86 |
+| Price | 31.33 |
 | Trend | downtrend |
-| RSI | 48.13 |
+| RSI | 45.58 |
 | MACD | -0.29 |
-| MA20 | 31.9 |
-| MA200 | 32.39 |
-| ATR | 1.37 |
+| MA20 | 31.74 |
+| MA200 | 32.38 |
+| ATR | 1.44 |
 | Risk | ELEVATED |
-| Stop Loss | 29.81 |
-| Target | 34.6 |
+| Stop Loss | 29.18 |
+| Target | 34.2 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### BLUEPEBBLE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 63.65 |
+| Price | 66.0 |
 | Trend | downtrend |
-| RSI | 9.83 |
-| MACD | -2.17 |
-| MA20 | 71.55 |
-| MA200 | 101.97 |
-| ATR | 2.19 |
+| RSI | 23.26 |
+| MACD | -2.16 |
+| MA20 | 70.9 |
+| MA200 | 101.73 |
+| ATR | 2.31 |
 | Risk | NORMAL |
-| Stop Loss | 60.36 |
-| Target | 68.04 |
+| Stop Loss | 62.54 |
+| Target | 70.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41253,16 +41271,16 @@
 ### RKDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.56 |
+| Price | 16.28 |
 | Trend | downtrend |
-| RSI | 28.57 |
-| MACD | -0.5 |
-| MA20 | 17.83 |
-| MA200 | 19.75 |
-| ATR | 0.87 |
+| RSI | 24.25 |
+| MACD | -0.54 |
+| MA20 | 17.74 |
+| MA200 | 19.72 |
+| ATR | 0.89 |
 | Risk | ELEVATED |
-| Stop Loss | 15.26 |
-| Target | 18.29 |
+| Stop Loss | 14.95 |
+| Target | 18.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41271,16 +41289,16 @@
 ### ICDSLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 41.71 |
+| Price | 42.99 |
 | Trend | downtrend |
-| RSI | 16.76 |
-| MACD | -2.83 |
-| MA20 | 53.01 |
+| RSI | 11.07 |
+| MACD | -2.97 |
+| MA20 | 52.03 |
 | MA200 | 44.68 |
-| ATR | 2.8 |
+| ATR | 2.71 |
 | Risk | ELEVATED |
-| Stop Loss | 37.52 |
-| Target | 47.3 |
+| Stop Loss | 38.92 |
+| Target | 48.42 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41289,34 +41307,34 @@
 ### PALREDTEC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 44.12 |
+| Price | 45.38 |
 | Trend | weak_trend |
-| RSI | 39.0 |
-| MACD | -2.31 |
-| MA20 | 45.51 |
-| MA200 | 43.56 |
-| ATR | 2.75 |
+| RSI | 45.81 |
+| MACD | -2.03 |
+| MA20 | 45.18 |
+| MA200 | 43.59 |
+| ATR | 2.8 |
 | Risk | ELEVATED |
-| Stop Loss | 40.0 |
-| Target | 49.62 |
+| Stop Loss | 41.19 |
+| Target | 50.97 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### AGSTRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.29 |
+| Price | 2.25 |
 | Trend | weak_trend |
-| RSI | 64.29 |
-| MACD | 0.09 |
-| MA20 | 2.26 |
-| MA200 | 2.83 |
-| ATR | 0.09 |
+| RSI | 58.06 |
+| MACD | 0.08 |
+| MA20 | 2.28 |
+| MA200 | 2.82 |
+| ATR | 0.08 |
 | Risk | NORMAL |
-| Stop Loss | 2.16 |
-| Target | 2.46 |
+| Stop Loss | 2.13 |
+| Target | 2.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41343,16 +41361,16 @@
 ### LFIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 127.39 |
+| Price | 126.06 |
 | Trend | downtrend |
-| RSI | 45.79 |
-| MACD | -2.05 |
-| MA20 | 131.47 |
-| MA200 | 138.35 |
-| ATR | 5.25 |
-| Risk | ELEVATED |
-| Stop Loss | 119.52 |
-| Target | 137.88 |
+| RSI | 33.05 |
+| MACD | -2.21 |
+| MA20 | 130.93 |
+| MA200 | 138.12 |
+| ATR | 4.9 |
+| Risk | NORMAL |
+| Stop Loss | 118.71 |
+| Target | 135.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41363,14 +41381,14 @@
 |--------|-------|
 | Price | 22.5 |
 | Trend | downtrend |
-| RSI | 36.53 |
+| RSI | 39.68 |
 | MACD | -0.6 |
-| MA20 | 23.72 |
-| MA200 | 26.68 |
-| ATR | 1.63 |
+| MA20 | 23.57 |
+| MA200 | 26.64 |
+| ATR | 1.61 |
 | Risk | ELEVATED |
-| Stop Loss | 20.05 |
-| Target | 25.77 |
+| Stop Loss | 20.08 |
+| Target | 25.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41383,8 +41401,8 @@
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -0.07 |
-| MA20 | 2.92 |
-| MA200 | 3.44 |
+| MA20 | 2.91 |
+| MA200 | 3.43 |
 | ATR | 0.02 |
 | Risk | LOW |
 | Stop Loss | 2.72 |
@@ -41392,21 +41410,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PRESSTONIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 40.25 |
+| Price | 40.35 |
 | Trend | weak_trend |
-| RSI | 56.15 |
-| MACD | 2.54 |
-| MA20 | 40.69 |
-| MA200 | 39.54 |
-| ATR | 3.91 |
+| RSI | 48.84 |
+| MACD | 2.17 |
+| MA20 | 41.24 |
+| MA200 | 39.46 |
+| ATR | 3.66 |
 | Risk | ELEVATED |
-| Stop Loss | 34.38 |
-| Target | 48.08 |
+| Stop Loss | 34.86 |
+| Target | 47.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41418,9 +41436,9 @@
 | Price | 37.95 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -2.98 |
-| MA20 | 42.35 |
-| MA200 | 54.22 |
+| MACD | -2.92 |
+| MA20 | 42.04 |
+| MA200 | 54.19 |
 | ATR | 0.58 |
 | Risk | LOW |
 | Stop Loss | 37.08 |
@@ -41435,36 +41453,36 @@
 |--------|-------|
 | Price | 0.87 |
 | Trend | downtrend |
-| RSI | 25.0 |
+| RSI | 27.27 |
 | MACD | -0.04 |
-| MA20 | 0.92 |
+| MA20 | 0.91 |
 | MA200 | 1.1 |
 | ATR | 0.03 |
 | Risk | NORMAL |
-| Stop Loss | 0.83 |
-| Target | 0.92 |
+| Stop Loss | 0.82 |
+| Target | 0.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SHIVAMILLS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 61.39 |
+| Price | 57.35 |
 | Trend | weak_trend |
-| RSI | 53.14 |
-| MACD | -0.35 |
-| MA20 | 59.87 |
-| MA200 | 59.27 |
-| ATR | 3.15 |
+| RSI | 41.42 |
+| MACD | -0.51 |
+| MA20 | 59.66 |
+| MA200 | 59.26 |
+| ATR | 3.31 |
 | Risk | ELEVATED |
-| Stop Loss | 56.67 |
-| Target | 67.68 |
+| Stop Loss | 52.39 |
+| Target | 63.96 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### UWCSL.NS
 | Metric | Value |
@@ -41472,9 +41490,9 @@
 | Price | 120.05 |
 | Trend | weak_trend |
 | RSI | 40.48 |
-| MACD | 1.96 |
-| MA20 | 121.31 |
-| MA200 | 102.71 |
+| MACD | 1.84 |
+| MA20 | 121.19 |
+| MA200 | 102.75 |
 | ATR | 0.9 |
 | Risk | LOW |
 | Stop Loss | 118.7 |
@@ -41487,16 +41505,16 @@
 ### LEXUS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.97 |
+| Price | 9.84 |
 | Trend | downtrend |
-| RSI | 16.01 |
-| MACD | -0.97 |
-| MA20 | 11.77 |
-| MA200 | 20.54 |
-| ATR | 1.12 |
+| RSI | 18.47 |
+| MACD | -0.98 |
+| MA20 | 11.6 |
+| MA200 | 20.46 |
+| ATR | 1.07 |
 | Risk | ELEVATED |
-| Stop Loss | 8.28 |
-| Target | 12.22 |
+| Stop Loss | 8.23 |
+| Target | 11.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41507,14 +41525,14 @@
 |--------|-------|
 | Price | 21.35 |
 | Trend | downtrend |
-| RSI | 35.29 |
-| MACD | -0.49 |
-| MA20 | 22.3 |
-| MA200 | 25.44 |
-| ATR | 0.55 |
+| RSI | 46.67 |
+| MACD | -0.48 |
+| MA20 | 22.27 |
+| MA200 | 25.39 |
+| ATR | 0.45 |
 | Risk | NORMAL |
-| Stop Loss | 20.53 |
-| Target | 22.45 |
+| Stop Loss | 20.68 |
+| Target | 22.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41523,16 +41541,16 @@
 ### HBSL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 56.22 |
+| Price | 56.0 |
 | Trend | downtrend |
-| RSI | 57.81 |
-| MACD | 0.8 |
-| MA20 | 55.14 |
-| MA200 | 57.24 |
-| ATR | 2.92 |
+| RSI | 54.3 |
+| MACD | 0.74 |
+| MA20 | 55.3 |
+| MA200 | 57.16 |
+| ATR | 2.93 |
 | Risk | ELEVATED |
-| Stop Loss | 51.85 |
-| Target | 62.05 |
+| Stop Loss | 51.6 |
+| Target | 61.86 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41541,34 +41559,34 @@
 ### BMETRICS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 38.85 |
+| Price | 38.0 |
 | Trend | weak_trend |
-| RSI | 57.63 |
-| MACD | 0.65 |
-| MA20 | 36.82 |
-| MA200 | 38.05 |
+| RSI | 57.81 |
+| MACD | 0.64 |
+| MA20 | 37.01 |
+| MA200 | 38.03 |
 | ATR | 2.58 |
 | Risk | ELEVATED |
-| Stop Loss | 34.98 |
-| Target | 44.01 |
+| Stop Loss | 34.14 |
+| Target | 43.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ADROITINFO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.18 |
+| Price | 11.28 |
 | Trend | weak_trend |
-| RSI | 49.59 |
-| MACD | 0.28 |
-| MA20 | 12.33 |
-| MA200 | 9.89 |
-| ATR | 1.07 |
+| RSI | 44.21 |
+| MACD | 0.19 |
+| MA20 | 12.34 |
+| MA200 | 9.9 |
+| ATR | 1.02 |
 | Risk | ELEVATED |
-| Stop Loss | 9.58 |
-| Target | 13.31 |
+| Stop Loss | 9.75 |
+| Target | 13.32 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41579,14 +41597,14 @@
 |--------|-------|
 | Price | 41.8 |
 | Trend | weak_trend |
-| RSI | 63.17 |
-| MACD | 3.55 |
-| MA20 | 38.33 |
+| RSI | 60.31 |
+| MACD | 3.39 |
+| MA20 | 39.03 |
 | MA200 | 31.07 |
-| ATR | 1.83 |
+| ATR | 1.71 |
 | Risk | ELEVATED |
-| Stop Loss | 39.05 |
-| Target | 45.46 |
+| Stop Loss | 39.24 |
+| Target | 45.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41613,88 +41631,88 @@
 ### RCDL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.65 |
+| Price | 15.6 |
 | Trend | downtrend |
-| RSI | 57.79 |
-| MACD | -0.57 |
-| MA20 | 15.68 |
-| MA200 | 22.46 |
-| ATR | 0.93 |
+| RSI | 54.3 |
+| MACD | -0.56 |
+| MA20 | 15.73 |
+| MA200 | 22.44 |
+| ATR | 0.91 |
 | Risk | ELEVATED |
-| Stop Loss | 14.25 |
-| Target | 17.51 |
+| Stop Loss | 14.24 |
+| Target | 17.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 320.0 |
+| Price | 318.9 |
 | Trend | weak_trend |
-| RSI | 28.41 |
-| MACD | 0.46 |
-| MA20 | 338.62 |
-| MA200 | 223.75 |
-| ATR | 14.2 |
+| RSI | 15.97 |
+| MACD | -0.07 |
+| MA20 | 336.86 |
+| MA200 | 224.25 |
+| ATR | 13.2 |
 | Risk | ELEVATED |
-| Stop Loss | 298.69 |
-| Target | 348.41 |
+| Stop Loss | 299.09 |
+| Target | 345.31 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### LCCINFOTEC.NS
+| Metric | Value |
+|--------|-------|
+| Price | 3.72 |
+| Trend | weak_trend |
+| RSI | 51.52 |
+| MACD | -0.03 |
+| MA20 | 3.64 |
+| MA200 | 4.5 |
+| ATR | 0.24 |
+| Risk | ELEVATED |
+| Stop Loss | 3.35 |
+| Target | 4.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### LCCINFOTEC.NS
-| Metric | Value |
-|--------|-------|
-| Price | 3.55 |
-| Trend | weak_trend |
-| RSI | 50.52 |
-| MACD | -0.04 |
-| MA20 | 3.61 |
-| MA200 | 4.5 |
-| ATR | 0.25 |
-| Risk | ELEVATED |
-| Stop Loss | 3.17 |
-| Target | 4.06 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
 ### MCON.NS
 | Metric | Value |
 |--------|-------|
 | Price | 39.8 |
-| Trend | downtrend |
-| RSI | 53.69 |
-| MACD | -0.72 |
-| MA20 | 40.42 |
-| MA200 | 47.88 |
-| ATR | 1.3 |
+| Trend | weak_trend |
+| RSI | 42.68 |
+| MACD | -0.71 |
+| MA20 | 40.35 |
+| MA200 | 47.75 |
+| ATR | 1.16 |
 | Risk | NORMAL |
-| Stop Loss | 37.84 |
-| Target | 42.41 |
+| Stop Loss | 38.05 |
+| Target | 42.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ASTRON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.82 |
+| Price | 2.84 |
 | Trend | weak_trend |
-| RSI | 40.68 |
-| MACD | -0.09 |
+| RSI | 50.0 |
+| MACD | -0.08 |
 | MA20 | 2.89 |
-| MA200 | 4.05 |
-| ATR | 0.14 |
+| MA200 | 4.03 |
+| ATR | 0.13 |
 | Risk | ELEVATED |
-| Stop Loss | 2.61 |
-| Target | 3.1 |
+| Stop Loss | 2.64 |
+| Target | 3.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41703,16 +41721,16 @@
 ### KHAITANLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 148.08 |
+| Price | 149.37 |
 | Trend | weak_trend |
-| RSI | 47.82 |
-| MACD | -0.98 |
-| MA20 | 150.12 |
-| MA200 | 123.11 |
-| ATR | 8.35 |
+| RSI | 46.51 |
+| MACD | -0.83 |
+| MA20 | 149.47 |
+| MA200 | 123.35 |
+| ATR | 8.63 |
 | Risk | ELEVATED |
-| Stop Loss | 135.55 |
-| Target | 164.79 |
+| Stop Loss | 136.43 |
+| Target | 166.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41721,16 +41739,16 @@
 ### AROGRANITE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.94 |
-| Trend | weak_trend |
-| RSI | 48.02 |
-| MACD | -0.45 |
-| MA20 | 23.05 |
-| MA200 | 25.94 |
-| ATR | 1.24 |
+| Price | 23.44 |
+| Trend | downtrend |
+| RSI | 52.36 |
+| MACD | -0.37 |
+| MA20 | 23.06 |
+| MA200 | 25.9 |
+| ATR | 1.28 |
 | Risk | ELEVATED |
-| Stop Loss | 21.08 |
-| Target | 25.43 |
+| Stop Loss | 21.53 |
+| Target | 25.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41739,16 +41757,16 @@
 ### SIMBHALS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.86 |
+| Price | 7.71 |
 | Trend | weak_trend |
-| RSI | 73.24 |
-| MACD | 0.13 |
-| MA20 | 6.91 |
-| MA200 | 8.14 |
-| ATR | 0.29 |
+| RSI | 72.73 |
+| MACD | 0.14 |
+| MA20 | 6.95 |
+| MA200 | 8.13 |
+| ATR | 0.28 |
 | Risk | NORMAL |
-| Stop Loss | 7.42 |
-| Target | 8.45 |
+| Stop Loss | 7.28 |
+| Target | 8.28 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41757,52 +41775,52 @@
 ### HYBRIDFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.68 |
+| Price | 17.17 |
 | Trend | downtrend |
-| RSI | 50.93 |
-| MACD | 0.09 |
-| MA20 | 17.04 |
+| RSI | 55.11 |
+| MACD | 0.07 |
+| MA20 | 17.07 |
 | MA200 | 18.57 |
-| ATR | 1.21 |
+| ATR | 1.24 |
 | Risk | ELEVATED |
-| Stop Loss | 14.87 |
-| Target | 19.09 |
+| Stop Loss | 15.31 |
+| Target | 19.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VISHWAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 40.1 |
-| Trend | weak_trend |
-| RSI | 50.94 |
-| MACD | 0.05 |
-| MA20 | 41.6 |
-| MA200 | 43.43 |
-| ATR | 1.55 |
-| Risk | NORMAL |
-| Stop Loss | 37.77 |
-| Target | 43.21 |
+| Price | 38.1 |
+| Trend | downtrend |
+| RSI | 48.94 |
+| MACD | -0.26 |
+| MA20 | 41.31 |
+| MA200 | 43.41 |
+| ATR | 1.56 |
+| Risk | ELEVATED |
+| Stop Loss | 35.76 |
+| Target | 41.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### QUICKTOUCH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.8 |
+| Price | 13.15 |
 | Trend | downtrend |
-| RSI | 22.82 |
-| MACD | -0.88 |
-| MA20 | 15.73 |
-| MA200 | 26.81 |
+| RSI | 23.45 |
+| MACD | -0.96 |
+| MA20 | 15.49 |
+| MA200 | 26.68 |
 | ATR | 0.81 |
 | Risk | ELEVATED |
-| Stop Loss | 12.59 |
-| Target | 15.41 |
+| Stop Loss | 11.94 |
+| Target | 14.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41811,16 +41829,16 @@
 ### 21STCENMGM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 43.48 |
+| Price | 42.06 |
 | Trend | weak_trend |
-| RSI | 72.71 |
-| MACD | 0.43 |
-| MA20 | 39.52 |
-| MA200 | 37.38 |
-| ATR | 1.5 |
+| RSI | 62.08 |
+| MACD | 0.53 |
+| MA20 | 39.71 |
+| MA200 | 37.35 |
+| ATR | 1.61 |
 | Risk | NORMAL |
-| Stop Loss | 41.23 |
-| Target | 46.48 |
+| Stop Loss | 39.65 |
+| Target | 45.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41830,15 +41848,15 @@
 | Metric | Value |
 |--------|-------|
 | Price | 69.5 |
-| Trend | downtrend |
-| RSI | 13.24 |
+| Trend | weak_trend |
+| RSI | 52.81 |
 | MACD | 0.45 |
-| MA20 | 68.76 |
-| MA200 | 70.22 |
-| ATR | 0.27 |
+| MA20 | 68.81 |
+| MA200 | 70.21 |
+| ATR | 0.07 |
 | Risk | LOW |
-| Stop Loss | 69.1 |
-| Target | 70.04 |
+| Stop Loss | 69.4 |
+| Target | 69.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41847,16 +41865,16 @@
 ### DNAMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.37 |
+| Price | 2.39 |
 | Trend | weak_trend |
-| RSI | 44.29 |
+| RSI | 37.1 |
 | MACD | -0.05 |
-| MA20 | 2.45 |
-| MA200 | 3.05 |
+| MA20 | 2.44 |
+| MA200 | 3.04 |
 | ATR | 0.14 |
 | Risk | ELEVATED |
-| Stop Loss | 2.15 |
-| Target | 2.66 |
+| Stop Loss | 2.18 |
+| Target | 2.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41869,8 +41887,8 @@
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -0.38 |
-| MA20 | 5.75 |
-| MA200 | 7.73 |
+| MA20 | 5.68 |
+| MA200 | 7.71 |
 | ATR | 0.08 |
 | Risk | LOW |
 | Stop Loss | 5.04 |
@@ -41878,21 +41896,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### PENTAGON.NS
 | Metric | Value |
 |--------|-------|
 | Price | 85.5 |
 | Trend | weak_trend |
-| RSI | 37.94 |
-| MACD | 3.66 |
-| MA20 | 88.77 |
-| MA200 | 65.63 |
-| ATR | 3.85 |
-| Risk | ELEVATED |
-| Stop Loss | 79.72 |
-| Target | 93.2 |
+| RSI | 42.58 |
+| MACD | 3.25 |
+| MA20 | 88.39 |
+| MA200 | 65.69 |
+| ATR | 3.19 |
+| Risk | NORMAL |
+| Stop Loss | 80.72 |
+| Target | 91.87 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41901,20 +41919,20 @@
 ### RULKA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 100.5 |
-| Trend | downtrend |
-| RSI | 37.09 |
-| MACD | -1.31 |
-| MA20 | 105.71 |
-| MA200 | 101.02 |
-| ATR | 4.35 |
+| Price | 104.6 |
+| Trend | weak_trend |
+| RSI | 47.08 |
+| MACD | -1.19 |
+| MA20 | 105.59 |
+| MA200 | 101.0 |
+| ATR | 4.4 |
 | Risk | ELEVATED |
-| Stop Loss | 93.97 |
-| Target | 109.2 |
+| Stop Loss | 97.99 |
+| Target | 113.41 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### UCL.NS
 | Metric | Value |
@@ -41922,9 +41940,9 @@
 | Price | 210.45 |
 | Trend | weak_trend |
 | RSI | 0.64 |
-| MACD | -7.28 |
-| MA20 | 220.91 |
-| MA200 | 141.26 |
+| MACD | -7.1 |
+| MA20 | 219.44 |
+| MA200 | 142.07 |
 | ATR | 2.4 |
 | Risk | LOW |
 | Stop Loss | 206.84 |
@@ -41937,16 +41955,16 @@
 ### SUPERSPIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.92 |
+| Price | 6.87 |
 | Trend | weak_trend |
-| RSI | 46.48 |
-| MACD | 0.08 |
-| MA20 | 7.32 |
-| MA200 | 6.19 |
-| ATR | 0.49 |
+| RSI | 35.68 |
+| MACD | 0.05 |
+| MA20 | 7.29 |
+| MA200 | 6.18 |
+| ATR | 0.47 |
 | Risk | ELEVATED |
-| Stop Loss | 6.18 |
-| Target | 7.91 |
+| Stop Loss | 6.17 |
+| Target | 7.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -41955,70 +41973,70 @@
 ### COUNCODOS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.25 |
+| Price | 6.33 |
 | Trend | weak_trend |
-| RSI | 53.77 |
-| MACD | -0.02 |
-| MA20 | 6.39 |
-| MA200 | 5.51 |
+| RSI | 50.0 |
+| MACD | -0.03 |
+| MA20 | 6.38 |
+| MA200 | 5.52 |
 | ATR | 0.34 |
 | Risk | ELEVATED |
-| Stop Loss | 5.73 |
-| Target | 6.94 |
+| Stop Loss | 5.82 |
+| Target | 7.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### WEWIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.5 |
+| Price | 52.1 |
 | Trend | weak_trend |
-| RSI | 74.43 |
-| MACD | 1.93 |
-| MA20 | 47.43 |
-| MA200 | 47.77 |
-| ATR | 2.62 |
+| RSI | 75.88 |
+| MACD | 1.97 |
+| MA20 | 47.91 |
+| MA200 | 47.8 |
+| ATR | 2.76 |
 | Risk | ELEVATED |
-| Stop Loss | 46.57 |
-| Target | 55.74 |
+| Stop Loss | 47.96 |
+| Target | 57.62 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### MADHUCON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.19 |
-| Trend | downtrend |
-| RSI | 55.15 |
-| MACD | -0.19 |
-| MA20 | 4.06 |
-| MA200 | 5.15 |
-| ATR | 0.28 |
+| Price | 4.02 |
+| Trend | weak_trend |
+| RSI | 48.59 |
+| MACD | -0.17 |
+| MA20 | 4.04 |
+| MA200 | 5.14 |
+| ATR | 0.3 |
 | Risk | ELEVATED |
-| Stop Loss | 3.77 |
-| Target | 4.75 |
+| Stop Loss | 3.58 |
+| Target | 4.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AGNI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.15 |
+| Price | 14.1 |
 | Trend | downtrend |
-| RSI | 40.98 |
-| MACD | -0.42 |
-| MA20 | 15.24 |
-| MA200 | 18.32 |
-| ATR | 0.74 |
+| RSI | 32.41 |
+| MACD | -0.44 |
+| MA20 | 15.12 |
+| MA200 | 18.26 |
+| ATR | 0.71 |
 | Risk | ELEVATED |
-| Stop Loss | 13.05 |
-| Target | 15.62 |
+| Stop Loss | 13.04 |
+| Target | 15.51 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42027,16 +42045,16 @@
 ### MASKINVEST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 144.2 |
-| Trend | weak_trend |
-| RSI | 49.06 |
-| MACD | -0.62 |
-| MA20 | 144.08 |
-| MA200 | 146.36 |
-| ATR | 6.59 |
+| Price | 141.2 |
+| Trend | downtrend |
+| RSI | 46.55 |
+| MACD | -0.85 |
+| MA20 | 143.87 |
+| MA200 | 146.28 |
+| ATR | 6.23 |
 | Risk | ELEVATED |
-| Stop Loss | 134.31 |
-| Target | 157.39 |
+| Stop Loss | 131.85 |
+| Target | 153.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42048,9 +42066,9 @@
 | Price | 27.2 |
 | Trend | downtrend |
 | RSI | 28.21 |
-| MACD | -1.08 |
-| MA20 | 29.75 |
-| MA200 | 33.66 |
+| MACD | -1.13 |
+| MA20 | 29.56 |
+| MA200 | 33.64 |
 | ATR | 0.48 |
 | Risk | LOW |
 | Stop Loss | 26.48 |
@@ -42063,52 +42081,52 @@
 ### ARSHIYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.84 |
+| Price | 0.86 |
 | Trend | weak_trend |
-| RSI | 85.0 |
+| RSI | 86.36 |
 | MACD | 0.01 |
-| MA20 | 0.77 |
+| MA20 | 0.78 |
 | MA200 | 1.14 |
-| ATR | 0.03 |
+| ATR | 0.04 |
 | Risk | ELEVATED |
-| Stop Loss | 0.79 |
-| Target | 0.91 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### MOXSH.NS
-| Metric | Value |
-|--------|-------|
-| Price | 102.2 |
-| Trend | weak_trend |
-| RSI | 74.03 |
-| MACD | -0.9 |
-| MA20 | 94.07 |
-| MA200 | 108.94 |
-| ATR | 2.85 |
-| Risk | NORMAL |
-| Stop Loss | 97.93 |
-| Target | 107.89 |
+| Stop Loss | 0.81 |
+| Target | 0.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
+### MOXSH.NS
+| Metric | Value |
+|--------|-------|
+| Price | 106.25 |
+| Trend | weak_trend |
+| RSI | 78.78 |
+| MACD | 0.03 |
+| MA20 | 94.69 |
+| MA200 | 109.0 |
+| ATR | 3.14 |
+| Risk | NORMAL |
+| Stop Loss | 101.55 |
+| Target | 112.52 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### SEYAIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.46 |
+| Price | 12.53 |
 | Trend | downtrend |
-| RSI | 33.45 |
-| MACD | -0.01 |
-| MA20 | 13.13 |
-| MA200 | 13.6 |
-| ATR | 0.43 |
+| RSI | 28.57 |
+| MACD | -0.04 |
+| MA20 | 13.12 |
+| MA200 | 13.57 |
+| ATR | 0.41 |
 | Risk | NORMAL |
-| Stop Loss | 11.82 |
-| Target | 13.32 |
+| Stop Loss | 11.91 |
+| Target | 13.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42117,16 +42135,16 @@
 ### PEARLPOLY.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.73 |
+| Price | 16.96 |
 | Trend | downtrend |
-| RSI | 41.99 |
-| MACD | 0.15 |
-| MA20 | 17.32 |
-| MA200 | 18.4 |
+| RSI | 36.43 |
+| MACD | 0.12 |
+| MA20 | 17.39 |
+| MA200 | 18.38 |
 | ATR | 0.89 |
 | Risk | ELEVATED |
-| Stop Loss | 15.39 |
-| Target | 18.51 |
+| Stop Loss | 15.63 |
+| Target | 18.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42135,20 +42153,20 @@
 ### SVPGLOB.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.67 |
-| Trend | uptrend |
-| RSI | 63.33 |
-| MACD | -0.07 |
-| MA20 | 3.28 |
+| Price | 3.73 |
+| Trend | weak_trend |
+| RSI | 65.6 |
+| MACD | -0.03 |
+| MA20 | 3.29 |
 | MA200 | 3.5 |
 | ATR | 0.28 |
 | Risk | ELEVATED |
-| Stop Loss | 3.24 |
-| Target | 4.24 |
+| Stop Loss | 3.31 |
+| Target | 4.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### MILTON.NS
 | Metric | Value |
@@ -42156,9 +42174,9 @@
 | Price | 35.0 |
 | Trend | downtrend |
 | RSI | 39.83 |
-| MACD | -0.59 |
-| MA20 | 35.72 |
-| MA200 | 41.24 |
+| MACD | -0.57 |
+| MA20 | 35.57 |
+| MA200 | 41.26 |
 | ATR | 0.61 |
 | Risk | LOW |
 | Stop Loss | 34.08 |
@@ -42171,20 +42189,20 @@
 ### SAGARDEEP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.71 |
-| Trend | downtrend |
-| RSI | 52.2 |
-| MACD | -0.23 |
-| MA20 | 23.28 |
+| Price | 25.81 |
+| Trend | uptrend |
+| RSI | 62.93 |
+| MACD | 0.0 |
+| MA20 | 23.38 |
 | MA200 | 24.45 |
-| ATR | 1.22 |
+| ATR | 1.51 |
 | Risk | ELEVATED |
-| Stop Loss | 21.88 |
-| Target | 26.15 |
+| Stop Loss | 23.55 |
+| Target | 28.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### PROLIFE.NS
 | Metric | Value |
@@ -42192,8 +42210,8 @@
 | Price | 79.8 |
 | Trend | weak_trend |
 | RSI | 48.98 |
-| MACD | 0.08 |
-| MA20 | 78.79 |
+| MACD | 0.14 |
+| MA20 | 78.85 |
 | MA200 | 69.71 |
 | ATR | 0.7 |
 | Risk | LOW |
@@ -42207,16 +42225,16 @@
 ### GANGAFORGE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.48 |
+| Price | 1.47 |
 | Trend | weak_trend |
 | RSI | 41.94 |
 | MACD | -0.07 |
-| MA20 | 1.53 |
-| MA200 | 2.51 |
-| ATR | 0.08 |
+| MA20 | 1.52 |
+| MA200 | 2.5 |
+| ATR | 0.09 |
 | Risk | ELEVATED |
-| Stop Loss | 1.35 |
-| Target | 1.65 |
+| Stop Loss | 1.34 |
+| Target | 1.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42225,20 +42243,20 @@
 ### NGIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 37.81 |
-| Trend | downtrend |
-| RSI | 48.43 |
-| MACD | -0.24 |
-| MA20 | 37.47 |
-| MA200 | 34.32 |
-| ATR | 2.94 |
+| Price | 36.61 |
+| Trend | weak_trend |
+| RSI | 39.43 |
+| MACD | -0.32 |
+| MA20 | 37.63 |
+| MA200 | 34.36 |
+| ATR | 3.11 |
 | Risk | ELEVATED |
-| Stop Loss | 33.41 |
-| Target | 43.68 |
+| Stop Loss | 31.94 |
+| Target | 42.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### UMA.NS
 | Metric | Value |
@@ -42246,9 +42264,9 @@
 | Price | 17.1 |
 | Trend | downtrend |
 | RSI | 47.56 |
-| MACD | 0.09 |
-| MA20 | 17.27 |
-| MA200 | 18.0 |
+| MACD | 0.07 |
+| MA20 | 17.25 |
+| MA200 | 17.99 |
 | ATR | 0.6 |
 | Risk | NORMAL |
 | Stop Loss | 16.2 |
@@ -42263,50 +42281,50 @@
 |--------|-------|
 | Price | 71.76 |
 | Trend | weak_trend |
-| RSI | 52.69 |
-| MACD | 0.22 |
-| MA20 | 71.92 |
-| MA200 | 72.02 |
-| ATR | 6.08 |
+| RSI | 54.53 |
+| MACD | 0.14 |
+| MA20 | 71.93 |
+| MA200 | 71.98 |
+| ATR | 5.63 |
 | Risk | ELEVATED |
-| Stop Loss | 62.63 |
-| Target | 83.93 |
+| Stop Loss | 63.32 |
+| Target | 83.01 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ABMINTLLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 39.52 |
+| Price | 41.49 |
 | Trend | downtrend |
-| RSI | 0.21 |
-| MACD | -3.09 |
-| MA20 | 46.11 |
+| RSI | 18.93 |
+| MACD | -3.01 |
+| MA20 | 45.56 |
 | MA200 | 44.83 |
-| ATR | 0.96 |
+| ATR | 1.03 |
 | Risk | NORMAL |
-| Stop Loss | 38.09 |
-| Target | 41.43 |
+| Stop Loss | 39.95 |
+| Target | 43.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### AKASH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.15 |
+| Price | 24.6 |
 | Trend | downtrend |
-| RSI | 39.94 |
-| MACD | -0.19 |
-| MA20 | 24.68 |
+| RSI | 44.11 |
+| MACD | -0.17 |
+| MA20 | 24.66 |
 | MA200 | 25.94 |
-| ATR | 0.93 |
+| ATR | 0.89 |
 | Risk | NORMAL |
-| Stop Loss | 22.76 |
-| Target | 26.0 |
+| Stop Loss | 23.27 |
+| Target | 26.37 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42315,56 +42333,56 @@
 ### AATMAJ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.95 |
-| Trend | weak_trend |
-| RSI | 75.0 |
-| MACD | 1.06 |
-| MA20 | 20.53 |
-| MA200 | 20.28 |
-| ATR | 1.18 |
+| Price | 22.0 |
+| Trend | uptrend |
+| RSI | 66.47 |
+| MACD | 1.01 |
+| MA20 | 20.7 |
+| MA200 | 20.27 |
+| ATR | 1.35 |
 | Risk | ELEVATED |
-| Stop Loss | 21.18 |
-| Target | 25.31 |
+| Stop Loss | 19.98 |
+| Target | 24.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### HRHNEXT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.35 |
+| Price | 23.2 |
 | Trend | weak_trend |
-| RSI | 45.0 |
-| MACD | -0.52 |
-| MA20 | 24.13 |
-| MA200 | 27.44 |
+| RSI | 45.51 |
+| MACD | -0.54 |
+| MA20 | 24.11 |
+| MA200 | 27.42 |
 | ATR | 0.75 |
 | Risk | NORMAL |
-| Stop Loss | 23.22 |
-| Target | 25.86 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### PRECISION.NS
-| Metric | Value |
-|--------|-------|
-| Price | 7.1 |
-| Trend | weak_trend |
-| RSI | 100.0 |
-| MACD | 0.01 |
-| MA20 | 6.72 |
-| MA200 | 8.33 |
-| ATR | 0.16 |
-| Risk | NORMAL |
-| Stop Loss | 6.86 |
-| Target | 7.41 |
+| Stop Loss | 22.08 |
+| Target | 24.7 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
+### PRECISION.NS
+| Metric | Value |
+|--------|-------|
+| Price | 6.85 |
+| Trend | downtrend |
+| RSI | 68.75 |
+| MACD | 0.0 |
+| MA20 | 6.73 |
+| MA200 | 8.3 |
+| ATR | 0.15 |
+| Risk | NORMAL |
+| Stop Loss | 6.62 |
+| Target | 7.16 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### DEEM.NS
 | Metric | Value |
@@ -42372,9 +42390,9 @@
 | Price | 42.7 |
 | Trend | downtrend |
 | RSI | 48.63 |
-| MACD | 0.43 |
-| MA20 | 44.33 |
-| MA200 | 43.7 |
+| MACD | 0.23 |
+| MA20 | 44.37 |
+| MA200 | 43.69 |
 | ATR | 0.81 |
 | Risk | LOW |
 | Stop Loss | 41.48 |
@@ -42387,88 +42405,88 @@
 ### AMBICAAGAR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 23.5 |
+| Price | 24.09 |
 | Trend | downtrend |
-| RSI | 36.0 |
-| MACD | -0.45 |
-| MA20 | 24.47 |
+| RSI | 43.3 |
+| MACD | -0.41 |
+| MA20 | 24.42 |
 | MA200 | 24.43 |
-| ATR | 1.29 |
+| ATR | 1.42 |
 | Risk | ELEVATED |
-| Stop Loss | 21.57 |
-| Target | 26.08 |
+| Stop Loss | 21.96 |
+| Target | 26.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MOHITIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 22.35 |
+| Price | 21.85 |
 | Trend | downtrend |
-| RSI | 37.54 |
-| MACD | -0.33 |
-| MA20 | 23.02 |
-| MA200 | 24.03 |
-| ATR | 1.16 |
+| RSI | 40.27 |
+| MACD | -0.38 |
+| MA20 | 22.95 |
+| MA200 | 23.99 |
+| ATR | 1.18 |
 | Risk | ELEVATED |
-| Stop Loss | 20.61 |
-| Target | 24.68 |
+| Stop Loss | 20.08 |
+| Target | 24.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### JFLLIFE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.25 |
-| Trend | weak_trend |
-| RSI | 46.0 |
-| MACD | -0.15 |
-| MA20 | 10.2 |
-| MA200 | 10.53 |
-| ATR | 0.2 |
-| Risk | LOW |
-| Stop Loss | 9.95 |
-| Target | 10.65 |
+| Price | 10.75 |
+| Trend | uptrend |
+| RSI | 55.0 |
+| MACD | -0.09 |
+| MA20 | 10.21 |
+| MA200 | 10.52 |
+| ATR | 0.24 |
+| Risk | NORMAL |
+| Stop Loss | 10.4 |
+| Target | 11.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 3 | Rules Failed | 0 |
 
 ### KONTOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 55.0 |
-| Trend | downtrend |
-| RSI | 52.67 |
-| MACD | -0.27 |
-| MA20 | 53.16 |
-| MA200 | 64.22 |
-| ATR | 1.75 |
+| Price | 50.25 |
+| Trend | weak_trend |
+| RSI | 47.19 |
+| MACD | -0.51 |
+| MA20 | 52.94 |
+| MA200 | 64.14 |
+| ATR | 1.91 |
 | Risk | NORMAL |
-| Stop Loss | 52.37 |
-| Target | 58.5 |
+| Stop Loss | 47.39 |
+| Target | 54.06 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VIJIFIN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.13 |
+| Price | 14.83 |
 | Trend | weak_trend |
-| RSI | 40.2 |
-| MACD | -0.21 |
-| MA20 | 14.96 |
-| MA200 | 6.49 |
-| ATR | 0.65 |
+| RSI | 43.96 |
+| MACD | -0.15 |
+| MA20 | 14.92 |
+| MA200 | 6.55 |
+| ATR | 0.68 |
 | Risk | ELEVATED |
-| Stop Loss | 13.15 |
-| Target | 15.44 |
+| Stop Loss | 13.81 |
+| Target | 16.19 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42480,9 +42498,9 @@
 | Price | 141.0 |
 | Trend | weak_trend |
 | RSI | 37.95 |
-| MACD | -2.75 |
-| MA20 | 147.13 |
-| MA200 | 101.36 |
+| MACD | -2.92 |
+| MA20 | 146.23 |
+| MA200 | 101.59 |
 | ATR | 1.69 |
 | Risk | LOW |
 | Stop Loss | 138.47 |
@@ -42513,16 +42531,16 @@
 ### KEEPLEARN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.77 |
+| Price | 1.71 |
 | Trend | downtrend |
-| RSI | 37.21 |
+| RSI | 35.56 |
 | MACD | -0.03 |
-| MA20 | 1.84 |
-| MA200 | 2.01 |
-| ATR | 0.13 |
+| MA20 | 1.83 |
+| MA200 | 2.0 |
+| ATR | 0.14 |
 | Risk | ELEVATED |
-| Stop Loss | 1.57 |
-| Target | 2.04 |
+| Stop Loss | 1.5 |
+| Target | 1.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42531,16 +42549,16 @@
 ### RADIOWALLA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.5 |
+| Price | 26.95 |
 | Trend | weak_trend |
-| RSI | 56.95 |
-| MACD | 0.37 |
-| MA20 | 27.38 |
-| MA200 | 36.19 |
-| ATR | 0.62 |
+| RSI | 53.09 |
+| MACD | 0.25 |
+| MA20 | 27.49 |
+| MA200 | 36.01 |
+| ATR | 0.66 |
 | Risk | NORMAL |
-| Stop Loss | 26.57 |
-| Target | 28.74 |
+| Stop Loss | 25.96 |
+| Target | 28.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42549,16 +42567,16 @@
 ### PNC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.15 |
-| Trend | downtrend |
-| RSI | 45.91 |
-| MACD | -0.18 |
+| Price | 16.52 |
+| Trend | weak_trend |
+| RSI | 50.79 |
+| MACD | -0.2 |
 | MA20 | 16.88 |
-| MA200 | 21.08 |
-| ATR | 1.35 |
+| MA200 | 21.02 |
+| ATR | 1.39 |
 | Risk | ELEVATED |
-| Stop Loss | 14.12 |
-| Target | 18.85 |
+| Stop Loss | 14.44 |
+| Target | 19.29 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42567,16 +42585,16 @@
 ### NEXTMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.58 |
+| Price | 3.62 |
 | Trend | downtrend |
-| RSI | 36.36 |
-| MACD | -0.1 |
-| MA20 | 3.7 |
-| MA200 | 4.5 |
-| ATR | 0.17 |
+| RSI | 42.86 |
+| MACD | -0.09 |
+| MA20 | 3.68 |
+| MA200 | 4.48 |
+| ATR | 0.16 |
 | Risk | ELEVATED |
-| Stop Loss | 3.33 |
-| Target | 3.91 |
+| Stop Loss | 3.38 |
+| Target | 3.93 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42587,14 +42605,14 @@
 |--------|-------|
 | Price | 26.1 |
 | Trend | downtrend |
-| RSI | 64.85 |
-| MACD | -0.18 |
-| MA20 | 25.23 |
-| MA200 | 36.49 |
-| ATR | 1.13 |
+| RSI | 60.56 |
+| MACD | -0.17 |
+| MA20 | 25.41 |
+| MA200 | 36.41 |
+| ATR | 1.05 |
 | Risk | ELEVATED |
-| Stop Loss | 24.4 |
-| Target | 28.36 |
+| Stop Loss | 24.52 |
+| Target | 28.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42603,16 +42621,16 @@
 ### ASHOKAMET.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.61 |
-| Trend | downtrend |
-| RSI | 48.35 |
-| MACD | 0.05 |
-| MA20 | 15.02 |
+| Price | 14.47 |
+| Trend | weak_trend |
+| RSI | 52.54 |
+| MACD | 0.02 |
+| MA20 | 14.88 |
 | MA200 | 14.84 |
-| ATR | 0.9 |
+| ATR | 0.89 |
 | Risk | ELEVATED |
-| Stop Loss | 13.25 |
-| Target | 16.42 |
+| Stop Loss | 13.14 |
+| Target | 16.24 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42621,20 +42639,20 @@
 ### BOHRAIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.72 |
-| Trend | weak_trend |
-| RSI | 56.73 |
-| MACD | 0.16 |
-| MA20 | 14.16 |
-| MA200 | 16.4 |
-| ATR | 1.11 |
+| Price | 13.24 |
+| Trend | downtrend |
+| RSI | 49.87 |
+| MACD | 0.07 |
+| MA20 | 14.15 |
+| MA200 | 16.38 |
+| ATR | 1.07 |
 | Risk | ELEVATED |
-| Stop Loss | 12.05 |
-| Target | 15.95 |
+| Stop Loss | 11.64 |
+| Target | 15.38 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### TIMESCAN.NS
 | Metric | Value |
@@ -42642,9 +42660,9 @@
 | Price | 45.0 |
 | Trend | weak_trend |
 | RSI | 78.12 |
-| MACD | 0.94 |
-| MA20 | 41.0 |
-| MA200 | 43.02 |
+| MACD | 1.1 |
+| MA20 | 41.28 |
+| MA200 | 42.98 |
 | ATR | 0.5 |
 | Risk | LOW |
 | Stop Loss | 44.24 |
@@ -42657,34 +42675,34 @@
 ### NKIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 57.85 |
-| Trend | weak_trend |
-| RSI | 50.08 |
-| MACD | -0.21 |
-| MA20 | 58.25 |
-| MA200 | 63.11 |
-| ATR | 4.08 |
+| Price | 60.99 |
+| Trend | downtrend |
+| RSI | 60.18 |
+| MACD | 0.01 |
+| MA20 | 58.53 |
+| MA200 | 63.08 |
+| ATR | 4.07 |
 | Risk | ELEVATED |
-| Stop Loss | 51.72 |
-| Target | 66.02 |
+| Stop Loss | 54.89 |
+| Target | 69.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### AKG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.33 |
+| Price | 9.69 |
 | Trend | downtrend |
-| RSI | 27.85 |
-| MACD | -0.1 |
-| MA20 | 9.86 |
-| MA200 | 11.13 |
-| ATR | 0.39 |
-| Risk | ELEVATED |
-| Stop Loss | 8.74 |
-| Target | 10.11 |
+| RSI | 35.59 |
+| MACD | -0.08 |
+| MA20 | 9.81 |
+| MA200 | 11.12 |
+| ATR | 0.38 |
+| Risk | NORMAL |
+| Stop Loss | 9.12 |
+| Target | 10.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42695,14 +42713,14 @@
 |--------|-------|
 | Price | 25.3 |
 | Trend | weak_trend |
-| RSI | 47.22 |
-| MACD | -1.59 |
-| MA20 | 26.33 |
-| MA200 | 33.54 |
-| ATR | 1.07 |
-| Risk | ELEVATED |
-| Stop Loss | 23.69 |
-| Target | 27.45 |
+| RSI | 41.15 |
+| MACD | -1.51 |
+| MA20 | 26.26 |
+| MA200 | 33.46 |
+| ATR | 0.98 |
+| Risk | NORMAL |
+| Stop Loss | 23.83 |
+| Target | 27.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42737,26 +42755,26 @@
 | MA200 | 0.33 |
 | ATR | 0.02 |
 | Risk | ELEVATED |
-| Stop Loss | 0.21 |
+| Stop Loss | 0.2 |
 | Target | 0.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MEDIORG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 24.0 |
-| Trend | downtrend |
-| RSI | 67.24 |
-| MACD | -0.12 |
-| MA20 | 23.45 |
-| MA200 | 24.69 |
-| ATR | 0.41 |
-| Risk | LOW |
-| Stop Loss | 23.38 |
-| Target | 24.83 |
+| Price | 25.2 |
+| Trend | weak_trend |
+| RSI | 72.86 |
+| MACD | 0.0 |
+| MA20 | 23.51 |
+| MA200 | 24.7 |
+| ATR | 0.58 |
+| Risk | NORMAL |
+| Stop Loss | 24.33 |
+| Target | 26.36 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42765,16 +42783,16 @@
 ### MADHAV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32.88 |
+| Price | 32.64 |
 | Trend | downtrend |
-| RSI | 34.26 |
-| MACD | -0.63 |
-| MA20 | 34.43 |
-| MA200 | 36.49 |
-| ATR | 2.2 |
+| RSI | 36.96 |
+| MACD | -0.66 |
+| MA20 | 34.25 |
+| MA200 | 36.45 |
+| ATR | 2.13 |
 | Risk | ELEVATED |
-| Stop Loss | 29.58 |
-| Target | 37.28 |
+| Stop Loss | 29.45 |
+| Target | 36.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42784,19 +42802,19 @@
 | Metric | Value |
 |--------|-------|
 | Price | 7.1 |
-| Trend | weak_trend |
-| RSI | 40.0 |
-| MACD | -0.26 |
-| MA20 | 7.0 |
-| MA200 | 10.5 |
-| ATR | 0.09 |
+| Trend | downtrend |
+| RSI | 61.54 |
+| MACD | -0.23 |
+| MA20 | 7.01 |
+| MA200 | 10.46 |
+| ATR | 0.06 |
 | Risk | LOW |
-| Stop Loss | 6.97 |
-| Target | 7.27 |
+| Stop Loss | 7.01 |
+| Target | 7.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MONOPHARMA.NS
 | Metric | Value |
@@ -42804,9 +42822,9 @@
 | Price | 8.9 |
 | Trend | downtrend |
 | RSI | 65.12 |
-| MACD | -0.03 |
+| MACD | -0.0 |
 | MA20 | 8.56 |
-| MA200 | 11.17 |
+| MA200 | 11.13 |
 | ATR | 0.25 |
 | Risk | NORMAL |
 | Stop Loss | 8.52 |
@@ -42819,16 +42837,16 @@
 ### SGL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.49 |
+| Price | 9.71 |
 | Trend | downtrend |
-| RSI | 50.68 |
-| MACD | -0.16 |
+| RSI | 57.51 |
+| MACD | -0.11 |
 | MA20 | 9.24 |
-| MA200 | 10.92 |
-| ATR | 0.72 |
+| MA200 | 10.91 |
+| ATR | 0.73 |
 | Risk | ELEVATED |
-| Stop Loss | 8.42 |
-| Target | 10.92 |
+| Stop Loss | 8.61 |
+| Target | 11.18 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42837,52 +42855,52 @@
 ### KRIDHANINF.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.2 |
+| Price | 2.42 |
 | Trend | weak_trend |
-| RSI | 78.33 |
-| MACD | -0.02 |
-| MA20 | 1.89 |
-| MA200 | 2.82 |
-| ATR | 0.1 |
+| RSI | 85.19 |
+| MACD | 0.02 |
+| MA20 | 1.92 |
+| MA200 | 2.81 |
+| ATR | 0.12 |
 | Risk | ELEVATED |
-| Stop Loss | 2.04 |
-| Target | 2.41 |
+| Stop Loss | 2.25 |
+| Target | 2.65 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KANANIIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.32 |
+| Price | 1.31 |
 | Trend | downtrend |
-| RSI | 30.77 |
-| MACD | -0.05 |
-| MA20 | 1.38 |
+| RSI | 29.63 |
+| MACD | -0.04 |
+| MA20 | 1.37 |
 | MA200 | 1.53 |
 | ATR | 0.06 |
 | Risk | ELEVATED |
-| Stop Loss | 1.23 |
-| Target | 1.44 |
+| Stop Loss | 1.22 |
+| Target | 1.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KSR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 37.56 |
+| Price | 37.05 |
 | Trend | weak_trend |
-| RSI | 38.42 |
-| MACD | 0.63 |
-| MA20 | 39.66 |
-| MA200 | 31.66 |
-| ATR | 2.31 |
+| RSI | 42.71 |
+| MACD | 0.51 |
+| MA20 | 39.4 |
+| MA200 | 31.76 |
+| ATR | 2.24 |
 | Risk | ELEVATED |
-| Stop Loss | 34.09 |
-| Target | 42.19 |
+| Stop Loss | 33.69 |
+| Target | 41.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42891,34 +42909,34 @@
 ### KKVAPOW.NS
 | Metric | Value |
 |--------|-------|
-| Price | 290.0 |
+| Price | 303.9 |
 | Trend | downtrend |
-| RSI | 0.0 |
-| MACD | -24.22 |
-| MA20 | 324.18 |
-| MA200 | 534.47 |
-| ATR | 5.3 |
+| RSI | 20.47 |
+| MACD | -22.5 |
+| MA20 | 321.68 |
+| MA200 | 532.91 |
+| ATR | 5.51 |
 | Risk | LOW |
-| Stop Loss | 282.04 |
-| Target | 300.61 |
+| Stop Loss | 295.63 |
+| Target | 314.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### NEUEON.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.52 |
+| Price | 12.44 |
 | Trend | weak_trend |
-| RSI | 54.33 |
-| MACD | -0.01 |
-| MA20 | 13.12 |
-| MA200 | 14.92 |
-| ATR | 0.83 |
+| RSI | 50.0 |
+| MACD | -0.08 |
+| MA20 | 13.14 |
+| MA200 | 14.95 |
+| ATR | 0.86 |
 | Risk | ELEVATED |
-| Stop Loss | 11.28 |
-| Target | 14.18 |
+| Stop Loss | 11.16 |
+| Target | 14.15 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -42946,19 +42964,19 @@
 | Metric | Value |
 |--------|-------|
 | Price | 33.5 |
-| Trend | weak_trend |
-| RSI | 44.68 |
-| MACD | -1.44 |
-| MA20 | 34.21 |
-| MA200 | 40.94 |
-| ATR | 1.09 |
+| Trend | downtrend |
+| RSI | 54.55 |
+| MACD | -1.36 |
+| MA20 | 33.95 |
+| MA200 | 40.8 |
+| ATR | 0.99 |
 | Risk | NORMAL |
-| Stop Loss | 31.87 |
-| Target | 35.68 |
+| Stop Loss | 32.02 |
+| Target | 35.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TAPIFRUIT.NS
 | Metric | Value |
@@ -42966,9 +42984,9 @@
 | Price | 43.5 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -1.37 |
-| MA20 | 44.5 |
-| MA200 | 55.1 |
+| MACD | -1.3 |
+| MA20 | 44.23 |
+| MA200 | 54.96 |
 | ATR | 0.06 |
 | Risk | LOW |
 | Stop Loss | 43.4 |
@@ -42981,34 +42999,34 @@
 ### WILLAMAGOR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 19.58 |
+| Price | 19.32 |
 | Trend | downtrend |
-| RSI | 27.3 |
-| MACD | -1.1 |
-| MA20 | 22.55 |
-| MA200 | 26.47 |
-| ATR | 1.73 |
+| RSI | 26.74 |
+| MACD | -1.19 |
+| MA20 | 22.31 |
+| MA200 | 26.41 |
+| ATR | 1.74 |
 | Risk | ELEVATED |
-| Stop Loss | 16.99 |
-| Target | 23.04 |
+| Stop Loss | 16.71 |
+| Target | 22.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### TECILCHEM.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.69 |
+| Price | 9.72 |
 | Trend | downtrend |
-| RSI | 53.56 |
-| MACD | 0.01 |
-| MA20 | 9.36 |
-| MA200 | 12.24 |
+| RSI | 56.59 |
+| MACD | 0.03 |
+| MA20 | 9.37 |
+| MA200 | 12.19 |
 | ATR | 0.65 |
 | Risk | ELEVATED |
-| Stop Loss | 8.71 |
-| Target | 10.99 |
+| Stop Loss | 8.74 |
+| Target | 11.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43019,10 +43037,10 @@
 |--------|-------|
 | Price | 0.67 |
 | Trend | downtrend |
-| RSI | 61.54 |
+| RSI | 66.67 |
 | MACD | 0.0 |
 | MA20 | 0.66 |
-| MA200 | 0.96 |
+| MA200 | 0.95 |
 | ATR | 0.01 |
 | Risk | NORMAL |
 | Stop Loss | 0.65 |
@@ -43030,57 +43048,57 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### KHANDSE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.09 |
+| Price | 16.23 |
 | Trend | downtrend |
-| RSI | 49.03 |
-| MACD | -0.12 |
-| MA20 | 17.4 |
-| MA200 | 17.75 |
-| ATR | 1.03 |
+| RSI | 23.58 |
+| MACD | -0.19 |
+| MA20 | 17.35 |
+| MA200 | 17.72 |
+| ATR | 1.11 |
 | Risk | ELEVATED |
-| Stop Loss | 15.54 |
-| Target | 19.16 |
+| Stop Loss | 14.56 |
+| Target | 18.45 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### NAGREEKCAP.NS
+| Metric | Value |
+|--------|-------|
+| Price | 26.67 |
+| Trend | weak_trend |
+| RSI | 41.2 |
+| MACD | 0.53 |
+| MA20 | 27.44 |
+| MA200 | 26.15 |
+| ATR | 2.36 |
+| Risk | ELEVATED |
+| Stop Loss | 23.13 |
+| Target | 31.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### NAGREEKCAP.NS
-| Metric | Value |
-|--------|-------|
-| Price | 26.69 |
-| Trend | weak_trend |
-| RSI | 38.98 |
-| MACD | 0.59 |
-| MA20 | 27.35 |
-| MA200 | 26.16 |
-| ATR | 2.41 |
-| Risk | ELEVATED |
-| Stop Loss | 23.08 |
-| Target | 31.51 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
 ### KAUSHALYA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 835.0 |
+| Price | 842.3 |
 | Trend | weak_trend |
-| RSI | 42.3 |
-| MACD | -11.61 |
-| MA20 | 837.78 |
-| MA200 | 872.26 |
-| ATR | 28.08 |
+| RSI | 38.59 |
+| MACD | -10.06 |
+| MA20 | 838.63 |
+| MA200 | 872.0 |
+| ATR | 27.46 |
 | Risk | NORMAL |
-| Stop Loss | 792.88 |
-| Target | 891.16 |
+| Stop Loss | 801.11 |
+| Target | 897.21 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43089,52 +43107,52 @@
 ### INFOMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.27 |
-| Trend | weak_trend |
-| RSI | 42.55 |
-| MACD | 0.01 |
-| MA20 | 5.33 |
-| MA200 | 5.57 |
-| ATR | 0.4 |
-| Risk | ELEVATED |
-| Stop Loss | 4.68 |
-| Target | 6.06 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### BILVYAPAR.NS
-| Metric | Value |
-|--------|-------|
-| Price | 4.51 |
+| Price | 5.35 |
 | Trend | downtrend |
-| RSI | 63.85 |
-| MACD | 0.06 |
-| MA20 | 4.25 |
-| MA200 | 5.31 |
-| ATR | 0.24 |
+| RSI | 50.37 |
+| MACD | 0.01 |
+| MA20 | 5.34 |
+| MA200 | 5.57 |
+| ATR | 0.41 |
 | Risk | ELEVATED |
-| Stop Loss | 4.15 |
-| Target | 4.99 |
+| Stop Loss | 4.74 |
+| Target | 6.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
+### BILVYAPAR.NS
+| Metric | Value |
+|--------|-------|
+| Price | 4.42 |
+| Trend | downtrend |
+| RSI | 57.25 |
+| MACD | 0.06 |
+| MA20 | 4.27 |
+| MA200 | 5.3 |
+| ATR | 0.25 |
+| Risk | ELEVATED |
+| Stop Loss | 4.05 |
+| Target | 4.91 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
 ### VILINBIO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 52.05 |
+| Price | 54.5 |
 | Trend | weak_trend |
-| RSI | 41.5 |
-| MACD | 0.46 |
-| MA20 | 54.81 |
-| MA200 | 40.71 |
-| ATR | 1.88 |
+| RSI | 48.77 |
+| MACD | 0.52 |
+| MA20 | 54.58 |
+| MA200 | 40.88 |
+| ATR | 2.05 |
 | Risk | NORMAL |
-| Stop Loss | 49.23 |
-| Target | 55.81 |
+| Stop Loss | 51.43 |
+| Target | 58.59 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43143,16 +43161,16 @@
 ### MITTAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.7 |
+| Price | 0.69 |
 | Trend | downtrend |
-| RSI | 28.57 |
-| MACD | -0.04 |
+| RSI | 26.67 |
+| MACD | -0.03 |
 | MA20 | 0.73 |
 | MA200 | 0.94 |
 | ATR | 0.03 |
-| Risk | NORMAL |
-| Stop Loss | 0.66 |
-| Target | 0.76 |
+| Risk | ELEVATED |
+| Stop Loss | 0.65 |
+| Target | 0.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43164,9 +43182,9 @@
 | Price | 43.5 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -1.52 |
-| MA20 | 45.08 |
-| MA200 | 62.21 |
+| MACD | -1.48 |
+| MA20 | 44.96 |
+| MA200 | 62.12 |
 | ATR | 0.16 |
 | Risk | LOW |
 | Stop Loss | 43.26 |
@@ -43192,21 +43210,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### CELLPOINT.NS
 | Metric | Value |
 |--------|-------|
 | Price | 15.45 |
 | Trend | downtrend |
-| RSI | 56.6 |
+| RSI | 64.52 |
 | MACD | 0.05 |
-| MA20 | 15.01 |
-| MA200 | 15.92 |
-| ATR | 0.76 |
+| MA20 | 15.03 |
+| MA200 | 15.91 |
+| ATR | 0.72 |
 | Risk | ELEVATED |
-| Stop Loss | 14.3 |
-| Target | 16.98 |
+| Stop Loss | 14.37 |
+| Target | 16.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43215,16 +43233,16 @@
 ### ROLLT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.15 |
+| Price | 4.92 |
 | Trend | weak_trend |
-| RSI | 38.01 |
-| MACD | 0.22 |
-| MA20 | 5.42 |
-| MA200 | 2.42 |
-| ATR | 0.35 |
+| RSI | 30.06 |
+| MACD | 0.18 |
+| MA20 | 5.43 |
+| MA200 | 2.43 |
+| ATR | 0.34 |
 | Risk | ELEVATED |
-| Stop Loss | 4.63 |
-| Target | 5.85 |
+| Stop Loss | 4.41 |
+| Target | 5.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43233,16 +43251,16 @@
 ### TGBHOTELS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 9.14 |
+| Price | 9.13 |
 | Trend | downtrend |
-| RSI | 41.6 |
+| RSI | 38.86 |
 | MACD | -0.08 |
-| MA20 | 9.4 |
-| MA200 | 9.25 |
+| MA20 | 9.38 |
+| MA200 | 9.24 |
 | ATR | 0.63 |
 | Risk | ELEVATED |
 | Stop Loss | 8.19 |
-| Target | 10.41 |
+| Target | 10.39 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43251,34 +43269,34 @@
 ### ASPIRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 15.1 |
-| Trend | weak_trend |
-| RSI | 71.29 |
-| MACD | 0.49 |
-| MA20 | 14.02 |
-| MA200 | 14.55 |
-| ATR | 0.76 |
+| Price | 14.45 |
+| Trend | downtrend |
+| RSI | 61.11 |
+| MACD | 0.43 |
+| MA20 | 14.08 |
+| MA200 | 14.53 |
+| ATR | 0.75 |
 | Risk | ELEVATED |
-| Stop Loss | 13.95 |
-| Target | 16.63 |
+| Stop Loss | 13.33 |
+| Target | 15.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SHRENIK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.25 |
+| Price | 0.24 |
 | Trend | downtrend |
 | RSI | 16.67 |
 | MACD | -0.01 |
 | MA20 | 0.28 |
 | MA200 | 0.37 |
-| ATR | 0.02 |
+| ATR | 0.01 |
 | Risk | ELEVATED |
-| Stop Loss | 0.23 |
-| Target | 0.28 |
+| Stop Loss | 0.22 |
+| Target | 0.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43288,15 +43306,15 @@
 | Metric | Value |
 |--------|-------|
 | Price | 20.6 |
-| Trend | weak_trend |
-| RSI | 48.05 |
-| MACD | -0.54 |
-| MA20 | 20.12 |
-| MA200 | 23.48 |
-| ATR | 0.28 |
+| Trend | downtrend |
+| RSI | 55.22 |
+| MACD | -0.47 |
+| MA20 | 20.08 |
+| MA200 | 23.49 |
+| ATR | 0.24 |
 | Risk | LOW |
-| Stop Loss | 20.18 |
-| Target | 21.16 |
+| Stop Loss | 20.24 |
+| Target | 21.09 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43323,70 +43341,70 @@
 ### LIBAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.13 |
-| Trend | weak_trend |
-| RSI | 29.66 |
-| MACD | 0.13 |
-| MA20 | 11.74 |
-| MA200 | 10.96 |
-| ATR | 0.93 |
+| Price | 11.85 |
+| Trend | downtrend |
+| RSI | 42.05 |
+| MACD | 0.15 |
+| MA20 | 11.77 |
+| MA200 | 10.97 |
+| ATR | 0.95 |
 | Risk | ELEVATED |
-| Stop Loss | 9.74 |
-| Target | 12.98 |
+| Stop Loss | 10.43 |
+| Target | 13.75 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FLFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.97 |
+| Price | 0.93 |
 | Trend | downtrend |
-| RSI | 20.0 |
+| RSI | 18.42 |
 | MACD | -0.06 |
-| MA20 | 1.09 |
+| MA20 | 1.08 |
 | MA200 | 1.32 |
 | ATR | 0.06 |
 | Risk | ELEVATED |
-| Stop Loss | 0.88 |
-| Target | 1.1 |
+| Stop Loss | 0.84 |
+| Target | 1.05 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### YUDIZ.NS
 | Metric | Value |
 |--------|-------|
-| Price | 20.7 |
+| Price | 21.1 |
 | Trend | downtrend |
-| RSI | 32.03 |
-| MACD | -0.68 |
-| MA20 | 22.57 |
-| MA200 | 26.61 |
-| ATR | 0.46 |
+| RSI | 36.03 |
+| MACD | -0.72 |
+| MA20 | 22.46 |
+| MA200 | 26.57 |
+| ATR | 0.52 |
 | Risk | NORMAL |
-| Stop Loss | 20.0 |
-| Target | 21.63 |
+| Stop Loss | 20.32 |
+| Target | 22.14 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### MICROPRO.NS
 | Metric | Value |
 |--------|-------|
 | Price | 18.05 |
-| Trend | weak_trend |
-| RSI | 47.27 |
-| MACD | -0.42 |
-| MA20 | 17.72 |
-| MA200 | 19.17 |
-| ATR | 0.51 |
+| Trend | downtrend |
+| RSI | 56.52 |
+| MACD | -0.34 |
+| MA20 | 17.68 |
+| MA200 | 19.16 |
+| ATR | 0.44 |
 | Risk | NORMAL |
-| Stop Loss | 17.28 |
-| Target | 19.08 |
+| Stop Loss | 17.4 |
+| Target | 18.92 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43395,52 +43413,52 @@
 ### CONTI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 10.75 |
+| Price | 10.25 |
 | Trend | downtrend |
-| RSI | 63.89 |
-| MACD | -0.18 |
-| MA20 | 10.34 |
-| MA200 | 14.38 |
+| RSI | 50.68 |
+| MACD | -0.17 |
+| MA20 | 10.27 |
+| MA200 | 14.32 |
 | ATR | 0.3 |
 | Risk | NORMAL |
-| Stop Loss | 10.31 |
-| Target | 11.34 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
-
-### HAVISHA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 1.41 |
-| Trend | downtrend |
-| RSI | 55.93 |
-| MACD | 0.02 |
-| MA20 | 1.37 |
-| MA200 | 1.48 |
-| ATR | 0.15 |
-| Risk | ELEVATED |
-| Stop Loss | 1.18 |
-| Target | 1.72 |
+| Stop Loss | 9.8 |
+| Target | 10.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
+### HAVISHA.NS
+| Metric | Value |
+|--------|-------|
+| Price | 1.32 |
+| Trend | weak_trend |
+| RSI | 46.97 |
+| MACD | 0.01 |
+| MA20 | 1.37 |
+| MA200 | 1.47 |
+| ATR | 0.16 |
+| Risk | ELEVATED |
+| Stop Loss | 1.08 |
+| Target | 1.64 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+
 ### GFSTEELS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 43.09 |
+| Price | 43.95 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 6.22 |
-| MA20 | 32.76 |
-| MA200 | 14.91 |
-| ATR | 1.22 |
+| MACD | 6.26 |
+| MA20 | 33.91 |
+| MA200 | 15.07 |
+| ATR | 1.19 |
 | Risk | NORMAL |
-| Stop Loss | 41.25 |
-| Target | 45.54 |
+| Stop Loss | 42.16 |
+| Target | 46.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43449,16 +43467,16 @@
 ### MFML.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.0 |
+| Price | 18.05 |
 | Trend | downtrend |
-| RSI | 43.45 |
-| MACD | -0.15 |
-| MA20 | 18.64 |
-| MA200 | 22.18 |
-| ATR | 1.61 |
+| RSI | 39.69 |
+| MACD | -0.18 |
+| MA20 | 18.62 |
+| MA200 | 22.14 |
+| ATR | 1.65 |
 | Risk | ELEVATED |
 | Stop Loss | 15.58 |
-| Target | 21.22 |
+| Target | 21.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43467,20 +43485,20 @@
 ### MORARJEE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 7.16 |
+| Price | 6.81 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -0.58 |
-| MA20 | 8.12 |
-| MA200 | 8.29 |
-| ATR | 0.08 |
+| MACD | -0.62 |
+| MA20 | 8.0 |
+| MA200 | 8.28 |
+| ATR | 0.11 |
 | Risk | LOW |
-| Stop Loss | 7.03 |
-| Target | 7.33 |
+| Stop Loss | 6.65 |
+| Target | 7.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### KSHITIJPOL.NS
 | Metric | Value |
@@ -43503,16 +43521,16 @@
 ### EASTSILK.NS
 | Metric | Value |
 |--------|-------|
-| Price | 69.58 |
+| Price | 70.0 |
 | Trend | weak_trend |
-| RSI | 60.29 |
+| RSI | 57.11 |
 | MACD | 1.74 |
-| MA20 | 67.49 |
-| MA200 | 63.1 |
-| ATR | 4.9 |
+| MA20 | 67.79 |
+| MA200 | 63.02 |
+| ATR | 5.17 |
 | Risk | ELEVATED |
-| Stop Loss | 62.23 |
-| Target | 79.38 |
+| Stop Loss | 62.25 |
+| Target | 80.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43521,34 +43539,34 @@
 ### AILIMITED.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.6 |
+| Price | 12.95 |
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -1.95 |
-| MA20 | 15.84 |
-| MA200 | 32.5 |
-| ATR | 0.2 |
+| MA20 | 15.48 |
+| MA200 | 32.36 |
+| ATR | 0.19 |
 | Risk | LOW |
-| Stop Loss | 13.3 |
-| Target | 14.0 |
+| Stop Loss | 12.67 |
+| Target | 13.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### SPRL.NS
 | Metric | Value |
 |--------|-------|
 | Price | 140.25 |
 | Trend | weak_trend |
-| RSI | 87.64 |
-| MACD | 10.3 |
-| MA20 | 123.22 |
-| MA200 | 112.26 |
-| ATR | 3.98 |
+| RSI | 86.15 |
+| MACD | 10.05 |
+| MA20 | 125.14 |
+| MA200 | 112.17 |
+| ATR | 3.61 |
 | Risk | NORMAL |
-| Stop Loss | 134.28 |
-| Target | 148.21 |
+| Stop Loss | 134.84 |
+| Target | 147.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43558,33 +43576,33 @@
 | Metric | Value |
 |--------|-------|
 | Price | 18.0 |
-| Trend | downtrend |
-| RSI | 52.73 |
-| MACD | -0.0 |
-| MA20 | 17.91 |
-| MA200 | 19.88 |
-| ATR | 0.34 |
+| Trend | weak_trend |
+| RSI | 42.22 |
+| MACD | -0.01 |
+| MA20 | 17.96 |
+| MA200 | 19.87 |
+| ATR | 0.31 |
 | Risk | LOW |
-| Stop Loss | 17.49 |
-| Target | 18.68 |
+| Stop Loss | 17.54 |
+| Target | 18.61 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### CYBERMEDIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 18.17 |
+| Price | 18.1 |
 | Trend | weak_trend |
-| RSI | 31.62 |
+| RSI | 33.83 |
 | MACD | -0.62 |
-| MA20 | 19.77 |
-| MA200 | 16.68 |
-| ATR | 0.98 |
+| MA20 | 19.54 |
+| MA200 | 16.69 |
+| ATR | 1.01 |
 | Risk | ELEVATED |
-| Stop Loss | 16.69 |
-| Target | 20.14 |
+| Stop Loss | 16.58 |
+| Target | 20.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43596,9 +43614,9 @@
 | Price | 38.75 |
 | Trend | weak_trend |
 | RSI | 0.0 |
-| MACD | 0.77 |
-| MA20 | 40.15 |
-| MA200 | 36.16 |
+| MACD | 0.67 |
+| MA20 | 40.05 |
+| MA200 | 36.23 |
 | ATR | 0.14 |
 | Risk | LOW |
 | Stop Loss | 38.54 |
@@ -43611,16 +43629,16 @@
 ### SUPREMEENG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.74 |
+| Price | 4.83 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 0.44 |
-| MA20 | 3.99 |
-| MA200 | 1.71 |
+| MACD | 0.45 |
+| MA20 | 4.07 |
+| MA200 | 1.72 |
 | ATR | 0.08 |
 | Risk | LOW |
-| Stop Loss | 4.62 |
-| Target | 4.9 |
+| Stop Loss | 4.71 |
+| Target | 4.99 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43629,16 +43647,16 @@
 ### TVVISION.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.61 |
+| Price | 2.5 |
 | Trend | weak_trend |
-| RSI | 48.28 |
+| RSI | 37.72 |
 | MACD | -0.21 |
-| MA20 | 2.7 |
-| MA200 | 5.24 |
+| MA20 | 2.69 |
+| MA200 | 5.19 |
 | ATR | 0.2 |
 | Risk | ELEVATED |
-| Stop Loss | 2.31 |
-| Target | 3.01 |
+| Stop Loss | 2.2 |
+| Target | 2.9 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43647,16 +43665,16 @@
 ### NIDAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.2 |
+| Price | 13.45 |
 | Trend | weak_trend |
-| RSI | 47.96 |
-| MACD | -0.09 |
-| MA20 | 13.19 |
-| MA200 | 14.81 |
-| ATR | 0.46 |
+| RSI | 47.42 |
+| MACD | -0.06 |
+| MA20 | 13.18 |
+| MA200 | 14.78 |
+| ATR | 0.5 |
 | Risk | NORMAL |
-| Stop Loss | 12.5 |
-| Target | 14.13 |
+| Stop Loss | 12.7 |
+| Target | 14.45 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43665,34 +43683,34 @@
 ### ANKITMETAL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.55 |
+| Price | 2.5 |
 | Trend | weak_trend |
-| RSI | 94.38 |
+| RSI | 89.01 |
 | MACD | 0.22 |
-| MA20 | 1.99 |
-| MA200 | 1.64 |
+| MA20 | 2.03 |
+| MA200 | 1.65 |
 | ATR | 0.07 |
 | Risk | NORMAL |
-| Stop Loss | 2.45 |
-| Target | 2.68 |
+| Stop Loss | 2.4 |
+| Target | 2.64 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GUJRAFFIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 52.11 |
+| Price | 62.53 |
 | Trend | weak_trend |
-| RSI | 84.31 |
-| MACD | 1.32 |
-| MA20 | 41.42 |
-| MA200 | 41.15 |
-| ATR | 2.93 |
+| RSI | 89.62 |
+| MACD | 2.76 |
+| MA20 | 42.53 |
+| MA200 | 41.21 |
+| ATR | 3.52 |
 | Risk | ELEVATED |
-| Stop Loss | 47.71 |
-| Target | 57.97 |
+| Stop Loss | 57.25 |
+| Target | 69.57 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43701,16 +43719,16 @@
 ### CALSOFT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32.31 |
+| Price | 32.14 |
 | Trend | weak_trend |
-| RSI | 26.6 |
-| MACD | -0.19 |
-| MA20 | 36.33 |
-| MA200 | 20.91 |
-| ATR | 2.09 |
+| RSI | 28.62 |
+| MACD | -0.38 |
+| MA20 | 36.0 |
+| MA200 | 20.99 |
+| ATR | 2.04 |
 | Risk | ELEVATED |
-| Stop Loss | 29.18 |
-| Target | 36.49 |
+| Stop Loss | 29.08 |
+| Target | 36.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43719,16 +43737,16 @@
 ### GTECJAINX.NS
 | Metric | Value |
 |--------|-------|
-| Price | 32.97 |
+| Price | 34.57 |
 | Trend | weak_trend |
-| RSI | 66.55 |
+| RSI | 65.79 |
 | MACD | 1.75 |
-| MA20 | 30.53 |
-| MA200 | 24.36 |
-| ATR | 2.34 |
+| MA20 | 30.92 |
+| MA200 | 24.42 |
+| ATR | 2.33 |
 | Risk | ELEVATED |
-| Stop Loss | 29.47 |
-| Target | 37.64 |
+| Stop Loss | 31.07 |
+| Target | 39.23 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43737,38 +43755,38 @@
 ### ACEINTEG.NS
 | Metric | Value |
 |--------|-------|
-| Price | 16.69 |
+| Price | 17.41 |
 | Trend | downtrend |
-| RSI | 39.97 |
-| MACD | -0.29 |
-| MA20 | 17.22 |
-| MA200 | 19.17 |
-| ATR | 1.02 |
+| RSI | 50.82 |
+| MACD | -0.24 |
+| MA20 | 17.21 |
+| MA200 | 19.15 |
+| ATR | 0.93 |
 | Risk | ELEVATED |
-| Stop Loss | 15.17 |
-| Target | 18.72 |
+| Stop Loss | 16.02 |
+| Target | 19.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### RETAIL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 27.03 |
+| Price | 25.68 |
 | Trend | weak_trend |
-| RSI | 66.58 |
-| MACD | 3.23 |
-| MA20 | 23.68 |
+| RSI | 65.23 |
+| MACD | 2.86 |
+| MA20 | 24.1 |
 | MA200 | 20.78 |
 | ATR | 2.46 |
 | Risk | ELEVATED |
-| Stop Loss | 23.33 |
-| Target | 31.96 |
+| Stop Loss | 21.99 |
+| Target | 30.6 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FEL.NS
 | Metric | Value |
@@ -43793,14 +43811,14 @@
 |--------|-------|
 | Price | 8.1 |
 | Trend | weak_trend |
-| RSI | 34.48 |
+| RSI | 41.67 |
 | MACD | -0.24 |
-| MA20 | 8.33 |
-| MA200 | 10.21 |
-| ATR | 0.14 |
+| MA20 | 8.31 |
+| MA200 | 10.19 |
+| ATR | 0.12 |
 | Risk | LOW |
-| Stop Loss | 7.9 |
-| Target | 8.37 |
+| Stop Loss | 7.92 |
+| Target | 8.34 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43812,9 +43830,9 @@
 | Price | 70.5 |
 | Trend | weak_trend |
 | RSI | 58.47 |
-| MACD | 0.74 |
-| MA20 | 72.69 |
-| MA200 | 67.83 |
+| MACD | 0.49 |
+| MA20 | 72.32 |
+| MA200 | 67.85 |
 | ATR | 1.27 |
 | Risk | LOW |
 | Stop Loss | 68.6 |
@@ -43840,21 +43858,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### VCL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.48 |
+| Price | 1.51 |
 | Trend | weak_trend |
-| RSI | 41.67 |
+| RSI | 44.0 |
 | MACD | -0.04 |
-| MA20 | 1.51 |
+| MA20 | 1.5 |
 | MA200 | 1.64 |
 | ATR | 0.09 |
 | Risk | ELEVATED |
-| Stop Loss | 1.35 |
-| Target | 1.66 |
+| Stop Loss | 1.38 |
+| Target | 1.69 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43863,16 +43881,16 @@
 ### INSPIRE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.9 |
+| Price | 12.45 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 0.59 |
-| MA20 | 9.56 |
-| MA200 | 9.93 |
-| ATR | 0.21 |
+| MACD | 0.73 |
+| MA20 | 9.72 |
+| MA200 | 9.94 |
+| ATR | 0.25 |
 | Risk | LOW |
-| Stop Loss | 11.59 |
-| Target | 12.31 |
+| Stop Loss | 12.08 |
+| Target | 12.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43887,7 +43905,7 @@
 | MACD | -0.0 |
 | MA20 | 0.51 |
 | MA200 | 0.55 |
-| ATR | 0.03 |
+| ATR | 0.02 |
 | Risk | ELEVATED |
 | Stop Loss | 0.46 |
 | Target | 0.55 |
@@ -43901,14 +43919,14 @@
 |--------|-------|
 | Price | 22.35 |
 | Trend | downtrend |
-| RSI | 16.41 |
-| MACD | -2.46 |
-| MA20 | 26.34 |
-| MA200 | 44.06 |
-| ATR | 0.89 |
+| RSI | 19.16 |
+| MACD | -2.45 |
+| MA20 | 25.84 |
+| MA200 | 43.87 |
+| ATR | 0.79 |
 | Risk | NORMAL |
-| Stop Loss | 21.01 |
-| Target | 24.14 |
+| Stop Loss | 21.16 |
+| Target | 23.94 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43917,16 +43935,16 @@
 ### HEADSUP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.26 |
+| Price | 6.21 |
 | Trend | downtrend |
-| RSI | 39.06 |
-| MACD | -0.16 |
-| MA20 | 6.62 |
-| MA200 | 7.39 |
+| RSI | 40.28 |
+| MACD | -0.17 |
+| MA20 | 6.58 |
+| MA200 | 7.37 |
 | ATR | 0.5 |
 | Risk | ELEVATED |
-| Stop Loss | 5.51 |
-| Target | 7.26 |
+| Stop Loss | 5.45 |
+| Target | 7.22 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -43935,38 +43953,38 @@
 ### BLUECHIP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.92 |
+| Price | 1.89 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -0.02 |
-| MA20 | 2.0 |
-| MA200 | 2.31 |
+| MACD | -0.03 |
+| MA20 | 1.99 |
+| MA200 | 2.3 |
 | ATR | 0.01 |
 | Risk | LOW |
-| Stop Loss | 1.91 |
-| Target | 1.93 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
-### SHANTHALA.NS
-| Metric | Value |
-|--------|-------|
-| Price | 13.8 |
-| Trend | downtrend |
-| RSI | 21.87 |
-| MACD | -0.78 |
-| MA20 | 14.86 |
-| MA200 | 24.55 |
-| ATR | 0.38 |
-| Risk | NORMAL |
-| Stop Loss | 13.23 |
-| Target | 14.56 |
+| Stop Loss | 1.88 |
+| Target | 1.91 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
 | Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### SHANTHALA.NS
+| Metric | Value |
+|--------|-------|
+| Price | 13.4 |
+| Trend | downtrend |
+| RSI | 19.44 |
+| MACD | -0.79 |
+| MA20 | 14.7 |
+| MA200 | 24.48 |
+| ATR | 0.43 |
+| Risk | NORMAL |
+| Stop Loss | 12.76 |
+| Target | 14.26 |
+| R:R Ratio | 1.33 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MAKS.NS
 | Metric | Value |
@@ -43974,9 +43992,9 @@
 | Price | 14.25 |
 | Trend | weak_trend |
 | RSI | 46.43 |
-| MACD | -0.14 |
-| MA20 | 14.73 |
-| MA200 | 23.61 |
+| MACD | -0.17 |
+| MA20 | 14.69 |
+| MA200 | 23.53 |
 | ATR | 0.1 |
 | Risk | LOW |
 | Stop Loss | 14.1 |
@@ -43984,7 +44002,7 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MARINETRAN.NS
 | Metric | Value |
@@ -43993,8 +44011,8 @@
 | Trend | downtrend |
 | RSI | 48.15 |
 | MACD | -0.4 |
-| MA20 | 14.29 |
-| MA200 | 16.94 |
+| MA20 | 14.18 |
+| MA200 | 16.9 |
 | ATR | 0.1 |
 | Risk | LOW |
 | Stop Loss | 13.66 |
@@ -44007,16 +44025,16 @@
 ### NIRAJISPAT.NS
 | Metric | Value |
 |--------|-------|
-| Price | 285.0 |
+| Price | 272.0 |
 | Trend | weak_trend |
-| RSI | 56.49 |
-| MACD | 0.57 |
-| MA20 | 289.45 |
-| MA200 | 234.16 |
-| ATR | 8.11 |
+| RSI | 57.1 |
+| MACD | -0.97 |
+| MA20 | 288.03 |
+| MA200 | 234.49 |
+| ATR | 8.06 |
 | Risk | NORMAL |
-| Stop Loss | 272.83 |
-| Target | 301.22 |
+| Stop Loss | 259.91 |
+| Target | 288.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44027,14 +44045,14 @@
 |--------|-------|
 | Price | 35.35 |
 | Trend | downtrend |
-| RSI | 45.93 |
-| MACD | -0.42 |
-| MA20 | 37.42 |
-| MA200 | 37.6 |
-| ATR | 1.28 |
+| RSI | 40.0 |
+| MACD | -0.52 |
+| MA20 | 37.28 |
+| MA200 | 37.56 |
+| ATR | 1.15 |
 | Risk | NORMAL |
-| Stop Loss | 33.44 |
-| Target | 37.9 |
+| Stop Loss | 33.62 |
+| Target | 37.66 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44043,16 +44061,16 @@
 ### TIJARIA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.86 |
+| Price | 5.73 |
 | Trend | weak_trend |
-| RSI | 24.91 |
-| MACD | -0.18 |
-| MA20 | 6.8 |
+| RSI | 27.2 |
+| MACD | -0.23 |
+| MA20 | 6.72 |
 | MA200 | 5.08 |
-| ATR | 0.48 |
+| ATR | 0.47 |
 | Risk | ELEVATED |
-| Stop Loss | 5.13 |
-| Target | 6.83 |
+| Stop Loss | 5.03 |
+| Target | 6.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44061,16 +44079,16 @@
 ### RADAAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.82 |
-| Trend | weak_trend |
-| RSI | 50.0 |
-| MACD | -0.02 |
+| Price | 2.76 |
+| Trend | downtrend |
+| RSI | 44.09 |
+| MACD | -0.03 |
 | MA20 | 2.92 |
-| MA200 | 3.08 |
-| ATR | 0.24 |
+| MA200 | 3.07 |
+| ATR | 0.25 |
 | Risk | ELEVATED |
-| Stop Loss | 2.46 |
-| Target | 3.3 |
+| Stop Loss | 2.39 |
+| Target | 3.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44079,16 +44097,16 @@
 ### UNIINFO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.03 |
+| Price | 11.33 |
 | Trend | weak_trend |
-| RSI | 45.76 |
-| MACD | -0.06 |
-| MA20 | 11.19 |
-| MA200 | 12.69 |
-| ATR | 0.68 |
+| RSI | 48.39 |
+| MACD | -0.05 |
+| MA20 | 11.21 |
+| MA200 | 12.67 |
+| ATR | 0.73 |
 | Risk | ELEVATED |
-| Stop Loss | 10.01 |
-| Target | 12.39 |
+| Stop Loss | 10.23 |
+| Target | 12.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44119,8 +44137,8 @@
 | Trend | downtrend |
 | RSI | 48.57 |
 | MACD | -0.13 |
-| MA20 | 4.14 |
-| MA200 | 5.2 |
+| MA20 | 4.12 |
+| MA200 | 5.19 |
 | ATR | 0.2 |
 | Risk | ELEVATED |
 | Stop Loss | 3.65 |
@@ -44128,25 +44146,25 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### VERITAAS.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.3 |
-| Trend | downtrend |
-| RSI | 66.94 |
-| MACD | -0.27 |
-| MA20 | 27.64 |
-| MA200 | 44.66 |
-| ATR | 1.08 |
+| Price | 30.0 |
+| Trend | weak_trend |
+| RSI | 74.26 |
+| MACD | -0.15 |
+| MA20 | 27.77 |
+| MA200 | 44.53 |
+| ATR | 1.13 |
 | Risk | NORMAL |
-| Stop Loss | 27.69 |
-| Target | 31.45 |
+| Stop Loss | 28.3 |
+| Target | 32.26 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### EDUCOMP.NS
 | Metric | Value |
@@ -44164,7 +44182,7 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### SHUBHLAXMI.NS
 | Metric | Value |
@@ -44172,9 +44190,9 @@
 | Price | 16.5 |
 | Trend | downtrend |
 | RSI | 33.33 |
-| MACD | -0.61 |
-| MA20 | 18.02 |
-| MA200 | 25.11 |
+| MACD | -0.63 |
+| MA20 | 17.93 |
+| MA200 | 25.01 |
 | ATR | 0.65 |
 | Risk | NORMAL |
 | Stop Loss | 15.52 |
@@ -44182,21 +44200,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### ONELIFECAP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 50.33 |
+| Price | 50.47 |
 | Trend | weak_trend |
-| RSI | 99.36 |
-| MACD | 4.19 |
-| MA20 | 39.3 |
-| MA200 | 24.98 |
-| ATR | 2.35 |
+| RSI | 99.35 |
+| MACD | 4.39 |
+| MA20 | 40.18 |
+| MA200 | 25.15 |
+| ATR | 2.32 |
 | Risk | ELEVATED |
-| Stop Loss | 46.81 |
-| Target | 55.03 |
+| Stop Loss | 46.99 |
+| Target | 55.11 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44208,9 +44226,9 @@
 | Price | 35.75 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 0.97 |
-| MA20 | 32.75 |
-| MA200 | 45.23 |
+| MACD | 1.03 |
+| MA20 | 33.07 |
+| MA200 | 45.02 |
 | ATR | 0.24 |
 | Risk | LOW |
 | Stop Loss | 35.4 |
@@ -44223,34 +44241,34 @@
 ### GLFL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.63 |
-| Trend | weak_trend |
-| RSI | 64.1 |
-| MACD | 0.02 |
-| MA20 | 5.28 |
+| Price | 5.18 |
+| Trend | downtrend |
+| RSI | 52.36 |
+| MACD | -0.0 |
+| MA20 | 5.27 |
 | MA200 | 5.61 |
-| ATR | 0.45 |
+| ATR | 0.46 |
 | Risk | ELEVATED |
-| Stop Loss | 4.96 |
-| Target | 6.52 |
+| Stop Loss | 4.49 |
+| Target | 6.1 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### TCIFINANCE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.46 |
+| Price | 14.28 |
 | Trend | downtrend |
-| RSI | 29.79 |
+| RSI | 29.41 |
 | MACD | -0.26 |
-| MA20 | 14.74 |
-| MA200 | 16.96 |
-| ATR | 0.95 |
+| MA20 | 14.7 |
+| MA200 | 16.95 |
+| ATR | 1.0 |
 | Risk | ELEVATED |
-| Stop Loss | 13.03 |
-| Target | 16.37 |
+| Stop Loss | 12.79 |
+| Target | 16.27 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44259,34 +44277,34 @@
 ### GSTL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.0 |
-| Trend | downtrend |
-| RSI | 50.94 |
-| MACD | -0.26 |
-| MA20 | 11.44 |
-| MA200 | 20.03 |
-| ATR | 0.52 |
+| Price | 11.5 |
+| Trend | weak_trend |
+| RSI | 40.95 |
+| MACD | -0.25 |
+| MA20 | 11.47 |
+| MA200 | 20.01 |
+| ATR | 0.54 |
 | Risk | ELEVATED |
-| Stop Loss | 11.22 |
-| Target | 13.04 |
+| Stop Loss | 10.69 |
+| Target | 12.58 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### IMPEXFERRO.NS
 | Metric | Value |
 |--------|-------|
 | Price | 6.25 |
 | Trend | weak_trend |
-| RSI | 76.42 |
-| MACD | 0.49 |
-| MA20 | 6.01 |
-| MA200 | 2.6 |
+| RSI | 73.68 |
+| MACD | 0.46 |
+| MA20 | 6.06 |
+| MA200 | 2.62 |
 | ATR | 0.08 |
 | Risk | LOW |
-| Stop Loss | 6.12 |
-| Target | 6.42 |
+| Stop Loss | 6.14 |
+| Target | 6.4 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44298,9 +44316,9 @@
 | Price | 40.8 |
 | Trend | downtrend |
 | RSI | 48.72 |
-| MACD | 0.81 |
-| MA20 | 40.44 |
-| MA200 | 34.42 |
+| MACD | 0.77 |
+| MA20 | 40.49 |
+| MA200 | 34.43 |
 | ATR | 0.28 |
 | Risk | LOW |
 | Stop Loss | 40.38 |
@@ -44313,52 +44331,52 @@
 ### COMPINFO.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.04 |
+| Price | 1.0 |
 | Trend | downtrend |
-| RSI | 47.37 |
+| RSI | 40.0 |
 | MACD | -0.01 |
 | MA20 | 1.07 |
 | MA200 | 1.26 |
-| ATR | 0.07 |
+| ATR | 0.06 |
 | Risk | ELEVATED |
-| Stop Loss | 0.94 |
-| Target | 1.17 |
+| Stop Loss | 0.9 |
+| Target | 1.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### ANTGRAPHIC.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.7 |
+| Price | 0.67 |
 | Trend | downtrend |
-| RSI | 40.0 |
+| RSI | 37.5 |
 | MACD | -0.01 |
-| MA20 | 0.71 |
+| MA20 | 0.7 |
 | MA200 | 0.82 |
-| ATR | 0.02 |
-| Risk | NORMAL |
-| Stop Loss | 0.66 |
-| Target | 0.75 |
+| ATR | 0.03 |
+| Risk | ELEVATED |
+| Stop Loss | 0.62 |
+| Target | 0.73 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### QUADPRO.NS
 | Metric | Value |
 |--------|-------|
 | Price | 4.2 |
 | Trend | weak_trend |
-| RSI | 83.33 |
-| MACD | 0.39 |
-| MA20 | 3.8 |
+| RSI | 80.95 |
+| MACD | 0.37 |
+| MA20 | 3.86 |
 | MA200 | 2.41 |
-| ATR | 0.09 |
-| Risk | NORMAL |
-| Stop Loss | 4.07 |
-| Target | 4.37 |
+| ATR | 0.08 |
+| Risk | LOW |
+| Stop Loss | 4.09 |
+| Target | 4.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44370,9 +44388,9 @@
 | Price | 11.75 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | 0.2 |
-| MA20 | 12.57 |
-| MA200 | 11.8 |
+| MACD | 0.14 |
+| MA20 | 12.59 |
+| MA200 | 11.78 |
 | ATR | 0.09 |
 | Risk | LOW |
 | Stop Loss | 11.61 |
@@ -44385,34 +44403,34 @@
 ### SHYAMTEL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.2 |
+| Price | 11.29 |
 | Trend | downtrend |
-| RSI | 50.24 |
-| MACD | -0.47 |
-| MA20 | 11.04 |
+| RSI | 52.96 |
+| MACD | -0.41 |
+| MA20 | 11.03 |
 | MA200 | 13.87 |
-| ATR | 0.84 |
+| ATR | 0.87 |
 | Risk | ELEVATED |
-| Stop Loss | 9.93 |
-| Target | 12.89 |
+| Stop Loss | 9.98 |
+| Target | 13.03 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
 
 ### CREATIVEYE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 6.21 |
-| Trend | downtrend |
-| RSI | 61.7 |
-| MACD | 0.02 |
-| MA20 | 5.96 |
+| Price | 5.9 |
+| Trend | weak_trend |
+| RSI | 42.8 |
+| MACD | 0.0 |
+| MA20 | 5.97 |
 | MA200 | 6.52 |
 | ATR | 0.62 |
 | Risk | ELEVATED |
-| Stop Loss | 5.27 |
-| Target | 7.46 |
+| Stop Loss | 4.98 |
+| Target | 7.13 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44421,16 +44439,16 @@
 ### ARENTERP.NS
 | Metric | Value |
 |--------|-------|
-| Price | 34.45 |
+| Price | 33.83 |
 | Trend | weak_trend |
-| RSI | 49.74 |
-| MACD | -0.54 |
-| MA20 | 33.68 |
-| MA200 | 38.88 |
-| ATR | 2.41 |
+| RSI | 44.15 |
+| MACD | -0.49 |
+| MA20 | 33.7 |
+| MA200 | 38.82 |
+| ATR | 2.15 |
 | Risk | ELEVATED |
-| Stop Loss | 30.83 |
-| Target | 39.27 |
+| Stop Loss | 30.61 |
+| Target | 38.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44439,16 +44457,16 @@
 ### MTEDUCARE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.63 |
+| Price | 1.61 |
 | Trend | downtrend |
-| RSI | 42.22 |
+| RSI | 43.18 |
 | MACD | -0.04 |
-| MA20 | 1.7 |
+| MA20 | 1.69 |
 | MA200 | 1.68 |
 | ATR | 0.12 |
 | Risk | ELEVATED |
-| Stop Loss | 1.45 |
-| Target | 1.88 |
+| Stop Loss | 1.43 |
+| Target | 1.85 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44457,16 +44475,16 @@
 ### UMESLTD.NS
 | Metric | Value |
 |--------|-------|
-| Price | 4.33 |
+| Price | 4.6 |
 | Trend | downtrend |
-| RSI | 52.67 |
-| MACD | -0.17 |
-| MA20 | 4.46 |
-| MA200 | 5.32 |
+| RSI | 51.03 |
+| MACD | -0.15 |
+| MA20 | 4.44 |
+| MA200 | 5.31 |
 | ATR | 0.35 |
 | Risk | ELEVATED |
-| Stop Loss | 3.81 |
-| Target | 5.03 |
+| Stop Loss | 4.07 |
+| Target | 5.3 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44478,9 +44496,9 @@
 | Price | 150.0 |
 | Trend | weak_trend |
 | RSI | 44.2 |
-| MACD | 1.38 |
-| MA20 | 150.24 |
-| MA200 | 93.53 |
+| MACD | 1.31 |
+| MA20 | 150.18 |
+| MA200 | 93.89 |
 | ATR | 0.65 |
 | Risk | LOW |
 | Stop Loss | 149.03 |
@@ -44488,21 +44506,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### GLOBALE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 11.95 |
+| Price | 11.79 |
 | Trend | weak_trend |
-| RSI | 59.25 |
-| MACD | 0.06 |
-| MA20 | 11.05 |
+| RSI | 57.24 |
+| MACD | 0.1 |
+| MA20 | 11.07 |
 | MA200 | 11.75 |
-| ATR | 0.88 |
+| ATR | 0.89 |
 | Risk | ELEVATED |
-| Stop Loss | 10.63 |
-| Target | 13.71 |
+| Stop Loss | 10.46 |
+| Target | 13.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44511,16 +44529,16 @@
 ### EUROTEXIND.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.84 |
+| Price | 13.38 |
 | Trend | downtrend |
-| RSI | 61.12 |
-| MACD | 0.49 |
-| MA20 | 13.49 |
+| RSI | 55.88 |
+| MACD | 0.37 |
+| MA20 | 13.5 |
 | MA200 | 14.26 |
-| ATR | 1.2 |
+| ATR | 1.21 |
 | Risk | ELEVATED |
-| Stop Loss | 12.04 |
-| Target | 16.24 |
+| Stop Loss | 11.56 |
+| Target | 15.8 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44533,8 +44551,8 @@
 | Trend | downtrend |
 | RSI | 39.66 |
 | MACD | -0.23 |
-| MA20 | 12.25 |
-| MA200 | 13.21 |
+| MA20 | 12.19 |
+| MA200 | 13.18 |
 | ATR | 0.21 |
 | Risk | LOW |
 | Stop Loss | 11.34 |
@@ -44544,37 +44562,19 @@
 
 | Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
-### AMIABLE.NS
-| Metric | Value |
-|--------|-------|
-| Price | 70.0 |
-| Trend | downtrend |
-| RSI | 0.0 |
-| MACD | -0.16 |
-| MA20 | 70.62 |
-| MA200 | 73.58 |
-| ATR | 0.01 |
-| Risk | LOW |
-| Stop Loss | 69.98 |
-| Target | 70.03 |
-| R:R Ratio | 1.33 |
-| Confidence | 40% |
-
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
-
 ### SHANTI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.4 |
+| Price | 5.47 |
 | Trend | weak_trend |
-| RSI | 41.03 |
+| RSI | 46.22 |
 | MACD | -0.2 |
-| MA20 | 5.71 |
-| MA200 | 6.84 |
-| ATR | 0.52 |
+| MA20 | 5.68 |
+| MA200 | 6.82 |
+| ATR | 0.5 |
 | Risk | ELEVATED |
-| Stop Loss | 4.63 |
-| Target | 6.43 |
+| Stop Loss | 4.73 |
+| Target | 6.46 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44583,34 +44583,34 @@
 ### DCMFINSERV.NS
 | Metric | Value |
 |--------|-------|
-| Price | 5.3 |
+| Price | 5.0 |
 | Trend | weak_trend |
-| RSI | 61.36 |
+| RSI | 47.59 |
 | MACD | -0.04 |
 | MA20 | 5.05 |
-| MA200 | 5.18 |
-| ATR | 0.43 |
+| MA200 | 5.17 |
+| ATR | 0.42 |
 | Risk | ELEVATED |
-| Stop Loss | 4.66 |
-| Target | 6.16 |
+| Stop Loss | 4.38 |
+| Target | 5.83 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### RITEZONE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 17.05 |
+| Price | 17.9 |
 | Trend | downtrend |
-| RSI | 25.19 |
-| MACD | -0.66 |
-| MA20 | 18.81 |
-| MA200 | 19.82 |
-| ATR | 0.74 |
+| RSI | 38.64 |
+| MACD | -0.61 |
+| MA20 | 18.63 |
+| MA200 | 19.81 |
+| ATR | 0.72 |
 | Risk | ELEVATED |
-| Stop Loss | 15.95 |
-| Target | 18.52 |
+| Stop Loss | 16.81 |
+| Target | 19.35 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44619,16 +44619,16 @@
 ### PREMIER.NS
 | Metric | Value |
 |--------|-------|
-| Price | 2.56 |
+| Price | 2.6 |
 | Trend | downtrend |
-| RSI | 40.0 |
+| RSI | 39.45 |
 | MACD | -0.05 |
 | MA20 | 2.71 |
-| MA200 | 2.91 |
-| ATR | 0.2 |
+| MA200 | 2.9 |
+| ATR | 0.19 |
 | Risk | ELEVATED |
-| Stop Loss | 2.26 |
-| Target | 2.96 |
+| Stop Loss | 2.31 |
+| Target | 2.98 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44637,56 +44637,56 @@
 ### ORTINGLOBE.NS
 | Metric | Value |
 |--------|-------|
-| Price | 14.93 |
+| Price | 15.28 |
 | Trend | downtrend |
-| RSI | 46.93 |
-| MACD | -0.34 |
-| MA20 | 15.14 |
-| MA200 | 15.3 |
+| RSI | 54.01 |
+| MACD | -0.26 |
+| MA20 | 15.05 |
+| MA200 | 15.31 |
 | ATR | 0.92 |
 | Risk | ELEVATED |
-| Stop Loss | 13.55 |
-| Target | 16.77 |
+| Stop Loss | 13.9 |
+| Target | 17.12 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### FALCONTECH.NS
 | Metric | Value |
 |--------|-------|
-| Price | 12.85 |
+| Price | 12.1 |
 | Trend | downtrend |
-| RSI | 43.75 |
-| MACD | 0.1 |
-| MA20 | 12.83 |
-| MA200 | 13.38 |
-| ATR | 0.48 |
-| Risk | NORMAL |
-| Stop Loss | 12.13 |
-| Target | 13.81 |
+| RSI | 29.79 |
+| MACD | 0.03 |
+| MA20 | 12.79 |
+| MA200 | 13.37 |
+| ATR | 0.54 |
+| Risk | ELEVATED |
+| Stop Loss | 11.3 |
+| Target | 13.17 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### CBAZAAR.NS
 | Metric | Value |
 |--------|-------|
 | Price | 5.05 |
 | Trend | weak_trend |
-| RSI | 62.86 |
-| MACD | 0.06 |
-| MA20 | 5.0 |
-| MA200 | 4.75 |
-| ATR | 0.15 |
+| RSI | 58.06 |
+| MACD | 0.05 |
+| MA20 | 5.03 |
+| MA200 | 4.76 |
+| ATR | 0.14 |
 | Risk | NORMAL |
-| Stop Loss | 4.82 |
-| Target | 5.36 |
+| Stop Loss | 4.84 |
+| Target | 5.33 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### SMVD.NS
 | Metric | Value |
@@ -44694,9 +44694,9 @@
 | Price | 13.85 |
 | Trend | weak_trend |
 | RSI | 24.14 |
-| MACD | -0.43 |
-| MA20 | 15.08 |
-| MA200 | 11.91 |
+| MACD | -0.47 |
+| MA20 | 14.93 |
+| MA200 | 11.94 |
 | ATR | 0.21 |
 | Risk | LOW |
 | Stop Loss | 13.54 |
@@ -44709,16 +44709,16 @@
 ### SETUINFRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 0.45 |
+| Price | 0.44 |
 | Trend | downtrend |
 | RSI | 0.0 |
 | MACD | -0.02 |
-| MA20 | 0.55 |
+| MA20 | 0.53 |
 | MA200 | 0.47 |
 | ATR | 0.01 |
 | Risk | NORMAL |
-| Stop Loss | 0.43 |
-| Target | 0.48 |
+| Stop Loss | 0.42 |
+| Target | 0.47 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44727,16 +44727,16 @@
 ### JALAN.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.5 |
+| Price | 1.45 |
 | Trend | downtrend |
-| RSI | 36.36 |
-| MACD | -0.06 |
-| MA20 | 1.67 |
-| MA200 | 2.29 |
-| ATR | 0.05 |
+| RSI | 27.27 |
+| MACD | -0.07 |
+| MA20 | 1.66 |
+| MA200 | 2.28 |
+| ATR | 0.04 |
 | Risk | NORMAL |
-| Stop Loss | 1.43 |
-| Target | 1.59 |
+| Stop Loss | 1.39 |
+| Target | 1.54 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44748,9 +44748,9 @@
 | Price | 2.37 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -0.05 |
-| MA20 | 2.6 |
-| MA200 | 3.55 |
+| MACD | -0.06 |
+| MA20 | 2.59 |
+| MA200 | 3.54 |
 | ATR | 0.03 |
 | Risk | LOW |
 | Stop Loss | 2.32 |
@@ -44765,14 +44765,14 @@
 |--------|-------|
 | Price | 5.0 |
 | Trend | weak_trend |
-| RSI | 68.09 |
-| MACD | 0.0 |
-| MA20 | 5.17 |
+| RSI | 58.33 |
+| MACD | -0.0 |
+| MA20 | 5.12 |
 | MA200 | 5.14 |
-| ATR | 0.25 |
+| ATR | 0.21 |
 | Risk | ELEVATED |
-| Stop Loss | 4.63 |
-| Target | 5.49 |
+| Stop Loss | 4.68 |
+| Target | 5.43 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44785,7 +44785,7 @@
 | Trend | weak_trend |
 | RSI | 100.0 |
 | MACD | 0.08 |
-| MA20 | 3.24 |
+| MA20 | 3.25 |
 | MA200 | 3.14 |
 | ATR | 0.04 |
 | Risk | LOW |
@@ -44794,21 +44794,39 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+
+### ORTEL.NS
+| Metric | Value |
+|--------|-------|
+| Price | 1.71 |
+| Trend | weak_trend |
+| RSI | 20.0 |
+| MACD | -0.05 |
+| MA20 | 1.72 |
+| MA200 | 1.68 |
+| ATR | 0.01 |
+| Risk | LOW |
+| Stop Loss | 1.7 |
+| Target | 1.72 |
+| R:R Ratio | 0 |
+| Confidence | 40% |
+
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### QUINTEGRA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 1.77 |
+| Price | 1.85 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 0.11 |
-| MA20 | 1.29 |
-| MA200 | 1.32 |
+| MACD | 0.14 |
+| MA20 | 1.33 |
+| MA200 | 1.33 |
 | ATR | 0.05 |
 | Risk | NORMAL |
-| Stop Loss | 1.7 |
-| Target | 1.86 |
+| Stop Loss | 1.77 |
+| Target | 1.95 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44817,34 +44835,34 @@
 ### VASA.NS
 | Metric | Value |
 |--------|-------|
-| Price | 3.4 |
-| Trend | downtrend |
-| RSI | 0.0 |
-| MACD | -0.12 |
+| Price | 3.5 |
+| Trend | weak_trend |
+| RSI | 40.0 |
+| MACD | -0.11 |
 | MA20 | 3.54 |
 | MA200 | 4.52 |
-| ATR | 0.02 |
+| ATR | 0.03 |
 | Risk | LOW |
-| Stop Loss | 3.37 |
-| Target | 3.44 |
+| Stop Loss | 3.46 |
+| Target | 3.56 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 2 | Rules Failed | 1 |
+| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
 
 ### AHLWEST.NS
 | Metric | Value |
 |--------|-------|
-| Price | 543.5 |
+| Price | 533.15 |
 | Trend | weak_trend |
-| RSI | 48.78 |
-| MACD | 3.44 |
-| MA20 | 535.06 |
-| MA200 | 382.26 |
-| ATR | 19.91 |
+| RSI | 41.74 |
+| MACD | 2.57 |
+| MA20 | 536.46 |
+| MA200 | 384.2 |
+| ATR | 20.84 |
 | Risk | NORMAL |
-| Stop Loss | 513.63 |
-| Target | 583.33 |
+| Stop Loss | 501.9 |
+| Target | 574.82 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44853,16 +44871,16 @@
 ### BURNPUR.NS
 | Metric | Value |
 |--------|-------|
-| Price | 13.01 |
+| Price | 13.1 |
 | Trend | downtrend |
-| RSI | 21.99 |
-| MACD | -1.62 |
-| MA20 | 14.99 |
-| MA200 | 29.41 |
+| RSI | 26.03 |
+| MACD | -1.58 |
+| MA20 | 14.81 |
+| MA200 | 29.31 |
 | ATR | 0.83 |
 | Risk | ELEVATED |
-| Stop Loss | 11.77 |
-| Target | 14.67 |
+| Stop Loss | 11.86 |
+| Target | 14.76 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44874,9 +44892,9 @@
 | Price | 42.0 |
 | Trend | downtrend |
 | RSI | 0.0 |
-| MACD | -1.52 |
-| MA20 | 44.85 |
-| MA200 | 68.92 |
+| MACD | -1.54 |
+| MA20 | 44.51 |
+| MA200 | 67.73 |
 | ATR | 0.25 |
 | Risk | LOW |
 | Stop Loss | 41.63 |
@@ -44884,21 +44902,21 @@
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### DSKULKARNI.NS
 | Metric | Value |
 |--------|-------|
-| Price | 29.34 |
+| Price | 29.92 |
 | Trend | weak_trend |
 | RSI | 100.0 |
-| MACD | 2.62 |
-| MA20 | 24.77 |
-| MA200 | 14.96 |
-| ATR | 0.44 |
+| MACD | 2.69 |
+| MA20 | 25.21 |
+| MA200 | 15.04 |
+| ATR | 0.48 |
 | Risk | LOW |
-| Stop Loss | 28.68 |
-| Target | 30.22 |
+| Stop Loss | 29.2 |
+| Target | 30.89 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
@@ -44907,20 +44925,20 @@
 ### MBECL.NS
 | Metric | Value |
 |--------|-------|
-| Price | 455.6 |
+| Price | 446.5 |
 | Trend | weak_trend |
-| RSI | 63.01 |
-| MACD | 65.41 |
-| MA20 | 440.75 |
-| MA200 | 111.0 |
-| ATR | 10.04 |
+| RSI | 56.26 |
+| MACD | 59.59 |
+| MA20 | 446.55 |
+| MA200 | 112.9 |
+| ATR | 10.08 |
 | Risk | NORMAL |
-| Stop Loss | 440.55 |
-| Target | 475.67 |
+| Stop Loss | 431.38 |
+| Target | 466.67 |
 | R:R Ratio | 1.33 |
 | Confidence | 40% |
 
-| Confidence | 40% | Rules Passed | 1 | Rules Failed | 2 |
+| Confidence | 40% | Rules Passed | 0 | Rules Failed | 3 |
 
 ### MCX.NS
 | Metric | Value |
